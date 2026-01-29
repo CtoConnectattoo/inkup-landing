@@ -94,9 +94,12 @@ export default function BlogPage() {
 
           {/* Regular Articles Grid */}
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {regularPosts.map((post) => (
-              <Link key={post.slug} href={`/blog/${post.slug}`} className="group">
-                <article className="border rounded-xl overflow-hidden hover:shadow-md transition-shadow h-full flex flex-col">
+            {regularPosts.map((post) => {
+              const postExcerpt = post.excerpt ?? post.description
+
+              return (
+                <Link key={post.slug} href={`/blog/${post.slug}`} className="group">
+                  <article className="border rounded-xl overflow-hidden hover:shadow-md transition-shadow h-full flex flex-col">
                   <div className="relative h-48 w-full">
                    <Image
  src={post.image ?? "/blog/automatizar-whatsapp.png"}
@@ -123,7 +126,7 @@ export default function BlogPage() {
                     <h2 className="text-xl font-bold mb-3 group-hover:text-purple-600 transition-colors">
                       {post.title}
                     </h2>
-                    <p className="text-muted-foreground text-sm mb-4 flex-grow">{post.excerpt}</p>
+                    <p className="text-muted-foreground text-sm mb-4 flex-grow">{postExcerpt}</p>
                     <div className="flex items-center justify-between mt-auto">
                       <div className="flex items-center gap-2 text-sm">
                         <User className="w-4 h-4" />
@@ -134,9 +137,10 @@ export default function BlogPage() {
                       </Button>
                     </div>
                   </div>
-                </article>
-              </Link>
-            ))}
+                  </article>
+                </Link>
+              )
+            })}
           </div>
         </section>
 

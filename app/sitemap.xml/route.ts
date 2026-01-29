@@ -1,14 +1,25 @@
 import { NextResponse } from "next/server"
+import blogPosts from "@/data/posts.json"
 
 export async function GET() {
-  // URL base del sitio
   const baseUrl = "https://inkup.io"
+  const fallbackLastmod = new Date().toISOString()
+  const changefreq = {
+    home: "daily",
+    solutions: "weekly",
+    primary: "weekly",
+    blog: "monthly",
+    default: "weekly",
+  }
+  const priority = {
+    home: "1.0",
+    solutions: "0.9",
+    primary: "0.9",
+    blog: "0.7",
+    default: "0.8",
+  }
 
-  // Fecha actual para lastmod
-  const date = new Date().toISOString()
-
-  // Lista de todas las rutas del sitio
-  const routes = [
+  const staticRoutes = [
     "",
     "/precios",
     "/confian",
@@ -29,27 +40,53 @@ export async function GET() {
     "/como-hacer-un-formulario-en-whatsapp",
     "/asistente-whatsapp",
     "/blog",
-    "/blog/automatizacion-consultas-ia",
   ]
 
-  // Generar el XML
+  const blogRoutes = blogPosts.map((post) => {
+    if (!post.slug) {
+      throw new Error("Missing blog post slug in posts.json")
+    }
+
+    return `/blog/${post.slug}`
+  })
+
+  const routes = [...staticRoutes, ...blogRoutes]
+
+  const resolveLastmod = (route: string) => {
+    if (!route.startsWith("/blog/")) {
+      return fallbackLastmod
+    }
+
+    const slug = route.replace("/blog/", "")
+    const blogPost = blogPosts.find((post) => post.slug === slug)
+    if (!blogPost?.publishedAt) {
+      return fallbackLastmod
+    }
+
+    const parsedDate = new Date(blogPost.publishedAt)
+    if (Number.isNaN(parsedDate.getTime())) {
+      return fallbackLastmod
+    }
+
+    return parsedDate.toISOString()
+  }
+
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   ${routes
     .map((route) => {
-      // Definir prioridades según el tipo de página
-      let priority = "0.8"
-      let changefreq = "weekly"
+      let routePriority = priority.default
+      let routeChangefreq = changefreq.default
 
       if (route === "") {
-        priority = "1.0"
-        changefreq = "daily"
+        routePriority = priority.home
+        routeChangefreq = changefreq.home
       } else if (route.startsWith("/blog")) {
-        priority = "0.7"
-        changefreq = "monthly"
+        routePriority = priority.blog
+        routeChangefreq = changefreq.blog
       } else if (route.startsWith("/soluciones")) {
-        priority = "0.9"
-        changefreq = "weekly"
+        routePriority = priority.solutions
+        routeChangefreq = changefreq.solutions
       } else if (
         [
           "/precios",
@@ -58,16 +95,16 @@ export async function GET() {
           "/asistente-whatsapp",
         ].includes(route)
       ) {
-        priority = "0.9"
-        changefreq = "weekly"
+        routePriority = priority.primary
+        routeChangefreq = changefreq.primary
       }
 
       return `
   <url>
     <loc>${baseUrl}${route}</loc>
-    <lastmod>${date}</lastmod>
-    <changefreq>${changefreq}</changefreq>
-    <priority>${priority}</priority>
+    <lastmod>${resolveLastmod(route)}</lastmod>
+    <changefreq>${routeChangefreq}</changefreq>
+    <priority>${routePriority}</priority>
   </url>`
     })
     .join("")}

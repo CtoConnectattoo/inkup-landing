@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "maria-hidalgo",
+    "name": "María Hidalgo",
+    "type": "Person",
+    "role": "Directora de Marketing y cofundadora",
+    "bio": "CMO y cofundadora de Inkup, con enfoque en marketing estrategico, construccion de marca y crecimiento en startups tecnologicas.",
+    "experience": "Lidera la estrategia de mercado y expansion de Inkup, con experiencia en comunicacion, mentoring de emprendedores y participacion activa en el ecosistema startup.",
+    "image": "/authors/maria-hidalgo.png",
+    "links": []
+  },
+  {
+    "slug": "carlos-nunez",
+    "name": "Carlos Núñez",
+    "type": "Person",
+    "role": "Experto en mejora de procesos y cofundador",
+    "bio": "Emprendedor y cofundador de Inkup, con experiencia en gestion de startups, innovacion y tecnologia aplicada a servicios digitales.",
+    "experience": "Ha desarrollado proyectos alineados con la digitalizacion y el uso de IA para optimizar procesos y experiencias, combinando estrategia de producto, crecimiento y liderazgo de equipos.",
+    "image": "/authors/carlos-nunez.png",
+    "links": []
+  }
+]

@@ -3,24 +3,176 @@ import Link from "next/link"
 import { ArrowRight, Clock, User, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Header } from "@/components/header"
+import { Footer } from "@/components/footer"
 import { ReadingProgress } from "@/components/reading-progress"
+import { QuickAnswer } from "@/components/quick-answer"
+import { ShareButtons } from "@/components/share-buttons"
+import { TableOfContents } from "@/components/table-of-contents"
+import { BlogCta } from "@/components/blog-cta"
+import { AuthorCard } from "@/components/author-card"
 import postsData from "@/data/posts.json"
+import authorsData from "@/data/authors.json"
 import FaqSectionBlog from "@/components/faq-section-blog"
+
+interface BlogSource {
+  label: string
+  url: string
+  date: string
+}
+
+interface HowToStep {
+  name: string
+  text: string
+}
+
+interface HowToData {
+  name: string
+  totalTimeMinutes: number
+  tools: string[]
+  steps: HowToStep[]
+}
 
 interface BlogPost {
   slug: string
   title: string
   description: string
+  excerpt?: string
   image: string
   author: string
+  authorSlug?: string
   publishedAt: string
   readingTime: string
   content: string
+  quickAnswer?: string[]
+  oneLineDefinition?: string
+  sections?: string[]
+  sources?: BlogSource[]
+  howTo?: HowToData
   faq?: { question: string; answer: string }[]
+  tags?: string[]
+}
+
+type AuthorProfile = {
+  slug: string
+  name: string
+  type: string
+  role?: string
+  bio?: string
+  experience?: string
+  links?: { label: string; url: string }[]
+  image?: string
+}
+
+type AuthorDisplay = {
+  name: string
+  role?: string
+  bio?: string
+  experience?: string
+  links?: { label: string; url: string }[]
+  image?: string
 }
 
 interface PageProps {
   params: { slug: string }
+}
+
+type TocItem = {
+  id: string
+  title: string
+  level: 2 | 3
+}
+
+const MAX_RELATED_POSTS = 2
+const RELATED_EXCERPT_LENGTH = 120
+
+const typedAuthors = authorsData as AuthorProfile[]
+
+const stripHtmlTags = (rawHtml: string) => rawHtml.replace(/<[^>]*>/g, " ")
+
+const slugifyHeading = (headingText: string) => {
+  const normalizedText = headingText
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-")
+
+  return normalizedText
+}
+
+const buildContentWithToc = (htmlContent: string) => {
+  console.assert(typeof htmlContent === "string", "Blog post content should be a string.")
+
+  if (!htmlContent) {
+    return { contentWithAnchors: "", tocItems: [] as TocItem[] }
+  }
+
+  const headingRegex = /<h([23])([^>]*)>([\s\S]*?)<\/h\1>/gi
+  const tocItems: TocItem[] = []
+  const slugCounts = new Map<string, number>()
+
+  const contentWithAnchors = htmlContent.replace(headingRegex, (fullMatch, levelText, attributes, innerHtml) => {
+    const headingText = stripHtmlTags(innerHtml).replace(/\s+/g, " ").trim()
+    if (!headingText) {
+      return fullMatch
+    }
+
+    const existingIdMatch = String(attributes).match(/id="([^"]+)"/i)
+    const baseId = existingIdMatch?.[1] || slugifyHeading(headingText)
+    if (!baseId) {
+      return fullMatch
+    }
+
+    const currentCount = slugCounts.get(baseId) ?? 0
+    const nextCount = currentCount + 1
+    slugCounts.set(baseId, nextCount)
+    const uniqueId = nextCount > 1 ? `${baseId}-${nextCount}` : baseId
+
+    tocItems.push({
+      id: uniqueId,
+      title: headingText,
+      level: Number.parseInt(levelText, 10) as 2 | 3,
+    })
+
+    const hasIdAttribute = /id="[^"]+"/i.test(String(attributes))
+    const nextAttributes = hasIdAttribute ? attributes : `${attributes} id="${uniqueId}"`
+
+    return `<h${levelText}${nextAttributes}>${innerHtml}</h${levelText}>`
+  })
+
+  return { contentWithAnchors, tocItems }
+}
+
+const getRelatedPosts = (currentPost: BlogPost, allPosts: BlogPost[]) => {
+  console.assert(Array.isArray(allPosts), "postsData should be an array.")
+
+  const currentTags = new Set(currentPost.tags ?? [])
+  const relatedByTags = allPosts.filter(
+    (candidate) => candidate.slug !== currentPost.slug && candidate.tags?.some((tag) => currentTags.has(tag))
+  )
+
+  const fallbackPosts = [...allPosts]
+    .filter((candidate) => candidate.slug !== currentPost.slug)
+    .sort((firstPost, secondPost) => new Date(secondPost.publishedAt).getTime() - new Date(firstPost.publishedAt).getTime())
+
+  const uniquePosts: BlogPost[] = []
+  const seenSlugs = new Set<string>()
+
+  for (const candidate of [...relatedByTags, ...fallbackPosts]) {
+    if (seenSlugs.has(candidate.slug)) {
+      continue
+    }
+
+    seenSlugs.add(candidate.slug)
+    uniquePosts.push(candidate)
+
+    if (uniquePosts.length >= MAX_RELATED_POSTS) {
+      break
+    }
+  }
+
+  return uniquePosts
 }
 
 async function getPost(slug: string): Promise<BlogPost | null> {
@@ -77,17 +229,46 @@ export async function generateMetadata({ params }: PageProps) {
 }
 
 function StructuredData({ post }: { post: BlogPost }) {
+  const DEFAULT_READING_TIME_MINUTES = 5
+
+  const authorData = post.authorSlug
+    ? authorsData.find((author) => author.slug === post.authorSlug)
+    : null
+
+  const normalizeReadingTime = (readingTime: string) => {
+    const minutesMatch = readingTime.match(/\d+/)
+    const minutesValue = minutesMatch ? Number.parseInt(minutesMatch[0], 10) : DEFAULT_READING_TIME_MINUTES
+    const safeMinutes = Number.isNaN(minutesValue) ? DEFAULT_READING_TIME_MINUTES : minutesValue
+
+    return `PT${safeMinutes}M`
+  }
+
+  const countWords = (htmlContent: string) => {
+    const textContent = htmlContent.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim()
+    if (!textContent) {
+      return 0
+    }
+
+    return textContent.split(" ").length
+  }
+
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     headline: post.title,
     description: post.description,
     image: `https://inkup.io${post.image}`,
-    author: {
-      "@type": "Organization",
-      name: post.author,
-      url: "https://inkup.io",
-    },
+    author: authorData
+      ? {
+          "@type": authorData.type,
+          name: authorData.name,
+          url: `https://inkup.io/autores/${authorData.slug}`,
+        }
+      : {
+          "@type": "Organization",
+          name: post.author,
+          url: "https://inkup.io",
+        },
     publisher: {
       "@type": "Organization",
       name: "Inkup",
@@ -103,18 +284,63 @@ function StructuredData({ post }: { post: BlogPost }) {
       "@id": `https://inkup.io/blog/${post.slug}`,
     },
     url: `https://inkup.io/blog/${post.slug}`,
-    wordCount: post.content.replace(/<[^>]*>/g, "").split(" ").length,
-    timeRequired: post.readingTime,
+    wordCount: countWords(post.content),
+    timeRequired: normalizeReadingTime(post.readingTime),
     articleSection: "Business Automation",
     inLanguage: "es-ES",
   }
 
-  return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
+  const faqStructuredData = post.faq?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: post.faq.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        })),
+      }
+    : null
+
+  const howToStructuredData = post.howTo?.steps?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        name: post.howTo.name,
+        totalTime: `PT${post.howTo.totalTimeMinutes}M`,
+        tool: post.howTo.tools.map((tool) => ({
+          "@type": "HowToTool",
+          name: tool,
+        })),
+        step: post.howTo.steps.map((step, index) => ({
+          "@type": "HowToStep",
+          position: index + 1,
+          name: step.name,
+          text: step.text,
+        })),
+      }
+    : null
+
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
+      {faqStructuredData && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqStructuredData) }} />
+      )}
+      {howToStructuredData && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howToStructuredData) }} />
+      )}
+    </>
+  )
 }
 
 export default async function BlogPost({ params }: PageProps) {
   const { slug } = params
   const post = await getPost(slug)
+  const authorData = post?.authorSlug ? typedAuthors.find((author) => author.slug === post.authorSlug) : null
 
   if (!post) {
     return (
@@ -146,6 +372,20 @@ export default async function BlogPost({ params }: PageProps) {
       </>
     )
   }
+
+  const { contentWithAnchors, tocItems } = buildContentWithToc(post.content)
+  const relatedPosts = getRelatedPosts(post, postsData)
+  const canonicalUrl = `https://inkup.io/blog/${post.slug}`
+  const authorProfile: AuthorDisplay = authorData
+    ? {
+        name: authorData.name,
+        role: authorData.role,
+        bio: authorData.bio,
+        experience: authorData.experience,
+        links: authorData.links,
+        image: authorData.image,
+      }
+    : { name: post.author }
 
   return (
     <>
@@ -186,11 +426,22 @@ export default async function BlogPost({ params }: PageProps) {
           {/* Hero Section */}
           <section className="container mx-auto px-4 py-8 md:py-12">
             <div className="max-w-4xl mx-auto text-center">
+              {/* Title */}
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-8 leading-tight text-black max-w-4xl mx-auto">
+                {post.title}
+              </h1>
+
               {/* Article Meta */}
-              <div className="flex items-center justify-center gap-6 mb-8 text-sm text-gray-600">
+              <div className="flex flex-wrap items-center justify-center gap-6 mb-12 text-sm text-gray-600">
                 <div className="flex items-center gap-2">
                   <User className="w-4 h-4" />
-                  <span>{post.author}</span>
+                  {authorData ? (
+                    <Link href={`/autores/${authorData.slug}`} className="hover:text-purple-600 transition-colors">
+                      {post.author}
+                    </Link>
+                  ) : (
+                    <span>{post.author}</span>
+                  )}
                 </div>
                 <div className="flex items-center gap-2">
                   <Clock className="w-4 h-4" />
@@ -204,16 +455,6 @@ export default async function BlogPost({ params }: PageProps) {
                   })}
                 </time>
               </div>
-
-              {/* Title */}
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-8 leading-tight text-black max-w-4xl mx-auto">
-                {post.title}
-              </h1>
-
-              {/* Description */}
-              <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
-                {post.description}
-              </p>
             </div>
           </section>
 
@@ -235,38 +476,59 @@ export default async function BlogPost({ params }: PageProps) {
 
           {/* Content */}
           <section className="container mx-auto px-4 mb-20">
-            <div className="max-w-4xl mx-auto">
-              <article className="prose prose-xl max-w-none">
-                {typeof post.content === "string" && (
-                  <div className="blog-content" dangerouslySetInnerHTML={{ __html: post.content }} />
-                )}
+            <div className="max-w-6xl mx-auto lg:grid lg:grid-cols-[minmax(0,1fr)_260px] lg:gap-10">
+              <div>
+                <article className="prose prose-xl max-w-none">
+                  <div className="lg:hidden">
+                    <ShareButtons title={post.title} shareUrl={canonicalUrl} />
+                  </div>
+                  {post.quickAnswer && post.oneLineDefinition && (
+                    <QuickAnswer summaryBullets={post.quickAnswer} oneLineDefinition={post.oneLineDefinition} />
+                  )}
+                  {typeof contentWithAnchors === "string" && (
+                    <div className="blog-content" dangerouslySetInnerHTML={{ __html: contentWithAnchors }} />
+                  )}
 
-                {post.faq && post.faq.length > 0 && <FaqSectionBlog items={post.faq} />}
-              </article>
+                  {post.faq && post.faq.length > 0 && <FaqSectionBlog items={post.faq} />}
+
+                  {post.sources && post.sources.length > 0 && (
+                    <section className="mt-12">
+                      <h2 className="text-2xl font-bold mb-4">Fuentes</h2>
+                      <ul className="space-y-2">
+                        {post.sources.map((source) => (
+                          <li key={source.url} className="text-base text-gray-700">
+                            <a href={source.url} target="_blank" rel="noopener noreferrer" className="text-purple-700 hover:text-purple-900">
+                              {source.label}
+                            </a>
+                            <span className="text-gray-500"> — {source.date}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </section>
+                  )}
+                </article>
+                <AuthorCard
+                  name={authorProfile.name}
+                  image={authorProfile.image}
+                  role={authorProfile.role}
+                  bio={authorProfile.bio}
+                  experience={authorProfile.experience}
+                  links={authorProfile.links}
+                />
+              </div>
+              <aside className="hidden lg:block">
+                <div className="sticky top-24 space-y-6">
+                  <TableOfContents items={tocItems} />
+                  <ShareButtons title={post.title} shareUrl={canonicalUrl} />
+                </div>
+              </aside>
             </div>
           </section>
 
           {/* CTA Section */}
           <section className="container mx-auto px-4 py-16 md:py-20 mb-20">
             <div className="max-w-4xl mx-auto">
-              <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-3xl p-8 md:p-12 text-center border border-purple-100">
-                <h2 className="text-3xl md:text-4xl font-bold mb-6 text-black">
-                  ¿Listo para automatizar tus consultas?
-                </h2>
-                <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-                  Únete a más de 5000 artistas que ya confían en Inkup para hacer crecer su negocio y automatizar su
-                  atención al cliente
-                </p>
-                <Button
-                  size="lg"
-                  className="h-16 px-10 text-xl bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white border-0 rounded-full shadow-xl hover:shadow-2xl transition-all duration-300"
-                  asChild
-                >
-                  <Link href="https://hi.inkup.io/auth/signup" target="_blank" rel="noopener noreferrer">
-                    Prueba Inkup gratis <ArrowRight className="ml-3" />
-                  </Link>
-                </Button>
-              </div>
+              <BlogCta />
             </div>
           </section>
 
@@ -275,10 +537,7 @@ export default async function BlogPost({ params }: PageProps) {
             <div className="max-w-4xl mx-auto">
               <h3 className="text-3xl font-bold mb-12 text-center text-black">Más artículos del blog</h3>
               <div className="grid md:grid-cols-2 gap-8">
-                {postsData
-                  .filter((relatedPost: BlogPost) => relatedPost.slug !== post.slug)
-                  .slice(0, 2)
-                  .map((relatedPost: BlogPost) => (
+                {relatedPosts.map((relatedPost: BlogPost) => (
                     <Link key={relatedPost.slug} href={`/blog/${relatedPost.slug}`} className="group block">
                       <article className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100">
                         <div className="relative h-48 overflow-hidden">
@@ -295,7 +554,7 @@ export default async function BlogPost({ params }: PageProps) {
                             {relatedPost.title}
                           </h4>
                           <p className="text-gray-600 text-sm mb-4 leading-relaxed">
-                            {relatedPost.description.substring(0, 120)}...
+                            {relatedPost.description.substring(0, RELATED_EXCERPT_LENGTH)}...
                           </p>
                           <div className="flex items-center gap-4 text-xs text-gray-500">
                             <span>{relatedPost.readingTime}</span>
@@ -313,23 +572,7 @@ export default async function BlogPost({ params }: PageProps) {
           </section>
         </main>
 
-        {/* Footer */}
-        <footer className="border-t border-gray-200 bg-gray-50">
-          <div className="container mx-auto px-4 py-12">
-            <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-              <div className="flex items-center gap-3">
-                <Image
-                  src="/images/design-mode/inkup%20logo%20png%281%29%281%29%281%29%281%29%281%29(1).png"
-                  alt="Inkup Logo"
-                  width={40}
-                  height={40}
-                />
-                <span className="font-bold text-xl text-black">Inkup</span>
-              </div>
-              <div className="text-sm text-gray-600">© 2024 Inkup. Todos los derechos reservados.</div>
-            </div>
-          </div>
-        </footer>
+        <Footer />
       </div>
     </>
   )
