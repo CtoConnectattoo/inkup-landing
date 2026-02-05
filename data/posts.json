@@ -2,6 +2,10 @@
   {
     "slug": "automatizar-whatsapp",
     "title": "Automatizar WhatsApp: Guía definitiva 2025 para negocios locales",
+    "briefId": "S101",
+    "briefType": "satelite",
+    "clusterId": "1",
+    "priority": "P2",
     "description": "¿Quieres responder en WhatsApp 24/7 y multiplicar tus ventas? Descubre cómo automatizar WhatsApp para pymes y negocios locales con Inkup.io.",
     "excerpt": "Guía 2025 para automatizar WhatsApp en negocios locales con respuestas 24/7 y filtrado de leads.",
     "image": "/blog/automatizar-whatsapp.png",
@@ -10,6 +14,81 @@
     "publishedAt": "2025-07-28",
     "readingTime": "5 min",
     "tags": ["whatsapp", "automatizacion", "negocios-locales", "ventas", "seo-local"],
+    "dominantIntent": "El usuario quiere automatizar WhatsApp para responder 24/7, filtrar consultas y convertir mas ventas.",
+    "idealCustomerProfile": "Negocio local o pyme que usa WhatsApp para atender clientes y cerrar ventas.",
+    "buyerJourneyStage": "solucion",
+    "operationalPainPoints": [
+      "Respondes tarde y pierdes clientes",
+      "Repites las mismas respuestas cada dia",
+      "No filtras consultas antes de invertir tiempo"
+    ],
+    "desiredOutcome": "Responder 24/7 con contexto y convertir mas consultas en ventas.",
+    "inkupConnection": "Inkup permite crear un asistente que responde FAQs, recoge datos y deriva solo lo importante.",
+    "directAnswerSnippet": "Automatizar WhatsApp es usar un asistente virtual para responder, cualificar y gestionar consultas de clientes de forma inmediata y continua.",
+    "citableBlock": {
+      "type": "checklist",
+      "title": "Beneficios clave de automatizar WhatsApp",
+      "items": [
+        "Respuestas inmediatas 24/7",
+        "Califica leads automaticamente",
+        "Reduce carga de trabajo",
+        "Imagen mas profesional",
+        "Mas conversiones",
+        "Integracion con otras herramientas"
+      ]
+    },
+    "internalLinks": {
+      "parent": "gestion-consultas-clientes",
+      "siblings": ["automatizar-recogida-datos-whatsapp-negocios-locales", "atender-clientes-sin-perder-mensajes"],
+      "nextStep": "agendar-cita-de-manera-automatica",
+      "authoritativeLinksOut": []
+    },
+    "faqTargets": [
+      "Funciona con WhatsApp Business?",
+      "Necesito saber programar?",
+      "Puedo personalizar las respuestas?",
+      "Que pasa si el cliente necesita hablar con una persona?",
+      "Cuanto tarda en implementarse?",
+      "Que datos recoge el asistente?",
+      "Como mejora el SEO local?",
+      "Que errores comunes debo evitar?"
+    ],
+    "contextBlock": {
+      "description": [
+        "Te escriben por WhatsApp fuera de horario y respondes tarde",
+        "Pierdes oportunidades por no contestar a tiempo",
+        "Necesitas filtrar consultas antes de invertir tiempo"
+      ]
+    },
+    "checklistBlock": {
+      "steps": ["Crear cuenta", "Configurar asistente", "Conectar WhatsApp"]
+    },
+    "errorsBlock": {
+      "items": [
+        {
+          "error": "No revisar los leads cualificados",
+          "reason": "Se pueden perder oportunidades",
+          "fix": "Revisar periodicamente los leads filtrados"
+        },
+        {
+          "error": "No actualizar informacion",
+          "reason": "Cambian precios, horarios o servicios",
+          "fix": "Actualizar respuestas cuando cambien los datos"
+        },
+        {
+          "error": "Usar herramientas complejas",
+          "reason": "Aumenta friccion y dificulta la implementacion",
+          "fix": "Elegir soluciones simples y plug & play"
+        }
+      ]
+    },
+    "miniWhenNoBlock": {
+      "bullets": [
+        "Si no recibes consultas por WhatsApp",
+        "Si respondes siempre al instante y no hay retrasos",
+        "Si no quieres automatizar respuestas repetitivas"
+      ]
+    },
     "quickAnswer": [
       "Automatizar WhatsApp permite responder 24/7, filtrar clientes y convertir mas consultas en ventas.",
       "Reduce carga de trabajo y mejora la imagen profesional con respuestas inmediatas y consistentes.",
@@ -70,6 +149,10 @@
   {
   "slug": "automatizar-recogida-datos-whatsapp-negocios-locales",
   "title": "Automatizar la recogida de datos con WhatsApp: Guía 2025 para negocios locales",
+  "briefId": "S102",
+  "briefType": "satelite",
+  "clusterId": "1",
+  "priority": "P2",
   "description": "Descubre cómo los chatbots de WhatsApp permiten a los negocios locales automatizar la recopilación de datos, ofrecer atención 24/7 y mejorar su SEO local. Una guía completa para 2025 que prioriza el valor al usuario.",
   "excerpt": "Guía 2025 para automatizar la recogida de datos con WhatsApp, mejorar el SEO local y atender consultas 24/7.",
   "image": "/blog/automatizar-whatsapp.png",
@@ -78,6 +161,88 @@
   "publishedAt": "2025-07-29",
   "readingTime": "12 min",
   "tags": ["whatsapp", "automatizacion", "recogida-datos", "seo-local", "negocios-locales"],
+  "dominantIntent": "El usuario quiere automatizar la recogida de datos en WhatsApp para atender 24/7 y calificar leads.",
+  "idealCustomerProfile": "Negocio local que recibe consultas por mensajeria y necesita recopilar datos antes de responder.",
+  "buyerJourneyStage": "solucion",
+  "operationalPainPoints": [
+    "Gestion manual de consultas inviable",
+    "Respuestas lentas por falta de informacion",
+    "Datos dispersos sin centralizar"
+  ],
+  "desiredOutcome": "Recoger informacion clave y centralizarla para responder rapido.",
+  "inkupConnection": "Inkup permite configurar un asistente que recoge datos y centraliza la informacion antes del cierre.",
+  "directAnswerSnippet": "Automatizar la recogida de datos en WhatsApp es usar un chatbot para captar informacion clave y gestionar consultas de forma continua.",
+  "citableBlock": {
+    "type": "checklist",
+    "title": "Beneficios de automatizar la recogida de datos",
+    "items": [
+      "Disponibilidad 24/7",
+      "Gestion de consultas simultaneas",
+      "Mejora de la relacion con el cliente",
+      "Mayor alcance en canales",
+      "Analisis de datos",
+      "Reduccion de costes"
+    ]
+  },
+  "internalLinks": {
+    "parent": "gestion-consultas-clientes",
+    "siblings": ["automatizar-whatsapp", "atender-clientes-sin-perder-mensajes"],
+    "nextStep": "agendar-cita-de-manera-automatica",
+    "authoritativeLinksOut": []
+  },
+  "faqTargets": [
+    "Que es un chatbot de WhatsApp?",
+    "Como ayuda un chatbot a recopilar datos de mis clientes?",
+    "Necesito saber programar para crear un asistente?",
+    "Como protege los datos de mis clientes un asistente automatizado?",
+    "Que datos deberia pedir siempre?",
+    "Como integro el bot con mi CRM o agenda?",
+    "Como evito pedir demasiada informacion?",
+    "Que errores debo evitar al automatizar?"
+  ],
+  "contextBlock": {
+    "description": [
+      "La gestion manual de conversaciones es inviable",
+      "Necesitas responder al instante y recoger informacion clave",
+      "Buscas centralizar datos y mejorar conversiones"
+    ]
+  },
+  "checklistBlock": {
+    "steps": [
+      "Definir objetivos",
+      "Conseguir acceso",
+      "Elegir plataforma",
+      "Disenar el flujo",
+      "Integrar sistemas",
+      "Probar y optimizar"
+    ]
+  },
+  "errorsBlock": {
+    "items": [
+      {
+        "error": "No informar que es un asistente",
+        "reason": "Reduce transparencia y confianza",
+        "fix": "Explicar al usuario el uso del asistente"
+      },
+      {
+        "error": "Pedir datos innecesarios",
+        "reason": "Aumenta friccion y abandono",
+        "fix": "Solicitar solo la informacion necesaria"
+      },
+      {
+        "error": "No cuidar privacidad",
+        "reason": "Riesgo legal y de reputacion",
+        "fix": "Cumplir normativa y proteger datos"
+      }
+    ]
+  },
+  "miniWhenNoBlock": {
+    "bullets": [
+      "Si no necesitas recopilar datos antes de responder",
+      "Si el volumen de consultas es muy bajo",
+      "Si no puedes garantizar privacidad y seguridad"
+    ]
+  },
   "quickAnswer": [
     "Automatizar la recogida de datos con WhatsApp permite atender 24/7 y calificar leads con informacion clave.",
     "Un chatbot recopila preferencias, reduce tiempos de respuesta y mejora la experiencia del cliente.",
@@ -151,6 +316,10 @@
 {
   "slug": "atender-clientes-sin-perder-mensajes",
   "title": "¿Cómo atender a todos los clientes sin perder mensajes? Guía 2025",
+  "briefId": "S103",
+  "briefType": "satelite",
+  "clusterId": "1",
+  "priority": "P2",
   "description": "Descubre cómo centralizar, filtrar y automatizar tus consultas para no perder mensajes de clientes, con comparativa real y ejemplos prácticos para 2025.",
   "excerpt": "Guía 2025 para centralizar consultas, filtrar mensajes y automatizar respuestas sin perder clientes.",
   "image": "/blog/atender-clientes-sin-perder-mensajes.jpg",
@@ -159,6 +328,81 @@
   "publishedAt": "2025-08-11",
   "readingTime": "5 min",
   "tags": ["gestion-consultas", "whatsapp", "instagram", "automatizacion", "clientes"],
+  "dominantIntent": "El usuario quiere atender consultas sin perder mensajes centralizando, filtrando y automatizando.",
+  "idealCustomerProfile": "Profesional o negocio local con consultas en varios canales.",
+  "buyerJourneyStage": "problema",
+  "operationalPainPoints": [
+    "Mensajes que se pierden entre canales",
+    "Respuestas lentas y sin contexto",
+    "Estres por desorden operativo"
+  ],
+  "desiredOutcome": "No perder oportunidades y responder con contexto.",
+  "inkupConnection": "Inkup combina formulario conversacional, filtrado automatico y salida a WhatsApp con contexto.",
+  "directAnswerSnippet": "Gestionar consultas es ordenar mensajes entrantes para responder con contexto y cerrar mas oportunidades.",
+  "citableBlock": {
+    "type": "table",
+    "title": "Opciones de entrada y SEO",
+    "table": {
+      "columns": ["Opcion", "Posiciona"],
+      "rows": [
+        ["WhatsApp directo", "No"],
+        ["Google Forms / Typeform", "No"],
+        ["Asistentes indexables", "Si"]
+      ]
+    }
+  },
+  "internalLinks": {
+    "parent": "gestion-consultas-clientes",
+    "siblings": ["automatizar-whatsapp", "automatizar-recogida-datos-whatsapp-negocios-locales"],
+    "nextStep": "agendar-cita-de-manera-automatica",
+    "authoritativeLinksOut": []
+  },
+  "faqTargets": [
+    "Como puedo atender a todos los clientes si trabajo solo?",
+    "Cual es el canal mas eficaz?",
+    "Como evito perder mensajes en Instagram?",
+    "Que herramienta me da mejor relacion calidad-precio?",
+    "Es posible atender 24/7 sin contratar a nadie?",
+    "Como centralizo todos los mensajes?",
+    "Como reduzco mensajes repetitivos?",
+    "Que errores debo evitar al centralizar?"
+  ],
+  "contextBlock": {
+    "description": [
+      "Mensajes llegan por WhatsApp, Instagram y email al mismo tiempo",
+      "Respondes uno y cuando vuelves al otro ya se perdio",
+      "No hay un punto de entrada unico"
+    ]
+  },
+  "checklistBlock": {
+    "steps": ["Centralizar", "Filtrar", "Automatizar"]
+  },
+  "errorsBlock": {
+    "items": [
+      {
+        "error": "Responder sin punto de entrada unico",
+        "reason": "Se pierde el contexto entre canales",
+        "fix": "Definir un enlace unico de entrada"
+      },
+      {
+        "error": "No filtrar antes de responder",
+        "reason": "Aumenta el tiempo por conversacion",
+        "fix": "Pedir datos minimos antes de responder"
+      },
+      {
+        "error": "No automatizar preguntas repetitivas",
+        "reason": "Se pierde tiempo en FAQs",
+        "fix": "Responder automaticamente lo basico"
+      }
+    ]
+  },
+  "miniWhenNoBlock": {
+    "bullets": [
+      "Si tienes un solo canal y bajo volumen",
+      "Si respondes al instante y no se pierde contexto",
+      "Si no hay consultas repetitivas"
+    ]
+  },
   "quickAnswer": [
     "El problema no es el volumen de mensajes, es el desorden entre canales.",
     "La solucion es centralizar, filtrar y automatizar con un sistema simple.",
@@ -200,6 +444,10 @@
 {
 "slug": "agendar-cita-de-manera-automatica",
 "title": "Agendar cita de manera automática",
+"briefId": "S104",
+"briefType": "satelite",
+"clusterId": "1",
+"priority": "P2",
 "description": "Aprende cómo agendar citas automáticamente con un enlace y un asistente: disponibilidad en tiempo real, confirmación y recordatorios, sin mensajes manuales.",
 "excerpt": "Automatiza la reserva de citas con un enlace, disponibilidad en tiempo real y recordatorios, sin intercambiar mensajes manuales.",
 "image": "/blog/estrategias-captacion-clientes.png",
@@ -208,6 +456,88 @@
 "publishedAt": "2026-01-23",
 "readingTime": "5 min",
 "tags": ["reservas", "agenda", "automatizacion", "whatsapp", "negocios-locales"],
+"dominantIntent": "El usuario quiere agendar citas automaticamente sin intercambio manual de mensajes.",
+"idealCustomerProfile": "Negocio local de servicios con agenda y consultas por WhatsApp o Instagram.",
+"buyerJourneyStage": "solucion",
+"operationalPainPoints": [
+  "Mensajes sueltos para coordinar citas",
+  "Conversaciones largas para cerrar una fecha",
+  "Errores de agenda y dobles reservas"
+],
+"desiredOutcome": "Reservas confirmadas con disponibilidad real y recordatorios.",
+"inkupConnection": "Inkup permite centralizar reservas y derivar a WhatsApp con contexto.",
+"directAnswerSnippet": "Agendar citas de manera automatica es permitir que el cliente reserve dia y hora por si mismo, sin mensajes manuales.",
+"citableBlock": {
+  "type": "checklist",
+  "title": "Checklist de implementacion",
+  "items": [
+    "Definir servicios y horarios",
+    "Centralizar entrada de clientes",
+    "Configurar formulario con datos necesarios",
+    "Mostrar disponibilidad en tiempo real",
+    "Automatizar confirmaciones y recordatorios",
+    "Mantener la agenda sincronizada"
+  ]
+},
+"internalLinks": {
+  "parent": "gestion-consultas-clientes",
+  "siblings": ["automatizar-whatsapp", "atender-clientes-sin-perder-mensajes"],
+  "nextStep": "automatizar-recogida-datos-whatsapp-negocios-locales",
+  "authoritativeLinksOut": []
+},
+"faqTargets": [
+  "Necesito una app complicada para agendar citas automaticamente?",
+  "Puedo usarlo si recibo mensajes por Instagram y WhatsApp?",
+  "El cliente puede cambiar o cancelar su cita?",
+  "Funciona para cualquier tipo de negocio de servicios?",
+  "Pierdo el trato personal con el cliente?",
+  "Como evito dobles reservas?",
+  "Que datos debo pedir antes de confirmar?",
+  "Que hago si el cliente no responde?"
+],
+"contextBlock": {
+  "description": [
+    "WhatsApp y DMs mezclados con mensajes de reservas",
+    "Conversaciones interminables para cuadrar fecha",
+    "Agenda desordenada y errores"
+  ]
+},
+"checklistBlock": {
+  "steps": [
+    "Definir servicios y horarios",
+    "Centralizar entrada",
+    "Usar formulario guiado",
+    "Mostrar disponibilidad",
+    "Automatizar confirmaciones",
+    "Mantener agenda sincronizada"
+  ]
+},
+"errorsBlock": {
+  "items": [
+    {
+      "error": "Coordinar citas por mensajes sueltos",
+      "reason": "Aumenta errores y perdida de citas",
+      "fix": "Usar un enlace unico con disponibilidad real"
+    },
+    {
+      "error": "No pedir datos minimos antes de confirmar",
+      "reason": "Genera malentendidos y cambios",
+      "fix": "Pedir la informacion necesaria en el formulario"
+    },
+    {
+      "error": "No automatizar recordatorios",
+      "reason": "Aumenta inasistencias",
+      "fix": "Enviar confirmaciones y recordatorios automaticos"
+    }
+  ]
+},
+"miniWhenNoBlock": {
+  "bullets": [
+    "Si no gestionas citas ni reservas",
+    "Si el volumen es demasiado bajo",
+    "Si la agenda es 100% manual sin horarios fijos"
+  ]
+},
  "quickAnswer": [
    "Agendar citas automaticamente elimina el intercambio manual de mensajes.",
    "Un sistema con enlace y asistente muestra disponibilidad en tiempo real.",
@@ -278,6 +608,11 @@
 {
   "slug": "gestion-consultas-clientes",
   "title": "Cómo gestionar consultas de clientes cuando te escriben por WhatsApp e Instagram",
+  "briefId": "P001",
+  "briefType": "pilar",
+  "clusterId": "1",
+  "priority": "P1",
+  "alternateTitle": "Gestionar consultas de clientes sin perder mensajes",
   "description": "Aprende un sistema simple (sin CRM complejo) para organizar, filtrar y priorizar consultas entrantes desde WhatsApp e Instagram, responder con contexto y no perder oportunidades.",
   "excerpt": "Gestionar consultas es convertir mensajes desordenados (WhatsApp, Instagram y otros canales) en un flujo claro: entrada única, datos mínimos, priorización y cierres con contexto.",
   "image": "/blog/atender-clientes-sin-perder-mensajes.jpg",
@@ -286,6 +621,248 @@
   "publishedAt": "2026-01-27",
   "readingTime": "10 min",
   "tags": ["gestion-consultas", "whatsapp", "instagram", "procesos", "automatizacion"],
+  "dominantIntent": "El usuario quiere organizar y filtrar consultas entrantes para responder mejor y cerrar mas rapido.",
+  "idealCustomerProfile": "Negocio local de servicios, dueno/profesional con consultas por WhatsApp e Instagram, sin CRM complejo.",
+  "buyerJourneyStage": "problema",
+  "operationalPainPoints": [
+    "Mensajes que se pierden entre canales",
+    "Respuestas lentas y sin contexto",
+    "Conversaciones largas para cerrar algo simple"
+  ],
+  "desiredOutcome": "Responder con contexto y no perder oportunidades.",
+  "inkupConnection": "Inkup encaja como capa previa: ordena, filtra y estandariza la informacion antes del chat final.",
+  "inkupBoundaries": [
+    "Inkup no es un CRM enterprise.",
+    "No sustituye tu criterio profesional ni tu trato.",
+    "No arregla captacion si no hay demanda.",
+    "Funciona mejor cuando hay volumen y repeticion."
+  ],
+  "directAnswerSnippet": "Gestionar consultas es organizar mensajes entrantes para responder mejor y cerrar mas rapido.",
+  "citableBlock": {
+    "type": "table",
+    "title": "Nivel -> que hacer -> errores comunes",
+    "table": {
+      "columns": ["Nivel", "Que hacer esta semana", "Que NO hacer", "Senal de que ya toca subir"],
+      "rows": [
+        ["Manual ordenado", "Define canal final + 10 respuestas rapidas + horario", "Responder a ratos sin guiar", "10+ consultas/dia o repites lo mismo"],
+        ["Semi-sistematizado", "Crea 3 rutas por intencion + pide 4 datos minimos", "Convertir DM en formulario largo", "20+ consultas/dia o 20 mensajes por cierre"],
+        ["Sistema estructurado", "Punto de entrada unico + flujo por servicio + salida con contexto", "Menus infinitos / pedir de mas", "Se te cae conversion, equipo pequeno, picos"]
+      ]
+    }
+  },
+  "internalLinks": {
+    "parent": null,
+    "siblings": ["atender-clientes-sin-perder-mensajes", "automatizar-whatsapp"],
+    "nextStep": "agendar-cita-de-manera-automatica",
+    "authoritativeLinksOut": []
+  },
+  "definitionBlock": {
+    "definition": "Gestionar consultas es convertir mensajes desordenados en un proceso repetible que permite responder con contexto y cerrar mas rapido.",
+    "not": [
+      "No es implantar un CRM enterprise complejo",
+      "No es automatizarlo todo con IA magica",
+      "No es responder con menus infinitos",
+      "No es pedir datos innecesarios",
+      "No es reemplazar el trato humano"
+    ],
+    "contextSignals": [
+      "Tienes 2 o mas canales activos",
+      "Recibes consultas repetidas",
+      "Respondes a ratos entre trabajo operativo",
+      "Necesitas 3 a 6 datos antes de dar precio o hueco"
+    ]
+  },
+  "diagnosticBlock": {
+    "signalsChecklist": [
+      "Respondes el mismo precio u horarios muchas veces al dia",
+      "Te escriben por DM y saltan a WhatsApp sin contexto",
+      "Conversaciones abiertas con hola o info quedan en el limbo",
+      "Pides datos a trozos y alargas cierres simples",
+      "Te cuesta encontrar zona, fecha o requisitos",
+      "Llegan consultas a horas distintas sin orden",
+      "Respondes tarde y el cliente desaparece",
+      "Das precio sin contexto y hay malentendidos",
+      "Cada persona del equipo contesta distinto",
+      "Las interrupciones bajan tu foco",
+      "Pierdes leads que no encajan",
+      "WhatsApp manda y tu obedeces"
+    ],
+    "operationalCost": [
+      "Tiempo perdido en respuestas repetitivas",
+      "Oportunidades perdidas por tardanza o friccion",
+      "Estres y peor servicio por interrupciones"
+    ],
+    "miniTest": "Si cumples 3 de estas 5: repeticion, perdida de contexto, 20 mensajes por cierre, respuesta tardia, interrupciones, necesitas un sistema."
+  },
+  "mentalModelBlock": {
+    "modelName": "3 niveles de madurez",
+    "items": [
+      "Manual ordenado: canal final definido y respuestas rapidas",
+      "Semi-sistematizado: rutas por intencion y datos minimos",
+      "Sistema estructurado: entrada unica + flujo + salida con contexto"
+    ]
+  },
+  "processBlock": {
+    "steps": [
+      {
+        "title": "Elige tu canal final",
+        "action": "Define donde se cierra la conversacion principal."
+      },
+      {
+        "title": "Define 3 intenciones maximas",
+        "action": "Reduce rutas a informacion, presupuesto y cita."
+      },
+      {
+        "title": "Disena preguntas minimas",
+        "action": "Pide solo los datos que cambian tu respuesta."
+      },
+      {
+        "title": "Crea un primer mensaje guia",
+        "action": "Ofrece rutas claras en el primer contacto."
+      },
+      {
+        "title": "Implementa un punto de entrada unico",
+        "action": "Usa un link que ordene la conversacion desde el inicio."
+      },
+      {
+        "title": "Separa recoger informacion de cerrar",
+        "action": "WhatsApp cierra, el filtro previo ordena."
+      },
+      {
+        "title": "Define reglas de priorizacion",
+        "action": "Distingue urgentes de curiosos con reglas simples."
+      },
+      {
+        "title": "Reduce friccion con microcopy",
+        "action": "Explica por que preguntas en una frase."
+      },
+      {
+        "title": "Estandariza el cierre",
+        "action": "Resume contexto y propone siguiente paso claro."
+      },
+      {
+        "title": "Mide tres metricas",
+        "action": "Entrada a datos minimos, llegada a WhatsApp y cierres."
+      }
+    ]
+  },
+  "errorsBlock": {
+    "items": [
+      {
+        "error": "Menu infinito",
+        "reason": "Confunde y provoca abandono",
+        "fix": "Limitar a 2 o 3 rutas por intencion"
+      },
+      {
+        "error": "Pedir demasiados datos",
+        "reason": "Aumenta friccion y baja conversion",
+        "fix": "Pedir solo lo que cambia la decision"
+      },
+      {
+        "error": "Preguntar sin explicar",
+        "reason": "Genera desconfianza",
+        "fix": "Usar microcopy breve"
+      },
+      {
+        "error": "Dar precio sin contexto",
+        "reason": "Provoca malentendidos",
+        "fix": "Dar rango condicionado a variables"
+      },
+      {
+        "error": "Responder sin proceso",
+        "reason": "El caos manda y se pierde foco",
+        "fix": "Definir reglas y ventanas de respuesta"
+      },
+      {
+        "error": "Mezclar canales sin transicion",
+        "reason": "Se pierde el contexto",
+        "fix": "DM -> link -> WhatsApp con contexto"
+      },
+      {
+        "error": "Convertir el DM en interrogatorio",
+        "reason": "Se percibe frio",
+        "fix": "Usar el DM como puerta, no formulario"
+      },
+      {
+        "error": "No separar info de cita",
+        "reason": "Conversaciones eternas",
+        "fix": "Rutas y cierres distintos"
+      }
+    ]
+  },
+  "whenYesNoBlock": {
+    "whenYes": [
+      "10+ consultas al dia o picos frecuentes",
+      "Repeticion alta de preguntas",
+      "2+ canales de entrada activos",
+      "Respondes tarde y lo notas en cierres",
+      "Necesitas datos minimos para dar precio o hueco",
+      "Equipo pequeno que necesita consistencia"
+    ],
+    "whenNo": [
+      "Volumen muy bajo de consultas",
+      "Ventas 100% unicas y largas",
+      "CRM y proceso ya implantados",
+      "Oferta no esta clara"
+    ],
+    "note": "Esta seccion reduce leads sin fit y aumenta confianza."
+  },
+  "toolkitBlock": {
+    "resources": [
+      {
+        "label": "Diagnostico y coste",
+        "url": "/blog/atender-clientes-sin-perder-mensajes"
+      },
+      {
+        "label": "Responder mas rapido sin equipo",
+        "url": "/blog/automatizar-whatsapp"
+      },
+      {
+        "label": "Organizar sin CRM",
+        "url": "/blog/gestion-consultas-clientes"
+      },
+      {
+        "label": "Plantilla base para cualificar",
+        "url": "/blog/agendar-cita-de-manera-automatica"
+      }
+    ]
+  },
+  "deepFaqTargets": [
+    "Cuantas consultas al dia justifican montar un sistema?",
+    "Que canal deberia ser el final: WhatsApp o email?",
+    "Como evito que me escriban solo precio todo el dia?",
+    "Que datos minimos deberia pedir siempre antes de responder?",
+    "Como priorizo urgentes vs curiosos sin sonar borde?",
+    "Que hago si el cliente no responde a mis preguntas?",
+    "Como paso de Instagram a WhatsApp sin perder el contexto?",
+    "Como reduzco los hola / info que no avanzan?",
+    "Que hago si tengo picos los fines de semana y no doy abasto?",
+    "Cuantas rutas deberia tener mi sistema (opciones del link)?",
+    "Que errores hacen que la automatizacion baje la conversion?",
+    "Como mantengo tono humano aunque use mensajes predefinidos?",
+    "Necesito un CRM para esto o puedo hacerlo ligero?",
+    "Como organizo esto si somos 2-5 personas contestando?",
+    "Que metricas miro para saber si esta funcionando?",
+    "En que casos NO conviene filtrar demasiado al inicio?"
+  ],
+  "faqTargets": [
+    "Cuantas consultas al dia justifican montar un sistema?",
+    "Que canal deberia ser el final: WhatsApp o email?",
+    "Como evito que me escriban solo precio todo el dia?",
+    "Que datos minimos deberia pedir siempre antes de responder?",
+    "Como priorizo urgentes vs curiosos sin sonar borde?",
+    "Que hago si el cliente no responde a mis preguntas?",
+    "Como paso de Instagram a WhatsApp sin perder el contexto?",
+    "Como reduzco los hola / info que no avanzan?",
+    "Que hago si tengo picos los fines de semana y no doy abasto?",
+    "Cuantas rutas deberia tener mi sistema (opciones del link)?",
+    "Que errores hacen que la automatizacion baje la conversion?",
+    "Como mantengo tono humano aunque use mensajes predefinidos?",
+    "Necesito un CRM para esto o puedo hacerlo ligero?",
+    "Como organizo esto si somos 2-5 personas contestando?",
+    "Que metricas miro para saber si esta funcionando?",
+    "En que casos NO conviene filtrar demasiado al inicio?"
+  ],
   "quickAnswer": [
     "Gestionar consultas es convertir mensajes desordenados en un flujo claro con datos minimos.",
     "Un sistema con rutas por intencion reduce friccion y mejora cierres.",
@@ -343,6 +920,10 @@
 {
   "slug": "automatizacion-consultas-ia",
   "title": "Cómo la automatización con IA está transformando la atención al cliente",
+  "briefId": "S105",
+  "briefType": "satelite",
+  "clusterId": "1",
+  "priority": "P3",
   "description": "Descubre cómo los profesionales están ahorrando horas de trabajo y mejorando la experiencia de sus clientes con asistentes virtuales.",
   "excerpt": "Cómo la automatización con IA reduce tiempos de respuesta, mejora conversiones y eleva la experiencia del cliente.",
   "image": "/blog/tendencias-marketing-digital.png",
@@ -351,6 +932,80 @@
   "publishedAt": "2024-05-15",
   "readingTime": "5 min",
   "tags": ["automatizacion", "ia", "atencion-cliente", "productividad", "negocios-locales"],
+  "dominantIntent": "El usuario quiere entender como la automatizacion con IA mejora la atencion al cliente.",
+  "idealCustomerProfile": "Profesional o negocio local con consultas repetitivas y poco tiempo para responder.",
+  "buyerJourneyStage": "problema",
+  "operationalPainPoints": [
+    "Consultas repetitivas consumen horas",
+    "Respuestas lentas o inconsistentes",
+    "Poco tiempo para tareas clave"
+  ],
+  "desiredOutcome": "Reducir tiempos de respuesta y mejorar conversiones.",
+  "inkupConnection": "Inkup ofrece asistentes virtuales que responden y filtran consultas repetitivas.",
+  "directAnswerSnippet": "La automatizacion con IA aplica asistentes virtuales para responder consultas y optimizar la atencion al cliente.",
+  "citableBlock": {
+    "type": "checklist",
+    "title": "Beneficios de la automatizacion con IA",
+    "items": [
+      "Respuesta instantanea 24/7",
+      "Reduccion de consultas repetitivas",
+      "Mejora de conversiones",
+      "Experiencia del cliente mas consistente",
+      "Datos para tomar decisiones"
+    ]
+  },
+  "internalLinks": {
+    "parent": "gestion-consultas-clientes",
+    "siblings": ["automatizar-whatsapp", "automatizar-recogida-datos-whatsapp-negocios-locales"],
+    "nextStep": "agendar-cita-de-manera-automatica",
+    "authoritativeLinksOut": []
+  },
+  "faqTargets": [
+    "La IA reemplaza al equipo humano?",
+    "Cuanto tiempo se tarda en ver resultados?",
+    "Es necesario saber programar?",
+    "Que consultas conviene automatizar primero?",
+    "Como mantener tono humano con IA?",
+    "Que datos aporta la automatizacion?",
+    "Como medir el impacto de la IA?",
+    "Que errores debo evitar al empezar?"
+  ],
+  "contextBlock": {
+    "description": [
+      "Pasas horas respondiendo consultas repetitivas",
+      "No puedes responder al instante",
+      "Necesitas mantener consistencia en el tono"
+    ]
+  },
+  "checklistBlock": {
+    "steps": ["Definir preguntas frecuentes", "Configurar asistente", "Conectar canales", "Medir impacto"]
+  },
+  "errorsBlock": {
+    "items": [
+      {
+        "error": "Automatizar sin definir FAQs",
+        "reason": "El asistente no responde bien",
+        "fix": "Priorizar consultas repetitivas primero"
+      },
+      {
+        "error": "No revisar resultados",
+        "reason": "Se pierden mejoras de conversion",
+        "fix": "Medir tiempos de respuesta y cierres"
+      },
+      {
+        "error": "Olvidar el trato humano",
+        "reason": "Baja la percepcion de servicio",
+        "fix": "Derivar casos complejos al equipo"
+      }
+    ]
+  },
+  "miniWhenNoBlock": {
+    "bullets": [
+      "Si no tienes consultas repetitivas",
+      "Si todo requiere atencion humana personalizada",
+      "Si no puedes medir resultados"
+    ]
+  },
   "quickAnswer": [
     "La automatizacion con IA permite responder 24/7 y reducir consultas repetitivas.",
     "Mejora conversiones al responder rapido y mantener un tono coherente.",

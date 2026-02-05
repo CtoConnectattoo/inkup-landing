@@ -32,9 +32,151 @@ interface HowToData {
   steps: HowToStep[]
 }
 
+type CitableTable = {
+  columns: string[]
+  rows: string[][]
+}
+
+type CitableBlock = {
+  type: "checklist" | "table" | "matrix" | "rule" | "model3levels"
+  title: string
+  items?: string[]
+  table?: CitableTable
+}
+
+type InternalLinks = {
+  parent?: string | null
+  siblings?: string[]
+  nextStep?: string
+  authoritativeLinksOut?: string[]
+}
+
+type DefinitionBlock = {
+  definition: string
+  not: string[]
+  contextSignals: string[]
+}
+
+type DiagnosticBlock = {
+  signalsChecklist: string[]
+  operationalCost: string[]
+  miniTest?: string
+}
+
+type MentalModelBlock = {
+  modelName: string
+  description?: string
+  items?: string[]
+  table?: CitableTable
+}
+
+type ProcessStep = {
+  title: string
+  action: string
+  example?: string
+  commonError?: string
+}
+
+type ProcessBlock = {
+  steps: ProcessStep[]
+}
+
+type ErrorCorrection = {
+  error: string
+  reason?: string
+  fix?: string
+}
+
+type ErrorsBlock = {
+  items: ErrorCorrection[]
+}
+
+type WhenYesNoBlock = {
+  whenYes: string[]
+  whenNo: string[]
+  note?: string
+}
+
+type ToolkitResource = {
+  label: string
+  url?: string
+  description?: string
+}
+
+type ToolkitBlock = {
+  resources: ToolkitResource[]
+}
+
+type ContextBlock = {
+  description: string[]
+}
+
+type ChecklistBlock = {
+  steps: string[]
+}
+
+type ScriptItem = {
+  title: string
+  short: string
+  explained?: string
+  tone?: string
+}
+
+type ScriptsBlock = {
+  scripts: ScriptItem[]
+}
+
+type MiniWhenNoBlock = {
+  bullets: string[]
+}
+
+type UseSignalsBlock = {
+  signals: string[]
+}
+
+type CoreDataItem = {
+  name: string
+  decisionImpact: string
+}
+
+type CoreDataBlock = {
+  data: CoreDataItem[]
+}
+
+type MainTableBlock = {
+  table: CitableTable
+}
+
+type VersionBlock = {
+  questions: string[]
+}
+
+type MicrocopyVariant = {
+  tone: string
+  text: string
+}
+
+type MicrocopyBlock = {
+  variants: MicrocopyVariant[]
+}
+
+type DecisionRule = {
+  condition: string
+  action: string
+}
+
+type DecisionRulesBlock = {
+  rules: DecisionRule[]
+}
+
 interface BlogPost {
   slug: string
   title: string
+  briefId?: string
+  briefType?: "pilar" | "satelite" | "plantilla"
+  clusterId?: string
+  priority?: "P1" | "P2" | "P3"
+  alternateTitle?: string
   description: string
   excerpt?: string
   image: string
@@ -43,6 +185,37 @@ interface BlogPost {
   publishedAt: string
   readingTime: string
   content: string
+  dominantIntent?: string
+  idealCustomerProfile?: string
+  buyerJourneyStage?: "problema" | "solucion" | "decision"
+  operationalPainPoints?: string[]
+  desiredOutcome?: string
+  inkupConnection?: string
+  inkupBoundaries?: string[]
+  directAnswerSnippet?: string
+  citableBlock?: CitableBlock
+  internalLinks?: InternalLinks
+  faqTargets?: string[]
+  definitionBlock?: DefinitionBlock
+  diagnosticBlock?: DiagnosticBlock
+  mentalModelBlock?: MentalModelBlock
+  processBlock?: ProcessBlock
+  errorsBlock?: ErrorsBlock
+  whenYesNoBlock?: WhenYesNoBlock
+  toolkitBlock?: ToolkitBlock
+  deepFaqTargets?: string[]
+  contextBlock?: ContextBlock
+  checklistBlock?: ChecklistBlock
+  scriptsBlock?: ScriptsBlock
+  miniWhenNoBlock?: MiniWhenNoBlock
+  useSignalsBlock?: UseSignalsBlock
+  coreDataBlock?: CoreDataBlock
+  mainTableBlock?: MainTableBlock
+  minimalVersionBlock?: VersionBlock
+  fullVersionBlock?: VersionBlock
+  microcopyBlock?: MicrocopyBlock
+  sectorErrorsBlock?: string[]
+  decisionRulesBlock?: DecisionRulesBlock
   quickAnswer?: string[]
   oneLineDefinition?: string
   sections?: string[]
@@ -142,6 +315,45 @@ const buildContentWithToc = (htmlContent: string) => {
   })
 
   return { contentWithAnchors, tocItems }
+}
+
+const validateBriefStructure = (post: BlogPost) => {
+  if (!post.briefType) {
+    return
+  }
+
+  console.assert(Boolean(post.directAnswerSnippet), "directAnswerSnippet is required when briefType is set.")
+  console.assert(Boolean(post.citableBlock), "citableBlock is required when briefType is set.")
+  console.assert(Boolean(post.internalLinks), "internalLinks is required when briefType is set.")
+
+  if (post.briefType === "pilar") {
+    console.assert(Boolean(post.definitionBlock), "definitionBlock is required for pilar posts.")
+    console.assert(Boolean(post.diagnosticBlock), "diagnosticBlock is required for pilar posts.")
+    console.assert(Boolean(post.mentalModelBlock), "mentalModelBlock is required for pilar posts.")
+    console.assert(Boolean(post.processBlock), "processBlock is required for pilar posts.")
+    console.assert(Boolean(post.errorsBlock), "errorsBlock is required for pilar posts.")
+    console.assert(Boolean(post.whenYesNoBlock), "whenYesNoBlock is required for pilar posts.")
+    console.assert(Boolean(post.toolkitBlock), "toolkitBlock is required for pilar posts.")
+    console.assert(Boolean(post.deepFaqTargets), "deepFaqTargets is required for pilar posts.")
+  }
+
+  if (post.briefType === "satelite") {
+    console.assert(Boolean(post.contextBlock), "contextBlock is required for satelite posts.")
+    console.assert(Boolean(post.checklistBlock), "checklistBlock is required for satelite posts.")
+    console.assert(Boolean(post.errorsBlock), "errorsBlock is required for satelite posts.")
+    console.assert(Boolean(post.miniWhenNoBlock), "miniWhenNoBlock is required for satelite posts.")
+  }
+
+  if (post.briefType === "plantilla") {
+    console.assert(Boolean(post.useSignalsBlock), "useSignalsBlock is required for plantilla posts.")
+    console.assert(Boolean(post.coreDataBlock), "coreDataBlock is required for plantilla posts.")
+    console.assert(Boolean(post.mainTableBlock), "mainTableBlock is required for plantilla posts.")
+    console.assert(Boolean(post.minimalVersionBlock), "minimalVersionBlock is required for plantilla posts.")
+    console.assert(Boolean(post.fullVersionBlock), "fullVersionBlock is required for plantilla posts.")
+    console.assert(Boolean(post.microcopyBlock), "microcopyBlock is required for plantilla posts.")
+    console.assert(Boolean(post.sectorErrorsBlock), "sectorErrorsBlock is required for plantilla posts.")
+    console.assert(Boolean(post.decisionRulesBlock), "decisionRulesBlock is required for plantilla posts.")
+  }
 }
 
 const getRelatedPosts = (currentPost: BlogPost, allPosts: BlogPost[]) => {
@@ -387,6 +599,8 @@ export default async function BlogPost({ params }: PageProps) {
       }
     : { name: post.author }
 
+  validateBriefStructure(post)
+
   return (
     <>
       <StructuredData post={post} />
@@ -484,6 +698,452 @@ export default async function BlogPost({ params }: PageProps) {
                   </div>
                   {post.quickAnswer && post.oneLineDefinition && (
                     <QuickAnswer summaryBullets={post.quickAnswer} oneLineDefinition={post.oneLineDefinition} />
+                  )}
+                  {post.directAnswerSnippet && (
+                    <section className="mt-6 rounded-2xl border border-purple-100 bg-purple-50/60 p-6">
+                      <h2 className="text-2xl font-bold mb-3">Respuesta directa</h2>
+                      <p className="text-base md:text-lg text-gray-800">{post.directAnswerSnippet}</p>
+                    </section>
+                  )}
+                  {post.citableBlock && (
+                    <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                      <h2 className="text-2xl font-bold mb-4">{post.citableBlock.title}</h2>
+                      {post.citableBlock.type === "table" && post.citableBlock.table ? (
+                        <div className="overflow-x-auto">
+                          <table className="w-full text-left border-collapse">
+                            <thead>
+                              <tr>
+                                {post.citableBlock.table.columns.map((column) => (
+                                  <th key={column} className="border-b border-gray-200 px-4 py-3 text-sm font-semibold text-gray-700">
+                                    {column}
+                                  </th>
+                                ))}
+                              </tr>
+                            </thead>
+                            <tbody>
+                              {post.citableBlock.table.rows.map((row, rowIndex) => (
+                                <tr key={`row-${rowIndex}`}>
+                                  {row.map((cell, cellIndex) => (
+                                    <td key={`cell-${rowIndex}-${cellIndex}`} className="border-b border-gray-100 px-4 py-3 text-sm text-gray-700">
+                                      {cell}
+                                    </td>
+                                  ))}
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
+                      ) : post.citableBlock.items && post.citableBlock.items.length > 0 ? (
+                        <ul className="list-disc pl-6 space-y-2">
+                          {post.citableBlock.items.map((item) => (
+                            <li key={item}>{item}</li>
+                          ))}
+                        </ul>
+                      ) : null}
+                    </section>
+                  )}
+                  {post.inkupBoundaries && post.inkupBoundaries.length > 0 && (
+                    <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                      <h2 className="text-2xl font-bold mb-4">Límites / NOs</h2>
+                      <ul className="list-disc pl-6 space-y-2">
+                        {post.inkupBoundaries.map((boundary) => (
+                          <li key={boundary}>{boundary}</li>
+                        ))}
+                      </ul>
+                    </section>
+                  )}
+                  {post.briefType === "pilar" && (
+                    <>
+                      {post.definitionBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Definición y encuadre</h2>
+                          <p className="text-base text-gray-700 mb-4">{post.definitionBlock.definition}</p>
+                          <h3 className="text-lg font-semibold mb-2">Qué no es</h3>
+                          <ul className="list-disc pl-6 space-y-2 mb-4">
+                            {post.definitionBlock.not.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                          <h3 className="text-lg font-semibold mb-2">Cuándo aparece este problema</h3>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.definitionBlock.contextSignals.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.diagnosticBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Diagnóstico</h2>
+                          <h3 className="text-lg font-semibold mb-2">Señales claras</h3>
+                          <ul className="list-disc pl-6 space-y-2 mb-4">
+                            {post.diagnosticBlock.signalsChecklist.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                          <h3 className="text-lg font-semibold mb-2">Coste operativo</h3>
+                          <ul className="list-disc pl-6 space-y-2 mb-4">
+                            {post.diagnosticBlock.operationalCost.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                          {post.diagnosticBlock.miniTest && <p className="text-base text-gray-700">{post.diagnosticBlock.miniTest}</p>}
+                        </section>
+                      )}
+                      {post.mentalModelBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Modelo mental</h2>
+                          <p className="text-base text-gray-700 mb-4">{post.mentalModelBlock.modelName}</p>
+                          {post.mentalModelBlock.description && <p className="text-base text-gray-700 mb-4">{post.mentalModelBlock.description}</p>}
+                          {post.mentalModelBlock.items && post.mentalModelBlock.items.length > 0 && (
+                            <ul className="list-disc pl-6 space-y-2 mb-4">
+                              {post.mentalModelBlock.items.map((item) => (
+                                <li key={item}>{item}</li>
+                              ))}
+                            </ul>
+                          )}
+                          {post.mentalModelBlock.table && (
+                            <div className="overflow-x-auto">
+                              <table className="w-full text-left border-collapse">
+                                <thead>
+                                  <tr>
+                                    {post.mentalModelBlock.table.columns.map((column) => (
+                                      <th key={column} className="border-b border-gray-200 px-4 py-3 text-sm font-semibold text-gray-700">
+                                        {column}
+                                      </th>
+                                    ))}
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                  {post.mentalModelBlock.table.rows.map((row, rowIndex) => (
+                                    <tr key={`model-row-${rowIndex}`}>
+                                      {row.map((cell, cellIndex) => (
+                                        <td key={`model-cell-${rowIndex}-${cellIndex}`} className="border-b border-gray-100 px-4 py-3 text-sm text-gray-700">
+                                          {cell}
+                                        </td>
+                                      ))}
+                                    </tr>
+                                  ))}
+                                </tbody>
+                              </table>
+                            </div>
+                          )}
+                        </section>
+                      )}
+                      {post.processBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Proceso paso a paso</h2>
+                          <ol className="list-decimal pl-6 space-y-4">
+                            {post.processBlock.steps.map((step) => (
+                              <li key={step.title}>
+                                <h3 className="text-lg font-semibold">{step.title}</h3>
+                                <p className="text-base text-gray-700">{step.action}</p>
+                                {step.example && <p className="text-sm text-gray-600 mt-1">Ejemplo: {step.example}</p>}
+                                {step.commonError && <p className="text-sm text-gray-600 mt-1">Error tipico: {step.commonError}</p>}
+                              </li>
+                            ))}
+                          </ol>
+                        </section>
+                      )}
+                      {post.errorsBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Errores y anti-patrones</h2>
+                          <ul className="list-disc pl-6 space-y-3">
+                            {post.errorsBlock.items.map((item) => (
+                              <li key={item.error}>
+                                <strong>{item.error}</strong>
+                                {item.reason && <span className="text-gray-700"> — {item.reason}</span>}
+                                {item.fix && <span className="text-gray-700">. Correccion: {item.fix}</span>}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.whenYesNoBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Cuándo sí / cuándo no</h2>
+                          <div className="grid md:grid-cols-2 gap-6">
+                            <div>
+                              <h3 className="text-lg font-semibold mb-2">Cuándo sí</h3>
+                              <ul className="list-disc pl-6 space-y-2">
+                                {post.whenYesNoBlock.whenYes.map((item) => (
+                                  <li key={item}>{item}</li>
+                                ))}
+                              </ul>
+                            </div>
+                            <div>
+                              <h3 className="text-lg font-semibold mb-2">Cuándo no</h3>
+                              <ul className="list-disc pl-6 space-y-2">
+                                {post.whenYesNoBlock.whenNo.map((item) => (
+                                  <li key={item}>{item}</li>
+                                ))}
+                              </ul>
+                            </div>
+                          </div>
+                          {post.whenYesNoBlock.note && <p className="text-sm text-gray-600 mt-3">{post.whenYesNoBlock.note}</p>}
+                        </section>
+                      )}
+                      {post.toolkitBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Toolkit: recursos accionables</h2>
+                          <ul className="space-y-3">
+                            {post.toolkitBlock.resources.map((resource) => (
+                              <li key={resource.label}>
+                                <strong>{resource.label}</strong>
+                                {resource.description && <span className="text-gray-700"> — {resource.description}</span>}
+                                {resource.url && (
+                                  <span className="text-gray-700">
+                                    {" "}
+                                    (<a href={resource.url} className="text-purple-700 hover:text-purple-900">{resource.url}</a>)
+                                  </span>
+                                )}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.deepFaqTargets && post.deepFaqTargets.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">FAQ profunda</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.deepFaqTargets.map((question) => (
+                              <li key={question}>{question}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                    </>
+                  )}
+                  {post.briefType === "satelite" && (
+                    <>
+                      {post.contextBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Contexto minimo</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.contextBlock.description.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.checklistBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Checklist principal</h2>
+                          <ol className="list-decimal pl-6 space-y-2">
+                            {post.checklistBlock.steps.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ol>
+                        </section>
+                      )}
+                      {post.scriptsBlock && post.scriptsBlock.scripts.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Scripts listos</h2>
+                          <div className="space-y-4">
+                            {post.scriptsBlock.scripts.map((script) => (
+                              <div key={script.title} className="border border-gray-100 rounded-xl p-4">
+                                <h3 className="text-lg font-semibold">{script.title}</h3>
+                                <p className="text-base text-gray-700">{script.short}</p>
+                                {script.explained && <p className="text-sm text-gray-600 mt-2">{script.explained}</p>}
+                                {script.tone && <p className="text-sm text-gray-500 mt-1">Tono: {script.tone}</p>}
+                              </div>
+                            ))}
+                          </div>
+                        </section>
+                      )}
+                      {post.errorsBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Errores comunes</h2>
+                          <ul className="list-disc pl-6 space-y-3">
+                            {post.errorsBlock.items.map((item) => (
+                              <li key={item.error}>
+                                <strong>{item.error}</strong>
+                                {item.reason && <span className="text-gray-700"> — {item.reason}</span>}
+                                {item.fix && <span className="text-gray-700">. Correccion: {item.fix}</span>}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.miniWhenNoBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Mini cuándo no</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.miniWhenNoBlock.bullets.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                    </>
+                  )}
+                  {post.briefType === "plantilla" && (
+                    <>
+                      {post.useSignalsBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Cuándo usar esta plantilla</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.useSignalsBlock.signals.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.coreDataBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Datos minimos que cambian la decision</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.coreDataBlock.data.map((item) => (
+                              <li key={item.name}>
+                                <strong>{item.name}</strong> — {item.decisionImpact}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.mainTableBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Tabla principal</h2>
+                          <div className="overflow-x-auto">
+                            <table className="w-full text-left border-collapse">
+                              <thead>
+                                <tr>
+                                  {post.mainTableBlock.table.columns.map((column) => (
+                                    <th key={column} className="border-b border-gray-200 px-4 py-3 text-sm font-semibold text-gray-700">
+                                      {column}
+                                    </th>
+                                  ))}
+                                </tr>
+                              </thead>
+                              <tbody>
+                                {post.mainTableBlock.table.rows.map((row, rowIndex) => (
+                                  <tr key={`template-row-${rowIndex}`}>
+                                    {row.map((cell, cellIndex) => (
+                                      <td key={`template-cell-${rowIndex}-${cellIndex}`} className="border-b border-gray-100 px-4 py-3 text-sm text-gray-700">
+                                        {cell}
+                                      </td>
+                                    ))}
+                                  </tr>
+                                ))}
+                              </tbody>
+                            </table>
+                          </div>
+                        </section>
+                      )}
+                      {post.minimalVersionBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Version minima</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.minimalVersionBlock.questions.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.fullVersionBlock && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Version completa</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.fullVersionBlock.questions.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.microcopyBlock && post.microcopyBlock.variants.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Scripts de introduccion</h2>
+                          <ul className="space-y-3">
+                            {post.microcopyBlock.variants.map((variant) => (
+                              <li key={variant.tone}>
+                                <strong>{variant.tone}</strong>: {variant.text}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.sectorErrorsBlock && post.sectorErrorsBlock.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Errores frecuentes del sector</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.sectorErrorsBlock.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                      {post.decisionRulesBlock && post.decisionRulesBlock.rules.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                          <h2 className="text-2xl font-bold mb-4">Reglas de decision</h2>
+                          <ul className="list-disc pl-6 space-y-2">
+                            {post.decisionRulesBlock.rules.map((rule) => (
+                              <li key={rule.condition}>
+                                <strong>{rule.condition}</strong> → {rule.action}
+                              </li>
+                            ))}
+                          </ul>
+                        </section>
+                      )}
+                    </>
+                  )}
+                  {post.internalLinks && (
+                    <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                      <h2 className="text-2xl font-bold mb-4">Enlazado interno</h2>
+                      <ul className="space-y-2">
+                        {post.internalLinks.parent && (
+                          <li>
+                            <strong>Parent:</strong>{" "}
+                            <Link href={`/blog/${post.internalLinks.parent}`} className="text-purple-700 hover:text-purple-900">
+                              {post.internalLinks.parent}
+                            </Link>
+                          </li>
+                        )}
+                        {post.internalLinks.siblings && post.internalLinks.siblings.length > 0 && (
+                          <li>
+                            <strong>Hermanos:</strong>{" "}
+                            {post.internalLinks.siblings.map((slug, index) => (
+                              <span key={slug}>
+                                <Link href={`/blog/${slug}`} className="text-purple-700 hover:text-purple-900">
+                                  {slug}
+                                </Link>
+                                {index < post.internalLinks.siblings.length - 1 ? ", " : ""}
+                              </span>
+                            ))}
+                          </li>
+                        )}
+                        {post.internalLinks.nextStep && (
+                          <li>
+                            <strong>Siguiente paso:</strong>{" "}
+                            <Link href={`/blog/${post.internalLinks.nextStep}`} className="text-purple-700 hover:text-purple-900">
+                              {post.internalLinks.nextStep}
+                            </Link>
+                          </li>
+                        )}
+                        {post.internalLinks.authoritativeLinksOut && post.internalLinks.authoritativeLinksOut.length > 0 && (
+                          <li>
+                            <strong>Links externos:</strong>{" "}
+                            {post.internalLinks.authoritativeLinksOut.map((url, index) => (
+                              <span key={url}>
+                                <a href={url} className="text-purple-700 hover:text-purple-900" target="_blank" rel="noopener noreferrer">
+                                  {url}
+                                </a>
+                                {index < post.internalLinks.authoritativeLinksOut.length - 1 ? ", " : ""}
+                              </span>
+                            ))}
+                          </li>
+                        )}
+                      </ul>
+                    </section>
+                  )}
+                  {post.faqTargets && post.faqTargets.length > 0 && (
+                    <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-6">
+                      <h2 className="text-2xl font-bold mb-4">FAQ targets</h2>
+                      <ul className="list-disc pl-6 space-y-2">
+                        {post.faqTargets.map((question) => (
+                          <li key={question}>{question}</li>
+                        ))}
+                      </ul>
+                    </section>
                   )}
                   {typeof contentWithAnchors === "string" && (
                     <div className="blog-content" dangerouslySetInnerHTML={{ __html: contentWithAnchors }} />
