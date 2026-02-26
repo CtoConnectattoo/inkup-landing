@@ -1,5 +1,112 @@
 [
   {
+    "slug": "plantilla-mensaje-ausencia-que-convierte",
+    "title": "Plantilla de mensaje de ausencia que convierte (WhatsApp/IG)",
+    "description": "Aprende a redactar un mensaje automático de ausencia para WhatsApp e Instagram que guía al cliente a dejar datos mínimos y le indica el siguiente paso, mejorando la captación sin perder oportunidades.",
+    "excerpt": "Un mensaje de ausencia bien diseñado no solo informa de tu falta de disponibilidad, sino que convierte: pide datos clave y propone el paso siguiente para no alargar la espera.",
+    "image": "/blog/plantilla-mensaje-ausencia-que-convierte.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-02-26",
+    "readingTime": "6 min",
+    "tags": [
+      "whatsapp",
+      "instagram",
+      "mensajes-automaticos",
+      "atencion-cliente",
+      "captacion"
+    ],
+    "quickAnswerSubtitle": "Mensaje de ausencia que convierte en WhatsApp e Instagram",
+    "quickAnswer": [
+      "**Guía clara** — Explica que estás ausente y cuándo vuelves rápidamente.",
+      "**Pide datos mínimos** — Solicita solo la información básica para avanzar.",
+      "**Indica siguiente paso** — Sugiere qué hará el cliente y cuándo recibirá respuesta.",
+      "**Tono cercano y profesional** — Mantén la confianza sin parecer frío."
+    ],
+    "oneLineDefinition": "Un mensaje de ausencia que convierte es un auto-reply que recoge datos mínimos y ofrece el siguiente paso para lograr contacto efectivo sin dejar al cliente esperando sin contexto.",
+    "sections": [
+      "TL;DR - Mensaje de ausencia eficaz que convierte",
+      "Contexto mínimo",
+      "Checklist para crear tu mensaje de ausencia",
+      "Scripts listos para usar",
+      "Errores comunes en mensajes de ausencia",
+      "Mini cuándo NO",
+      "FAQ frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Crear un mensaje de ausencia que convierte en 6 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Mensaje automático en WhatsApp",
+        "Mensaje automático en Instagram",
+        "Checklist de datos mínimos"
+      ],
+      "steps": [
+        {
+          "name": "Define tu disponibilidad exacta",
+          "text": "Comunica cuándo no estás disponible y fecha aproximada de respuesta."
+        },
+        {
+          "name": "Selecciona datos mínimos necesarios",
+          "text": "Elige máximo 3 datos que necesites para avanzar (ej. nombre, motivo, urgencia)."
+        },
+        {
+          "name": "Redacta un mensaje claro y breve",
+          "text": "Usa un lenguaje cercano y mantén el mensaje en menos de 4 líneas."
+        },
+        {
+          "name": "Incluye instrucciones para el cliente",
+          "text": "Indica qué debe hacer, qué esperar y cómo seguir el contacto."
+        },
+        {
+          "name": "Configura la automatización en la plataforma",
+          "text": "Activa la respuesta automática en WhatsApp e Instagram según posibilidad."
+        },
+        {
+          "name": "Revisa y ajusta basado en feedback",
+          "text": "Mide si recibes los datos clave y si los clientes responden bien."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>TL;DR - Mensaje de ausencia eficaz que convierte</h2><p>Un buen mensaje de ausencia guía al cliente a dejar datos clave y le da el siguiente paso claro para avanzar sin esperar. Es breve, solicita solo lo imprescindible y usa un tono cercano para mantener la confianza.</p><ul><li><strong>Comunica tu ausencia clara y brevemente</strong> — Indica fechas y evita ambigüedades.</li><li><strong>Pide datos mínimos</strong> — Solo lo necesario para preparar la respuesta o cita.</li><li><strong>Indica el siguiente paso</strong> — Qué debe hacer el cliente y cuándo podrá esperar una respuesta.</li><li><strong>Usa un tono profesional y cercano</strong> — Evita parecer impersonal o frío.</li><li><strong>Evita mensajes largos</strong> — Máximo 3–4 líneas para no saturar al cliente.</li></ul><h2>Contexto mínimo</h2><p>Tienes un negocio atendido por WhatsApp o Instagram y necesitas configurarte un mensaje de ausencia porque no estás disponible en ciertos momentos o fuera del horario laboral. Sin un buen mensaje, pierdes clientes porque no saben qué hacer, preguntan lo mismo o se frustran por la falta de respuesta.</p><p>El mensaje debe funcionar como primer filtro para captar interés y datos mínimos sin bloquear la comunicación ni parecer descortés.</p><h2>Checklist para crear tu mensaje de ausencia</h2><ul><li><strong>Estado y tiempo de ausencia</strong> — Día y hora aproximada de regreso.</li><li><strong>Motivo breve</strong> — Ejemplo: “Fuera del horario habitual” o “ausente temporalmente”.</li><li><strong>Datos mínimos que solicitas</strong> — Nombre, motivo consulta y urgencia (opcional).</li><li><strong>Siguiente paso claro</strong> — Ejemplo: “Te responderé tan pronto como vuelva” o “Si es urgente, llama al xxx”.</li><li><strong>Tono cálido y directo</strong> — Evita frases frías o impersonales.</li><li><strong>Instrucción para evitar reenvíos o mensajes repetidos</strong> — Evita confusión y saturación.</li></ul><h2>Scripts listos para usar</h2><p><strong>Script 1 (versión corta y directa)</strong></p><blockquote><p>Hola, actualmente estoy fuera y responderé el [fecha/hora]. Por favor, déjame tu nombre y motivo de consulta para atenderte a mi regreso. Gracias por tu paciencia.</p></blockquote><p><strong>Script 2 (con explicación y tono cercano)</strong></p><blockquote><p>¡Hola! No puedo responder ahora porque estoy fuera del horario habitual. Para ayudarte rápido cuando vuelva, déjame tu nombre, qué necesitas y si es urgente. Te responderé lo antes posible. ¡Gracias por entender!</p></blockquote><p><strong>Script 3 (con alternativa para urgencias)</strong></p><blockquote><p>Hola, estoy ausente hasta el [fecha]. Si tu consulta es urgente, por favor llama al [teléfono]. Si no, déjame tu nombre y motivo, te contestaré en cuanto pueda.</p></blockquote><h2>Errores comunes en mensajes de ausencia</h2><ul><li>Mensaje muy largo → cliente no lo lee → confusión → pérdida de oportunidad</li><li>Pedir demasiados datos → fricción → clientes no responden</li><li>No aclarar cuándo se responderá → expectativas erróneas → frustración</li><li>Tono demasiado formal o frío → falta de confianza → pérdida de interés</li><li>No ofrecer alternativa o siguiente paso → cliente bloqueado → abandona contacto</li></ul><h2>Mini cuándo NO</h2><ul><li>Si tu negocio está atendido 24/7 con equipo, no uses mensaje de ausencia.</li><li>Si solo recibes 1-2 mensajes al mes, no es necesario automatizar ausencia.</li><li>Si el primero contacto es muy estratégico y personalizado, evita respuestas automáticas.</li></ul><h2>FAQ frecuentes</h2><ul><li><strong>¿Cuántos datos debo pedir en el mensaje de ausencia?</strong><br>Lo mínimo imprescindible: normalmente nombre y motivo de consulta. Máximo 3 datos para no generar fricción.</li><li><strong>¿Debe el mensaje ser igual para WhatsApp e Instagram?</strong><br>Sí, mantén coherencia. Ajusta ligeramente el tono según tu estilo pero el contenido básico igual.</li><li><strong>¿Puedo ofrecer un enlace para que el cliente reserve cita directo?</strong><br>Sí, es una buena práctica para casos donde puedas enlazar a un calendario o formulario.</li><li><strong>¿Cómo evito que los clientes se frustren por no recibir respuesta inmediata?</strong><br>Muestra fechas claras, explica el motivo y da alternativas en caso de urgencia.</li><li><strong>¿Es mejor un mensaje automático que un bot con opciones?</strong><br>Para ausencia, un mensaje sencillo y claro funciona mejor que menús complejos que pueden parecer fríos.</li><li><strong>¿Puedo cambiar el mensaje según época del año?</strong><br>Claro, adapta el mensaje si te ausentas en festivos, vacaciones o periodos específicos.</li><li><strong>¿El mensaje debe ser siempre escrito o puedo grabar nota de voz?</strong><br>La mayoría prefieren escrito para poder leer rápido y guardar la info; voz puede ser útil pero menos práctica.</li><li><strong>¿Cómo mido la efectividad del mensaje?</strong><br>Evalúa si recibes los datos mínimos, si el cliente sigue el siguiente paso y si reduces consultas repetidas o confusas.</li></ul>",
+    "faq": [
+      {
+        "question": "¿Cuántos datos debo pedir en el mensaje de ausencia?",
+        "answer": "Lo mínimo imprescindible: normalmente nombre y motivo de consulta. Máximo 3 datos para no generar fricción."
+      },
+      {
+        "question": "¿Debe el mensaje ser igual para WhatsApp e Instagram?",
+        "answer": "Sí, mantén coherencia. Ajusta ligeramente el tono según tu estilo pero el contenido básico igual."
+      },
+      {
+        "question": "¿Puedo ofrecer un enlace para que el cliente reserve cita directo?",
+        "answer": "Sí, es una buena práctica para casos donde puedas enlazar a un calendario o formulario."
+      },
+      {
+        "question": "¿Cómo evito que los clientes se frustren por no recibir respuesta inmediata?",
+        "answer": "Muestra fechas claras, explica el motivo y da alternativas en caso de urgencia."
+      },
+      {
+        "question": "¿Es mejor un mensaje automático que un bot con opciones?",
+        "answer": "Para ausencia, un mensaje sencillo y claro funciona mejor que menús complejos que pueden parecer fríos."
+      },
+      {
+        "question": "¿Puedo cambiar el mensaje según época del año?",
+        "answer": "Claro, adapta el mensaje si te ausentas en festivos, vacaciones o periodos específicos."
+      },
+      {
+        "question": "¿El mensaje debe ser siempre escrito o puedo grabar nota de voz?",
+        "answer": "La mayoría prefieren escrito para poder leer rápido y guardar la info; voz puede ser útil pero menos práctica."
+      },
+      {
+        "question": "¿Cómo mido la efectividad del mensaje?",
+        "answer": "Evalúa si recibes los datos mínimos, si el cliente sigue el siguiente paso y si reduces consultas repetidas o confusas."
+      }
+    ]
+  },
+  {
     "slug": "como-centralizar-sin-integraciones",
     "title": "Cómo centralizar consultas sin integraciones ni API (método simple)",
     "description": "Descubre un método práctico para centralizar consultas entrantes de clientes sin usar integraciones complejas ni desarrollo de APIs. Organiza mensajes de WhatsApp e Instagram con un flujo simple y efectivo.",
