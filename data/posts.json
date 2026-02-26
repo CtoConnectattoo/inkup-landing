@@ -1,5 +1,113 @@
 [
   {
+    "slug": "que-hacer-si-no-te-da-la-vida-para-contestar",
+    "title": "Qué hacer si no te da la vida para contestar (prioridades en 48h)",
+    "description": "Plan rápido para priorizar consultas y organizar respuestas en 48 horas cuando no das abasto con los mensajes entrantes.",
+    "excerpt": "Si no te da la vida para contestar, establece prioridades claras con un punto de entrada único, pregunta solo lo mínimo y usa respuestas base para reducir interrupciones y no perder clientes.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/que-hacer-si-no-te-da-la-vida-para-contestar.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-02-26",
+    "readingTime": "6 min",
+    "tags": [
+      "gestion-consultas",
+      "priorizacion",
+      "respuestas",
+      "automatizacion",
+      "whatsapp",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Priorizar respuestas y organizar consultas en tiempos de pico",
+    "quickAnswer": [
+      "**Define un punto de entrada único** para centralizar todas las consultas.",
+      "**Pregunta solo lo mínimo necesario** que te permita avanzar con la respuesta.",
+      "**Prepara respuestas base** para FAQs y agilizar la comunicación.",
+      "**Prioriza consultas que avanzan a cierre o cita** y pospone o descarta las poco relevantes."
+    ],
+    "oneLineDefinition": "Priorizar y organizar consultas en momentos de sobrecarga implica centralizar, filtrar con datos mínimos y usar respuestas predefinidas para optimizar el tiempo y evitar perder clientes.",
+    "sections": [
+      "TL;DR - Plan rápido para gestionar saturación de consultas",
+      "Contexto: qué pasa cuando no das a basto",
+      "Checklist para priorizar mensajes en 48h",
+      "Scripts base para respuestas rápidas",
+      "Errores comunes que aumentan la saturación",
+      "Mini cuándo NO usar este plan",
+      "FAQ frecuentes sobre gestionar picos de mensajes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Plan de prioridades para gestionar mensajes en 48h",
+      "totalTimeMinutes": 90,
+      "tools": [
+        "Punto de entrada único",
+        "Preguntas mínimas",
+        "Respuestas base"
+      ],
+      "steps": [
+        {
+          "name": "Centraliza la entrada",
+          "text": "Establece un único enlace o canal para que lleguen todas las consultas, sin dispersión."
+        },
+        {
+          "name": "Limita las rutas",
+          "text": "Define 2 o 3 intenciones claras para simplificar decisiones: información, cita y presupuesto."
+        },
+        {
+          "name": "Pide solo lo imprescindible",
+          "text": "Solicita únicamente los datos que te permitan dar una respuesta concreta y avanzar."
+        },
+        {
+          "name": "Prepara respuestas estándar",
+          "text": "Crea mensajes base para FAQs que puedas copiar y pegar rápidamente."
+        },
+        {
+          "name": "Prioriza cierres",
+          "text": "Atiende primero las consultas con datos suficientes o más probabilidad de cerrar."
+        },
+        {
+          "name": "Pospone o descarta",
+          "text": "Si alguien no responde o falta contexto, haz un cierre amable y guarda la consulta para luego."
+        },
+        {
+          "name": "Comunica el plan",
+          "text": "Informa a tu audiencia que las respuestas pueden tardar pero estás organizando para mejorar."
+        },
+        {
+          "name": "Mide y ajusta",
+          "text": "Controla el porcentaje de consultas que avanzan y ajusta la prioridad según resultados."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>TL;DR - Plan rápido para gestionar saturación de consultas</h2><p>Cuando no das la vida para contestar todos los mensajes, sigue estos pasos para organizar y priorizar en 48 horas sin perder clientes.</p><ul><li><strong>Define un punto de entrada único</strong> — centraliza todas las consultas para evitar dispersión.</li><li><strong>Pregunta solo lo mínimo necesario</strong> para avanzar la respuesta y filtrar.</li><li><strong>Prepara respuestas base</strong> para preguntas frecuentes y agiliza la comunicación.</li><li><strong>Prioriza cierre</strong> o citas, posponiendo consultas sin datos claros.</li></ul><h2>Contexto: qué pasa cuando no das a basto</h2><p>En momentos de alta demanda, el caos en mensajes genera estrés, pérdida de clientes y respuestas tardías. Las interrupciones constantes dificultan trabajar y atender bien. El problema se agrava si usas varios canales sin armonizar.</p><h2>Checklist para priorizar mensajes en 48h</h2><ol><li><strong>Centraliza</strong>: un solo enlace o canal visible para todas las consultas (bio, perfil, sitio web).</li><li><strong>Limita rutas</strong>: las intenciones más comunes son información, cita y presupuesto; cíñete a ellas.</li><li><strong>Pide datos clave</strong>: servicio solicitado, fecha aproximada y contacto mínimo.</li><li><strong>Usa respuestas base</strong>: prepara textos para preguntas frecuentes y ahorra tiempo.</li><li><strong>Atiende primero</strong> a quien responde rápido y tiene datos claros.</li><li><strong>Marca cierre amable</strong> para quienes no contestan tras 2 intentos.</li></ol><h2>Scripts base para respuestas rápidas</h2><p><strong>Script 1: Mensaje inicial</strong></p><blockquote><p>\"Hola, gracias por escribir. ¿Buscas información, presupuesto o cita? Dime cuál y te ayudaré rápido.\"</p></blockquote><p><strong>Script 2: Pedir datos mínimos</strong></p><blockquote><p>\"Para ayudarte mejor necesito saber qué servicio te interesa y para cuándo aproximadamente. ¿Me lo puedes indicar?\"</p></blockquote><p><strong>Script 3: Cierre amable ante falta de respuesta</strong></p><blockquote><p>\"No he tenido noticias tuyas, cuando quieras retomar aquí estaré para ayudarte. ¡Gracias!\"</p></blockquote><h2>Errores comunes que aumentan la saturación</h2><ol><li>Pedir demasiados datos → fricción → abandono. Corrige pidiendo sólo lo indispensable.</li><li>Responder sin filtrar → diálogo eterno → colapso. Corrige con rutas claras y priorización.</li><li>Usar varios canales sin centralizar → pérdida de contexto → mala atención. Centraliza entrada.</li><li>Falta de respuestas base → escribir igual muchas veces → consumo excesivo de tiempo.</li><li>No cerrar consultas inactivas → acumulas pendientes → incremento del estrés.</li></ol><h2>Mini cuándo NO usar este plan</h2><ul><li>Si recibes muy pocas consultas diarias.</li><li>Cuando tus ventas son completamente personalizadas y largas.</li><li>Si ya tienes un sistema CRM con flujos diseñados y equipo suficiente.</li></ul><h2>FAQ frecuentes sobre gestionar picos de mensajes</h2><ul><li><strong>¿Cuánto tiempo necesito para implementar este plan?</strong> Con dedicación puedes organizar todo en 48 horas.</li><li><strong>¿Qué hago si no me contestan los clientes a los datos que pido?</strong> Haz un segundo intento y luego cierra la consulta de forma amable.</li><li><strong>¿Cómo comunicar que las respuestas tardan más de lo habitual?</strong> Usa mensajes públicos y respuestas automatizadas para informar con transparencia.</li><li><strong>¿Cuántas intenciones debo permitir en la entrada única?</strong> Máximo tres para evitar confusión: info, cita y presupuesto.</li><li><strong>¿Puedo usar este método si trabajo solo y no tengo equipo?</strong> Sí, es especialmente útil para autónomos que manejan consultas por su cuenta.</li><li><strong>¿Qué hago con consultas que no encajan o solo piden precio sin detalles?</strong> Pide un dato mínimo para filtrar; si no responden, marca cierre amable.</li></ul>",
+    "faq": [
+      {
+        "question": "¿Cuánto tiempo necesito para implementar este plan rápido?",
+        "answer": "Con enfoque y dedicación puedes tenerlo funcionando en 48 horas."
+      },
+      {
+        "question": "¿Qué hago si los clientes no responden a las preguntas mínimas?",
+        "answer": "Haz un segundo intento y si no contestan, cierra la conversación amablemente y guarda su contacto."
+      },
+      {
+        "question": "¿Cómo informar a los clientes que las respuestas tardarán más?",
+        "answer": "Puedes usar mensajes automáticos o avisos en tu perfil para comunicar que estás gestionando un volumen alto de consultas."
+      },
+      {
+        "question": "¿Cuántas intenciones debo gestionar en el punto de entrada único?",
+        "answer": "Lo ideal son máximo 3 intenciones: información, cita y presupuesto para evitar confusión."
+      },
+      {
+        "question": "¿Sirve este método si trabajo solo y no tengo equipo?",
+        "answer": "Sí, es especialmente útil para autónomos para organizarse y ahorrar tiempo en picos."
+      },
+      {
+        "question": "¿Qué hago con clientes que solo preguntan precio sin dar detalles?",
+        "answer": "Pide un dato mínimo para clasificar la consulta; si no lo proporcionan, realiza un cierre amable para liberar tiempo."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-mensaje-ausencia-que-convierte",
     "title": "Plantilla de mensaje de ausencia que convierte (WhatsApp/IG)",
     "description": "Aprende a redactar un mensaje automático de ausencia para WhatsApp e Instagram que guía al cliente a dejar datos mínimos y le indica el siguiente paso, mejorando la captación sin perder oportunidades.",
