@@ -1,5 +1,152 @@
 [
   {
+    "slug": "agendar-citas-sin-mensajes",
+    "title": "Cómo agendar citas sin intercambiar 20 mensajes (primero filtra, luego agenda)",
+    "description": "Aprende a agendar citas sin el ida y vuelta eterno de WhatsApp e Instagram: qué datos pedir primero, cómo estructurar el flujo y cuándo automatizar (y cuándo no).",
+    "excerpt": "Agendar citas sin caos es recoger la información mínima antes de confirmar disponibilidad, no al revés. Primero filtras, luego agendas.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/agendar-citas-sin-mensajes.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-01",
+    "readingTime": "11 min",
+    "tags": [
+      "agendar-citas",
+      "whatsapp",
+      "instagram",
+      "cualificacion",
+      "procesos",
+      "servicios-locales"
+    ],
+    "quickAnswerSubtitle": "Agendar citas sin intercambiar 20 mensajes en WhatsApp e Instagram",
+    "quickAnswer": [
+      "**Filtra antes de confirmar** — recoge el servicio, la fecha y los requisitos mínimos antes de ofrecer hueco, no después.",
+      "**Pide solo los datos que cambian tu respuesta** — servicio exacto, fecha orientativa y condición clave. Nada más en el primer paso.",
+      "**Separa la ruta de cita de la de presupuesto** — el cliente que quiere agenda y el que quiere precio necesitan caminos distintos desde el primer mensaje.",
+      "**Define un canal de cierre** — la conversación puede entrar por Instagram, pero la confirmación ocurre en WhatsApp o email, siempre con contexto ya recogido.",
+      "**El volumen manda el nivel de sistema** — con menos de 10 citas/semana, un guion manual funciona; con más, necesitas un flujo estructurado."
+    ],
+    "oneLineDefinition": "Agendar citas sin caos es recoger los datos mínimos (servicio, fecha, requisitos) antes de mostrar disponibilidad, para que cada confirmación sea directa y sin mensajes de más.",
+    "sections": [
+      "Qué significa agendar sin caos (y qué no es)",
+      "Diagnóstico: señales de que tu proceso de citas está roto",
+      "Modelo mental: los 3 niveles de madurez para agendar citas",
+      "Proceso paso a paso: cómo filtrar antes de agendar",
+      "Errores y anti-patrones en la gestión de citas",
+      "Cuándo sí y cuándo no montar un flujo de citas",
+      "Toolkit: recursos para implementarlo",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Agendar citas sin 20 mensajes en 8 pasos",
+      "totalTimeMinutes": 90,
+      "tools": [
+        "Canal de cierre definido (WhatsApp o email)",
+        "Guion de primer mensaje",
+        "Lista de datos mínimos por servicio",
+        "Rutas por intención (cita / presupuesto / info)"
+      ],
+      "steps": [
+        {
+          "name": "Define el canal de cierre",
+          "text": "Decide dónde se confirma la cita: WhatsApp, email o llamada. Un solo canal de cierre, aunque la entrada sea múltiple."
+        },
+        {
+          "name": "Identifica los datos mínimos por servicio",
+          "text": "Anota qué 3-5 datos necesitas sí o sí antes de ofrecer hueco: servicio exacto, fecha orientativa, condición clave y contacto."
+        },
+        {
+          "name": "Crea una ruta específica para citas",
+          "text": "Separa la intención de cita de la de presupuesto e información desde el primer mensaje. No mezcles rutas."
+        },
+        {
+          "name": "Escribe el primer mensaje guía",
+          "text": "Un mensaje corto que reconozca al cliente y le pida el dato mínimo inicial sin interrogarle."
+        },
+        {
+          "name": "Implementa un punto de entrada único",
+          "text": "Un link en bio, stories o perfil que abra el flujo por intención. El cliente elige ruta y tú recibes contexto."
+        },
+        {
+          "name": "Recoge datos antes de mostrar disponibilidad",
+          "text": "No abras la agenda hasta tener servicio, fecha y condición básica confirmados. Evita el ida y vuelta."
+        },
+        {
+          "name": "Filtra los no encajan antes de confirmar",
+          "text": "Si el cliente no cumple requisitos básicos, comunícalo en el flujo antes de llegar al chat final."
+        },
+        {
+          "name": "Cierra con contexto y siguiente paso claro",
+          "text": "El mensaje de confirmación incluye resumen del contexto recogido, el hueco propuesto y la acción concreta: confirmar, elegir o rechazar."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué significa agendar sin caos (y qué no es)</h2><h3>Definición práctica</h3><p>Agendar citas sin caos no es tener un calendario online bonito. Es recoger la información mínima necesaria antes de abrir la agenda, para que cada confirmación sea directa, sin mensajes de más y sin malentendidos.</p><p>El problema no suele estar en la herramienta de agenda: está en el orden. La mayoría de negocios de servicios muestran disponibilidad antes de saber qué quiere el cliente, para qué servicio, en qué condiciones y si realmente encaja. Eso genera el ida y vuelta eterno que consume tiempo y energía.</p><p>La secuencia correcta es: filtrar primero, agendar después. No al revés.</p><h3>Qué NO es (para no crear expectativas falsas)</h3><ul><li>No es poner un Calendly y esperar que todo se solucione solo.</li><li>No es automatizar la conversación entera con un bot que responde cualquier cosa.</li><li>No es eliminar el trato humano: en servicios, la confirmación final sigue siendo tuya.</li><li>No es un sistema para cuando recibes 2-3 citas a la semana (el manual funciona bien ahí).</li><li>No es añadir fricción innecesaria con formularios largos que el cliente abandona.</li></ul><h3>Cuándo aparece este problema</h3><p>Este caos aparece cuando gestionas citas por WhatsApp o Instagram DM sin un guion claro, cuando el servicio tiene variables (duración, precio, requisitos previos, disponibilidad limitada) y cuando el volumen crece hasta el punto en que responder a mano consume demasiado tiempo entre trabajo real.</p><p>El síntoma más común: el cliente escribe &quot;tenéis hueco para el viernes?&quot;, tú preguntas &quot;¿para qué servicio?&quot;, él responde, tú preguntas &quot;¿mañana o tarde?&quot;, él pone &quot;mañana&quot;, tú compruebas agenda, resulta que ese viernes no hay plaza y empieza otra ronda. Ocho mensajes para nada.</p><h2>Diagnóstico: señales de que tu proceso de citas está roto</h2><h3>Checklist: marca las que te ocurren</h3><ol><li>El cliente pregunta disponibilidad antes de darte el servicio que quiere.</li><li>Tú preguntas el servicio, la fecha, los requisitos y el contacto en mensajes distintos.</li><li>Acabas dando hueco y luego el cliente añade condiciones que cambian todo.</li><li>Te llegan consultas de personas que claramente no cumplen requisitos básicos.</li><li>Tienes conversaciones abiertas de citas que llevan días sin resolverse.</li><li>Olvidas hacer seguimiento a citas tentativas que quedaron en el limbo.</li><li>La misma cita pasa por Instagram DM y luego por WhatsApp y se pierde el contexto.</li><li>Dices precios o confirmas huecos sin saber el servicio exacto que piden.</li><li>Los fines de semana o festivos se acumulan mensajes de cita que no atiendes a tiempo.</li><li>Tienes dobles reservas o huecos mal asignados por falta de información previa.</li></ol><h3>Mini test rápido</h3><p>Si cumples 3 o más de estos puntos, tu proceso de citas necesita estructura. No tecnología cara: estructura. Un guion, unos datos mínimos y una ruta clara por intención ya reducen el problema a la mitad.</p><h3>Coste operativo real</h3><p>Cada cita gestionada sin proceso suele consumir entre 8 y 15 mensajes. Si recibes 10 solicitudes de cita al día y cada conversación dura 5 minutos en total, son 50 minutos diarios solo en gestionar entradas. Eso es más de 17 horas al mes dedicadas a ping-pong de WhatsApp, sin contar los mensajes fuera de horario ni las citas que se caen por falta de seguimiento.</p><p>El coste mayor no es el tiempo: es la cita buena que se pierde porque tardaste dos días en confirmar o porque el contexto se perdió entre canales. Consulta <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> para ver cómo reducir ese desgaste desde el primer mensaje.</p><h2>Modelo mental: los 3 niveles de madurez para agendar citas</h2><p>No hay que llegar al nivel 3 desde el principio. La clave es identificar en qué nivel estás y qué cambio concreto te sube un escalón.</p><h3>Nivel 1 — Manual ordenado</h3><p>Sigues gestionando citas a mano, pero con reglas mínimas: un guion de primer mensaje, 3-5 datos que pides siempre antes de abrir la agenda y un canal de cierre definido (normalmente WhatsApp). Funciona bien con hasta 5-8 solicitudes de cita al día si una sola persona las gestiona.</p><h3>Nivel 2 — Semi-sistematizado</h3><p>Tienes una ruta específica para citas separada de la de presupuesto e información. El cliente indica intención desde el primer contacto, tú recoges datos mínimos con un guion o formulario básico y solo abres la agenda cuando ya tienes el contexto necesario. El cierre sigue siendo manual pero con información completa.</p><h3>Nivel 3 — Sistema estructurado (flujo + filtrado)</h3><p>Existe un punto de entrada único (un link compartido en bio, stories, perfil de Google) que abre un asistente conversacional por intención. El cliente indica que quiere cita, responde 3-5 preguntas mínimas y llega a WhatsApp (o email) con toda esa información ya recogida. Tú confirmas disponibilidad en un solo mensaje. Adecuado cuando hay más de 15-20 solicitudes de cita semanales o cuando hay picos frecuentes que desbordan la atención manual.</p><h3>Bloque citable: nivel → qué hacer → errores comunes</h3><table><thead><tr><th>Nivel</th><th>Qué implementar esta semana</th><th>Error típico a evitar</th><th>Señal de que toca subir de nivel</th></tr></thead><tbody><tr><td>Manual ordenado</td><td>Guion de primer mensaje + 4 datos mínimos + canal de cierre</td><td>Preguntar datos en mensajes separados sin guion</td><td>Más de 8 solicitudes/día o dos personas gestionando</td></tr><tr><td>Semi-sistematizado</td><td>Ruta específica de cita + datos antes de mostrar agenda</td><td>Mezclar ruta de cita con ruta de presupuesto</td><td>Más de 15 solicitudes/semana o picos frecuentes</td></tr><tr><td>Sistema estructurado</td><td>Punto de entrada único + flujo por intención + salida a WhatsApp con contexto</td><td>Flujo con demasiados pasos o preguntas innecesarias</td><td>Dobles reservas, contexto perdido entre canales, equipo pequeño desbordado</td></tr></tbody></table><h2>Proceso paso a paso: cómo filtrar antes de agendar</h2><h3>1) Define el canal de cierre (dónde confirmas la cita)</h3><p>Puedes recibir solicitudes por Instagram, Google Business Profile, tu web o WhatsApp, pero solo uno de esos canales debe ser donde confirmas el hueco. En servicios locales, WhatsApp funciona para confirmación rápida; el email, si necesitas trazabilidad o adjuntos (consentimientos, presupuestos previos).</p><h3>2) Identifica los datos mínimos por servicio</h3><p>Antes de diseñar cualquier guion o flujo, responde esta pregunta: ¿qué necesito saber sí o sí antes de poder confirmar hueco? La respuesta suele ser: servicio exacto (no &quot;me interesa algo&quot;), fecha orientativa (para descartar periodos sin plaza), condición clave (duración, requisito previo, zona si aplica) y contacto. Más de 5 datos en el primer paso aumenta el abandono. Consulta la guía de <a href=\"/blog/datos-minimos-para-agendar-cita/\">datos mínimos para agendar una cita sin ida y vuelta</a> para ver qué pedir según el tipo de servicio.</p><h3>3) Crea una ruta específica para intención de cita</h3><p>El cliente que quiere agendar necesita un camino diferente al que quiere presupuesto o información. Si mezclas las tres intenciones en el mismo hilo de mensajes, el proceso se alarga y el contexto se pierde. Separa desde el primer mensaje: &quot;¿Qué buscas? Cita, presupuesto o información.&quot;</p><h3>4) Escribe el primer mensaje guía</h3><p>Este mensaje no es un interrogatorio. Es una puerta que encamina al cliente al siguiente paso en un solo movimiento.</p><blockquote><p>&quot;¡Hola! Para reservar hueco necesito 3 datos rápidos: ¿qué servicio buscas, qué fechas te van mejor y hay algo concreto que deba saber antes? Con eso te confirmo disponibilidad directamente.&quot;</p></blockquote><p>La clave es el microcopy: explica por qué preguntas (&quot;para confirmar disponibilidad directamente&quot;) y pon un límite (&quot;3 datos rápidos&quot;). Eso reduce el abandono.</p><h3>5) No abras la agenda hasta tener el contexto mínimo</h3><p>Este es el cambio más importante. En lugar de preguntar &quot;¿qué día te viene bien?&quot; antes de saber el servicio, invierte el orden. Primero recoge servicio + condición básica, luego compruebas disponibilidad, luego propones opciones.</p><h3>6) Filtra los no encajan antes del chat final</h3><p>Si el cliente describe un servicio que no ofreces, una fecha en un periodo cerrado o una condición que no puedes cumplir, comunícalo en el flujo antes de llegar a la confirmación. Eso ahorra tiempo a los dos.</p><h3>7) Implementa un punto de entrada único (cuando el volumen lo pida)</h3><p>En lugar de &quot;escríbeme por DM&quot;, un link compartido en bio, stories y perfil de Google abre una conversación estructurada por intención. El cliente llega a WhatsApp con los datos ya recogidos. Puedes ver cómo diseñar eso en <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente: cómo convertirlo en un sistema</a>.</p><h3>8) Cierra con contexto y un único paso de acción</h3><p>El mensaje de confirmación ideal incluye: resumen de lo que el cliente indicó, el hueco propuesto (con fecha y hora), y una sola acción (&quot;confirma con un sí o propón alternativa&quot;). Sin preguntas abiertas. Sin &quot;dime qué prefieres&quot; sin opciones concretas.</p><blockquote><p>&quot;Perfecto. Tengo hueco el martes 4 a las 11h para [servicio]. ¿Lo confirmamos?&quot;</p></blockquote><p>Si quieres ver el flujo completo desde la consulta inicial hasta la confirmación, revisa <a href=\"/blog/flujo-ideal-reserva-negocio-local/\">el flujo ideal para reservar en un negocio local</a>.</p><h2>Errores y anti-patrones en la gestión de citas</h2><ol><li><strong>Mostrar disponibilidad antes de saber el servicio.</strong> El cliente elige un hueco y luego describes el servicio, que no encaja con esa duración. Corrección: servicio primero, agenda después siempre.</li><li><strong>Preguntar cada dato en un mensaje separado.</strong> Genera conversaciones de 15 mensajes para recoger 4 datos. Corrección: un mensaje con 3-4 preguntas agrupadas o un guion de primer mensaje estructurado.</li><li><strong>No separar la ruta de cita de la de presupuesto.</strong> El cliente que quiere precio termina en un hilo de agenda y viceversa. Corrección: primera pregunta de clasificación de intención.</li><li><strong>Dar precio o confirmar disponibilidad sin contexto.</strong> El cliente acepta, luego añade condiciones que cambian todo. Corrección: nunca confirmes sin servicio exacto y condición básica.</li><li><strong>Pedir datos sensibles o excesivos en el primer paso.</strong> DNI, historial, referencias antes de confirmar interés real. Corrección: en el primer paso, solo lo mínimo para confirmar hueco.</li><li><strong>No tener microcopy que explique por qué preguntas.</strong> El cliente siente que le interrogan y abandona. Corrección: &quot;Te hago 3 preguntas para confirmarte disponibilidad en un mensaje.&quot;</li><li><strong>Dejar citas tentativas sin seguimiento.</strong> &quot;Te confirmo mañana&quot; y nunca confirmas. Corrección: si no puedes confirmar en el momento, da una hora concreta de respuesta.</li><li><strong>Mezclar canales sin transición clara.</strong> El cliente habla por DM, luego por WhatsApp, y en cada canal repite la misma información. Corrección: un canal de cierre definido y un mensaje de transición que incluya el contexto ya recogido.</li></ol><h2>Cuándo sí y cuándo no montar un flujo de citas</h2><h3>Cuándo sí tiene sentido</h3><ul><li>Recibes más de 8-10 solicitudes de cita a la semana de forma recurrente.</li><li>Tu servicio tiene variables que cambian la disponibilidad (duración, profesional asignado, requisito previo).</li><li>Te llegan solicitudes por más de un canal simultáneamente.</li><li>Notas que pierdes citas por tardar en confirmar o por pedir datos en mensajes separados.</li><li>Hay picos (fines de semana, lanzamientos, temporadas) donde el volumen desborda.</li><li>Más de una persona gestiona citas y cada una lo hace de forma diferente.</li></ul><h3>Cuándo no (o no todavía)</h3><ul><li>Recibes 2-4 solicitudes de cita a la semana. El manual ordenado funciona sin fricción.</li><li>Cada cita requiere una conversación larga y consultiva antes de poder agendar. El filtrado previo no simplifica, solo añade un paso.</li><li>Tu servicio es tan variable que no existe un conjunto de datos mínimos repetibles.</li><li>El problema real es que no te llegan solicitudes, no que no puedas gestionarlas. Un flujo de citas no arregla la captación.</li></ul><h2>Toolkit: recursos para implementarlo</h2><p>Estas piezas te dan los elementos concretos para construir el flujo sin inventar desde cero:</p><ul><li>Qué datos pedir por tipo de servicio: <a href=\"/blog/datos-minimos-para-agendar-cita/\">Datos mínimos para agendar una cita sin ida y vuelta (checklist)</a></li><li>Cómo organizar el flujo completo de reserva: <a href=\"/blog/flujo-ideal-reserva-negocio-local/\">El flujo ideal para reservar en un negocio local: de consulta a cita en 4 pasos</a></li><li>Filtrar antes de que lleguen al chat: <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Cómo filtrar y cualificar consultas antes de responder por WhatsApp</a></li><li>Convertir el link en bio en un sistema real: <a href=\"/blog/link-en-bio-para-atencion-clientes/\">Link en bio para atención al cliente: cómo convertirlo en un sistema (no en un menú)</a></li></ul><h2>El siguiente paso (si lo necesitas)</h2><p>Cuando el problema es el ida y vuelta de mensajes para agendar citas, lo que más ayuda no es una herramienta de agenda: es un punto de entrada que recoja los datos mínimos antes de que el cliente llegue al chat final. Así tú confirmas disponibilidad en un único mensaje con todo el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: reciben la solicitud de cita desde Instagram, WhatsApp o Google, hacen las preguntas mínimas por servicio y redirigen a WhatsApp con el contexto ya estructurado, para que confirmes sin volver a preguntar nada. No es para todos los casos: si recibes pocas solicitudes o tu proceso de citas requiere conversación consultiva larga desde el inicio, probablemente no lo necesitas aún.</p><h3>Límites honestos</h3><ul><li>No arregla la captación si el problema es que no te llegan solicitudes.</li><li>No sustituye tu criterio profesional para aceptar o rechazar una cita.</li><li>No funciona bien cuando cada servicio es tan distinto que no hay preguntas repetibles.</li><li>El aha moment aparece cuando hay suficiente volumen para notar el caos: normalmente a partir de 20-30 consultas semanales.</li></ul>",
+    "faq": [
+      {
+        "question": "¿Cuántos mensajes es normal intercambiar para agendar una cita?",
+        "answer": "En un proceso sin sistema, entre 8 y 15 mensajes es habitual. Con datos mínimos recogidos antes de ofrecer disponibilidad, debería resolverse en 2-3 mensajes: contexto del cliente, propuesta de hueco y confirmación."
+      },
+      {
+        "question": "¿Qué datos necesito pedir sí o sí antes de confirmar una cita?",
+        "answer": "Servicio exacto, fecha orientativa, condición básica relevante (duración, requisito previo, zona si aplica) y contacto. Si un dato no cambia si puedes dar hueco o no, no lo pidas en el primer paso."
+      },
+      {
+        "question": "¿Cómo evito que el cliente me diga el servicio después de que yo ya he ofrecido disponibilidad?",
+        "answer": "Invertir el orden: primero preguntas qué servicio busca, luego compruebas agenda, luego ofreces hueco. Nunca preguntes disponibilidad sin saber el servicio."
+      },
+      {
+        "question": "¿Cómo separo en el primer mensaje si el cliente quiere cita, presupuesto o información?",
+        "answer": "Con una pregunta directa de clasificación: '¿Qué buscas? Cita, presupuesto o información.' Según la respuesta, cada ruta tiene su propio flujo y sus propios datos mínimos."
+      },
+      {
+        "question": "¿Qué hago si el cliente me pregunta disponibilidad antes de decirme qué quiere?",
+        "answer": "Redirige antes de responder: 'Para decirte si tenemos hueco necesito saber el servicio y la duración. ¿Qué buscas exactamente?' No abras la agenda hasta tener ese dato."
+      },
+      {
+        "question": "¿Puedo agendar citas solo por Instagram DM sin pasar a WhatsApp?",
+        "answer": "Puedes, pero el contexto se pierde con facilidad y los DM de Instagram no tienen el mismo nivel de trazabilidad. Define un canal de cierre (WhatsApp o email) y usa el DM solo como punto de entrada."
+      },
+      {
+        "question": "¿Cómo paso de Instagram a WhatsApp sin que el cliente tenga que repetir todo?",
+        "answer": "Con un link que recoja los datos mínimos en el intermedio. El cliente llega a WhatsApp con un mensaje preformateado que incluye lo que ya indicó. Así tú no preguntas nada que ya respondió."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas antes de mostrar disponibilidad?",
+        "answer": "Más de 5 preguntas en el primer paso aumenta el abandono de forma notable. Tres a cinco datos mínimos es el rango que funciona: servicio, fecha orientativa y una condición clave."
+      },
+      {
+        "question": "¿Cómo gestiono citas cuando me llegan por WhatsApp y por Instagram a la vez?",
+        "answer": "Unifica la entrada con un link único desde ambos canales. Así todas las solicitudes pasan por el mismo flujo y llegan al mismo canal de cierre con el mismo contexto. Sin eso, cada canal sigue siendo un silo."
+      },
+      {
+        "question": "¿Qué hago si el cliente no cumple los requisitos básicos para el servicio?",
+        "answer": "Comunícalo antes de llegar a la confirmación, no después. Si tienes un flujo con preguntas mínimas, el filtro ocurre ahí y evitas invertir tiempo en una conversación que no va a cerrar."
+      },
+      {
+        "question": "¿Cómo doy seguimiento a citas tentativas que quedan en el limbo?",
+        "answer": "Si no puedes confirmar en el momento, da una hora concreta de respuesta: 'Te confirmo antes de las 18h.' Cada cita tentativa sin fecha de seguimiento es una cita perdida en espera."
+      },
+      {
+        "question": "¿Necesito una herramienta de agenda online para esto?",
+        "answer": "No necesariamente. El problema principal es el orden de la información, no la herramienta de calendario. Puedes resolverlo con un guion de primer mensaje y datos mínimos bien definidos antes de añadir cualquier software."
+      },
+      {
+        "question": "¿Cómo mantengo tono cercano si uso mensajes predefinidos para pedir datos?",
+        "answer": "Con microcopy que explica el motivo: 'Te hago 3 preguntas para confirmarte disponibilidad en un mensaje.' Eso humaniza el proceso y reduce la percepción de formulario frío."
+      },
+      {
+        "question": "¿En qué momento tiene sentido automatizar parte del proceso de citas?",
+        "answer": "Cuando el volumen supera lo que puedes gestionar a mano con consistencia, normalmente a partir de 15-20 solicitudes semanales o cuando hay picos frecuentes. Si el volumen es bajo, el manual ordenado es suficiente."
+      },
+      {
+        "question": "¿Qué métricas miro para saber si mi proceso de citas está funcionando?",
+        "answer": "Tres datos básicos: porcentaje de solicitudes que llegan con los datos mínimos completos, tiempo medio entre solicitud y confirmación, y porcentaje de citas confirmadas sobre solicitudes recibidas."
+      }
+    ]
+  },
+  {
     "slug": "link-en-bio-para-atencion-clientes",
     "title": "Link en bio para atención al cliente: cómo convertirlo en un sistema (no en un menú)",
     "description": "Aprende a diseñar un link en bio que filtre consultas, capture información mínima y derive a WhatsApp con contexto, sin convertirlo en un menú interminable que nadie completa.",
