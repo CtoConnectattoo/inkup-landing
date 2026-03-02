@@ -36,6 +36,12 @@ export function Header() {
               >
                 Precios
               </Link>
+              <Link
+                href="/blog"
+                className="text-sm font-medium text-gray-900 hover:text-black focus:text-black focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 rounded-sm px-1 py-1"
+              >
+                Blog
+              </Link>
               {/* <Link
                 href="/confian"
                 className="text-sm font-medium text-gray-900 hover:text-black focus:text-black focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 rounded-sm px-1 py-1"
@@ -97,6 +103,13 @@ export function Header() {
                     className="text-sm font-medium text-gray-900 hover:text-black focus:text-black focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 rounded-sm px-2 py-1"
                   >
                     Precios
+                  </Link>
+                  <Link
+                    href="/blog"
+                    onClick={() => setOpen(false)}
+                    className="text-sm font-medium text-gray-900 hover:text-black focus:text-black focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 rounded-sm px-2 py-1"
+                  >
+                    Blog
                   </Link>
                   {/* <Link
                     href="/confian"

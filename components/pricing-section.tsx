@@ -1,6 +1,7 @@
 "use client"
 
 import * as React from "react"
+import Link from "next/link"
 import { Check } from "lucide-react"
 import { usePathname } from "next/navigation"
 
@@ -17,6 +18,10 @@ interface PricingTier {
   badgeText?: string
   features: string[]
   isPopular?: boolean
+  isCustom?: boolean
+  customPriceLabel?: string
+  ctaHref?: string
+  ctaLabel?: string
 }
 
 interface PricingSectionProps {
@@ -57,6 +62,23 @@ const pricingTiers: PricingTier[] = [
       "Cancela en cualquier momento",
     ],
   },
+  {
+    name: "Enterprise",
+    monthlyPrice: 0,
+    annualPrice: 0,
+    isCustom: true,
+    customPriceLabel: "A medida",
+    ctaHref: "/demo",
+    ctaLabel: "Reserva tu demo",
+    features: [
+      "Volumen ilimitado de leads",
+      "App a medida",
+      "Integraciones personalizadas",
+      "SLA dedicado",
+      "Gestor de cuenta asignado",
+      "Soporte prioritario",
+    ],
+  },
 ]
 
 export function PricingSection({
@@ -93,6 +115,8 @@ export function PricingSection({
       return isAnnual
         ? "https://buy.stripe.com/8x2aEYd3d8mJ1rYeLtbZe1i" // Plan Top anual
         : "https://buy.stripe.com/bJe6oI9R19qN5Ie1YHbZe1g" // Plan Top mensual
+    } else if (tier === "Enterprise") {
+      return "/demo"
     }
     // Updated signup URL to include /auth path
     return "https://hi.inkup.io/auth/signup"
@@ -110,12 +134,18 @@ export function PricingSection({
         </div>
 
         <div
-          className={`grid gap-8 max-w-4xl mx-auto ${filteredTiers.length === 1 ? "md:grid-cols-1 justify-items-center" : "md:grid-cols-2"}`}
+          className={`grid gap-8 mx-auto ${
+            filteredTiers.length === 1
+              ? "md:grid-cols-1 justify-items-center max-w-md"
+              : filteredTiers.length >= 3
+                ? "md:grid-cols-2 lg:grid-cols-3 max-w-5xl"
+                : "md:grid-cols-2 max-w-4xl"
+          }`}
         >
           {filteredTiers.map((tier) => (
             <Card
               key={tier.name}
-              className={`relative bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 border-gray-700/50 shadow-xl ${
+              className={`relative flex flex-col h-full bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 border-gray-700/50 shadow-xl ${
                 tier.isPopular ? "ring-2 ring-purple-600/50" : ""
               } ${filteredTiers.length === 1 ? "max-w-md w-full" : ""}`}
             >
@@ -127,32 +157,42 @@ export function PricingSection({
               <CardHeader>
                 <CardTitle className="text-xl text-white">{tier.name}</CardTitle>
               </CardHeader>
-              <CardContent className="space-y-6">
+              <CardContent className="flex-1 flex flex-col space-y-6">
                 <div className="space-y-2">
-                  {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
-                    <div className="flex items-baseline text-gray-500">
-                      <span className="text-2xl font-bold line-through">
-                        €{effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice}
+                  {tier.isCustom ? (
+                    <div className="flex items-baseline">
+                      <span className="text-4xl font-bold text-white">
+                        {tier.customPriceLabel ?? "A medida"}
                       </span>
-                      <span className="ml-2 text-sm">/mes</span>
                     </div>
-                  )}
-                  <div className="flex items-baseline">
-                    <span className="text-4xl font-bold text-white">$</span>
-                    <span className="text-5xl font-bold text-white">
-                      {effectivePeriod ? tier.annualPrice : tier.monthlyPrice}
-                    </span>
-                    <span className="ml-2 text-gray-300">/mes</span>
-                  </div>
-                  {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
-                    <div className="text-emerald-400 font-semibold text-sm">
-                      Ahorras €
-                      {pathname === "/landing-tattoo" && effectivePeriod
-                        ? "84"
-                        : effectivePeriod
-                          ? (tier.oldAnnualPrice || 0) - tier.annualPrice
-                          : (tier.oldMonthlyPrice || 0) - tier.monthlyPrice}
-                    </div>
+                  ) : (
+                    <>
+                      {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
+                        <div className="flex items-baseline text-gray-500">
+                          <span className="text-2xl font-bold line-through">
+                            €{effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice}
+                          </span>
+                          <span className="ml-2 text-sm">/mes</span>
+                        </div>
+                      )}
+                      <div className="flex items-baseline">
+                        <span className="text-4xl font-bold text-white">$</span>
+                        <span className="text-5xl font-bold text-white">
+                          {effectivePeriod ? tier.annualPrice : tier.monthlyPrice}
+                        </span>
+                        <span className="ml-2 text-gray-300">/mes</span>
+                      </div>
+                      {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
+                        <div className="text-emerald-400 font-semibold text-sm">
+                          Ahorras €
+                          {pathname === "/landing-tattoo" && effectivePeriod
+                            ? "84"
+                            : effectivePeriod
+                              ? (tier.oldAnnualPrice || 0) - tier.annualPrice
+                              : (tier.oldMonthlyPrice || 0) - tier.monthlyPrice}
+                        </div>
+                      )}
+                    </>
                   )}
                 </div>
                 <ul className="space-y-3">
@@ -175,9 +215,18 @@ export function PricingSection({
                   }`}
                   asChild
                 >
-                  <a href={getPaymentLink(tier.name, effectivePeriod)} target="_blank" rel="noopener noreferrer">
-                    Unirme ahora
-                  </a>
+                  {(() => {
+                    const href = tier.ctaHref ?? getPaymentLink(tier.name, effectivePeriod)
+                    const label = tier.ctaLabel ?? "Unirme ahora"
+                    const isInternal = href.startsWith("/")
+                    return isInternal ? (
+                      <Link href={href}>{label}</Link>
+                    ) : (
+                      <a href={href} target="_blank" rel="noopener noreferrer">
+                        {label}
+                      </a>
+                    )
+                  })()}
                 </Button>
               </CardFooter>
             </Card>

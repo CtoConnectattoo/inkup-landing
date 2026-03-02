@@ -16,7 +16,7 @@ export function BlogCta({
   description = "Activa tu asistente en minutos y centraliza WhatsApp, Instagram y web con un flujo claro.",
   buttonLabel = "Crear cuenta gratis",
   href = "https://hi.inkup.io/auth/signup",
-  demoHref = "https://hi.inkup.io/demo",
+  demoHref = "/demo",
   demoLabel = "Reserva una demo",
 }: BlogCtaProps) {
   return (
