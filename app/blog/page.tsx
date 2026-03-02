@@ -29,8 +29,11 @@ export const metadata: Metadata = {
 }
 
 export default function BlogPage() {
-  const featuredPost = blogPosts.find((post) => post.featured)
-  const regularPosts = blogPosts.filter((post) => !post.featured)
+  const postsSortedByDate = [...blogPosts].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  )
+  const featuredPost = postsSortedByDate[0] ?? null
+  const regularPosts = postsSortedByDate.slice(1)
 
   return (
     <div className="min-h-screen bg-white">
