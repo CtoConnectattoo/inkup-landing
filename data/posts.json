@@ -1,5 +1,111 @@
 [
   {
+    "slug": "como-gestionar-picos-mensajes-fines-semana",
+    "title": "Cómo gestionar picos de mensajes (findes, campañas, temporada alta)",
+    "description": "Protocolos concretos para no perder leads cuando te llegan 40 mensajes en un fin de semana, después de una campaña o en temporada alta. Sin contratar a nadie y sin CRM.",
+    "excerpt": "Gestionar picos de mensajes es activar un flujo de pre-cualificación que capture datos y reduzca conversaciones repetidas mientras priorizas leads listos.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-gestionar-picos-mensajes-fines-semana.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-03",
+    "readingTime": "8 min",
+    "tags": [
+      "gestion-consultas",
+      "picos-mensajes",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "temporada-alta"
+    ],
+    "quickAnswerSubtitle": "Gestionar picos de mensajes en WhatsApp e Instagram (findes, campañas, temporada alta)",
+    "quickAnswer": [
+      "**Activa una autorespuesta con ruta clara** — antes del pico, no durante. Un mensaje que guía a info, presupuesto o cita reduce el caos sin que estés disponible en tiempo real.",
+      "**Captura datos mínimos antes de responder** — quien llegue con servicio, fecha y contexto va primero. Quien solo manda 'hola' espera.",
+      "**Define una ventana de respuesta y comunícala** — 'Respondo en 24–48 h en orden de llegada' elimina la presión y reduce los mensajes de seguimiento ansiosos.",
+      "**Prioriza por señales de intención, no por orden de llegada** — el que da datos concretos está más cerca de cerrar que el que lleva tres horas esperando con un 'precio?'.",
+      "**Cierra los que no avanzan antes de abrir los nuevos** — acumular conversaciones abiertas sin datos es lo que colapsa el sistema en picos."
+    ],
+    "oneLineDefinition": "Gestionar picos de mensajes es tener activado un protocolo previo (autorespuesta, captura de datos, reglas de priorización) para que los leads con intención real no se pierdan mientras el volumen sube.",
+    "sections": [
+      "Por qué los picos son el momento donde más leads se pierden",
+      "SOP mínimo para un pico: qué activar antes de que llegue",
+      "Cómo priorizar cuando ya estás dentro del caos",
+      "Scripts listos para picos",
+      "Errores que se repiten siempre en temporada alta",
+      "Cuándo este protocolo no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Protocolo de pico de mensajes en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Autorespuesta de WhatsApp Business",
+        "Respuestas rápidas guardadas",
+        "Link de entrada único",
+        "Reglas de priorización escritas"
+      ],
+      "steps": [
+        {
+          "name": "Activar autorespuesta con ruta",
+          "text": "Redacta un mensaje de bienvenida que ofrezca 2–3 rutas (info, presupuesto, cita) y dirija a un paso concreto. Actívalo antes del pico."
+        },
+        {
+          "name": "Preparar respuestas rápidas",
+          "text": "Escribe 5–8 respuestas guardadas para las preguntas que sabes que van a llegar: precio, disponibilidad, ubicación, requisitos, tiempo de respuesta."
+        },
+        {
+          "name": "Definir reglas de priorización",
+          "text": "Escribe en un sitio visible (papel, nota, Notion) qué hace que un mensaje vaya primero: da servicio + fecha + contexto = respondo hoy."
+        },
+        {
+          "name": "Comunicar ventana de respuesta",
+          "text": "Pon en Stories, bio o en la propia autorespuesta el tiempo estimado. Elimina la ambigüedad de 'cuándo me contestarán'."
+        },
+        {
+          "name": "Hacer barrido por bloques",
+          "text": "No respondas en tiempo real. Abre WhatsApp dos o tres veces al día en bloques. Prioriza los que tienen datos. Cierra los que no avanzan."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué los picos son el momento donde más leads se pierden</h2><p>El viernes por la tarde publicas en Stories, el sábado por la mañana lanzas una campaña o simplemente es la primera semana de septiembre. En dos horas tienes 30 mensajes. El lunes intentas recuperar el hilo y tres de esos leads ya han reservado con otra persona.</p><p>El problema no es el volumen. Es que sin protocolo previo, el volumen convierte lo urgente en invisible. Respondes en orden de llegada, sin saber quién está listo para cerrar y quién solo miraba precio mientras comparaba cuatro opciones más.</p><p>El coste real no es el tiempo que tardas en contestar: es el lead con fecha, servicio claro y ganas de reservar que se fue porque no lo viste a tiempo. <a href=\"/blog/gestion-consultas-clientes/\">Gestionar consultas de clientes</a> en condiciones normales ya tiene su lógica; en picos, esa lógica necesita reglas escritas antes de que empiece el caos.</p><h2>SOP mínimo para un pico: qué activar antes de que llegue</h2><p>Un pico predecible (fin de semana, campaña programada, fecha de apertura de agenda) se puede preparar. El error más común es intentar gestionarlo en tiempo real cuando ya estás dentro.</p><h3>Checklist de preparación (activa antes del pico)</h3><ol><li><strong>Autorespuesta activa en WhatsApp Business</strong> — con rutas claras: info, presupuesto, cita. No un menú de ocho opciones. Dos o tres frases y un paso concreto.</li><li><strong>Respuestas rápidas guardadas</strong> — las 5–8 preguntas que sabes que van a llegar. Precio orientativo, disponibilidad, ubicación, requisitos, tiempo de espera. Guárdalas con atajos de teclado.</li><li><strong>Ventana de respuesta comunicada</strong> — en Stories, en bio, en la propia autorespuesta. '24–48 horas en orden de intención' es más honesto que silencio y elimina los mensajes de 'oye, ¿me has visto?'</li><li><strong>Reglas de priorización escritas</strong> — papel, nota de voz, lo que sea. El criterio: quién va primero no es quien llegó antes, sino quien dio más datos. Servicio + fecha + contexto = hoy.</li><li><strong>Link de entrada único preparado</strong> — si usas un link en bio o Stories que capture datos antes del chat, el pico llega ya filtrado. El cliente que entra con servicio, zona y fecha no te obliga a preguntar lo básico.</li><li><strong>Mensaje de cierre preparado</strong> — para conversaciones que no avanzan. 'Si me necesitas más adelante, aquí estoy' es suficiente. No persigas en pico.</li></ol><h3>Bloque citable: SOP de pico en tres fases</h3><table><thead><tr><th>Fase</th><th>Cuándo</th><th>Qué hacer</th><th>Error a evitar</th></tr></thead><tbody><tr><td>Antes del pico</td><td>24–48 h antes</td><td>Activar autorespuesta, preparar respuestas rápidas, comunicar ventana</td><td>Esperar a que lleguen los mensajes para improvisar</td></tr><tr><td>Durante el pico</td><td>En bloques, no en tiempo real</td><td>Priorizar por datos, responder con contexto, cerrar sin datos</td><td>Responder en orden de llegada sin filtrar</td></tr><tr><td>Después del pico</td><td>48–72 h tras el pico</td><td>Revisar qué se perdió, ajustar autorespuesta, medir conversión</td><td>Asumir que funcionó bien sin revisar</td></tr></tbody></table><h2>Cómo priorizar cuando ya estás dentro del caos</h2><p>Si el pico ya llegó sin protocolo previo, el objetivo es recuperar el control sin perder los leads con más intención. <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">Priorizar consultas urgentes frente a curiosos</a> no es complejo: se reduce a leer dos líneas de cada conversación y aplicar una regla simple.</p><h3>Regla de priorización en pico</h3><ul><li><strong>Prioridad alta</strong> — Da servicio concreto + fecha aproximada + algún contexto. Responde hoy aunque sea con un mensaje corto que confirme que lo has visto.</li><li><strong>Prioridad media</strong> — Pregunta precio o disponibilidad sin más datos. Responde con autorespuesta o respuesta rápida que pida contexto mínimo.</li><li><strong>Prioridad baja / cierre</strong> — Solo 'hola', 'info' o sin respuesta tras el primer contacto. Cierre amable y guardado. No persigas en pico.</li></ul><p>El barrido se hace en bloques, no en tiempo real. Abrir WhatsApp cada diez minutos durante un fin de semana es agotador y contraproducente: fragmenta el foco y no mejora los tiempos de respuesta reales.</p><h2>Scripts listos para picos</h2><p>Estos scripts están pensados para guardar como respuestas rápidas o como base de tu autorespuesta. Ajusta el tono a tu sector.</p><h3>Script 1 — Autorespuesta de bienvenida en pico</h3><blockquote><p>&quot;Hola, gracias por escribir. Estoy gestionando muchas consultas estos días y respondo en 24–48 horas. Para que pueda ayudarte mejor cuando llegue tu turno, dime: ¿qué servicio te interesa, cuándo aproximadamente y para quién es? Con eso te respondo directo, sin vueltas.&quot;</p></blockquote><h3>Script 2 — Respuesta rápida para 'precio?' sin contexto</h3><blockquote><p>&quot;Para darte un precio real necesito tres datos: qué servicio exactamente, cuándo más o menos y algún detalle del proyecto. Con eso te doy cifras concretas en la próxima respuesta.&quot;</p></blockquote><h3>Script 3 — Cierre de conversación sin avance</h3><blockquote><p>&quot;Veo que no has podido responder. Sin problema, aquí estoy cuando lo necesites. Si en el futuro retomas el proyecto, escríbeme y retomamos desde aquí.&quot;</p></blockquote><h3>Script 4 — Confirmación rápida para lead con datos</h3><blockquote><p>&quot;Perfecto, te he visto. Tengo tu consulta anotada con el detalle que me das. En las próximas horas te respondo con disponibilidad y precio. Gracias por la paciencia.&quot;</p></blockquote><p>Si quieres reducir el volumen de preguntas repetidas antes de que lleguen a tu bandeja, <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">reducir preguntas repetidas en WhatsApp e Instagram</a> tiene un enfoque más sistemático para eso.</p><h2>Errores que se repiten siempre en temporada alta</h2><ol><li><strong>Responder en orden de llegada sin filtrar</strong> — El resultado es dedicar 20 minutos al curioso que llegó primero y dejar sin respuesta al lead con fecha y servicio claro que llegó dos horas después. Corrección: barrido rápido primero, priorización después.</li><li><strong>No tener autorespuesta activa</strong> — El silencio genera ansiedad y mensajes de seguimiento que multiplican el caos. Corrección: aunque sea un mensaje simple, comunica que lo has visto y cuándo responderás.</li><li><strong>Intentar responder en tiempo real</strong> — Imposible en pico sin equipo. Lo único que consigues es respuestas precipitadas, errores y agotamiento. Corrección: bloques de 30–45 minutos, dos o tres veces al día.</li><li><strong>Dar precio antes de tener contexto</strong> — En pico, la presión de contestar rápido lleva a dar cifras que luego generan malentendidos. Corrección: precio orientativo siempre condicionado a 2–3 variables.</li><li><strong>No cerrar conversaciones que no avanzan</strong> — Acumular 15 conversaciones abiertas con 'hola' sin respuesta colapsa la bandeja y hace que pierdas de vista las que sí avanzan. Corrección: cierre amable tras dos intentos sin respuesta.</li><li><strong>Usar el mismo flujo para pico y para días normales</strong> — En días normales puedes permitirte conversaciones más largas. En pico necesitas reglas más estrictas de priorización. Corrección: protocolo de pico activado solo cuando el volumen lo justifica.</li></ol><h2>Cuándo este protocolo no es suficiente</h2><p>Si llevas varios picos seguidos y la autorespuesta ya no absorbe el volumen, si pierdes leads que tuvieron los datos correctos pero se fueron porque tardaste demasiado, o si el problema ocurre todos los fines de semana sin excepción, el protocolo manual tiene un techo.</p><p>En ese punto, lo que hace falta es que la captura de datos ocurra antes del chat, no durante. El cliente llega a WhatsApp con servicio, fecha y contexto ya recogidos, y tú solo tienes que confirmar o proponer. <a href=\"/blog/como-responder-mas-rapido-sin-equipo/\">Responder más rápido sin equipo</a> tiene el sistema mínimo para montar eso sin complicarte.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la información mínima del cliente antes de que llegue a tu WhatsApp, a través de un link único que puedes poner en bio o Stories. No es para todos los casos — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún. Pero si los picos son frecuentes y las preguntas repetidas, reduce el tiempo que pasas recogiendo datos básicos durante el caos.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántos mensajes al día justifican activar un protocolo de pico?",
+        "answer": "No hay un número exacto, pero cuando recibes más mensajes de los que puedes responder en dos bloques de 30 minutos, ya tienes un pico real. En servicios locales, suele ocurrir a partir de 20–25 mensajes en un mismo día."
+      },
+      {
+        "question": "¿Qué hago si el pico llega sin haberlo preparado?",
+        "answer": "Primero activa una autorespuesta aunque sea simple. Luego haz un barrido rápido para identificar quién tiene datos (servicio, fecha, contexto) y respóndeles primero. Los demás esperan o reciben la autorespuesta."
+      },
+      {
+        "question": "¿Cómo comunicar que voy a tardar en responder sin perder al cliente?",
+        "answer": "Sé concreto con el tiempo: '24–48 horas' es mejor que 'en breve'. Y explica brevemente por qué: 'estoy gestionando muchas consultas estos días'. La honestidad retiene más que el silencio."
+      },
+      {
+        "question": "¿Puedo usar la misma autorespuesta siempre o la cambio en picos?",
+        "answer": "Puedes tener dos versiones: una estándar y una de pico que ajuste el tiempo de respuesta y pida contexto mínimo desde el primer mensaje. Activa la de pico cuando el volumen sube."
+      },
+      {
+        "question": "¿Qué hago con los mensajes de seguimiento del tipo 'oye, ¿me has visto?'?",
+        "answer": "Se eliminan casi por completo si la autorespuesta confirma recepción y da tiempo estimado. Si alguien insiste, una respuesta corta de confirmación ('sí, te veo en el turno de hoy') cierra el loop."
+      },
+      {
+        "question": "¿Cómo evito que el pico me afecte mentalmente además de operativamente?",
+        "answer": "Define el bloque de respuesta y ciérralo cuando termina. No dejes WhatsApp abierto todo el día durante un pico: la sensación de 'siempre hay más' es tan agotadora como el trabajo real. Dos o tres bloques al día con límite de tiempo funcionan mejor que estar disponible constantemente."
+      },
+      {
+        "question": "¿Tiene sentido lanzar una campaña si sé que no puedo gestionar el volumen?",
+        "answer": "Solo si tienes el protocolo activo antes de lanzar. Una campaña sin sistema de recepción convierte dinero en leads perdidos. Prepara la autorespuesta, las respuestas rápidas y las reglas de priorización antes de pulsar publicar."
+      },
+      {
+        "question": "¿Qué métricas miro después de un pico para saber si funcionó?",
+        "answer": "Tres: cuántos mensajes llegaron, cuántos tenían datos suficientes para responder y cuántos cerraron (cita o presupuesto aceptado). Si la proporción de cierre es baja, el problema suele estar en la priorización o en la tardanza con leads de alta intención."
+      }
+    ]
+  },
+  {
     "slug": "como-organizar-mensajes-clientes-sin-crm",
     "title": "Cómo organizar mensajes de clientes sin CRM (sistema simple)",
     "description": "Sistema práctico para organizar mensajes de clientes desde WhatsApp e Instagram sin instalar un CRM: punto de entrada único, tres carpetas mentales y plantillas de respuesta con contexto.",
