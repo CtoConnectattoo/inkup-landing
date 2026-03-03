@@ -1,5 +1,148 @@
 [
   {
+    "slug": "cualificar-filtrar-consultas-clientes",
+    "title": "Cómo filtrar y cualificar consultas antes de responder por WhatsApp",
+    "description": "Aprende a cualificar y filtrar consultas entrantes antes de invertir tiempo en responder: preguntas mínimas, rutas por intención y un sistema ligero para separar clientes potenciales de curiosos en WhatsApp e Instagram.",
+    "excerpt": "Cualificar consultas es pedir la información mínima correcta antes de conversar para separar clientes potenciales de curiosos y evitar idas y vueltas. Un proceso simple: definir qué necesitas saber, cuándo pedirlo y qué hacer con cada respuesta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/cualificar-filtrar-consultas-clientes.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-03",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion-leads",
+      "filtrar-consultas",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Cómo filtrar y cualificar consultas antes de responder por WhatsApp",
+    "quickAnswer": [
+      "**Define qué información cambia tu respuesta** — Solo pide los datos que modifican lo que vas a decir o hacer. Nada más.",
+      "**Separa intención antes de conversar** — Información, presupuesto o cita son rutas distintas que requieren respuestas distintas. No las mezcles.",
+      "**Filtra curiosos de clientes potenciales reales** — Un cliente que da fecha, servicio y contexto está listo. Uno que solo pregunta precio sin datos no lo está todavía.",
+      "**Usa microcopy para que el filtrado no parezca interrogatorio** — Una frase que explica por qué preguntas reduce abandono y genera confianza.",
+      "**El filtrado ocurre antes del chat, no dentro** — Si cualificas dentro de WhatsApp a base de preguntas sueltas, siempre vas tarde y pierdes contexto."
+    ],
+    "oneLineDefinition": "Cualificar y filtrar consultas es recoger la información mínima necesaria antes de responder para separar clientes potenciales reales de curiosos, evitar idas y vueltas y dar una respuesta útil desde el primer mensaje.",
+    "sections": [
+      "Qué es cualificar consultas (y qué no es)",
+      "Por qué la mayoría responde sin filtrar y qué cuesta",
+      "Modelo mental: 3 niveles de cualificación",
+      "Proceso paso a paso para filtrar antes de responder",
+      "Preguntas mínimas: plantilla y matriz de filtros",
+      "Errores comunes al cualificar (y cómo corregirlos)",
+      "Cuándo sí y cuándo no tiene sentido filtrar",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar consultas antes de responder en 8 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Canal final definido",
+        "Lista de preguntas mínimas por servicio",
+        "Rutas por intención",
+        "Microcopy de introducción"
+      ],
+      "steps": [
+        {
+          "name": "Identifica qué datos cambian tu respuesta",
+          "text": "Lista los 3-5 datos sin los que no puedes dar precio, disponibilidad o información útil."
+        },
+        {
+          "name": "Define las intenciones posibles",
+          "text": "Reduce a máximo 3 rutas: información, presupuesto y cita. Cada una tiene preguntas distintas."
+        },
+        {
+          "name": "Diseña las preguntas mínimas por ruta",
+          "text": "Para cada intención, escribe las preguntas imprescindibles. Si un dato no cambia la decisión, no lo pidas aún."
+        },
+        {
+          "name": "Crea el microcopy de entrada",
+          "text": "Una frase que explique por qué preguntas antes de responder. Reduce abandono y genera confianza."
+        },
+        {
+          "name": "Define el punto de entrada",
+          "text": "Decide dónde ocurre el filtrado: primer mensaje en WhatsApp, DM de Instagram o un link previo que recoge los datos."
+        },
+        {
+          "name": "Establece reglas de priorización",
+          "text": "Cliente con fecha + servicio + contexto = prioridad alta. Solo precio sin datos = pide contexto primero."
+        },
+        {
+          "name": "Diseña la transición al canal final",
+          "text": "Cuando el cliente llega a WhatsApp, debe traer el contexto ya recogido para que no tengas que volver a preguntar lo básico."
+        },
+        {
+          "name": "Cierra lo que no avanza",
+          "text": "Si tras 2 intentos no hay respuesta, cierre amable. No persigas: el que va en serio responde."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué es cualificar consultas (y qué no es)</h2><h3>Definición práctica</h3><p>Cualificar consultas es pedir la información mínima correcta antes de conversar para separar clientes potenciales de curiosos y evitar idas y vueltas. No es hacer un interrogatorio. No es poner trabas. Es saber, antes de invertir 10 minutos en una conversación, si tiene sentido hacerlo.</p><p>En servicios, el problema no suele ser falta de mensajes. Es que la mayoría de esos mensajes llegan sin contexto: \"precio\", \"hola\", \"info\", \"tenéis hueco\". Responder sin filtrar esos mensajes es trabajar en modo reactivo permanente, donde el cliente manda y tú obedeces.</p><h3>Qué NO es cualificar (para evitar confusiones)</h3><ul><li>No es rechazar clientes: es decidir en qué orden y con qué información invertir tu tiempo.</li><li>No es automatizar la venta: en servicios, el cierre sigue siendo humano. El filtrado es la capa previa.</li><li>No es un interrogatorio de 15 preguntas: si pides demasiado, el cliente abandona.</li><li>No es un CRM ni un sistema complejo: puedes empezar con 3 preguntas bien elegidas y un primer mensaje claro.</li><li>No arregla un problema de captación: si no te escriben, el filtrado no sirve de nada. Solo funciona cuando hay consultas que gestionar.</li></ul><h3>Cuándo aparece la necesidad de filtrar</h3><p>El momento en que el filtrado empieza a tener sentido es cuando alguna de estas situaciones se vuelve cotidiana:</p><ul><li>Recibes el mismo tipo de pregunta varias veces al día (precio, disponibilidad, requisitos).</li><li>Acabas en conversaciones de 20 mensajes para cerrar algo que podría resolverse en 3.</li><li>Inviertes tiempo en gente que al final no encaja (no cumple requisitos, solo mira precio, no tiene presupuesto).</li><li>Llegas a WhatsApp sin saber qué quiere exactamente el cliente y tienes que volver a preguntar todo.</li><li>Recibes mensajes por Instagram y WhatsApp a la vez y pierdes el contexto entre canales.</li></ul><h2>Por qué la mayoría responde sin filtrar y qué cuesta</h2><h3>El patrón más común</h3><p>La mayoría de negocios de servicios responde como si cada mensaje fuera urgente. DM de Instagram → respuesta inmediata. WhatsApp → respuesta inmediata. Sin preguntar qué quiere el cliente, sin saber si encaja, sin recoger el contexto mínimo. El resultado es una conversación que empieza desde cero cada vez.</p><p>Este patrón tiene un coste real que pocas veces se calcula. Cada conversación sin contexto previo necesita 3-5 preguntas adicionales antes de poder dar una respuesta útil. Si tienes 15 consultas al día, eso son entre 45 y 75 preguntas adicionales que podrías haber evitado.</p><h3>Checklist: señales de que no estás filtrando</h3><ol><li>Recibes mensajes con solo \"precio\" o \"info\" y no sabes por dónde empezar.</li><li>Das presupuesto y luego el cliente dice \"ah, yo quería otra cosa\".</li><li>Tienes conversaciones abiertas que llevan días sin avanzar.</li><li>Pides los mismos datos una y otra vez en cada conversación nueva.</li><li>Tardas en responder porque no sabes si el cliente es real o solo está mirando.</li><li>Sientes que estás disponible todo el tiempo pero conviertes poco.</li><li>Los mensajes que llegan a WhatsApp no traen ningún contexto: empiezas desde cero.</li><li>Inviertes el mismo tiempo en un cliente que cierra y en uno que desaparece.</li></ol><p>Si cumples 3 o más de estas señales, el problema no es velocidad de respuesta: es falta de filtrado previo. Puedes ver más sobre el coste operativo de responder sin sistema en <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a>.</p><h3>El coste real (sin inventar cifras)</h3><p>No hace falta calcular con precisión para entender el impacto. Hay dos tipos de coste:</p><ul><li><strong>Tiempo directo:</strong> cada conversación sin contexto previo requiere más mensajes para llegar al mismo punto. Eso es tiempo que podrías haber usado en tu trabajo principal.</li><li><strong>Coste de oportunidad:</strong> mientras gestionas conversaciones que no van a ningún lado, el cliente que sí encaja puede estar esperando o eligiendo a otro.</li></ul><h2>Modelo mental: 3 niveles de cualificación</h2><p>No necesitas implementarlo todo a la vez. La clave es saber en qué nivel estás y qué cambio concreto te sube al siguiente.</p><h3>Nivel 1 — Preguntas reactivas (sin sistema)</h3><p>Respondes a cada mensaje como llega. Si el cliente pregunta precio, das precio. Si pregunta disponibilidad, miras la agenda. Cada conversación empieza desde cero. No hay patrón ni estructura.</p><p>Cuándo estás aquí: pocas consultas al día, o llevas poco tiempo y todavía no sientes el caos.</p><h3>Nivel 2 — Primer mensaje estructurado (semi-cualificado)</h3><p>Tienes un primer mensaje que guía al cliente hacia una ruta (info, presupuesto o cita) y pide 2-3 datos antes de responder. No es automático, pero sí consistente. Cada conversación empieza con el mismo filtro básico.</p><p>Cuándo subir a este nivel: cuando repites las mismas preguntas en cada conversación o cuando las consultas supean las 10 al día.</p><h3>Nivel 3 — Filtrado estructurado antes del chat</h3><p>El cliente pasa por un punto de entrada (link, formulario conversacional o mensaje inicial automatizado) que recoge los datos mínimos antes de llegar a WhatsApp. Cuando llega al chat final, ya traes contexto. No tienes que preguntar lo básico. Puedes responder directamente.</p><p>Cuándo subir a este nivel: cuando el volumen es alto, tienes múltiples canales activos y el primer contacto es decisivo para el cierre.</p><h3>Tabla resumen: nivel, qué hacer y errores típicos</h3><table><thead><tr><th>Nivel</th><th>Qué hacer esta semana</th><th>Error típico</th><th>Señal de que toca subir</th></tr></thead><tbody><tr><td>Reactivo</td><td>Escribe un primer mensaje tipo que pida intención</td><td>Responder precio sin contexto</td><td>Repites las mismas preguntas a diario</td></tr><tr><td>Semi-cualificado</td><td>Define 3 rutas y 3-5 preguntas mínimas por ruta</td><td>Convertir el DM en interrogatorio</td><td>20+ mensajes por conversación para cerrar</td></tr><tr><td>Filtrado estructurado</td><td>Punto de entrada único + flujo previo + salida con contexto</td><td>Menú de opciones infinito</td><td>Picos frecuentes, múltiples canales, caída de conversión</td></tr></tbody></table><h2>Proceso paso a paso para filtrar antes de responder</h2><h3>1) Identifica qué datos cambian tu respuesta</h3><p>Antes de diseñar cualquier pregunta, hazte esta pregunta: ¿qué necesito saber para dar una respuesta útil? No una respuesta genérica, sino una respuesta que mueva al cliente hacia el siguiente paso.</p><p>En servicios, casi siempre son los mismos datos: servicio exacto que busca, objetivo o contexto mínimo, fecha o disponibilidad, y si hay algún requisito que filtre (presupuesto orientativo, condición física, zona geográfica, etc.). Si un dato no cambia lo que vas a responder, no lo pidas todavía. Revisa la guía de <a href=\"/blog/preguntas-minimas-para-cualificar-clientes/\">las 7 preguntas mínimas para cualificar clientes</a> para una lista detallada por tipo de servicio.</p><h3>2) Separa las intenciones (máximo 3 rutas)</h3><p>En la gran mayoría de servicios, las consultas caen en tres categorías: quieren información general (horarios, ubicación, requisitos, cómo funciona), quieren un presupuesto o precio, o quieren agendar una cita o verificar disponibilidad. Cada ruta tiene preguntas distintas y un cierre distinto. Mezclarlas genera conversaciones largas e ineficientes.</p><h3>3) Diseña las preguntas mínimas por ruta</h3><p>Para cada intención, define las preguntas imprescindibles. La regla es simple: si puedes dar una buena respuesta sin ese dato, no lo pidas en este momento.</p><p>Ejemplo para presupuesto en un servicio de tatuaje: servicio que busca (estilo, zona del cuerpo, tamaño aproximado), si tiene referencia visual, y si tiene fecha orientativa. Con eso ya puedes dar un rango real. Sin eso, cualquier cifra que des va a generar malentendidos. Puedes ver un ejemplo aplicado en <a href=\"/blog/como-cualificar-consultas-en-tatuajes/\">cómo cualificar consultas en tatuajes</a>.</p><h3>4) Escribe el microcopy de entrada</h3><p>El filtrado falla cuando el cliente no entiende por qué le preguntas. Una frase breve antes de las preguntas cambia completamente la percepción:</p><blockquote><p>&quot;Para darte un precio real y no un rango genérico, necesito 3 datos. Te lleva menos de un minuto.&quot;</p></blockquote><p>Ese microcopy hace dos cosas: reduce el abandono y genera confianza. El cliente sabe que preguntas para ayudarle mejor, no para retrasar la respuesta.</p><h3>5) Define dónde ocurre el filtrado</h3><p>Tienes tres opciones, según tu nivel de madurez operativa:</p><ul><li><strong>Dentro del chat (nivel 1-2):</strong> tu primer mensaje guía al cliente a decirte qué busca y a dar 2-3 datos antes de que respondas. Manual, pero estructurado.</li><li><strong>Link previo al chat (nivel 3):</strong> un link desde bio, stories o Google recoge los datos antes de que empiece la conversación en WhatsApp. El cliente llega con contexto. Tú respondes directo. Para entender cómo montar esto, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">aquí tienes cómo convertir el link en bio en un sistema de atención real</a>.</li></ul><h3>6) Establece reglas de priorización</h3><p>No todas las consultas tienen el mismo valor. Define criterios concretos para saber a cuál responder primero:</p><ul><li>Cliente que da servicio + fecha + contexto → prioridad alta, responde en el menor tiempo posible.</li><li>Cliente que solo pregunta precio sin datos → pide contexto mínimo antes de invertir tiempo.</li><li>Cliente que no cumple requisito básico → cierre amable y claro, sin dejar conversación abierta.</li><li>Cliente que no responde en 48h → cierre amable, sin perseguir.</li></ul><h3>7) Diseña la transición al canal final</h3><p>El filtrado solo tiene sentido si el contexto viaja con el cliente. Si cualificas en Instagram pero luego el cliente llega a WhatsApp sin contexto, vuelves al punto de partida. La transición debe incluir un mensaje preformateado que recoja lo que ya ha respondido, para que cuando llegues al chat final puedas responder directamente sin volver a preguntar lo básico.</p><h3>8) Cierra lo que no avanza</h3><p>Una conversación sin avance tras dos intentos es tiempo que podrías usar en otra parte. Cierre amable: &quot;Si en algún momento quieres retomarlo, aquí estamos.&quot; Sin más. No persigas. El cliente que va en serio responde.</p><h2>Preguntas mínimas: plantilla y matriz de filtros</h2><h3>Plantilla de preguntas mínimas (versión universal)</h3><p>Esta es la base. Adapta según tu servicio: quita lo que no aplique, añade solo si cambia tu decisión.</p><table><thead><tr><th>Pregunta</th><th>Por qué se pregunta</th><th>Qué decisión habilita</th><th>Riesgo si no la preguntas</th></tr></thead><tbody><tr><td>¿Qué servicio buscas exactamente?</td><td>Cada servicio tiene precio y disponibilidad distintos</td><td>Enrutar a la respuesta correcta</td><td>Das precio genérico que no corresponde</td></tr><tr><td>¿Para cuándo lo necesitas?</td><td>Filtra urgencias reales de consultas exploratorias</td><td>Priorización y verificación de disponibilidad</td><td>Inviertes tiempo en alguien que no tiene fecha real</td></tr><tr><td>¿Cuál es el objetivo o contexto?</td><td>Cambia la propuesta, el enfoque y el precio</td><td>Dar una respuesta personalizada vs genérica</td><td>Presupuesto desajustado, malentendidos</td></tr><tr><td>¿Tienes algún requisito o condición especial?</td><td>Filtra incompatibilidades antes de avanzar</td><td>Descartar sin invertir tiempo</td><td>Llegas al final y no encaja</td></tr><tr><td>¿Cuál es tu presupuesto orientativo? (si filtra)</td><td>Solo si tu servicio tiene rangos muy distintos</td><td>Ajustar propuesta o descartar</td><td>Tiempo invertido en alguien fuera de rango</td></tr><tr><td>¿Nombre y contacto?</td><td>Para dar seguimiento y personalizar</td><td>Cierre y seguimiento posterior</td><td>Conversación anónima sin trazabilidad</td></tr></tbody></table><h3>Versión mínima (para máxima conversión)</h3><p>Si tu proceso es sencillo o quieres reducir fricción al máximo, usa solo estas 3:</p><ol><li>¿Qué servicio buscas?</li><li>¿Para cuándo lo necesitas?</li><li>¿Tienes algún condicionante especial que deba saber?</li></ol><p>Con esas tres preguntas ya puedes decidir si avanzar, pedir más o descartar con educación.</p><h3>Matriz de filtros: condición y decisión</h3><table><thead><tr><th>Condición</th><th>Decisión</th></tr></thead><tbody><tr><td>Da servicio + fecha + contexto</td><td>Prioridad alta. Responde con propuesta concreta.</td></tr><tr><td>Pregunta precio sin ningún dato</td><td>Pide contexto mínimo antes de dar cifra.</td></tr><tr><td>No cumple requisito básico</td><td>Cierre amable. No avances.</td></tr><tr><td>Tiene fecha pero no encaja en agenda</td><td>Ofrece lista de espera o fecha alternativa.</td></tr><tr><td>No responde en 48h</td><td>Cierre amable. No persigas.</td></tr><tr><td>Contexto complejo fuera de lo habitual</td><td>Pasa a conversación humana directa, sin filtro adicional.</td></tr></tbody></table><h2>Errores comunes al cualificar (y cómo corregirlos)</h2><ol><li><strong>Pedir demasiados datos de golpe.</strong> Causa: fricción alta, el cliente abandona. Corrección: empieza con 3 preguntas máximo. El resto puede venir después si hay interés real.</li><li><strong>Preguntar sin explicar por qué.</strong> Causa: el cliente siente que le ponen trabas. Corrección: una frase de microcopy antes de las preguntas (&quot;para darte un precio real necesito 3 datos&quot;).</li><li><strong>Cualificar dentro del chat pregunta a pregunta.</strong> Causa: conversación larga, contexto fragmentado, cliente impaciente. Corrección: agrupa las preguntas o usa un punto de entrada previo que las recoja en un solo paso.</li><li><strong>Dar precio sin contexto.</strong> Causa: el cliente pregunta y tú respondes sin filtrar. Corrección: rango condicionado a variables clave (&quot;depende de X, el rango es entre A y B&quot;).</li><li><strong>No tener reglas de descarte.</strong> Causa: dejas conversaciones abiertas indefinidamente. Corrección: regla clara de 2 intentos sin respuesta = cierre amable.</li><li><strong>Usar el mismo flujo para todas las intenciones.</strong> Causa: preguntas que no aplican a lo que el cliente busca. Corrección: rutas distintas para info, presupuesto y cita.</li><li><strong>Filtrar donde no toca (volumen muy bajo o ventas únicas).</strong> Causa: pones sistema donde no hay caos. Corrección: a menos de 10 consultas al día o con ventas totalmente únicas, el filtrado puede esperar.</li><li><strong>No transferir el contexto al canal final.</strong> Causa: cualificas en Instagram pero en WhatsApp empiezas desde cero. Corrección: el contexto viaja con el cliente mediante mensaje preformateado o resumen de entrada.</li></ol><h2>Cuándo sí y cuándo no tiene sentido filtrar</h2><h3>Cuándo sí merece implementar un sistema de cualificación</h3><ul><li>Recibes 10 o más consultas al día o tienes picos frecuentes (fines de semana, temporadas).</li><li>Hay un patrón claro de preguntas repetidas: precio, disponibilidad, requisitos, cómo funciona.</li><li>Tu servicio requiere 3 o más datos antes de poder dar una respuesta útil.</li><li>Tienes 2 o más canales activos (Instagram + WhatsApp, o WhatsApp + Google Business Profile).</li><li>El primer contacto es decisivo para el cierre: si tardas o respondes mal, el cliente elige a otro.</li><li>Hay personas que no encajan (no tienen presupuesto, no cumplen requisitos, solo están mirando) y no tienes forma eficiente de detectarlas pronto.</li></ul><h3>Cuándo no (o no todavía)</h3><ul><li>Volumen muy bajo (3-5 consultas al día): el filtrado no resuelve ningún caos real porque no hay caos.</li><li>Cada venta es completamente única y requiere discovery humano profundo desde el primer mensaje: el filtrado estructurado interfiere.</li><li>Ya tienes equipo y herramientas enterprise con procesos definidos: añadir una capa más puede generar duplicidades.</li><li>Tu problema real es captación, no gestión: si no te escriben suficiente, el filtrado no soluciona nada.</li><li>Tu oferta no está clara todavía: si no sabes exactamente qué vendes y a quién, ningún flujo de cualificación puede compensar esa falta de claridad.</li></ul><h3>Cuándo tiene sentido añadir una herramienta</h3><p>Cuando el volumen y la repetición son suficientes para que el filtrado manual se vuelva insostenible, tiene sentido buscar una capa estructurada antes del chat. El objetivo es que el cliente llegue a WhatsApp con el contexto ya recogido, sin que tengas que preguntar lo básico cada vez.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link único que recoge la información mínima por intención antes de redirigir al cliente a WhatsApp con contexto. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga y consultiva desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas son demasiadas para cualificar a un cliente?",
+        "answer": "A partir de 5-6 preguntas seguidas sin explicar por qué, la mayoría abandona. La versión mínima funciona con 3: qué servicio busca, para cuándo y si tiene algún condicionante. El resto puede venir después si hay interés real."
+      },
+      {
+        "question": "¿Qué hago si el cliente me pregunta precio directamente sin dar ningún dato?",
+        "answer": "No des precio todavía. Responde con microcopy: \"Para darte un precio real y no un rango genérico, necesito 3 datos rápidos.\" Si no responde o insiste sin dar contexto, prioridad baja."
+      },
+      {
+        "question": "¿Es mejor cualificar dentro de WhatsApp o antes de que el cliente llegue ahí?",
+        "answer": "Antes, siempre que el volumen lo justifique. Si cualificas dentro del chat pregunta a pregunta, la conversación se fragmenta y el cliente puede desconectarse. Un punto de entrada previo que recoge los datos en un solo paso es más eficiente."
+      },
+      {
+        "question": "¿Cómo evito que el filtrado parezca un interrogatorio frío?",
+        "answer": "Con una frase de microcopy antes de las preguntas que explique por qué preguntas: \"Para responderte en un solo mensaje sin marearte, necesito 3 datos.\" Eso humaniza el proceso y reduce abandono."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Si no tienes punto de entrada único, responde en el canal donde más contexto tengas y redirige al otro con un mensaje de transición. Si el volumen lo justifica, un link único desde bio evita que esto ocurra: el cliente entra por un solo sitio y tú recibes el contexto consolidado."
+      },
+      {
+        "question": "¿Cómo sé si un lead es cualificado o solo está mirando?",
+        "answer": "Un lead cualificado da servicio concreto, tiene fecha o urgencia real y entiende lo que busca. Uno que solo mira suele preguntar precio sin contexto, no tiene fecha y no responde cuando pides datos. La regla es simple: si no da los datos mínimos tras dos intentos, no perseguir."
+      },
+      {
+        "question": "¿Qué pasa si filtro demasiado y pierdo clientes que podrían haber cerrado?",
+        "answer": "El riesgo real es pedir demasiados datos demasiado pronto, no filtrar en sí. Si tus preguntas son las mínimas que cambian tu respuesta y el microcopy explica el motivo, el cliente que encaja no abandona. El que abandona ante 3 preguntas suele ser el que no iba a cerrar de todas formas."
+      },
+      {
+        "question": "¿Cómo transfiero el contexto de Instagram a WhatsApp sin que se pierda?",
+        "answer": "Usando un link previo que recoge la información antes de redirigir. Cuando el cliente llega a WhatsApp, el mensaje inicial ya incluye un resumen de lo que respondió: nombre, servicio, fecha y contexto. Sin eso, empiezas desde cero en cada canal."
+      },
+      {
+        "question": "¿Cuántas rutas de intención debería tener mi sistema?",
+        "answer": "Máximo 3: información, presupuesto y cita. Más rutas generan confusión y aumentan el abandono. Si tienes dudas sobre cuál ruta elegir, empieza con las 2 que más se repitan en tus conversaciones actuales."
+      },
+      {
+        "question": "¿Es necesario preguntar el presupuesto del cliente para cualificarle?",
+        "answer": "Solo si el rango de precios de tu servicio varía mucho y eso cambia la propuesta. Si tienes un precio fijo o un rango pequeño, no lo pidas: genera fricción y poca información útil. Pide presupuesto solo cuando te ayuda a descartar o a ajustar la propuesta antes de avanzar."
+      },
+      {
+        "question": "¿Qué hago con una consulta muy compleja que no encaja en ninguna ruta estándar?",
+        "answer": "Pasa directamente a conversación humana sin filtro adicional. El filtrado estructurado funciona para el patrón repetible. Para casos únicos o muy complejos, el discovery humano desde el inicio es más eficiente que intentar encajarlo en un flujo."
+      },
+      {
+        "question": "¿Puedo cualificar con un simple mensaje de WhatsApp o necesito una herramienta?",
+        "answer": "Puedes empezar con un primer mensaje manual bien escrito que guíe al cliente por intención y pida 3 datos. No necesitas herramienta hasta que el volumen haga ese proceso insostenible. La herramienta tiene sentido cuando el filtrado manual ya no escala."
+      },
+      {
+        "question": "¿Qué métricas indican que mi proceso de cualificación está funcionando?",
+        "answer": "Tres métricas simples: porcentaje de conversaciones que llegan con contexto completo al canal final, tiempo promedio hasta dar una respuesta útil, y porcentaje de conversaciones que cierran (cita o presupuesto aceptado). Si los tres suben, el filtrado funciona."
+      },
+      {
+        "question": "¿Cómo cualifico si soy solo yo respondiendo y no tengo tiempo para montar nada?",
+        "answer": "Empieza con un único cambio: escribe un primer mensaje estándar que pida intención (info, presupuesto o cita) y 2 datos mínimos. Eso ya es cualificación. No necesitas sistema complejo para empezar a ordenar."
+      }
+    ]
+  },
+  {
     "slug": "centralizar-consultas-instagram-whatsapp",
     "title": "Cómo centralizar consultas de Instagram y WhatsApp en un solo flujo",
     "description": "Aprende a unificar mensajes de Instagram y WhatsApp en un único flujo sin CRM complejo: modelo mental, proceso paso a paso, errores frecuentes y recursos accionables para negocios de servicios.",
