@@ -1,5 +1,156 @@
 [
   {
+    "slug": "gestion-consultas-clientes",
+    "title": "Cómo gestionar consultas de clientes cuando te escriben por WhatsApp e Instagram",
+    "description": "Aprende un sistema simple (sin CRM complejo) para organizar, filtrar y priorizar consultas entrantes desde WhatsApp e Instagram, responder con contexto y no perder oportunidades.",
+    "excerpt": "Gestionar consultas es convertir mensajes desordenados (WhatsApp, Instagram y otros canales) en un flujo claro: entrada única, datos mínimos, priorización y cierres con contexto.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/gestion-consultas-clientes.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-03",
+    "readingTime": "12 min",
+    "tags": [
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "atencion-clientes",
+      "mensajes"
+    ],
+    "quickAnswerSubtitle": "Gestionar consultas de clientes en WhatsApp e Instagram",
+    "quickAnswer": [
+      "**Unifica la entrada** — un solo punto de enlace para todos los canales evita que los mensajes importantes se pierdan entre plataformas.",
+      "**Pide solo los datos que cambian tu respuesta** — servicio, fecha, contexto y contacto; nada más hasta que sea necesario.",
+      "**Define tres rutas máximo** — información, presupuesto y cita. Más opciones confunden y aumentan el abandono.",
+      "**Prioriza antes de responder** — quien da fecha, servicio y flexibilidad va primero; quien solo pregunta precio sin contexto espera contexto primero.",
+      "**Separa recoger datos de cerrar** — WhatsApp funciona mejor para confirmar y proponer, no para empezar desde cero cada vez."
+    ],
+    "oneLineDefinition": "Gestionar consultas de clientes es organizar y filtrar los mensajes entrantes (WhatsApp, Instagram, Google) en un flujo claro para responder más rápido y no perder oportunidades.",
+    "sections": [
+      "Qué es (y qué no es) gestionar consultas de clientes",
+      "Diagnóstico: señales de caos y lo que te cuesta",
+      "Modelo mental: 3 niveles de madurez",
+      "Proceso paso a paso para gestionarlo sin complicarte",
+      "Errores y anti-patrones (y cómo corregirlos)",
+      "Cuándo sí y cuándo no merece montar un sistema",
+      "Toolkit: recursos accionables",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Gestionar consultas en 8 pasos",
+      "totalTimeMinutes": 90,
+      "tools": [
+        "Canal final definido",
+        "Rutas por intención",
+        "Preguntas mínimas por servicio",
+        "Respuestas rápidas guardadas"
+      ],
+      "steps": [
+        {
+          "name": "Elige tu canal final",
+          "text": "Decide un único canal para cerrar conversaciones: WhatsApp si buscas rapidez, email si necesitas trazabilidad."
+        },
+        {
+          "name": "Define tres intenciones máximas",
+          "text": "Limita las rutas a información, presupuesto y cita. Más rutas confunden y aumentan el abandono."
+        },
+        {
+          "name": "Diseña las preguntas mínimas",
+          "text": "Identifica los 3-6 datos que cambian tu respuesta: servicio exacto, objetivo, fecha, requisitos y contacto."
+        },
+        {
+          "name": "Crea un primer mensaje guía",
+          "text": "Un mensaje que reconozca al cliente, ofrezca las rutas y pida un dato mínimo en un solo paso."
+        },
+        {
+          "name": "Implementa un punto de entrada único",
+          "text": "Un link desde bio, Stories y Google Business Profile que guíe por intención antes de abrir chat."
+        },
+        {
+          "name": "Separa recoger información de cerrar",
+          "text": "Recoge datos antes del chat final. WhatsApp sirve para confirmar y proponer, no para preguntar desde cero."
+        },
+        {
+          "name": "Define reglas de priorización",
+          "text": "Fecha + servicio + flexibilidad = prioridad alta. Solo precio sin contexto = pide contexto primero."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje de cierre con resumen de contexto, propuesta concreta y siguiente paso claro."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué es (y qué no es) gestionar consultas de clientes</h2><h3>Definición práctica</h3><p>Gestionar consultas no es \"contestar mensajes\". Es convertir mensajes desordenados (DMs de Instagram, WhatsApp, formularios, Google Business Profile) en un proceso repetible donde: el cliente entiende qué paso toca, tú recibes los datos mínimos antes de invertir tiempo, y cada respuesta mueve hacia una acción concreta: cita, presupuesto, información útil o descarte.</p><p>La diferencia entre un negocio que convierte bien y uno que \"recibe muchos mensajes pero no sé por qué no cierro más\" suele estar exactamente aquí: en si hay sistema o solo hay reactividad.</p><h3>Qué NO es (para evitar expectativas falsas)</h3><ul><li>No es implantar un CRM enterprise con pipeline, automatizaciones complejas y reporting.</li><li>No es \"automatizarlo todo\" con IA que responde cualquier cosa.</li><li>No es poner un bot con menú infinito que desespera al cliente.</li><li>No es pedir 15 datos \"por si acaso\" antes de decir hola.</li><li>No es eliminar el trato humano; en servicios, ese trato es parte del valor.</li></ul><h3>Cuándo aparece este problema (señales operativas reales)</h3><p>El caos de consultas suele explotar cuando se dan dos o más de estas condiciones al mismo tiempo: tienes dos o más canales activos (Instagram y WhatsApp, o WhatsApp y Google Business Profile), recibes consultas repetidas sobre precio, disponibilidad, ubicación o requisitos, respondes a ratos entre trabajo operativo y tu servicio requiere varios datos antes de poder dar precio o hueco. Si te suena familiar, sigue leyendo. Si no, probablemente aún no necesitas sistema.</p><h2>Diagnóstico: señales de caos y lo que te cuesta</h2><h3>Checklist: señales claras de caos de consultas</h3><p>Marca las que ocurren en tu negocio con cierta frecuencia:</p><ol><li>Respondes el mismo \"precio / horarios / ubicación / cómo reservar\" varias veces al día.</li><li>Te escriben por DM de Instagram y luego saltan a WhatsApp y se pierde el contexto.</li><li>Tienes conversaciones abiertas con \"hola\" o \"info\" que llevan días sin avanzar.</li><li>Terminas haciendo 15-20 mensajes de ida y vuelta para cerrar algo que podría resolverse en 3.</li><li>No encuentras fácilmente lo que te dijo ese cliente (zona, fecha, requisito, presupuesto).</li><li>Los mensajes urgentes se mezclan con los curiosos sin orden de prioridad.</li><li>Respondes tarde y notas que el cliente ya no contesta o fue a la competencia.</li><li>Acabas dando precio sin contexto y luego hay malentendidos.</li><li>Si sois dos o más personas respondiendo, cada una contesta de forma diferente.</li><li>WhatsApp manda y tú obedeces: la atención interrumpe el trabajo productivo constantemente.</li><li>Entran consultas de personas que claramente no encajan (solo miran precio, no cumplen requisitos).</li><li>Sientes que atender te impide producir lo que realmente factura.</li></ol><p><strong>Mini test:</strong> Si cumples 3 o más de estas señales (especialmente repetición, pérdida de contexto, respuesta tardía e interrupciones constantes), necesitas un sistema. No porque seas desorganizado, sino porque el volumen ya supera lo que se puede gestionar a mano sin coste. Puedes ver un análisis más detallado en <a href=\"/blog/sintomas-caos-mensajes-clientes/\">señales de que tu negocio tiene caos de mensajes y cuánto te cuesta</a>.</p><h3>Coste operativo real</h3><h4>Tiempo perdido</h4><p>Haz el cálculo sin Excel: una respuesta a FAQs cuesta entre 1 y 2 minutos; cualificar por chat a trozos, entre 3 y 8 minutos; una conversación que no avanza, entre 2 y 5 minutos de ping-pong. Con 15 consultas al día a una media de 4 minutos, son 60 minutos diarios, unas 20 horas al mes, solo en gestionar desorden.</p><h4>Oportunidades perdidas</h4><p>En servicios, el cliente caliente compara dos o tres opciones y decide rápido si percibe claridad y rapidez. Si tardas demasiado o pides demasiado sin explicar, se va. Perder dos o tres cierres al mes por fricción o tardanza suele costar más que cualquier sistema de orden que podrías montar.</p><h4>Estrés y calidad del trabajo</h4><p>El caos reduce foco, empeora las respuestas y acaba bajando la calidad del trabajo principal, el que realmente factura. Por eso gestionar consultas no es una tarea administrativa: es protección del negocio.</p><h2>Modelo mental: 3 niveles de madurez</h2><p>No hay que hacerlo perfecto desde el inicio. La clave es identificar en qué nivel estás y subir uno cada vez, sin romper la operativa.</p><h3>Nivel 1 — Manual ordenado</h3><p>Sigues respondiendo a mano, pero con reglas mínimas: un canal final definido (normalmente WhatsApp), entre 5 y 10 respuestas rápidas bien escritas guardadas, etiquetas básicas en WhatsApp Business (si las usas) y un horario de respuesta visible en el perfil. Encaja cuando el volumen es bajo o medio y normalmente responde una sola persona.</p><h3>Nivel 2 — Semi-sistematizado</h3><p>Dejas de dejar que el cliente \"mande\" la conversación. Defines dos o tres rutas por intención (información, presupuesto, cita), usas un primer mensaje que guía hacia una ruta, capturas entre 3 y 6 datos mínimos antes de invertir tiempo real y estandarizas el cierre con un mensaje que incluye propuesta concreta. Encaja cuando el volumen es medio o alto y la repetición de preguntas es evidente.</p><h3>Nivel 3 — Sistema estructurado (flujo + filtrado)</h3><p>La entrada queda ordenada antes de llegar al chat final: un punto de entrada único (link) desde Instagram, WhatsApp y Google Business Profile; rutas por intención claramente diferenciadas; preguntas mínimas por tipo de servicio; salida a WhatsApp con contexto ya recogido. Encaja cuando hay volumen alto, múltiples canales y picos frecuentes. Si te preguntas cómo hacer exactamente esa transición entre canales, <a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">cómo centralizar consultas de Instagram y WhatsApp en un solo flujo</a> explica el proceso completo.</p><h3>Tabla de referencia: nivel, qué hacer y errores comunes</h3><table><thead><tr><th>Nivel</th><th>Qué hacer esta semana</th><th>Error típico a evitar</th><th>Señal de que toca subir</th></tr></thead><tbody><tr><td>Manual ordenado</td><td>Define canal final + 10 respuestas rápidas + horario visible</td><td>Responder a ratos sin guiar al cliente</td><td>10 o más consultas al día, o repites siempre lo mismo</td></tr><tr><td>Semi-sistematizado</td><td>Crea 3 rutas por intención + pide 4 datos mínimos antes de responder</td><td>Convertir el DM en un formulario largo</td><td>20 o más consultas al día o necesitas 15 mensajes para cerrar algo simple</td></tr><tr><td>Sistema estructurado</td><td>Punto de entrada único + flujo por servicio + salida con contexto</td><td>Menús infinitos o pedir demasiados datos</td><td>La conversión cae, el equipo es pequeño y hay picos frecuentes</td></tr></tbody></table><h2>Proceso paso a paso para gestionarlo sin complicarte</h2><h3>1) Elige tu canal final (dónde se cierra)</h3><p>Decide un único canal para cerrar conversaciones: WhatsApp si buscas rapidez y cierre ágil; email si necesitas detalle y trazabilidad; teléfono si hay urgencias reales con clientes que lo prefieren. La regla es simple: puedes tener varios canales de entrada, pero solo uno de cierre.</p><h3>2) Define tres intenciones máximas</h3><p>En servicios, casi todo cae en tres categorías: información (ubicación, horarios, requisitos, qué incluye), presupuesto (precio o rango) y cita o disponibilidad (¿tenéis hueco?). Reducir a tres intenciones baja la fricción y evita menús confusos que terminan en abandono.</p><h3>3) Diseña las preguntas mínimas que cambian tu respuesta</h3><p>Antes de responder bien, define qué necesitas sí o sí: servicio exacto, objetivo o contexto, fecha aproximada, condiciones o requisitos relevantes y contacto. Si un dato no cambia lo que vas a hacer o responder, no lo pidas aún. Puedes profundizar en este paso en <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a>.</p><h3>4) Crea un guion de primera respuesta</h3><p>Tu primer mensaje debe reconocer al cliente, ofrecer las dos o tres rutas disponibles, pedir un dato mínimo y llevar a un paso concreto. Un ejemplo funcional:</p><blockquote><p>\"¡Hola! Para ayudarte rápido: ¿buscas cita, presupuesto o información general? Dime cuál y te paso el siguiente paso en un momento.\"</p></blockquote><p>No es un menú. Es una pregunta de dirección.</p><h3>5) Implementa un punto de entrada único cuando el volumen lo pida</h3><p>En lugar de \"escríbeme por DM\", usa un link único desde la bio, las Stories, el botón del perfil de Instagram y Google Business Profile. Ese link no debe ser un menú infinito: debe guiar por intención y recoger datos mínimos antes de redirigir al chat. Más sobre cómo configurar esto en <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente: cómo convertirlo en un sistema</a>.</p><h3>6) Separa recoger información de cerrar</h3><p>WhatsApp no es el lugar donde preguntas todo desde cero y repites las FAQs de siempre. WhatsApp funciona mejor para confirmar datos, proponer opciones y cerrar con un sí o un no claro. La recogida de información va antes.</p><h3>7) Define reglas de priorización</h3><ul><li>Si el cliente da fecha, servicio y flexibilidad: prioridad alta, responde primero.</li><li>Si solo pregunta precio sin contexto: pide contexto mínimo antes de invertir tiempo.</li><li>Si no responde tras dos intentos: cierre amable y guardado. No persigas.</li></ul><h3>8) Estandariza el cierre</h3><p>Tu mensaje de cierre ideal incluye un resumen del contexto que te dieron, una propuesta concreta y un siguiente paso claro: confirmar, elegir opción, enviar referencia o reservar. Sin ambigüedad. Sin \"ya te digo algo\".</p><h2>Errores y anti-patrones (y cómo corregirlos)</h2><ol><li><strong>Menú infinito</strong> — el cliente ve ocho opciones, no sabe cuál elegir y abandona. Corrección: máximo tres rutas por intención.</li><li><strong>Pedir demasiados datos al inicio</strong> — genera fricción y cae la tasa de respuesta. Corrección: pide solo lo que cambia tu decisión.</li><li><strong>Preguntar sin explicar por qué</strong> — genera desconfianza. Corrección: microcopy de una línea: \"para darte un precio realista, necesito tres datos\".</li><li><strong>Dar precio sin contexto</strong> — genera malentendidos y comparaciones injustas. Corrección: rango condicionado a dos o tres variables clave.</li><li><strong>Responder sin proceso</strong> — el caos manda, tú obedeces. Corrección: ventana de respuesta definida, reglas claras y plantilla de entrada.</li><li><strong>Mezclar canales sin transición</strong> — se pierde el contexto entre DM e Instagram y WhatsApp. Corrección: DM lleva a link, link lleva a WhatsApp con mensaje preformateado que incluye lo que ya respondió.</li><li><strong>Convertir el DM en interrogatorio</strong> — percepción fría, sensación de burocracia. Corrección: el DM es la puerta, no el formulario.</li><li><strong>No separar intención de cita vs presupuesto</strong> — conversaciones eternas que no avanzan. Corrección: rutas distintas con cierres distintos desde el primer mensaje.</li><li><strong>Ignorar los mensajes que no parecen urgentes</strong> — el lead bueno se pierde entre los curiosos. Corrección: regla de priorización explícita antes de responder.</li></ol><h2>Cuándo sí y cuándo no merece montar un sistema</h2><h3>Cuándo sí (señales operativas claras)</h3><ul><li>Recibes diez o más consultas al día o hay picos frecuentes en determinados días u horas.</li><li>Repites las mismas respuestas constantemente.</li><li>Tienes dos o más canales de entrada activos.</li><li>Notas que responder tarde te cuesta cierres.</li><li>Tu servicio requiere datos mínimos antes de dar precio o disponibilidad.</li><li>Sois dos o más personas respondiendo y cada una lo hace diferente.</li><li>El trabajo operativo principal se ve interrumpido por la atención constantemente.</li></ul><h3>Cuándo no (o no todavía)</h3><ul><li>Volumen muy bajo: una o tres consultas al día no justifican un sistema; el coste de montarlo supera el beneficio.</li><li>Cada venta es completamente única y estratégica: si no hay patrón de preguntas repetibles, el filtrado estructurado no aporta.</li><li>Venta larga y consultiva desde el inicio: si el primer contacto requiere discovery humano profundo, un flujo previo puede cortar la conversación antes de que empiece bien.</li><li>Ya tienes CRM y proceso sólido: si el problema es captación (no te escriben suficiente), ningún sistema de gestión lo resuelve.</li><li>Tu oferta no está clara todavía: si no sabes bien qué vendes ni a quién, ningún flujo arregla eso.</li></ul><p>Si no estás seguro de en qué lado estás, <a href=\"/blog/que-hacer-si-no-te-da-la-vida-para-contestar/\">qué hacer si no te da la vida para contestar</a> puede ayudarte a priorizar en menos de 48 horas.</p><h2>Toolkit: recursos accionables</h2><p>Estas piezas profundizan en partes concretas del sistema y tienen scripts, checklists y plantillas listas para usar:</p><ul><li><a href=\"/blog/sintomas-caos-mensajes-clientes/\">Señales de que tu negocio tiene caos de mensajes y cuánto te cuesta</a> — diagnóstico detallado con checklist completo.</li><li><a href=\"/blog/que-hacer-si-no-te-da-la-vida-para-contestar/\">Qué hacer si no te da la vida para contestar</a> — prioridades operativas en 48 horas.</li><li><a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">Cómo centralizar consultas de Instagram y WhatsApp en un solo flujo</a> — el proceso técnico y operativo completo.</li><li><a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> — qué preguntar, cuándo y por qué.</li><li><a href=\"/blog/link-en-bio-para-atencion-clientes/\">Link en bio para atención al cliente: cómo convertirlo en un sistema</a> — más que un link, un punto de entrada estructurado.</li><li><a href=\"/blog/agendar-citas-sin-mensajes/\">Cómo agendar citas sin intercambiar 20 mensajes</a> — primero filtra, luego agenda.</li></ul><h2>El siguiente paso (si el caos ya es real)</h2><p>Cuando el problema es caos de mensajes (múltiples canales, repetición de preguntas, pérdida de contexto entre plataformas), lo que más ayuda es tener un punto de entrada único con rutas por intención y preguntas mínimas por servicio, para que el cliente llegue al chat final con el contexto ya preparado.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas entrantes de Instagram y WhatsApp mediante un link con asistente conversacional, capturan los datos clave antes de que respondas manualmente y redirigen al cliente a WhatsApp con el contexto ya recogido. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><ul><li>Inkup no es un CRM enterprise.</li><li>No sustituye tu criterio profesional ni tu trato humano.</li><li>No arregla captación si no hay demanda previa.</li><li>Funciona mejor cuando hay volumen y repetición; alrededor de 20 o 30 consultas es donde suele aparecer el momento en que ves claramente para qué sirve.</li></ul>",
+    "faq": [
+      {
+        "question": "¿Cuántas consultas al día justifican montar un sistema de gestión?",
+        "answer": "A partir de unas 10 consultas diarias, o cuando notes picos frecuentes que te impiden trabajar. Si repites las mismas respuestas o tardas en contestar y eso te cuesta cierres, ya es el momento, independientemente del número exacto."
+      },
+      {
+        "question": "¿Qué canal debería usar como canal final: WhatsApp o email?",
+        "answer": "WhatsApp si buscas rapidez y cierre ágil en el mismo día. Email si necesitas detalle, adjuntos o trazabilidad a largo plazo. La regla es: puedes tener varios canales de entrada, pero elige solo uno de cierre para no perder el hilo."
+      },
+      {
+        "question": "¿Cómo evito que me escriban solo 'precio?' todo el día sin darme ningún dato?",
+        "answer": "Usa un primer mensaje que guíe a rutas (cita, presupuesto, información) y pide contexto mínimo antes de dar cifra. Un microcopy como 'te hago tres preguntas rápidas para darte un precio realista' reduce los mensajes vacíos y aumenta la calidad de lo que recibes."
+      },
+      {
+        "question": "¿Qué datos mínimos debería pedir siempre antes de responder?",
+        "answer": "Servicio exacto, objetivo o contexto, fecha aproximada, condiciones relevantes y contacto. Solo los datos que cambian lo que vas a responder. Si un dato no cambia tu respuesta, no lo pidas aún."
+      },
+      {
+        "question": "¿Cómo paso a un cliente de Instagram a WhatsApp sin perder el contexto?",
+        "answer": "Usa un link único desde la bio o Stories que guíe por intención y recoja datos mínimos. El cliente llega a WhatsApp con un mensaje preformateado que incluye lo que ya respondió. Así no tienes que volver a preguntar desde cero."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Es la señal más clara de que necesitas un punto de entrada único. Si tienes un link que centraliza la entrada, el cliente solo pasa por un sitio independientemente de dónde te haya visto primero."
+      },
+      {
+        "question": "¿Cómo priorizo los mensajes urgentes sin sonar borde con los demás?",
+        "answer": "Define una regla simple: quien da fecha, servicio y disponibilidad va primero. Quien solo pregunta precio sin contexto espera contexto antes de recibir respuesta detallada. El orden no es borde si el proceso es consistente para todos."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde después de que le pregunto los datos que necesito?",
+        "answer": "Tras dos intentos sin respuesta, cierre amable y guardado. No persigas: el cliente que va en serio suele responder. El que desaparece después de dos toques normalmente no iba a cerrar de todas formas."
+      },
+      {
+        "question": "¿Cuántas rutas o intenciones debería tener mi sistema?",
+        "answer": "Máximo tres: información, presupuesto y cita o disponibilidad. Más opciones confunden al cliente y aumentan el abandono. Si tienes más servicios, puedes crear subrutas dentro de cada intención, pero la entrada siempre con tres opciones como máximo."
+      },
+      {
+        "question": "¿Necesito un CRM para gestionar esto o puedo hacerlo de forma ligera?",
+        "answer": "No necesitas CRM para empezar. Con canal final definido, tres rutas por intención, datos mínimos por servicio y respuestas rápidas guardadas ya tienes el nivel 1 y 2 cubiertos. El CRM tiene sentido cuando el volumen y la complejidad lo justifican."
+      },
+      {
+        "question": "¿Cómo organizo la gestión de mensajes si somos dos o tres personas respondiendo?",
+        "answer": "Reglas claras compartidas: mismo primer mensaje, mismas rutas, mismos datos mínimos que pedir. Un documento o guion compartido evita que cada persona conteste diferente, lo que genera inconsistencia y confusión en el cliente."
+      },
+      {
+        "question": "¿Qué métricas miro para saber si el sistema está funcionando?",
+        "answer": "Tres métricas simples: porcentaje de consultas que pasan de la entrada a proporcionar datos mínimos, porcentaje que llegan al chat final con contexto ya recogido, y porcentaje que cierran (cita confirmada o presupuesto aceptado)."
+      },
+      {
+        "question": "¿Cómo mantengo el tono humano aunque use mensajes predefinidos?",
+        "answer": "Personaliza el microcopy y explica brevemente por qué preguntas. Una frase como 'para responderte en un solo mensaje sin marearte' humaniza el proceso. Deja siempre una vía para hablar directamente si el cliente lo necesita."
+      },
+      {
+        "question": "¿En qué casos es mejor no filtrar demasiado al inicio?",
+        "answer": "Cuando el volumen es muy bajo (menos de tres consultas al día), cuando cada venta es única y estratégica sin patrón repetible, o cuando tu oferta todavía no está clara. En esos casos, el filtrado estructurado puede esperar o incluso sobrar."
+      },
+      {
+        "question": "¿Qué errores hacen que los mensajes predefinidos bajen la conversión?",
+        "answer": "Menú de opciones infinito, pedir demasiados datos sin explicar por qué, dar precio sin contexto y no separar la intención de cita de la de presupuesto. Cada uno de estos errores reduce la tasa de respuesta o genera malentendidos que alargan el proceso."
+      },
+      {
+        "question": "¿Cómo convierto el link de mi bio en algo que realmente filtre y ordene?",
+        "answer": "El link de bio no debería ser solo un menú de links. Debería guiar por intención (qué quieres: info, presupuesto, cita), hacer las preguntas mínimas necesarias y redirigir al canal final con el contexto ya recogido. Así llega información útil antes de que abras el chat."
+      }
+    ]
+  },
+  {
     "slug": "agendar-citas-sin-mensajes",
     "title": "Cómo agendar citas sin intercambiar 20 mensajes (primero filtra, luego agenda)",
     "description": "Aprende a agendar citas sin el ida y vuelta eterno de WhatsApp e Instagram: qué datos pedir primero, cómo estructurar el flujo y cuándo automatizar (y cuándo no).",
