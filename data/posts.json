@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-evitar-que-te-escriban-solo-precio",
+    "title": "Cómo evitar que te escriban solo 'precio?' (sin perder clientes)",
+    "description": "Si todos te escriben 'precio?' sin más contexto, el problema no es el cliente: es que no tienes un sistema que les pida lo mínimo antes. Aprende a pedir contexto, dar rangos condicionados y convertir consultas vacías en conversaciones útiles.",
+    "excerpt": "Cuando todo el mundo te pregunta 'precio?' sin datos, el sistema de entrada falla, no el cliente. La solución es pedir contexto mínimo antes de responder y dar rangos condicionados en lugar de cifras sueltas.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-evitar-que-te-escriban-solo-precio.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-03",
+    "readingTime": "7 min",
+    "tags": [
+      "consultas-precio",
+      "cualificacion-clientes",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Cómo evitar que te escriban solo 'precio?' sin perder clientes",
+    "quickAnswer": [
+      "**El 'precio?' es un síntoma, no el problema** — Si todo el mundo pregunta solo el precio es porque no les has pedido contexto antes de llegar a ti.",
+      "**Pide contexto mínimo antes de dar cifras** — Servicio exacto, objetivo y fecha son los tres datos que convierten 'precio?' en una consulta útil.",
+      "**Da rangos condicionados, no precios sueltos** — 'Depende de X y de Y, el rango es entre A y B' filtra curiosos y no ahuyenta a los serios.",
+      "**Diseña el primer contacto para guiar, no para esperar** — Un mensaje de entrada que ofrece 2-3 rutas reduce los mensajes vacíos antes de que lleguen.",
+      "**El que solo busca el precio más bajo suele no ser tu cliente** — Filtrarle pronto te ahorra tiempo y protege tu energía para los que sí encajan."
+    ],
+    "oneLineDefinition": "Evitar el 'precio?' significa diseñar el primer contacto para que el cliente aporte contexto mínimo antes de recibir cualquier cifra, usando rangos condicionados y rutas de entrada claras.",
+    "sections": [
+      "Por qué te escriben solo precio (y no es culpa del cliente)",
+      "Qué información mínima necesitas antes de dar precio",
+      "Cómo responder al precio sin cerrar la puerta ni darte precio suelto",
+      "Scripts listos para usar",
+      "Errores comunes al gestionar consultas de precio",
+      "Cuándo NO filtrar al inicio",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo evitar consultas vacías de precio en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Primer mensaje de entrada",
+        "Rango condicionado por servicio",
+        "Microcopy de contexto"
+      ],
+      "steps": [
+        {
+          "name": "Define el contexto mínimo por servicio",
+          "text": "Anota qué 2-3 datos cambian el precio para cada servicio que ofreces. Sin esos datos, cualquier cifra que des es inútil o perjudicial."
+        },
+        {
+          "name": "Crea un primer mensaje que guíe por intención",
+          "text": "En lugar de esperar el 'precio?', diseña un mensaje de entrada que ofrezca rutas: cita, presupuesto o info. El cliente que quiere precio va a la ruta de presupuesto."
+        },
+        {
+          "name": "Escribe tus rangos condicionados",
+          "text": "Para cada servicio, prepara una frase tipo: 'El precio depende de X e Y; el rango habitual es entre A y B.' Nunca una cifra suelta."
+        },
+        {
+          "name": "Añade microcopy que explique por qué preguntas",
+          "text": "Antes de pedir datos, una frase corta reduce fricción: 'Para darte un precio realista necesito saber X.' Sin esa frase, el cliente lo percibe como un interrogatorio."
+        },
+        {
+          "name": "Prueba el flujo desde el punto de entrada",
+          "text": "Hazte pasar por cliente y recorre el camino completo. Si en algún punto un mensaje normal sería 'precio?', tienes un hueco de contexto que cerrar."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué te escriben solo precio (y no es culpa del cliente)</h2><p>Cuando el 80% de tus mensajes entrantes son 'precio?', 'cuánto cuesta?', 'info' o directamente un silencio después del hola, la tentación es pensar que la gente solo busca el más barato. A veces es así. Pero casi siempre hay algo más sencillo detrás: nadie les ha pedido contexto antes de que lleguen a ti.</p><p>El cliente que pregunta precio sin datos no es perezoso. Es que no sabe qué necesitas para responderle bien, y tampoco tiene incentivo para explicarse si nadie se lo ha pedido de forma clara. El sistema de entrada falla, no el cliente.</p><p>Esto tiene consecuencias concretas: das un precio sin contexto, el cliente lo compara con otro que tampoco tiene contexto, y decide por el número más bajo. No porque seas caro, sino porque los números sin contexto se comparan como si fueran iguales.</p><h2>Qué información mínima necesitas antes de dar precio</h2><p>Antes de escribir ningún script ni mensaje de respuesta, define qué datos cambian realmente el precio de cada servicio. Si un dato no cambia lo que vas a cobrar ni lo que vas a proponer, no lo pidas todavía.</p><p>Para la mayoría de negocios de servicios locales, los datos que sí cambian el precio son estos:</p><ul><li><strong>Servicio exacto</strong>: no es lo mismo un retrato pequeño que una pieza de manga, ni un reportaje de media jornada que uno completo. Sin esto, cualquier cifra es un disparo al aire.</li><li><strong>Objetivo o contexto</strong>: para qué es, para quién, qué resultado busca. Esto no solo afecta al precio, también te dice si el cliente encaja.</li><li><strong>Fecha o plazo</strong>: la disponibilidad no es la misma para dentro de una semana que para dentro de tres meses. Y en algunos servicios, la urgencia tiene coste.</li><li><strong>Requisitos o condiciones específicas</strong>: si tu servicio tiene requisitos previos (referencias, estado de la piel, tipo de proyecto, número de personas), este es el momento de saberlo.</li></ul><p>Con esos cuatro datos puedes dar un rango realista y honesto. Sin ellos, cualquier cifra que des va a generar malentendidos o comparaciones injustas. Si quieres profundizar en cómo <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>filtrar y cualificar consultas antes de responder por WhatsApp</a>, ese artículo desarrolla el proceso completo de cualificación.</p><h2>Cómo responder al precio sin cerrar la puerta ni darte precio suelto</h2><p>Hay dos errores opuestos que destruyen conversiones. El primero es dar precio sin contexto: el cliente compara mal, hay malentendidos, o se va porque parece caro sin saber qué incluye. El segundo es no dar ninguna cifra y pedir datos como si fuera un interrogatorio: el cliente desaparece porque siente que le estás poniendo trabas.</p><p>La solución está en el rango condicionado. Un rango condicionado no es evasión: es transparencia inteligente. Dice exactamente de qué depende el precio y da una horquilla real para que el cliente pueda situarse.</p><p>Formato: <em>'El precio depende de [variable 1] y de [variable 2]. El rango habitual para [tipo de servicio] es entre [A] y [B]. Para darte un presupuesto concreto necesito saber [dato mínimo].'</em></p><p>Este formato cumple tres cosas a la vez: informa, filtra (el que no entra en el rango lo sabe pronto) y abre la conversación hacia datos útiles en lugar de cerrarla con un número que no significa nada.</p><p>Un problema relacionado: <a href=&quot;/blog/por-que-pierdes-clientes-por-responder-tarde/&quot;>perder clientes por responder tarde</a> suele agravarse cuando la primera respuesta es una cifra suelta, porque el cliente ya se ha ido a comparar antes de que tú hayas podido añadir contexto.</p><h2>Scripts listos para usar</h2><h3>Script 1: Respuesta al 'precio?' en Instagram DM o WhatsApp</h3><blockquote><p>&quot;¡Hola! El precio depende del servicio y de algunos detalles. Para darte un presupuesto realista necesito saber: ¿qué tienes en mente exactamente y para cuándo lo necesitas? Con eso te respondo en un mensaje.&quot;</p></blockquote><p>Por qué funciona: no esquiva el precio, explica que depende de algo concreto, pide solo dos datos y promete una respuesta rápida. Eso reduce la percepción de burocracia.</p><h3>Script 2: Rango condicionado (cuando ya tienes el contexto mínimo)</h3><blockquote><p>&quot;Para lo que describes, el rango habitual es entre [A] y [B]. El precio final depende de [variable principal]. Si quieres, en [canal final] te hago el presupuesto concreto en cinco minutos.&quot;</p></blockquote><p>Por qué funciona: da cifras reales, explica la variable que afecta, y pasa al canal de cierre con contexto. No deja la conversación abierta en el vacío.</p><h3>Script 3: Primer mensaje de entrada (para bio o stories)</h3><blockquote><p>&quot;¿En qué puedo ayudarte? Dime si buscas cita, presupuesto o solo información y te respondo enseguida.&quot;</p></blockquote><p>Por qué funciona: convierte el primer mensaje en una ruta. El cliente que solo quiere precio va a 'presupuesto', y tú ya sabes qué pedirle a continuación. Esto es la base de <a href=&quot;/blog/gestion-consultas-clientes/&quot;>cómo gestionar consultas cuando te escriben por todos lados</a>.</p><h3>Script 4: Microcopy para reducir fricción al pedir datos</h3><blockquote><p>&quot;Para no marearte con preguntas, solo necesito saber tres cosas: qué servicio, para cuándo y cualquier referencia que tengas.&quot;</p></blockquote><p>Por qué funciona: anticipa la objeción ('me va a preguntar mil cosas'), acota a tres y baja la resistencia a responder.</p><h2>Errores comunes al gestionar consultas de precio</h2><ol><li><strong>Dar cifra sin contexto</strong>: el cliente compara mal, se va o hay malentendidos después. Corrección: nunca un precio sin al menos un dato que lo condicione.</li><li><strong>Pedir demasiados datos antes del rango</strong>: el cliente siente que hay que pasar un examen para saber si puede permitírselo. Corrección: pide dos o tres datos, da el rango, pide el resto después.</li><li><strong>Preguntar sin explicar por qué</strong>: genera desconfianza. Corrección: una frase de microcopy que diga para qué sirve cada pregunta.</li><li><strong>Responder solo 'depende'</strong>: el 'depende' sin más es la respuesta más inútil que existe. Corrección: 'depende de X e Y, el rango es entre A y B.'</li><li><strong>Poner el precio en bio o highlights como si fuera fijo</strong>: si tu precio varía, publicarlo fijo genera leads que llegan con expectativa errónea. Corrección: publica rangos o explica las variables.</li><li><strong>Responder al precio con una pregunta abierta sin ancla</strong>: '¿qué necesitas?' sin más opciones genera respuestas tan vagas como la pregunta. Corrección: da opciones concretas ('¿es para X o para Y?').</li><li><strong>Ignorar al que pregunta precio como si fuera un mal lead</strong>: quien pregunta precio con contexto es un lead válido. El problema es solo cuando no hay contexto. Corrección: no descartes automáticamente, pide el contexto primero.</li></ol><h2>Cuándo NO filtrar al inicio</h2><p>Este sistema de rutas y rangos condicionados funciona cuando hay un patrón de consultas repetibles. No funciona igual en todos los casos:</p><ul><li>Si cada proyecto es radicalmente único y no hay ningún rango orientativo posible, el rango condicionado no sirve. En ese caso, una llamada o reunión exploratoria es el primer paso real.</li><li>Si tu volumen de consultas es muy bajo (una o dos a la semana), el sistema de filtrado puede añadir fricción innecesaria. Con volumen bajo, el contacto directo es más eficiente.</li><li>Si tu oferta no está clara ni para ti, ningún sistema de entrada va a resolver eso. Primero define qué vendes y a quién.</li></ul><p>Para saber en qué casos tiene sentido estructurar la atención y en cuáles no, el artículo sobre <a href=&quot;/blog/como-priorizar-consultas-urgentes-vs-curiosos/&quot;>cómo priorizar consultas urgentes frente a curiosos</a> tiene criterios concretos.</p><h2>El siguiente paso si el volumen ya genera caos</h2><p>Cuando recibes 20 o más consultas por semana mezcladas entre Instagram y WhatsApp, responder manualmente con estos scripts sigue siendo un esfuerzo considerable. El problema no es el script, es que el punto de entrada no filtra antes de que tú tengas que intervenir.</p><p>La solución conceptual es un punto de entrada único con rutas por intención que capture el contexto mínimo antes de redirigir al chat final. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente eso: un link compartible desde bio, stories o Google que abre un asistente conversacional, recoge el contexto mínimo (servicio, objetivo, fecha) y redirige a WhatsApp con esa información ya organizada. No es para todos los casos: si tu volumen es bajo o cada proyecto requiere una conversación exploratoria larga desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago cuando alguien me escribe solo 'precio?' sin ningún dato más?",
+        "answer": "Responde con una frase que explique que el precio depende de dos o tres variables y pide esos datos en el mismo mensaje. Nunca des una cifra sin contexto ni ignores la consulta. Ejemplo: 'El precio depende del servicio y de cuándo lo necesitas. Dime esos dos datos y te respondo en un mensaje.'"
+      },
+      {
+        "question": "¿Cómo doy un precio sin que parezca que estoy esquivando la pregunta?",
+        "answer": "Con un rango condicionado: 'Para lo que describes, el rango habitual es entre A y B. Depende de X.' Eso no es evasión, es transparencia. El cliente sabe a qué atenerse y tú no te comprometes con una cifra que puede ser errónea."
+      },
+      {
+        "question": "¿Cuántos datos tengo que pedir antes de dar precio?",
+        "answer": "Solo los que cambian la cifra. Para la mayoría de servicios son dos o tres: servicio exacto, objetivo o contexto, y fecha o plazo. Pedir más antes del rango genera fricción y abandono."
+      },
+      {
+        "question": "¿Publico los precios en la bio o no?",
+        "answer": "Si tus precios son fijos, sí. Si varían según el proyecto, publica rangos orientativos o explica las variables. Publicar un precio fijo cuando en realidad varía genera leads con expectativa errónea y conversaciones incómodas."
+      },
+      {
+        "question": "¿El que solo pregunta precio siempre es un mal lead?",
+        "answer": "No necesariamente. Muchos clientes buenos empiezan preguntando precio porque no saben cómo empezar la conversación. El problema es la falta de contexto, no la pregunta en sí. Pide el contexto mínimo antes de descartarle."
+      },
+      {
+        "question": "¿Cómo evito que el cliente se vaya a comparar con la competencia antes de que yo pueda dar contexto?",
+        "answer": "Responde rápido con el rango condicionado y la pregunta de contexto en el mismo mensaje. Si tardas en responder o solo pides datos sin dar ninguna cifra, el cliente ya se ha ido a buscar a otro. La rapidez más el rango es lo que retiene."
+      },
+      {
+        "question": "¿Qué hago si me insisten con que les dé el precio exacto antes de dar ningún dato?",
+        "answer": "Mantén el rango condicionado y explica en una frase por qué no puedes darlo sin contexto: 'Sin saber X no puedo darte una cifra real, te estaría diciendo cualquier cosa.' Si aun así insisten sin dar datos, suelen ser leads que no van a encajar."
+      },
+      {
+        "question": "¿Funciona este sistema si ofrezco varios servicios muy distintos entre sí?",
+        "answer": "Sí, pero necesitas un rango condicionado por servicio, no uno genérico. La primera pregunta de tu sistema de entrada debe ser el tipo de servicio, y a partir de ahí se ramifica hacia los datos específicos de cada uno."
+      }
+    ]
+  },
+  {
     "slug": "como-priorizar-consultas-urgentes-vs-curiosos",
     "title": "Cómo priorizar consultas urgentes vs curiosos (sin ser borde)",
     "description": "Aprende a clasificar mensajes entrantes por intención y urgencia con 3 preguntas simples, para dedicar tiempo a quien va en serio sin ignorar a nadie de forma brusca.",
