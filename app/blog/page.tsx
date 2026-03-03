@@ -29,8 +29,11 @@ export const metadata: Metadata = {
 }
 
 export default function BlogPage() {
-  const featuredPost = blogPosts.find((post) => post.featured)
-  const regularPosts = blogPosts.filter((post) => !post.featured)
+  const postsSortedByDate = [...blogPosts].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  )
+  const featuredPost = postsSortedByDate[0] ?? null
+  const regularPosts = postsSortedByDate.slice(1)
 
   return (
     <div className="min-h-screen bg-white">
@@ -141,25 +144,6 @@ export default function BlogPage() {
                 </Link>
               )
             })}
-          </div>
-        </section>
-
-        {/* Newsletter Section */}
-        <section className="bg-gradient-to-br from-purple-100 to-pink-100 py-16">
-          <div className="container mx-auto px-4">
-            <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-2xl md:text-3xl font-bold mb-4">¿Quieres recibir más contenido como este?</h2>
-              <p className="text-muted-foreground mb-8">
-                Suscríbete a nuestra newsletter y recibe consejos, guías y las últimas tendencias directamente en tu email.
-              </p>
-              <div className="flex justify-center">
-                <Button size="lg" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white border-0" asChild>
-                  <a href="https://inkup.substack.com/embed" target="_blank" rel="noopener noreferrer">
-                    Suscríbete a la newsletter <ArrowRight className="ml-2" />
-                  </a>
-                </Button>
-              </div>
-            </div>
           </div>
         </section>
       </main>
