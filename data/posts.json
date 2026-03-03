@@ -1,5 +1,102 @@
 [
   {
+    "slug": "como-priorizar-consultas-urgentes-vs-curiosos",
+    "title": "Cómo priorizar consultas urgentes vs curiosos (sin ser borde)",
+    "description": "Aprende a clasificar mensajes entrantes por intención y urgencia con 3 preguntas simples, para dedicar tiempo a quien va en serio sin ignorar a nadie de forma brusca.",
+    "excerpt": "Priorizar consultas es decidir a quién respondes primero y con cuánta energía, usando señales concretas de intención, no intuición. Un sistema simple de 3 preguntas evita perder leads buenos entre mensajes vacíos.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-priorizar-consultas-urgentes-vs-curiosos.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-03",
+    "readingTime": "7 min",
+    "tags": [
+      "gestion-consultas",
+      "cualificacion",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "atencion-clientes"
+    ],
+    "quickAnswerSubtitle": "Priorizar consultas urgentes vs curiosos en WhatsApp e Instagram",
+    "quickAnswer": [
+      "**Clasifica por intención, no por orden de llegada** — El primero en escribir no es siempre el más urgente. Quien da fecha, servicio y contexto manda primero.",
+      "**Usa 3 preguntas filtro** — Servicio concreto, fecha aproximada y si ya ha tomado decisión. Quien no responde a ninguna raramente cierra.",
+      "**Define umbrales de descarte amable** — Dos intentos sin respuesta es el límite. Cierre con una frase corta, sin perseguir ni ignorar.",
+      "**El curioso no es enemigo** — Solo necesita ruta distinta: info rápida, sin invertir tiempo de venta. Separa la ruta de info de la ruta de cita o presupuesto.",
+      "**Priorizar no es ser borde** — Es ser claro. Un mensaje que guía al siguiente paso es más respetuoso que silencio o respuesta genérica."
+    ],
+    "oneLineDefinition": "Priorizar consultas es clasificar los mensajes entrantes por intención y urgencia usando señales concretas, para dedicar tiempo a quien va en serio sin tratar mal a quien solo mira.",
+    "sections": [
+      "Por qué el orden de llegada es una trampa",
+      "Las 3 preguntas que separan urgente de curioso",
+      "Matriz de prioridad: cómo clasificar en menos de 10 segundos",
+      "Scripts para cada nivel sin sonar frío",
+      "Errores comunes al priorizar",
+      "Cuándo este sistema no aplica",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo priorizar consultas entrantes en 3 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business",
+        "Etiquetas por nivel de prioridad",
+        "Script de primer mensaje"
+      ],
+      "steps": [
+        {
+          "name": "Leer la señal de intención",
+          "text": "Antes de responder, identifica si el mensaje incluye servicio concreto, fecha o contexto. Si no incluye nada, es nivel bajo hasta que responda."
+        },
+        {
+          "name": "Aplicar las 3 preguntas filtro",
+          "text": "¿Qué servicio exacto busca? ¿Cuándo lo necesita? ¿Ya ha tomado una decisión o solo está mirando? Con esas tres respuestas tienes nivel de prioridad."
+        },
+        {
+          "name": "Asignar ruta y responder con plantilla adecuada",
+          "text": "Urgente con contexto: respuesta directa con propuesta. Curioso sin contexto: ruta de info rápida. Sin respuesta tras 2 intentos: cierre amable."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el orden de llegada es una trampa</h2><p>Contestas el primer mensaje que ves. Luego el segundo. Y el tercero resulta ser el que iba en serio, pero lleva dos horas esperando mientras tú explicabas horarios a alguien que nunca reservó.</p><p>El problema no es la velocidad de respuesta, es el criterio de respuesta. Sin un sistema mínimo para clasificar intención, acabas invirtiendo tu tiempo en quien más interrumpe, no en quien más probabilidad tiene de convertirse en cliente. Si aún no tienes claro <a href=\"/blog/sintomas-caos-mensajes-clientes/\">qué señales indican que tu gestión de mensajes tiene un problema real</a>, empieza por ahí antes de crear reglas de prioridad.</p><p>La observación contraintuitiva aquí es esta: responder más rápido a todos no mejora tu conversión. Responder primero a los correctos, sí.</p><h2>Las 3 preguntas que separan urgente de curioso</h2><p>No necesitas un formulario largo. Necesitas tres datos que, si están presentes en el primer mensaje o aparecen tras una pregunta breve, indican que la persona va en serio.</p><ol><li><strong>¿Qué servicio concreto busca?</strong> No &quot;info&quot;, no &quot;algo para el verano&quot;. Un servicio específico indica que ya ha pensado en ello. Quien pone &quot;quiero un tatuaje geométrico en el antebrazo de unos 10cm&quot; está más cerca de reservar que quien pone &quot;info tattoo&quot;.</li><li><strong>¿Cuándo lo necesita?</strong> Una fecha o rango de fechas es la señal más clara de intención real. Quien tiene fecha tiene urgencia. Quien no la tiene, puede que solo esté cotejando precios sin intención de mover ficha pronto.</li><li><strong>¿Ha tomado ya alguna decisión?</strong> Preguntas como &quot;¿tenéis hueco la semana que viene?&quot; o &quot;¿cuánto cobra por sesión de X?&quot; con contexto indican decisión avanzada. &quot;¿Cuánto cobráis más o menos?&quot; sin más datos indica exploración temprana.</li></ol><p>Con estas tres señales puedes clasificar cualquier consulta en menos de diez segundos. No necesitas leer entre líneas ni adivinar. Si los tres datos están presentes: prioridad alta. Si falta alguno, pides el que falta antes de invertir más tiempo. <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Aquí tienes un sistema más completo para filtrar y cualificar consultas antes de responder por WhatsApp.</a></p><h2>Matriz de prioridad: cómo clasificar en menos de 10 segundos</h2><p>Este bloque es citable directamente. Úsalo como referencia rápida para decidir qué responder primero y cómo.</p><table><thead><tr><th>Nivel</th><th>Señales presentes</th><th>Acción inmediata</th><th>Tiempo máximo de respuesta</th></tr></thead><tbody><tr><td><strong>Urgente</strong></td><td>Servicio concreto + fecha + contexto o decisión avanzada</td><td>Respuesta directa con propuesta o disponibilidad</td><td>Lo antes posible dentro de tu ventana</td></tr><tr><td><strong>Cualificable</strong></td><td>Servicio concreto pero sin fecha ni contexto</td><td>Una pregunta breve para completar los datos que faltan</td><td>Dentro de la misma jornada</td></tr><tr><td><strong>Informacional</strong></td><td>Pregunta genérica (precio, horarios, ubicación) sin contexto</td><td>Respuesta corta con info básica + invitación a dar un paso si hay interés real</td><td>Puede esperar; usa plantilla</td></tr><tr><td><strong>Sin señal</strong></td><td>&quot;Hola&quot;, &quot;info&quot;, mensaje vacío</td><td>Primer mensaje que guía a una ruta (cita, presupuesto, info)</td><td>Puede esperar; respuesta automática o plantilla</td></tr></tbody></table><p>La regla de descarte amable: si tras dos respuestas tuyas la persona no ha dado ninguno de los tres datos básicos, cierra con una frase corta y archiva. No persigas. El que va en serio suele responder.</p><h2>Scripts para cada nivel sin sonar frío</h2><p>Priorizar no significa tratar mal a nadie. Significa guiar a cada persona al paso que le corresponde. Estos scripts están pensados para sonar naturales, no corporativos.</p><h3>Script para nivel urgente (tiene los 3 datos)</h3><blockquote><p>&quot;Perfecto, con eso que me cuentas ya tengo lo que necesito. Te propongo [opción concreta / fecha disponible / precio orientativo]. ¿Confirmamos o necesitas algo más antes de decidir?&quot;</p></blockquote><p>Directo, sin relleno. La persona ya ha dado señales de que quiere avanzar; no la hagas esperar un párrafo de contexto.</p><h3>Script para nivel cualificable (falta algún dato)</h3><blockquote><p>&quot;Para darte una respuesta útil, necesito saber [dato que falta: fecha, servicio exacto, etc.]. Con eso te digo exactamente qué opciones hay. ¿Me lo comentas?&quot;</p></blockquote><p>Una sola pregunta. No tres. Quien tiene intención real responde rápido a una pregunta concreta.</p><h3>Script para nivel informacional (solo quiere precio o horarios)</h3><blockquote><p>&quot;Los precios van desde [rango] dependiendo de [variable clave]. Si me dices qué tienes en mente, te doy una cifra más ajustada. O si prefieres, este link te lleva directo a [paso siguiente].&quot;</p></blockquote><p>Das la info básica, reduces la ambigüedad y ofreces un siguiente paso sin presionar. El que quiera avanzar, avanzará.</p><h3>Script de cierre amable (sin respuesta tras 2 intentos)</h3><blockquote><p>&quot;Entiendo que igual no es el momento o ya lo has resuelto por otro lado. Si en algún momento lo necesitas, aquí estamos.&quot;</p></blockquote><p>Sin reproche, sin persecución. Limpio y archivado.</p><p>Si quieres ver cómo encaja este sistema dentro de un proceso más amplio de atención, <a href=\"/blog/gestion-consultas-clientes/\">aquí tienes la guía completa para gestionar consultas cuando te escriben por WhatsApp e Instagram.</a></p><h2>Errores comunes al priorizar</h2><ol><li><strong>Responder por orden de llegada</strong> — El más reciente no es el más urgente. Consecuencia: el lead con fecha se enfría esperando. Corrección: escanea primero las señales antes de responder.</li><li><strong>Tratar al curioso como si fuera urgente</strong> — Invertir 10 minutos explicando precios a alguien que solo coteja. Consecuencia: pierdes tiempo y el curioso tampoco avanza porque no era su momento. Corrección: ruta de info corta y siguiente paso opcional.</li><li><strong>Pedir los tres datos a la vez en el primer mensaje</strong> — Suena a interrogatorio. Consecuencia: abandono. Corrección: una pregunta por turno, empezando por la que más cambia tu respuesta.</li><li><strong>No definir cuándo cerrar</strong> — Dejas conversaciones abiertas indefinidamente. Consecuencia: caos acumulado y seguimientos imposibles. Corrección: regla fija de dos intentos máximo sin respuesta.</li><li><strong>Confundir &quot;no urgente ahora&quot; con &quot;no interesa&quot;</strong> — Alguien en nivel informacional hoy puede ser urgente en tres semanas. Consecuencia: descartas leads que tenían intención futura. Corrección: cierre amable en lugar de ignorar, con puerta abierta.</li></ol><h2>Cuándo este sistema no aplica</h2><ul><li>Si tu volumen es muy bajo (menos de cinco consultas al día), clasificar formalmente es sobredimensionado. Con ese volumen, leer el mensaje y responder directamente funciona igual.</li><li>Si cada servicio que ofreces es completamente distinto y no hay patrón de preguntas repetibles, las señales de urgencia cambian tanto que una matriz fija no te ayuda. Necesitas criterios propios por servicio.</li><li>Si tu proceso de venta requiere una conversación larga desde el primer mensaje (servicios de alto ticket con discovery profundo), forzar la clasificación rápida puede cortar conversaciones que necesitan tiempo. En ese caso, la priorización es más sobre agenda que sobre filtro de urgencia.</li></ul><p>Si sospechas que el problema no es solo priorización sino que el volumen de mensajes repetitivos ya está fuera de control, <a href=\"/blog/como-evitar-que-te-escriban-solo-precio/\">aquí tienes cómo reducir los mensajes de precio sin contexto antes de que lleguen a tu bandeja.</a></p><h2>El siguiente paso si el volumen ya no lo gestionas a mano</h2><p>Cuando tienes volumen suficiente para que este sistema manual empiece a ser lento (unos 20-30 consultas al día o picos frecuentes), la lógica de las 3 preguntas filtro se puede implementar antes de que el mensaje llegue a ti. En lugar de clasificar manualmente cada vez, el cliente responde esas preguntas en un paso previo y llega a WhatsApp con el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link único desde Instagram, WhatsApp o Google que abre un asistente conversacional, captura los datos mínimos (intención, servicio, fecha, contacto) y redirige al chat con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún. Pero si el caos de clasificación manual ya te consume tiempo real, esa capa previa cambia bastante el día a día.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago si me escriben 'hola' y nada más?",
+        "answer": "Responde con un mensaje que guíe a una ruta: '¿Buscas cita, presupuesto o información?' Una sola pregunta. Si no responden a eso, el nivel de intención es muy bajo."
+      },
+      {
+        "question": "¿Cómo priorizo si me llegan mensajes por Instagram y WhatsApp a la vez?",
+        "answer": "Aplica las mismas 3 señales independientemente del canal: servicio concreto, fecha y nivel de decisión. El canal no determina la urgencia, el contenido sí."
+      },
+      {
+        "question": "¿Cuántas veces intento antes de cerrar una conversación sin respuesta?",
+        "answer": "Dos intentos es el límite razonable. Más allá, el seguimiento empieza a ser persecución y raramente convierte. Cierre amable y archivado."
+      },
+      {
+        "question": "¿El curioso de hoy puede ser cliente mañana?",
+        "answer": "Sí, pero no tienes que mantener la conversación activa para eso. Un cierre amable con puerta abierta es suficiente. Si vuelve, volverá con más intención."
+      },
+      {
+        "question": "¿Qué pasa si pido la fecha y me dicen 'no sé todavía'?",
+        "answer": "Es una señal de exploración temprana. Pasa a ruta informacional: info básica y siguiente paso opcional. No inviertas tiempo de venta en alguien sin ventana de decisión."
+      },
+      {
+        "question": "¿Cómo evito sonar frío cuando filtro con preguntas?",
+        "answer": "Explica brevemente por qué preguntas: 'Para darte una respuesta útil necesito saber X.' Una frase de contexto humaniza la pregunta sin añadir relleno."
+      },
+      {
+        "question": "¿Puedo usar estas reglas si somos dos personas contestando?",
+        "answer": "Sí, pero necesitáis acordar los criterios por escrito. Si cada persona clasifica con su propio criterio, el sistema no funciona. Un documento de una página con los niveles y scripts es suficiente."
+      },
+      {
+        "question": "¿Qué hago si alguien con señales de urgente me pregunta solo precio al final?",
+        "answer": "Si ya tienes los tres datos, da el precio con contexto: un rango condicionado a las variables que ya conoces. Evita el precio suelto sin marco; genera malentendidos."
+      }
+    ]
+  },
+  {
     "slug": "por-que-pierdes-clientes-por-responder-tarde",
     "title": "Por qué pierdes clientes por responder tarde (y qué hacer hoy)",
     "description": "Cuando tardas en responder, el cliente no espera: compara, elige y cierra con quien llegó primero. Entiende qué pasa en esos minutos de silencio y qué puedes cambiar hoy sin contratar a nadie.",
