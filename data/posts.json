@@ -1,5 +1,109 @@
 [
   {
+    "slug": "plantilla-mensaje-ausencia-que-convierte",
+    "title": "Plantilla de mensaje de ausencia que convierte (WhatsApp/IG)",
+    "description": "Scripts listos para copiar y pegar de mensaje de ausencia en WhatsApp e Instagram que recogen datos del cliente, reducen fricción y evitan que el lead se enfríe mientras no estás disponible.",
+    "excerpt": "Un mensaje de ausencia que convierte no dice 'en breve te atendemos'. Guía al cliente a dejar la información mínima necesaria para que cuando respondas, la conversación ya pueda avanzar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-mensaje-ausencia-que-convierte.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-04",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "instagram",
+      "mensajes-ausencia",
+      "scripts",
+      "atencion-cliente",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Plantilla de mensaje de ausencia que convierte en WhatsApp e Instagram",
+    "quickAnswer": [
+      "**Reconoce la espera con honestidad** — Di cuándo vas a responder, no 'en breve'. El cliente sabe que mientes si dices 'en breve' y nunca apareces.",
+      "**Pide los datos mínimos en el propio mensaje** — Servicio, fecha aproximada y qué necesita. Así cuando respondas ya tienes contexto.",
+      "**Da un siguiente paso claro** — Un link, una instrucción, una acción. Sin eso, el cliente espera pasivo y se va con quien responde antes.",
+      "**Filtra sin interrogar** — Una sola pregunta abierta ('cuéntame qué necesitas y cuándo') recoge más que un formulario de cinco campos."
+    ],
+    "oneLineDefinition": "Un mensaje de ausencia que convierte es el que reconoce la espera, pide los datos mínimos necesarios y da un siguiente paso claro para que el lead no se enfríe mientras no estás disponible.",
+    "sections": [
+      "Por qué la mayoría de mensajes de ausencia no sirven de nada",
+      "Qué debe hacer un buen mensaje de ausencia",
+      "Scripts listos para copiar y pegar",
+      "Checklist: antes de activar tu mensaje de ausencia",
+      "Errores comunes (y cómo corregirlos)",
+      "Cuándo el mensaje de ausencia no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo crear un mensaje de ausencia que no pierde leads",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "WhatsApp Business",
+        "Respuestas automáticas de Instagram",
+        "Link de atención (bio o directo)"
+      ],
+      "steps": [
+        {
+          "name": "Define el tiempo real de respuesta",
+          "text": "Decide cuándo respondes de verdad: horas, al día siguiente, solo de lunes a viernes. Escríbelo exacto en el mensaje."
+        },
+        {
+          "name": "Elige los datos mínimos que cambian tu respuesta",
+          "text": "Servicio, fecha aproximada, contexto básico. Solo lo que necesitas para no empezar de cero cuando leas el mensaje."
+        },
+        {
+          "name": "Escribe el cuerpo del mensaje con los tres bloques",
+          "text": "Reconocimiento de recepción, petición de datos mínimos y siguiente paso concreto (link o instrucción)."
+        },
+        {
+          "name": "Añade microcopy que explique por qué pides esos datos",
+          "text": "Una frase del tipo 'así cuando te responda ya puedo darte una respuesta útil' reduce fricción y abandono."
+        },
+        {
+          "name": "Actívalo en WhatsApp Business y en respuestas automáticas de Instagram",
+          "text": "En WhatsApp Business: Más opciones > Herramientas para la empresa > Mensaje de ausencia. En Instagram: necesitas cuenta de empresa o creador."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la mayoría de mensajes de ausencia no sirven de nada</h2><p>Tu cliente te escribe. Recibe: <em>'Gracias por contactar con nosotros, en breve te atendemos.'</em> No sabe cuándo vas a aparecer. No sabe qué hacer mientras tanto. Lo más probable es que en los siguientes minutos abra el perfil del siguiente tatuador, coach o fotógrafo de la lista.</p><p>El mensaje de ausencia estándar no pierde leads por descuido: los pierde por diseño. Está pensado para callar al cliente, no para avanzar con él. <a href='/blog/por-que-pierdes-clientes-por-responder-tarde/'>Perder clientes por responder tarde</a> no siempre es cuestión de velocidad: a veces es cuestión de qué pasa en el tiempo de espera.</p><p>Lo contrario intuitivo aquí: un mensaje de ausencia bien escrito puede hacer más trabajo que una respuesta inmediata mediocre. Si el cliente llega a tu conversación de WhatsApp con sus datos ya escritos, la siguiente interacción humana puede ir directa a cerrar, no a preguntar lo básico.</p><h2>Qué debe hacer un buen mensaje de ausencia</h2><p>Tres cosas, en este orden:</p><ol><li><strong>Confirmar recepción</strong> — El cliente sabe que llegó. Sin esto, muchos reenvían o buscan otra vía.</li><li><strong>Pedir los datos mínimos que cambian tu respuesta</strong> — No un formulario. Una o dos preguntas concretas que te permitan responder con contexto cuando aparezcas.</li><li><strong>Dar un siguiente paso claro</strong> — Un link, una instrucción, una acción. Algo que el cliente pueda hacer ahora mismo si quiere avanzar sin esperar.</li></ol><p>Si el mensaje cumple esos tres puntos, el tiempo de espera deja de ser un problema y pasa a ser un filtro útil. Quien responde a las preguntas mínimas tiene interés real. Quien no responde, probablemente no habría convertido de todas formas.</p><h2>Scripts listos para copiar y pegar</h2><h3>Script 1 — Tono neutro (válido para cualquier servicio)</h3><blockquote><p>Hola, he recibido tu mensaje. Respondo [horario concreto, ej: de lunes a viernes de 10 a 19h].<br><br>Para responderte rápido cuando lea esto, cuéntame:<br>— ¿Qué servicio te interesa?<br>— ¿Tienes fecha aproximada en mente?<br><br>Con eso te doy una respuesta útil de una vez, sin ir y venir.</p></blockquote><h3>Script 2 — Tono cercano (estética, tatuaje, fotografía)</h3><blockquote><p>¡Hola! Me ha llegado tu mensaje, gracias por escribir.<br>Ahora mismo no estoy disponible pero te respondo [ej: mañana antes de las 12h].<br><br>Mientras, si quieres que te responda con info concreta desde el primer mensaje:<br>— ¿Qué tienes en mente? (tipo de servicio, estilo, idea general)<br>— ¿Para cuándo lo necesitarías más o menos?<br><br>Así cuando te escriba ya voy al grano.</p></blockquote><h3>Script 3 — Con link de atención (si tienes un punto de entrada estructurado)</h3><blockquote><p>Hola, he recibido tu mensaje. Respondo [horario].<br><br>Si quieres avanzar ahora mismo sin esperar, puedes dejar tus datos aquí: [link].<br>Te lleva menos de un minuto y así cuando te responda ya tengo todo el contexto.<br><br>Si prefieres esperar, te escribo en cuanto pueda.</p></blockquote><h3>Script 4 — Para Instagram DM (texto corto, límite de caracteres)</h3><blockquote><p>Hola, te respondo [ej: en 24h / mañana]. Para ir más rápido: cuéntame qué servicio buscas y para cuándo. Con eso te respondo bien de una vez.</p></blockquote><h3>Script 5 — Con descarte amable (si tienes requisitos o lista de espera)</h3><blockquote><p>Hola, he recibido tu mensaje. Ahora mismo tengo [lista de espera / agenda cerrada hasta X fecha].<br><br>Si te interesa igualmente: cuéntame qué buscas y para cuándo. Si encaja con lo que hago, te escribo con opciones reales. Si no encaja, te lo digo también para no hacerte perder tiempo.</p></blockquote><h2>Checklist: antes de activar tu mensaje de ausencia</h2><ul><li>¿Dice cuándo vas a responder de forma concreta (no 'en breve')?</li><li>¿Pide al menos un dato mínimo que cambia tu respuesta?</li><li>¿Da un siguiente paso claro (link, instrucción, acción)?</li><li>¿Tiene microcopy que explica por qué pides esos datos?</li><li>¿El tono coincide con cómo hablas normalmente con tus clientes?</li><li>¿Está activado tanto en WhatsApp Business como en Instagram (si usas ambos)?</li><li>¿Has probado cómo se ve desde el móvil antes de activarlo?</li></ul><h2>Errores comunes (y cómo corregirlos)</h2><ol><li><strong>Decir 'en breve' sin dar hora ni día.</strong> Consecuencia: el cliente no sabe si esperar o buscar otra opción. Corrección: hora o día concreto, aunque sea aproximado.</li><li><strong>No pedir ningún dato.</strong> Consecuencia: cuando respondes, empiezas de cero con el cliente ya frío. Corrección: una o dos preguntas mínimas en el propio mensaje.</li><li><strong>Pedir demasiados datos en el mensaje de ausencia.</strong> Consecuencia: parece un formulario y el cliente no responde. Corrección: máximo dos preguntas. Lo que de verdad cambia tu primera respuesta.</li><li><strong>Mensaje idéntico en WhatsApp y en Instagram sin adaptarlo.</strong> Consecuencia: en Instagram el texto se corta o queda raro. Corrección: versión corta para DM de Instagram, versión completa para WhatsApp.</li><li><strong>Enlace roto o link que lleva a una página sin contexto.</strong> Consecuencia: el cliente entra, no entiende qué hacer y abandona. Corrección: revisa el link antes de activar y comprueba que el destino es claro.</li><li><strong>Tono corporativo ('estimado cliente', 'nos pondremos en contacto').</strong> Consecuencia: disonancia con el resto de la conversación. Corrección: escribe como hablas realmente con tus clientes.</li></ol><h2>Cuándo el mensaje de ausencia no es suficiente</h2><p>Si recibes más de 15-20 consultas al día, el mensaje de ausencia resuelve la primera fricción pero no organiza el caos posterior. Cuando el cliente responde con sus datos, sigues teniendo un montón de conversaciones abiertas sin estructura, sin priorización y sin contexto centralizado.</p><p>En ese punto, lo que necesitas no es un mensaje mejor: necesitas un sistema de entrada. <a href='/blog/gestion-consultas-clientes/'>Gestionar consultas de clientes cuando te escriben por WhatsApp e Instagram</a> explica cómo montar ese sistema sin CRM complejo. Y si los picos son frecuentes (fines de semana, campañas, temporada alta), <a href='/blog/como-gestionar-picos-mensajes-fines-semana/'>gestionar picos de mensajes</a> va directo a ese escenario concreto.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan los datos mínimos del cliente antes de que respondas manualmente, a través de un link único que puedes poner en bio, stories o en el propio mensaje de ausencia. El cliente llega a WhatsApp con contexto ya recogido. No es para todos los casos: si tu volumen es bajo o cada consulta es muy distinta, probablemente no lo necesitas aún.</p><p>También tiene sentido revisar cómo está configurado tu <a href='/blog/link-en-bio-para-atencion-clientes/'>link en bio para atención al cliente</a>: si el mensaje de ausencia envía a un link y ese link no está bien pensado, pierdes el trabajo que hace el mensaje.</p>",
+    "faq": [
+      {
+        "question": "¿Cuánto tiempo debería pasar entre que llega el mensaje y que respondo para que el lead no se enfríe?",
+        "answer": "Depende del sector, pero en servicios locales con decisión rápida (tatuaje, estética, fotografía), más de 4-6 horas en horario activo ya genera pérdidas. Un buen mensaje de ausencia compensa parte de esa espera si pide datos y da un paso siguiente claro."
+      },
+      {
+        "question": "¿El mensaje de ausencia de WhatsApp Business se activa solo fuera de horario o también durante el día?",
+        "answer": "Puedes configurarlo solo fuera del horario que definas, o activarlo manualmente cuando necesites. WhatsApp Business permite elegir horario de ausencia específico o activación permanente."
+      },
+      {
+        "question": "¿Instagram tiene mensaje de ausencia automático como WhatsApp?",
+        "answer": "Instagram permite respuestas automáticas a DMs en cuentas de empresa o creador, pero con menos opciones que WhatsApp Business. Puedes activar una respuesta automática desde Configuración > Herramientas de empresa > Mensajes automáticos."
+      },
+      {
+        "question": "¿Puedo usar el mismo texto en WhatsApp y en Instagram?",
+        "answer": "No directamente. En Instagram el texto aparece recortado si es muy largo. Usa una versión corta para DM de Instagram (dos o tres líneas máximo) y la versión completa para WhatsApp."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde al mensaje de ausencia con sus datos y luego sigo tardando?",
+        "answer": "Al menos tienes el contexto. Cuando respondas, ve directo al asunto sin volver a preguntar lo que ya te dijo. Eso compensa parte del tiempo de espera y muestra que leíste lo que te envió."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo incluir en el mensaje de ausencia sin que parezca un interrogatorio?",
+        "answer": "Máximo dos preguntas concretas. Una abierta ('qué necesitas y para cuándo') suele funcionar mejor que dos preguntas separadas porque parece más conversacional y recoge lo mismo."
+      },
+      {
+        "question": "¿Qué pasa si pongo un link en el mensaje de ausencia y el cliente no lo abre?",
+        "answer": "Nada grave. El link es una opción para quien quiere avanzar ahora, no una obligación. El cliente que no lo abre simplemente espera tu respuesta, igual que antes."
+      },
+      {
+        "question": "¿Debo cambiar el mensaje de ausencia según temporada o campaña?",
+        "answer": "Sí, especialmente si el tiempo de respuesta cambia (fines de semana, festivos, picos de campaña). Un mensaje con un tiempo de espera incorrecto genera expectativas que no puedes cumplir."
+      }
+    ]
+  },
+  {
     "slug": "como-centralizar-sin-integraciones",
     "title": "Cómo centralizar consultas sin integraciones ni API (método simple)",
     "description": "Si te llegan mensajes por Instagram, WhatsApp y Google y no tienes equipo técnico para conectarlos, este método te explica cómo centralizar sin tocar una sola API ni contratar a un desarrollador.",
