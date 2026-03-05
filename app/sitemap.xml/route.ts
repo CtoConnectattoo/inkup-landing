@@ -40,6 +40,9 @@ export async function GET() {
     "/como-hacer-un-formulario-en-whatsapp",
     "/asistente-whatsapp",
     "/blog",
+    "/alternativas",
+    "/alternativas/manychat",
+    "/alternativas/landbot",
   ]
 
   const blogRoutes = blogPosts.map((post) => {
