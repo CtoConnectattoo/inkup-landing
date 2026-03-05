@@ -28,7 +28,7 @@
                 │
                 │ Editas archivos (post, home, etc.)
                 │
-                │ npm run dev
+                │ npm run devgit 
                 │ (compruebas que todo se ve bien)
                 │
                 │ npm run build
