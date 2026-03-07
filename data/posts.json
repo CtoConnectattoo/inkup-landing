@@ -1,5 +1,109 @@
 [
   {
+    "slug": "como-pasar-de-instagram-a-whatsapp-con-contexto",
+    "title": "Cómo pasar de Instagram a WhatsApp sin perder contexto",
+    "description": "Aprende a diseñar la transición de Instagram DM a WhatsApp para que el cliente llegue con sus datos ya recogidos, sin repetir preguntas y sin perder la conversación.",
+    "excerpt": "Pasar de Instagram a WhatsApp sin perder contexto requiere capturar intención y datos mínimos antes de redirigir, y enviar un mensaje preformateado que lleve ese contexto al chat final.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-pasar-de-instagram-a-whatsapp-con-contexto.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-07",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "whatsapp",
+      "gestion-consultas",
+      "transicion-canales",
+      "procesos",
+      "primer-contacto"
+    ],
+    "quickAnswerSubtitle": "Pasar de Instagram a WhatsApp sin perder contexto",
+    "quickAnswer": [
+      "**Captura antes de redirigir** — No mandes a WhatsApp al primer mensaje. Primero recoge intención y 3-5 datos mínimos.",
+      "**Usa un link intermedio, no un DM largo** — Un flujo conversacional entre el DM y WhatsApp evita el caos de preguntas en el chat.",
+      "**Envía mensaje preformateado** — El cliente llega a WhatsApp con un texto que ya incluye lo que ha contado: servicio, fecha, contexto.",
+      "**No repitas lo que ya sabes** — Si tienes los datos, empieza la conversación desde ahí. Volver a preguntar rompe la confianza."
+    ],
+    "oneLineDefinition": "Pasar de Instagram a WhatsApp con contexto es diseñar un flujo que recoge intención y datos mínimos en el DM antes de redirigir, para que la conversación en WhatsApp empiece con información, no desde cero.",
+    "sections": [
+      "El problema real: por qué se pierde el contexto",
+      "Qué significa tener contexto antes de llegar a WhatsApp",
+      "Checklist: cómo diseñar la transición paso a paso",
+      "Scripts listos para usar",
+      "Errores comunes en la transición",
+      "Cuándo este flujo no aplica",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Diseñar la transición Instagram → WhatsApp con contexto",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Link único de entrada",
+        "Flujo conversacional o formulario",
+        "Mensaje preformateado de redirección"
+      ],
+      "steps": [
+        {
+          "name": "Define qué datos necesitas antes de entrar en WhatsApp",
+          "text": "Anota los 3-5 datos sin los que no puedes responder bien: servicio, objetivo, fecha, requisitos, contacto."
+        },
+        {
+          "name": "Crea un link de entrada único",
+          "text": "Ese link va en la bio, en las Stories y en los posts. Al hacer clic, abre un flujo que recoge los datos antes de redirigir."
+        },
+        {
+          "name": "Diseña el flujo de preguntas mínimas",
+          "text": "Máximo 4-5 preguntas. Explica en microcopy por qué las haces para reducir el abandono."
+        },
+        {
+          "name": "Genera el mensaje preformateado de salida",
+          "text": "Al terminar el flujo, el cliente abre WhatsApp con un mensaje que ya incluye lo que ha respondido."
+        },
+        {
+          "name": "Responde desde el contexto, no desde cero",
+          "text": "Cuando llegue el mensaje a WhatsApp, tienes los datos. Empieza la conversación desde ahí."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: por qué se pierde el contexto</h2><p>Alguien ve tu Story, te escribe un DM en Instagram: \"Hola, ¿cuánto cobras?\". Tú respondes, le pides datos, la conversación se alarga, y en un momento le dices \"te paso a WhatsApp para coordinar\". Él abre WhatsApp y escribe: \"Hola\". Y tú vuelves a empezar desde cero.</p><p>Eso no es un problema de herramientas. Es un problema de diseño: la transición entre canales no lleva el contexto consigo. Cada salto entre plataformas borra lo que se había recogido, obliga a repetir preguntas y genera la sensación (real) de que estás improvisando.</p><p>Lo contraintuitivo es esto: el problema no es que uses dos canales. Es que los usas en el orden equivocado. Instagram no debería ser donde recogues datos; debería ser donde activas la intención. WhatsApp no debería ser donde preguntas; debería ser donde cierras.</p><h2>Qué significa tener contexto antes de llegar a WhatsApp</h2><p>Contexto no es haber hablado con el cliente. Contexto es llegar a WhatsApp sabiendo:</p><ul><li>Qué servicio quiere exactamente.</li><li>Para qué o para quién (si aplica).</li><li>Con qué fecha o margen trabaja.</li><li>Si hay algún requisito o condición relevante.</li><li>Su nombre y número (ya los tienes porque está en WhatsApp, pero haberlos recogido antes confirma intención).</li></ul><p>Con eso, tu primer mensaje en WhatsApp no es \"Hola, ¿en qué te puedo ayudar?\". Es \"Hola [nombre], vi que buscas [servicio] para [fecha]. Tengo disponibilidad [opción A] o [opción B], ¿cuál te viene mejor?\".</p><p>La diferencia en conversión entre esos dos mensajes es enorme, y no tiene nada que ver con IA ni con automatización sofisticada.</p><p>Para que esto funcione en el contexto más amplio de tener un solo flujo de entrada, puedes ver cómo encaja en <a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">cómo centralizar consultas de Instagram y WhatsApp en un solo flujo</a>.</p><h2>Checklist: cómo diseñar la transición paso a paso</h2><ol><li><strong>Define el canal de cierre.</strong> En la mayoría de servicios locales es WhatsApp. Decide esto antes de diseñar nada más.</li><li><strong>Identifica los 3-5 datos que cambian tu respuesta.</strong> Servicio, objetivo, fecha, requisito, contacto. Si un dato no cambia lo que vas a decir, no lo pidas aún.</li><li><strong>Crea un link de entrada único.</strong> Va en la bio de Instagram, en las Stories y en los posts con llamada a la acción. Ese link abre un flujo conversacional (no un DM directo, no un formulario de 20 campos). Si quieres construir ese link como sistema, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">aquí tienes cómo convertir el link en bio en un sistema de atención</a>.</li><li><strong>Diseña el flujo con microcopy que explique por qué preguntas.</strong> \"Te hago 4 preguntas para no hacerte perder tiempo en WhatsApp\" reduce el abandono más que cualquier rediseño visual.</li><li><strong>Genera el mensaje preformateado de salida.</strong> Al completar el flujo, el cliente ve un botón que abre WhatsApp con un texto ya redactado que incluye sus respuestas. Tú recibes ese mensaje con contexto.</li><li><strong>Responde desde los datos, no desde cero.</strong> Cuando llega el mensaje, tienes lo que necesitas. Empieza la propuesta directamente.</li><li><strong>No uses el DM de Instagram para recoger datos.</strong> Úsalo para activar la intención y redirigir al link. Punto.</li></ol><h2>Scripts listos para usar</h2><h3>Script 1 — Respuesta automática o manual al primer DM</h3><blockquote><p>\"Hola, gracias por escribir. Para darte una respuesta concreta (no un copy-paste), necesito 4 datos rápidos. Te lleva menos de 1 minuto: [link]\". Si prefieres, dime por aquí el servicio que buscas y te paso lo que necesito saber.\"</p></blockquote><p>Este script funciona tanto si lo pones como respuesta automática en Instagram como si lo mandas manualmente. La clave es ofrecer el link como opción principal sin forzar.</p><h3>Script 2 — Mensaje preformateado que llega a WhatsApp (ejemplo para tatuador)</h3><blockquote><p>\"Hola, te escribo desde Instagram. Busco un tatuaje [descripción que rellenó], para [zona del cuerpo], sin fecha fija por ahora. Mi nombre es [nombre]. ¿Tienes disponibilidad?\"</p></blockquote><p>Ese mensaje lo genera el flujo automáticamente con lo que el cliente respondió. Tú lo recibes en WhatsApp con todo el contexto. No tienes que preguntar nada básico.</p><h3>Script 3 — Mensaje preformateado para estética o fisioterapia</h3><blockquote><p>\"Buenas, llego desde tu Instagram. Quiero información sobre [servicio], soy nueva clienta, busco cita para [semana/mes]. ¿Hay huecos?\"</p></blockquote><h3>Script 4 — Primer mensaje en WhatsApp cuando ya tienes contexto</h3><blockquote><p>\"Hola [nombre], vi que buscas [servicio] para [fecha/zona]. Tengo disponibilidad el [opción A] y el [opción B]. ¿Cuál te viene mejor para hablarlo?\"</p></blockquote><p>Este es el mensaje que marca la diferencia. No preguntas nada que ya sabes. Propones directamente.</p><h2>Errores comunes en la transición</h2><ol><li><strong>Redirigir a WhatsApp sin haber recogido nada.</strong> \"Escríbeme por WhatsApp\" sin más contexto no es una transición: es un reinicio. El cliente llega en blanco y tú también.</li><li><strong>Usar el DM como formulario.</strong> Preguntar servicio, fecha, zona, presupuesto y nombre por DM de Instagram en mensajes sucesivos genera fricción y conversaciones abandonadas. El DM activa, el flujo recoge.</li><li><strong>No explicar por qué pides datos.</strong> \"¿Cuál es tu presupuesto?\" sin contexto se percibe como filtro hostil. \"Para no mandarte un precio que no encaja, dime el rango orientativo\" cambia la percepción completamente.</li><li><strong>Pedir demasiados datos antes de redirigir.</strong> Si el flujo tiene 10 preguntas, la gente lo abandona. Con 4-5 datos bien elegidos tienes suficiente para abrir WhatsApp con propuesta.</li><li><strong>No tener mensaje preformateado.</strong> Si el cliente llega a WhatsApp y escribe \"Hola\" (porque tú no generaste el mensaje de salida del flujo), has perdido el contexto. El mensaje preformateado es la pieza técnica que conecta los dos canales.</li><li><strong>Tener el link en bio pero no mencionarlo en las Stories ni en los posts.</strong> Si no diriges activamente al link, la mayoría seguirá escribiendo por DM directo.</li></ol><h2>Cuándo este flujo no aplica</h2><ul><li>Si recibes menos de 10 consultas por semana y las gestionas sin problema, no necesitas construir esto todavía. El caos que justifica el flujo aún no está.</li><li>Si cada servicio que ofreces es radicalmente distinto y no hay patrón de preguntas repetible, un flujo genérico no sirve. Necesitarías flujos por servicio o directamente conversación abierta.</li><li>Si tu proceso de venta requiere una llamada exploratoria larga antes de cualquier propuesta, la transición IG → WhatsApp es solo un primer paso de presentación, no de cierre. El flujo puede ayudarte a filtrar, pero no a cerrar.</li></ul><p>Si tu situación es más compleja (varios canales además de Instagram, como Google Business Profile), puedes ver cómo gestionar esa capa en <a href=\"/blog/centralizar-consultas-google-business-profile/\">cómo centralizar consultas de Google Business Profile sin perderlas</a>.</p><h2>El siguiente paso (si lo necesitas)</h2><p>Cuando el volumen de DMs en Instagram ya genera caos y la pérdida de contexto en el salto a WhatsApp se traduce en conversaciones que no cierran, lo que funciona es un flujo intermedio que recoja los datos antes de redirigir. Si quieres ver opciones sin construirlo desde cero para <a href=\"/blog/centralizar-instagram-whatsapp-sin-crm/\">centralizar Instagram y WhatsApp sin CRM</a>, hay modelos simples que no requieren infraestructura técnica compleja.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ponen un asistente conversacional detrás de un link único que va en tu bio, recogen los datos mínimos antes de redirigir y generan el mensaje preformateado para que el cliente llegue a WhatsApp con contexto. No es para todos los casos — si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Por qué se pierde el contexto cuando paso de Instagram a WhatsApp?",
+        "answer": "Porque los dos canales no están conectados. Lo que se habló en el DM no viaja a WhatsApp a menos que lo diseñes explícitamente. Sin mensaje preformateado ni flujo intermedio, el cliente llega a WhatsApp desde cero."
+      },
+      {
+        "question": "¿Qué es un mensaje preformateado y cómo funciona?",
+        "answer": "Es un texto que se genera automáticamente al final del flujo de preguntas y que el cliente envía desde WhatsApp. Incluye las respuestas que ya dio: servicio, fecha, contexto. Tú lo recibes con todo el contexto sin haber preguntado nada."
+      },
+      {
+        "question": "¿Puedo hacer esto sin ninguna herramienta especial?",
+        "answer": "Parcialmente. Puedes crear un link de WhatsApp con texto preescrito y pedirle al cliente que rellene manualmente sus datos, pero perderás la captura estructurada y el filtrado. Funciona como solución provisional para volúmenes bajos."
+      },
+      {
+        "question": "¿Cuántas preguntas debería hacer antes de redirigir a WhatsApp?",
+        "answer": "Entre 3 y 5. Solo las que cambian lo que vas a responder: servicio, objetivo, fecha, requisito relevante. Más de 5 aumenta el abandono sin mejorar el contexto de forma significativa."
+      },
+      {
+        "question": "¿Qué hago si el cliente me escribe directamente por DM y no usa el link?",
+        "answer": "Responde en el DM con el script de redirección: ofrece el link como vía rápida y explica que te permite darle una respuesta concreta. No intentes recoger todos los datos por DM; úsalo para activar la intención y moverle al flujo."
+      },
+      {
+        "question": "¿Dónde pongo el link para que la gente lo use?",
+        "answer": "En la bio de Instagram, en las Stories con sticker de enlace y en los posts donde hagas llamadas a la acción. Si no lo mencionas activamente, la mayoría seguirá escribiendo por DM directo sin pasar por el flujo."
+      },
+      {
+        "question": "¿Funciona este sistema para cualquier tipo de servicio?",
+        "answer": "Funciona cuando hay un patrón de preguntas repetibles antes de dar precio o disponibilidad. Si cada consulta es completamente distinta o el proceso de venta requiere discovery largo, el flujo puede ayudar a filtrar pero no a recoger contexto útil de forma sistemática."
+      },
+      {
+        "question": "¿Qué pasa si el cliente abandona el flujo a mitad?",
+        "answer": "No llega a WhatsApp con contexto, pero tampoco es una pérdida definitiva. Puedes configurar que el flujo guarde el email o número si ya lo recogió en los primeros pasos. Si no dejó datos, probablemente no era un lead con intención real."
+      }
+    ]
+  },
+  {
     "slug": "centralizar-instagram-whatsapp-sin-crm",
     "title": "Centralizar Instagram y WhatsApp sin CRM: 3 modelos simples",
     "description": "Si te escriben por Instagram y WhatsApp sin orden y no quieres montar un CRM complejo, estos 3 modelos te permiten centralizar consultas según tu volumen y equipo.",
