@@ -1,5 +1,114 @@
 [
   {
+    "slug": "centralizar-consultas-google-business-profile",
+    "title": "Cómo centralizar consultas de Google Business Profile (GMB) sin perderlas",
+    "description": "Aprende a capturar y gestionar los leads que llegan desde Google Business Profile sin que se pierdan entre llamadas, mensajes directos y formularios sin seguimiento.",
+    "excerpt": "Centralizar consultas de Google Business Profile es redirigir cada punto de contacto del perfil (botón de llamada, mensajes, reservas) hacia un flujo único que capture datos mínimos antes de derivar al canal final.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/centralizar-consultas-google-business-profile.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-07",
+    "readingTime": "8 min",
+    "tags": [
+      "google-business-profile",
+      "centralizar-consultas",
+      "gestion-leads",
+      "whatsapp",
+      "procesos",
+      "negocios-servicios"
+    ],
+    "quickAnswerSubtitle": "Centralizar consultas de Google Business Profile sin perderlas",
+    "quickAnswer": [
+      "**Elige un canal de salida único** — decide dónde se cierra la conversación (WhatsApp o email) antes de tocar ningún botón del perfil.",
+      "**Redirige todos los puntos de contacto al mismo sitio** — llamada, mensajes GMB, reservas y el enlace del sitio web deben apuntar al mismo flujo.",
+      "**Captura datos mínimos antes del chat final** — zona, servicio, fecha y contacto; lo que cambia tu respuesta, nada más.",
+      "**Desactiva o unifica los canales que no controlas** — los mensajes nativos de GMB se pierden si no tienes alguien pendiente; mejor redirigir que abandonar.",
+      "**Mide qué botón convierte** — si no sabes por dónde entran, no puedes corregir lo que se pierde."
+    ],
+    "oneLineDefinition": "Centralizar consultas de Google Business Profile es dirigir todos los puntos de contacto del perfil hacia un flujo único que capture información mínima y derive al canal final con contexto.",
+    "sections": [
+      "Por qué los leads de GMB se pierden más que los de Instagram",
+      "Qué puntos de contacto tiene un perfil de GMB (y cuáles fallan)",
+      "Checklist: cómo centralizar GMB paso a paso",
+      "Scripts para el primer mensaje cuando el lead llega desde Google",
+      "Errores comunes al gestionar consultas de GMB",
+      "Cuándo no vale la pena complicar el flujo de GMB",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Centralizar consultas de GMB en 6 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Google Business Profile",
+        "WhatsApp Business",
+        "Link único de atención"
+      ],
+      "steps": [
+        {
+          "name": "Auditar puntos de contacto activos",
+          "text": "Revisa qué botones tiene tu perfil: llamar, mensaje, reservar, sitio web. Anota cuál tienes activo y cuál deriva a un canal sin seguimiento."
+        },
+        {
+          "name": "Elegir canal final",
+          "text": "Decide dónde cierras conversaciones: WhatsApp para rapidez, email para trazabilidad. Un solo canal de cierre."
+        },
+        {
+          "name": "Configurar el enlace del sitio web",
+          "text": "Sustituye el enlace genérico de la web por un link de atención que guíe por intención y capture datos mínimos antes del chat."
+        },
+        {
+          "name": "Gestionar o desactivar mensajes nativos de GMB",
+          "text": "Si no tienes a alguien pendiente de la bandeja de mensajes de Google, desactívalos o activa la respuesta automática que redirige al link de atención."
+        },
+        {
+          "name": "Ajustar el botón de llamada",
+          "text": "Si atiendes llamadas, mantenlo. Si no, elimínalo o redirige con un mensaje de respuesta automática que incluya el link de atención."
+        },
+        {
+          "name": "Medir entradas por canal",
+          "text": "Usa UTMs en el enlace del perfil para saber qué botón convierte. Sin datos, no puedes corregir lo que se pierde."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué los leads de GMB se pierden más que los de Instagram</h2><p>Un cliente busca tu negocio en Google, ve el perfil, pulsa el botón de mensaje y escribe \"hola, ¿tenéis hueco?\". Tú no tienes la bandeja de mensajes de Google abierta. Pasan 4 horas. El cliente ya reservó con otro.</p><p>Este escenario es habitual en estudios de tatuaje, centros de estética, fotógrafos y coaches porque Google Business Profile ofrece demasiados puntos de contacto simultáneos (llamada, mensaje nativo, reserva, web) y ninguno está coordinado. El resultado: leads de alta intención que llegan buscando y se pierden antes de que puedas contestar.</p><p>La diferencia con Instagram es importante: en IG el cliente suele estar explorando; en Google ya tiene intención de compra. Perder un lead de GMB cuesta más que perder uno de DM.</p><h2>Qué puntos de contacto tiene un perfil de GMB (y cuáles fallan)</h2><p>Antes de centralizar, conviene saber qué canales tiene activos tu perfil y qué ocurre con cada uno sin sistema:</p><ul><li><strong>Botón de llamada</strong> — el cliente llama, nadie responde o responde entre trabajo. Sin nota, sin seguimiento, sin datos.</li><li><strong>Mensajes nativos de GMB</strong> — entran en la bandeja de Google Business, que la mayoría de los negocios no revisa con regularidad. Alta tasa de abandono.</li><li><strong>Botón de reserva</strong> — si está conectado a un sistema externo (Calendly, Fresha, otro), puede funcionar. Si no está configurado, genera confusión.</li><li><strong>Enlace al sitio web</strong> — el más ignorado. Si apunta a la portada de tu web sin más, el cliente tiene que navegar para encontrar cómo contactarte.</li><li><strong>Preguntas y respuestas del perfil</strong> — los clientes dejan preguntas públicas que quedan sin responder durante días.</li></ul><p>El problema no es tener muchos canales. El problema es que cada uno termina en un sitio distinto, sin contexto, sin filtro y sin seguimiento. <a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">Centralizar consultas de Instagram y WhatsApp en un solo flujo</a> resuelve la misma lógica para esos canales; con GMB el principio es idéntico pero los puntos de entrada son distintos.</p><h2>Checklist: cómo centralizar GMB paso a paso</h2><p>Esto no requiere herramientas complejas. Requiere decidir y configurar:</p><ol><li><strong>Audita qué botones tienes activos</strong> — entra en el perfil como si fueras un cliente y anota cada punto de contacto visible.</li><li><strong>Decide tu canal de cierre</strong> — WhatsApp si quieres rapidez, email si necesitas trazabilidad. Solo uno.</li><li><strong>Configura el enlace del sitio web como tu link de atención</strong> — no a la portada de tu web; a un punto de entrada que guíe por intención (info, presupuesto, cita) y capture datos mínimos. <a href=\"/blog/unico-link-para-todos-tus-canales/\">Un único link para todos tus canales</a> explica cómo montarlo bien para que no sea un menú confuso.</li><li><strong>Gestiona los mensajes nativos de GMB</strong> — si no los revisas a diario, activa la respuesta automática que redirige al link de atención. Si los revisas, responde siempre con el mismo primer mensaje que guíe a una ruta.</li><li><strong>Decide qué haces con el botón de llamada</strong> — si atiendes llamadas, mantenlo y toma nota siempre. Si no, elimínalo del perfil para no generar expectativas que no puedes cumplir.</li><li><strong>Responde las preguntas públicas del perfil</strong> — las FAQs del perfil son contenido indexable. Una respuesta útil puede evitar 20 mensajes con la misma duda.</li><li><strong>Añade UTMs al enlace del perfil</strong> — así sabes cuántos leads llegan desde GMB y cuántos convierten. Sin esta métrica, trabajas a ciegas.</li><li><strong>Revisa el perfil una vez a la semana</strong> — reseñas nuevas, preguntas sin responder, mensajes acumulados. 10 minutos evitan que leads caigan en el limbo.</li></ol><h2>Scripts para el primer mensaje cuando el lead llega desde Google</h2><p>Cuando un cliente escribe por los mensajes nativos de GMB o llega al chat tras pasar por tu link, el primer mensaje marca el tono y la dirección de la conversación.</p><h3>Script 1 — Respuesta automática en mensajes GMB (redirige al link)</h3><blockquote><p>&quot;Hola, gracias por escribirnos. Para responderte rápido y sin esperas, haz clic aquí: [link de atención]. Te lleva a un formulario de 2 minutos donde me das el contexto que necesito. Respondo en menos de 24 h.&quot;</p></blockquote><h3>Script 2 — Primer mensaje manual cuando ves el mensaje a tiempo</h3><blockquote><p>&quot;Hola, acabo de ver tu mensaje. Para darte una respuesta útil, necesito 3 datos: ¿qué servicio te interesa, para cuándo lo buscas y en qué zona estás? Con eso te respondo en un solo mensaje.&quot;</p></blockquote><h3>Script 3 — Respuesta a &quot;¿tenéis hueco?&quot; sin contexto</h3><blockquote><p>&quot;Depende del servicio y la fecha. Dime qué tienes en mente y miro la agenda. Si quieres, pásate por aquí para que te responda con todo el detalle: [link].&quot;</p></blockquote><p>El objetivo de los tres scripts es el mismo: no invertir tiempo en una conversación sin datos. El cliente que da información avanza; el que no, espera.</p><h2>Errores comunes al gestionar consultas de GMB</h2><ol><li><strong>Dejar los mensajes nativos activos sin revisarlos</strong> — consecuencia: leads de alta intención sin respuesta durante horas. Corrección: activa respuesta automática que redirige o desactiva los mensajes.</li><li><strong>Apuntar el enlace del perfil a la portada de la web</strong> — el cliente tiene que navegar para encontrar cómo contactar. Corrección: el enlace va directamente al punto de atención.</li><li><strong>Tener todos los botones activos sin decidir cuál es el principal</strong> — el cliente elige por ti y elige el canal que menos controlas. Corrección: decide la jerarquía y desactiva lo que no puedes atender.</li><li><strong>No responder las preguntas públicas del perfil</strong> — las mismas dudas llegan por mensaje. Corrección: 10 minutos respondiendo FAQs públicas ahorran horas de mensajes repetidos.</li><li><strong>No medir qué botón convierte</strong> — sin UTMs, no sabes si los leads vienen de llamada, mensaje o web. Corrección: UTM en el enlace del perfil desde el primer día.</li><li><strong>Pedir demasiados datos en el primer contacto</strong> — el cliente llega con intención alta pero paciencia baja. Corrección: 3-4 datos mínimos en el primer paso, el resto en la conversación final.</li></ol><h2>Cuándo no vale la pena complicar el flujo de GMB</h2><p>Si recibes menos de 5 consultas a la semana desde Google, un sistema elaborado no aporta. Con revisar los mensajes una vez al día y tener un primer mensaje claro es suficiente.</p><p>Tampoco tiene sentido montar un flujo complejo si cada consulta que llega de Google es radicalmente distinta y requiere conversación larga desde el inicio. En ese caso, el filtrado previo aporta poco y puede generar fricción innecesaria.</p><p>Donde sí tiene sentido es cuando el volumen es constante, las preguntas son repetitivas (precio, disponibilidad, zona, requisitos) y pierdes leads porque no puedes responder en el momento exacto en que llegan. <a href=\"/blog/centralizar-instagram-whatsapp-sin-crm/\">Centralizar Instagram y WhatsApp sin CRM</a> describe 3 modelos según volumen que aplican igual a GMB.</p><h2>Si quieres implementar esto sin construirlo desde cero</h2><p>El flujo descrito (punto de entrada único, preguntas mínimas, derivación a WhatsApp con contexto) es exactamente lo que hace falta para no perder leads de Google. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que puedes poner en el perfil de GMB, que guía al cliente por intención, captura los datos mínimos y lo deriva a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen desde Google es bajo o cada consulta es distinta desde el primer mensaje, probablemente no lo necesitas aún.</p><p>Para entender cómo encaja con el resto de tus canales, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente</a> explica cómo convertir un enlace en un sistema real en lugar de un menú de opciones que nadie completa.</p>",
+    "faq": [
+      {
+        "question": "¿Cómo evito que los mensajes de Google Business se pierdan si no los reviso a diario?",
+        "answer": "Activa la respuesta automática en los ajustes de mensajes del perfil y configúrala para redirigir al link de atención. Así el cliente recibe respuesta inmediata aunque tú no estés disponible en ese momento."
+      },
+      {
+        "question": "¿Qué enlace debería poner en mi perfil de GMB para capturar mejor los leads?",
+        "answer": "No la portada de tu web. Un link de atención que guíe por intención (info, presupuesto, cita) y capture 3-4 datos mínimos antes de derivar a WhatsApp. El cliente llega con intención alta; no la desperdicies con navegación."
+      },
+      {
+        "question": "¿Debo desactivar el botón de llamada si no siempre puedo atender?",
+        "answer": "Si atiendes llamadas con regularidad, mantenlo y toma nota siempre. Si no, elimínalo del perfil. Generar expectativas que no puedes cumplir daña más que no tener el botón."
+      },
+      {
+        "question": "¿Qué datos mínimos debería pedir a alguien que llega desde Google?",
+        "answer": "Servicio exacto, fecha aproximada, zona si es relevante y contacto. Con esos 4 datos puedes responder con algo útil en un solo mensaje. Pedir más en el primer paso aumenta el abandono."
+      },
+      {
+        "question": "¿Tiene sentido responder las preguntas públicas del perfil de GMB?",
+        "answer": "Sí, y es de lo más eficiente que puedes hacer. Una respuesta pública bien escrita puede evitar 20 mensajes con la misma duda. También mejora cómo aparece el perfil en búsquedas locales."
+      },
+      {
+        "question": "¿Cómo sé si los leads que llegan a WhatsApp vienen de Google o de Instagram?",
+        "answer": "Añade UTMs al enlace que pones en el perfil de GMB. Cuando el cliente llega al link de atención, el parámetro UTM te dice el origen. Sin esto, trabajas sin saber qué canal convierte."
+      },
+      {
+        "question": "¿Qué hago si alguien escribe por mensajes de GMB y también por WhatsApp con la misma consulta?",
+        "answer": "Responde en el canal donde llegó antes y menciona que ya lo tienes. No respondas dos veces con contextos distintos; genera confusión. Redirige a uno solo desde el primer mensaje."
+      },
+      {
+        "question": "¿Cuántas consultas desde Google justifican montar un flujo de centralización?",
+        "answer": "A partir de 5-10 consultas semanales con preguntas repetitivas. Por debajo de eso, un primer mensaje bien escrito y la bandeja revisada una vez al día es suficiente."
+      }
+    ]
+  },
+  {
     "slug": "como-pasar-de-instagram-a-whatsapp-con-contexto",
     "title": "Cómo pasar de Instagram a WhatsApp sin perder contexto",
     "description": "Aprende a diseñar la transición de Instagram DM a WhatsApp para que el cliente llegue con sus datos ya recogidos, sin repetir preguntas y sin perder la conversación.",
