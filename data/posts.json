@@ -1,5 +1,110 @@
 [
   {
+    "slug": "unico-link-para-todos-tus-canales",
+    "title": "Un único link para todos tus canales: cómo montarlo bien",
+    "description": "Cómo crear un punto de entrada único para Instagram, WhatsApp y Google que guíe al cliente por intención, capture datos mínimos y llegue al canal final con contexto.",
+    "excerpt": "Un único link para todos tus canales no es un menú de opciones infinito. Es un punto de entrada que filtra la intención del cliente, recoge lo mínimo necesario y lo lleva al chat final con contexto ya preparado.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/unico-link-para-todos-tus-canales.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-08",
+    "readingTime": "7 min",
+    "tags": [
+      "link-unico",
+      "omnicanal",
+      "consultas-clientes",
+      "instagram",
+      "whatsapp",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Cómo montar un único link de entrada para todos tus canales",
+    "quickAnswer": [
+      "**Un link, no un menú** — El objetivo no es listar todo lo que haces, sino guiar al cliente hacia una de tres intenciones: información, presupuesto o cita.",
+      "**Filtra antes de redirigir** — El link debe capturar datos mínimos (servicio, contexto, fecha) antes de enviar al cliente a WhatsApp o email.",
+      "**Colócalo donde está el cliente** — Bio de Instagram, botón del perfil, Stories, Google Business Profile y web. Un solo link, en todos los sitios.",
+      "**El canal final es WhatsApp (en la mayoría de casos)** — El link no cierra la venta; prepara la conversación para que tú puedas cerrarla rápido.",
+      "**Sin datos mínimos, el link no sirve de nada** — Si el cliente llega a WhatsApp con 'hola', has creado un paso extra sin valor."
+    ],
+    "oneLineDefinition": "Un único link de entrada es el punto donde confluyen todos tus canales (Instagram, WhatsApp, Google, web) para guiar al cliente por intención, recoger datos mínimos y redirigirlo al canal final con contexto.",
+    "sections": [
+      "El problema que resuelve un link único",
+      "Qué debe hacer ese link (y qué no)",
+      "Arquitectura mínima: cómo montarlo",
+      "Dónde colocarlo",
+      "Errores frecuentes al montarlo",
+      "Cuándo no necesitas esto todavía",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Montar un único link de entrada en 5 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Formulario conversacional o asistente plug-and-play",
+        "Canal final definido (WhatsApp)",
+        "Bio de Instagram + Google Business Profile"
+      ],
+      "steps": [
+        {
+          "name": "Define el canal final",
+          "text": "Decide dónde quieres cerrar las conversaciones. En la mayoría de negocios de servicios, WhatsApp es el canal de cierre más efectivo."
+        },
+        {
+          "name": "Reduce las intenciones a tres",
+          "text": "Información, presupuesto y cita. Si intentas cubrir más, el cliente no sabe qué elegir y abandona."
+        },
+        {
+          "name": "Diseña las preguntas mínimas por ruta",
+          "text": "Para cada intención, define los 3-5 datos sin los que no puedes responder bien. Nada más."
+        },
+        {
+          "name": "Crea el link y testéalo tú mismo",
+          "text": "Pasa por el flujo como si fueras un cliente. Si tardas más de 90 segundos en llegar al chat final, hay demasiada fricción."
+        },
+        {
+          "name": "Colócalo en todos los puntos de entrada",
+          "text": "Bio de Instagram, botón del perfil, Stories fijadas, Google Business Profile y web. Mismo link, en todos lados."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema que resuelve un link único</h2><p>Te escriben por DM en Instagram, por WhatsApp directo, te encuentran en Google y llegan sin contexto, y de vez en cuando alguien rellena el formulario de la web. Cada canal llega con 'hola' o 'precio?' y tú empiezas desde cero en cada conversación.</p><p>El resultado es predecible: pierdes contexto, repites las mismas preguntas, y los leads buenos se mezclan con los curiosos sin que haya forma de separarlos antes de invertir tiempo. Si esto te resulta familiar, el artículo sobre <a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">cómo centralizar consultas de Instagram y WhatsApp en un solo flujo</a> explica el problema de fondo con más detalle.</p><p>Un link único no elimina los canales de entrada. Lo que hace es que, independientemente de por dónde llegue el cliente, el siguiente paso sea siempre el mismo: un punto de entrada estructurado que recoge lo mínimo necesario antes de redirigirlo al chat final.</p><h2>Qué debe hacer ese link (y qué no)</h2><h3>Lo que sí debe hacer</h3><ul><li>Identificar la intención del cliente (qué quiere: información, presupuesto o cita).</li><li>Recoger los datos mínimos que cambian tu respuesta (servicio, contexto, fecha, contacto).</li><li>Redirigir al canal final (normalmente WhatsApp) con ese contexto ya incluido en el mensaje de apertura.</li><li>Pre-responder las preguntas frecuentes dentro del propio flujo, antes de que lleguen al chat.</li></ul><h3>Lo que no debe hacer</h3><ul><li>No debe ser un menú con 8 opciones. Más de 3 rutas y la gente abandona.</li><li>No debe pedir datos que no cambian tu respuesta. Cada campo extra reduce la conversión.</li><li>No debe cerrar la venta. Su trabajo es preparar la conversación, no sustituirla.</li><li>No debe quedar vacío de contexto. Si el cliente llega a WhatsApp con 'hola', el link no ha funcionado.</li></ul><h2>Arquitectura mínima: cómo montarlo</h2><p>La estructura más simple que funciona tiene tres capas:</p><h3>Capa 1 — Selección de intención</h3><p>Tres opciones, no más: Quiero información / Quiero presupuesto / Quiero reservar cita. El cliente elige una y el flujo se adapta a esa ruta. Si intentas que una sola pantalla lo cubra todo, acabas con un formulario de 15 campos que nadie termina.</p><h3>Capa 2 — Preguntas mínimas por ruta</h3><p>Cada intención tiene su conjunto de preguntas. Ejemplo para un estudio de tatuajes:</p><table><thead><tr><th>Intención</th><th>Preguntas mínimas</th><th>Qué permite decidir</th></tr></thead><tbody><tr><td>Información</td><td>¿Sobre qué quieres info? (precio, cuidados, estilos, sesiones)</td><td>Responder con contenido específico, no genérico</td></tr><tr><td>Presupuesto</td><td>Descripción del tatuaje, zona corporal, tamaño aproximado, ¿tienes referencia?</td><td>Dar rango real o descartar sin reunión</td></tr><tr><td>Cita</td><td>Servicio, fecha preferida, flexibilidad, contacto</td><td>Confirmar disponibilidad o proponer alternativa</td></tr></tbody></table><p>La regla es simple: si un dato no cambia lo que harás, no lo pidas en este momento.</p><h3>Capa 3 — Redirección con contexto</h3><p>Al terminar el flujo, el cliente llega a WhatsApp (u otro canal) con un mensaje preformateado que incluye todo lo que ya respondió. Tú abres el chat y ya sabes qué quiere, cuándo, con qué contexto y cómo se llama. Cero preguntas de arranque. Para entender cómo funciona esto en la práctica, el artículo sobre <a href=\"/blog/como-pasar-de-instagram-a-whatsapp-con-contexto/\">cómo pasar de Instagram a WhatsApp sin perder contexto</a> detalla la transición.</p><h2>Dónde colocarlo</h2><p>Un único link solo funciona si está en todos los sitios donde el cliente podría buscarte. La lista es corta:</p><ul><li><strong>Bio de Instagram</strong> — El lugar más obvio. Sustituye cualquier link genérico a tu web o linktree si no está estructurado para capturar intención.</li><li><strong>Botón de perfil de Instagram</strong> (si tienes cuenta de empresa) — Muchos clientes pulsan este botón antes de escribir por DM.</li><li><strong>Stories fijadas</strong> — Una historia con 'Escríbenos aquí' y el link. Permanente y visible sin tener que buscarla.</li><li><strong>Google Business Profile</strong> — El botón de 'Sitio web' o 'Reservar' puede apuntar al link de entrada. Los clientes que te encuentran por Google suelen tener intención de compra más clara.</li><li><strong>Web</strong> — Si tienes web, el botón principal de contacto debería llevar al mismo link, no a un formulario de 10 campos diferente.</li></ul><p>El objetivo es que, independientemente de cómo te encuentre el cliente, el siguiente paso sea siempre el mismo flujo. Si el <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente</a> apunta a un lugar distinto que el de Google, estás creando experiencias fragmentadas y perdiendo el contexto que cada canal podría aportar.</p><h2>Errores frecuentes al montarlo</h2><ol><li><strong>Más de tres rutas en la primera pantalla</strong> — El cliente no sabe elegir y cierra. Corrección: fusiona opciones hasta quedarte con tres como máximo.</li><li><strong>Pedir datos personales antes de explicar para qué</strong> — Genera desconfianza y abandono. Corrección: añade una línea de microcopy: 'Te hago tres preguntas para responderte sin ir y venir de mensajes.'</li><li><strong>El link lleva a WhatsApp directamente, sin pasar por el flujo</strong> — Vuelves al punto de partida: 'hola' sin contexto. El link debe pasar por el asistente, no saltárselo.</li><li><strong>Flujo distinto en cada canal</strong> — Si tu link de Instagram va a un sitio y el de Google a otro, el sistema no escala y el análisis no sirve de nada. Un link, todos los canales.</li><li><strong>Preguntas abiertas sin estructura</strong> — 'Cuéntame qué necesitas' genera respuestas de 200 palabras o respuestas de una sola letra. Mejor: opciones cerradas con campo libre opcional al final.</li><li><strong>No actualizar el link cuando cambia el servicio</strong> — Si añades un servicio nuevo o cambias precios, el flujo tiene que reflejar eso. Un flujo desactualizado genera más confusión que no tener ninguno. Revisa el artículo sobre <a href=\"/blog/errores-al-centralizar-consultas/\">errores al intentar centralizar consultas</a> para ver el patrón completo de fallos.</li></ol><h2>Cuándo no necesitas esto todavía</h2><p>Antes de montarlo, comprueba si realmente lo necesitas:</p><ul><li>Si recibes menos de 10 consultas por semana, el caos no es suficiente para justificar el tiempo de montarlo. Con respuestas rápidas bien escritas en WhatsApp Business es suficiente por ahora.</li><li>Si cada consulta es completamente distinta y no hay patrón de preguntas repetibles, un flujo estructurado va a frustrarte a ti y al cliente.</li><li>Si tu problema es que no te llega nadie, esto no lo resuelve. Un link de entrada solo organiza el flujo existente; no genera demanda.</li><li>Si vendes algo que requiere una conversación larga y estratégica desde el primer mensaje, el flujo puede sentirse frío o apresurado.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link compartible que abre un asistente conversacional, captura la intención y los datos mínimos del cliente, y lo redirige a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen es bajo o cada consulta es demasiado singular para estandarizar, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas opciones debería tener el link de entrada?",
+        "answer": "Tres como máximo: información, presupuesto y cita. Más opciones generan parálisis y el cliente cierra sin elegir ninguna."
+      },
+      {
+        "question": "¿Qué pasa si el cliente me escribe por DM igualmente, sin pasar por el link?",
+        "answer": "Ocurre. Para esos casos, ten un primer mensaje de respuesta automática (o plantilla rápida) que los lleve al link: 'Para responderte bien y rápido, usa este enlace — tarda menos de un minuto.' No es infalible, pero reduce el volumen de DMs sin contexto."
+      },
+      {
+        "question": "¿El link tiene que ser diferente para Instagram y para Google?",
+        "answer": "No. El mismo link funciona en todos los canales. Si quieres medir de dónde vienen las consultas, puedes añadir parámetros UTM, pero el destino y el flujo deben ser idénticos."
+      },
+      {
+        "question": "¿Cuántos datos es demasiado pedir en el flujo?",
+        "answer": "Si superas cinco preguntas antes de llegar al canal final, empieza a caer la conversión. La regla es: pide solo lo que cambia tu respuesta. Si un dato no afecta lo que harás, no lo pidas en este momento."
+      },
+      {
+        "question": "¿Qué escribo en el microcopy para que el cliente no abandone?",
+        "answer": "Una frase que explique el beneficio y el tiempo: 'Tres preguntas para darte un precio realista sin mensajes de ida y vuelta.' Cuanto más concreto, menos abandono."
+      },
+      {
+        "question": "¿Cómo llega el cliente a WhatsApp con contexto si viene de Instagram?",
+        "answer": "El flujo genera un mensaje preformateado con las respuestas del cliente y abre WhatsApp con ese texto ya escrito. El cliente pulsa enviar y tú recibes la conversación con todo el contexto desde el primer mensaje."
+      },
+      {
+        "question": "¿Puedo usar esto si tengo un equipo de dos personas respondiendo?",
+        "answer": "Sí, y es cuando más valor da. Todos los clientes pasan por el mismo flujo y llegan con la misma estructura de información. Así cualquier persona del equipo puede continuar la conversación sin tener que preguntar desde cero."
+      },
+      {
+        "question": "¿Necesito web propia para tener un link de entrada único?",
+        "answer": "No. El link puede ser externo a tu web. Lo único que necesitas es que sea el mismo en todos los canales donde apareces: bio, botón de perfil, Google Business Profile y cualquier otro punto de contacto."
+      }
+    ]
+  },
+  {
     "slug": "centralizar-consultas-google-business-profile",
     "title": "Cómo centralizar consultas de Google Business Profile (GMB) sin perderlas",
     "description": "Aprende a capturar y gestionar los leads que llegan desde Google Business Profile sin que se pierdan entre llamadas, mensajes directos y formularios sin seguimiento.",
