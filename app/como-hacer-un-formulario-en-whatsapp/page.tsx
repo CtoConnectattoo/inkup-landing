@@ -146,11 +146,165 @@ export default function ComoHacerFormularioWhatsAppPage() {
       <Header />
       <main className="pt-16">
         <HowToFormHero />
+
+        {/* TL;DR answer block with CTA */}
+        <section className="bg-white">
+          <div className="container mx-auto px-4 py-10">
+            <div className="max-w-3xl mx-auto">
+              <h2 className="text-2xl md:text-3xl font-bold text-black mb-3">Resumen rápido (TL;DR)</h2>
+              <p className="text-gray-700 mb-4">
+                Para crear un formulario en WhatsApp: 1) Abre Inkup y crea un Asistente “WhatsApp”; 2) Añade campos
+                como nombre, ciudad, servicio y disponibilidad; 3) Previsualiza; 4) Copia el enlace y compártelo en bio,
+                Google Business y Stories; 5) Recibe consultas con contexto en WhatsApp.
+              </p>
+              <a
+                href="https://hi.inkup.io/auth/signup?utm_source=post-form-wa&utm_medium=button_tldr"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-purple-600 to-pink-600 px-6 py-3 text-white font-semibold shadow hover:opacity-95"
+              >
+                Crear mi formulario en 30s
+              </a>
+            </div>
+          </div>
+        </section>
+
+        {/* Step-by-step with screenshots */}
+        <section className="bg-gray-50 border-t border-gray-100">
+          <div className="container mx-auto px-4 py-12">
+            <div className="max-w-5xl mx-auto">
+              <h2 className="text-3xl md:text-4xl font-bold text-black mb-8">Guía paso a paso</h2>
+              <div className="space-y-10">
+                {[
+                  { n: 1, title: "Crea tu asistente (WhatsApp)", src: "/howto-wa/paso-1.jpg" },
+                  { n: 2, title: "Añade campos esenciales", src: "/howto-wa/paso-2.jpg" },
+                  { n: 3, title: "Previsualiza el flujo", src: "/howto-wa/paso-3.jpg" },
+                  { n: 4, title: "Copia y comparte el enlace", src: "/howto-wa/paso-4.jpg" },
+                  { n: 5, title: "Handoff a WhatsApp (mensaje con contexto)", src: "/howto-wa/paso-5.jpg" },
+                ].map((s) => (
+                  <figure key={s.n} className="bg-white rounded-xl border p-4">
+                    <figcaption className="flex items-baseline gap-3 mb-3">
+                      <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-purple-100 text-purple-700 font-bold">
+                        {s.n}
+                      </span>
+                      <h3 className="text-xl font-semibold text-black">{s.title}</h3>
+                    </figcaption>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={s.src} alt={`${s.title} — Inkup`} className="w-full h-auto rounded-lg" />
+                  </figure>
+                ))}
+
+                {/* Mobile preview */}
+                <div className="bg-white rounded-xl border p-4">
+                  <h3 className="text-xl font-semibold text-black mb-3">Cómo se ve en móvil</h3>
+                  <div className="grid md:grid-cols-2 gap-6 items-start">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/paso-6-mobile.jpg" alt="Vista móvil del asistente" className="w-full h-auto rounded-lg" />
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/paso-6.jpg" alt="Vista del asistente en escritorio" className="w-full h-auto rounded-lg hidden md:block" />
+                  </div>
+                </div>
+
+                {/* Questions + Appearance extras */}
+                <div className="grid md:grid-cols-2 gap-6">
+                  <div className="bg-white rounded-xl border p-4">
+                    <h3 className="text-xl font-semibold text-black mb-3">Editor de preguntas</h3>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/preguntas-1.jpg" alt="Editor de preguntas 1" className="w-full h-auto rounded-lg mb-3" />
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/preguntas-2.jpg" alt="Editor de preguntas 2" className="w-full h-auto rounded-lg mb-3" />
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/preguntas-3.jpg" alt="Editor de preguntas 3" className="w-full h-auto rounded-lg" />
+                  </div>
+                  <div className="bg-white rounded-xl border p-4">
+                    <h3 className="text-xl font-semibold text-black mb-3">Apariencia del asistente</h3>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src="/howto-wa/apariencia.jpg" alt="Apariencia del asistente" className="w-full h-auto rounded-lg" />
+                  </div>
+                </div>
+
+                {/* In-article CTA */}
+                <div className="text-center">
+                  <a
+                    href="https://hi.inkup.io/auth/signup?utm_source=post-form-wa&utm_medium=button_mid"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-purple-600 to-pink-600 px-6 py-3 text-white font-semibold shadow hover:opacity-95"
+                  >
+                    Crear mi formulario ahora
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Templates section */}
+        <section className="bg-white border-t border-gray-100">
+          <div className="container mx-auto px-4 py-12">
+            <div className="max-w-4xl mx-auto">
+              <h2 className="text-3xl md:text-4xl font-bold text-black mb-4">Plantillas para WhatsApp (copiar y pegar)</h2>
+              <p className="text-gray-700 mb-6">Usa estas plantillas como punto de partida. Modifícalas según tu negocio.</p>
+
+              <div className="space-y-6">
+                {[
+                  {
+                    title: "Tatuajes",
+                    text:
+                      "Hola, me llamo {{nombre}} y busco un {{estilo}} en {{ciudad}}. Tamaño aproximado: {{cm}}. ¿Disponibilidad esta semana?",
+                  },
+                  {
+                    title: "Estética",
+                    text:
+                      "Hola, soy {{nombre}}. Me interesa {{tratamiento}} en {{ciudad}}. ¿Tenéis disponibilidad esta semana? Presupuesto aproximado: {{presupuesto}} €.",
+                  },
+                  {
+                    title: "Psicología",
+                    text:
+                      "Hola, me llamo {{nombre}}. Busco terapia {{tipo}} en {{ciudad}}. ¿Hay huecos en las próximas 2 semanas?",
+                  },
+                  {
+                    title: "Restaurantes",
+                    text:
+                      "Hola, quiero reservar para {{personas}} el {{fecha}} a las {{hora}}. ¿Tienen disponibilidad? Soy {{nombre}}.",
+                  },
+                ].map((tpl, i) => (
+                  <div key={i} className="bg-gray-50 border rounded-xl p-4">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="font-semibold text-black">{tpl.title}</h3>
+                      <button
+                        onClick={() => navigator.clipboard.writeText(tpl.text)}
+                        className="text-sm px-3 py-1 rounded bg-gray-900 text-white hover:bg-black"
+                      >
+                        Copiar
+                      </button>
+                    </div>
+                    <pre className="whitespace-pre-wrap text-gray-800 text-sm">{tpl.text}</pre>
+                  </div>
+                ))}
+              </div>
+
+              <div className="mt-8">
+                <a
+                  href="https://hi.inkup.io/auth/signup?utm_source=post-form-wa&utm_medium=button_templates"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center rounded-lg bg-gradient-to-r from-purple-600 to-pink-600 px-6 py-3 text-white font-semibold shadow hover:opacity-95"
+                >
+                  Usar estas plantillas con Inkup
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Original guide/components for depth and social proof */}
         <HowToFormGuide />
         <WhatsAppFormSteps />
         <WhatsAppFormTestimonials />
         <WhatsAppFormFAQ />
         <WhatsAppFormCTA />
+
         {/* SEO/AEO JSON-LD */}
         <Script id="howto-jsonld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howtoJsonLd) }} />
         <Script id="faq-jsonld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
