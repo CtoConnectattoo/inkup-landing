@@ -1,5 +1,119 @@
 [
   {
+    "slug": "preguntas-minimas-para-cualificar-clientes",
+    "title": "Las 7 preguntas mínimas para cualificar clientes (sin perder conversiones)",
+    "description": "Descubre qué 7 preguntas necesitas hacer antes de responder para no perder tiempo en consultas que no van a ningún lado y no espantar a los que sí encajan.",
+    "excerpt": "Cualificar clientes no es interrogarlos: es pedir solo los datos que cambian lo que vas a responder. Con 7 preguntas bien elegidas sabes si encaja, cuándo, para qué y con qué presupuesto.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/preguntas-minimas-para-cualificar-clientes.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "cualificacion-clientes",
+      "filtrar-mensajes",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Las 7 preguntas mínimas para cualificar clientes sin perder conversiones",
+    "quickAnswer": [
+      "**Pregunta solo lo que cambia tu respuesta** — Si un dato no modifica lo que vas a decir o hacer, no lo pidas todavía.",
+      "**Empieza por el servicio exacto** — Sin saber qué quiere exactamente, cualquier respuesta que des va a ser vaga o errónea.",
+      "**Añade fecha o margen temporal** — Te permite saber si hay hueco real y si el cliente tiene urgencia o solo está mirando.",
+      "**Incluye presupuesto orientativo solo si filtra** — No siempre hace falta, pero cuando tu precio mínimo descarta a la mitad, pregúntalo antes de invertir tiempo.",
+      "**Cierra con el canal de contacto preferido** — Reduce el ping-pong entre DM y WhatsApp y te permite retomar con contexto."
+    ],
+    "oneLineDefinition": "Las preguntas mínimas para cualificar clientes son los datos imprescindibles que necesitas antes de responder: los que cambian tu decisión sobre si encaja, cuándo, cómo y a qué precio.",
+    "sections": [
+      "Por qué pedir demasiado espanta y pedir poco no sirve",
+      "Las 7 preguntas mínimas (y para qué sirve cada una)",
+      "Tabla: pregunta, motivo y decisión que habilita",
+      "Versión mínima (3 preguntas) y versión completa (7 preguntas)",
+      "Scripts de introducción para no sonar a interrogatorio",
+      "Errores frecuentes al cualificar",
+      "Cuándo NO usar una lista fija de preguntas",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar un cliente nuevo en menos de 5 minutos",
+      "totalTimeMinutes": 5,
+      "tools": [
+        "Primer mensaje de bienvenida",
+        "Lista de 7 preguntas mínimas",
+        "Canal final definido (WhatsApp o similar)"
+      ],
+      "steps": [
+        {
+          "name": "Identificar el servicio exacto",
+          "text": "Pregunta qué servicio concreto busca antes de cualquier otra cosa."
+        },
+        {
+          "name": "Entender el objetivo o contexto",
+          "text": "Una frase sobre para qué lo quiere cambia completamente cómo orientas la respuesta."
+        },
+        {
+          "name": "Preguntar la fecha o margen",
+          "text": "Saber si tiene urgencia o flexibilidad te permite gestionar agenda y priorizar."
+        },
+        {
+          "name": "Comprobar requisitos o condiciones",
+          "text": "Si tu servicio tiene condiciones mínimas (zona, edad, tipo de piel, presupuesto), compruébalas antes de seguir."
+        },
+        {
+          "name": "Pedir presupuesto orientativo si filtra",
+          "text": "Solo si tu precio mínimo descarta a una parte significativa de consultas."
+        },
+        {
+          "name": "Recoger datos de contacto",
+          "text": "Nombre y canal preferido para retomar sin perder el hilo."
+        },
+        {
+          "name": "Confirmar aceptación básica si aplica",
+          "text": "Si mandas mensajes posteriores, recoge consentimiento explícito en este punto."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué pedir demasiado espanta y pedir poco no sirve</h2><p>Te escriben «hola, info» y no tienes ni idea de qué quieren. O al revés: pones un formulario de 15 campos y la mitad abandona antes de llegar al quinto. Los dos extremos cuestan conversiones.</p><p>El problema no es cuántas preguntas haces, es cuáles haces. Hay datos que cambian completamente tu respuesta (si encaja, a qué precio, cuándo) y datos que solo satisfacen curiosidad pero no mueven nada. Los primeros son los que necesitas. Los segundos, ruido.</p><p>Para cualificar sin fricción, pide solo datos que cambian tu decisión: servicio, objetivo, fecha, presupuesto orientativo y vía de contacto. Con eso tienes suficiente para saber si merece la pena seguir y cómo.</p><p>Si quieres ver este principio aplicado a un proceso más amplio, <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> detalla el flujo completo desde la entrada hasta el cierre.</p><h2>Las 7 preguntas mínimas (y para qué sirve cada una)</h2><p>Estas preguntas no son un interrogatorio. Son el mínimo necesario para que tu respuesta sea útil y para que no termines con 20 mensajes de ida y vuelta antes de saber si el cliente encaja.</p><ol><li><strong>¿Qué servicio concreto estás buscando?</strong> — Sin esto, cualquier respuesta que des va a ser vaga. «Tatuaje», «sesión fotográfica» o «asesoría» no es suficiente: necesitas el detalle que marca la diferencia en precio, tiempo y disponibilidad.</li><li><strong>¿Para qué lo necesitas o qué quieres conseguir?</strong> — El contexto cambia la orientación. Un cliente que busca fotos para redes sociales necesita algo distinto de uno que busca fotos para una boda. Una frase basta.</li><li><strong>¿Tienes alguna fecha en mente o margen de tiempo?</strong> — Te permite saber si hay hueco real, si hay urgencia y si tiene sentido seguir la conversación ahora o en otro momento.</li><li><strong>¿Hay alguna condición o requisito previo que debería saber?</strong> — Zona geográfica, tipo de piel, experiencia previa, equipamiento, nivel... Depende del sector, pero si tienes requisitos mínimos, compruébalos antes de invertir tiempo.</li><li><strong>¿Tienes un presupuesto orientativo en mente?</strong> — Solo pregunta esto si tu precio mínimo descarta a una parte significativa de las consultas que recibes. Si no, genera fricción innecesaria.</li><li><strong>¿Cómo te llamas y cuál es tu forma de contacto preferida?</strong> — Nombre y canal (WhatsApp, email, DM) para retomar sin perder contexto y sin empezar de cero cada vez.</li><li><strong>¿Has visto algún ejemplo o referencia de lo que buscas?</strong> — No siempre aplica, pero en servicios visuales (tatuaje, fotografía, diseño, estética) una referencia concreta ahorra tres rondas de mensajes describiendo algo que al final no coincide.</li></ol><h2>Tabla: pregunta, motivo y decisión que habilita</h2><table><thead><tr><th>Pregunta</th><th>Por qué se hace</th><th>Qué decisión habilita</th></tr></thead><tbody><tr><td>¿Qué servicio concreto buscas?</td><td>Sin detalle, la respuesta es genérica o errónea</td><td>Saber si encaja en tu oferta y qué precio o disponibilidad aplica</td></tr><tr><td>¿Para qué lo necesitas?</td><td>El objetivo cambia el enfoque, el proceso y a veces el precio</td><td>Orientar la propuesta antes de hablar de cifras</td></tr><tr><td>¿Tienes fecha o margen?</td><td>Sin fecha no puedes saber si tienes hueco ni si hay urgencia</td><td>Gestionar agenda y priorizar entre consultas</td></tr><tr><td>¿Hay algún requisito previo?</td><td>Ahorra tiempo si el cliente no cumple condiciones mínimas</td><td>Descartar o reconducir antes de llegar al presupuesto</td></tr><tr><td>¿Presupuesto orientativo?</td><td>Solo si el tuyo mínimo filtra una parte relevante</td><td>Evitar conversaciones largas con clientes fuera de rango</td></tr><tr><td>¿Nombre y contacto preferido?</td><td>Sin esto el seguimiento se pierde</td><td>Retomar con contexto y sin empezar de cero</td></tr><tr><td>¿Tienes alguna referencia?</td><td>En servicios visuales, una imagen vale más que diez mensajes</td><td>Ajustar expectativas y reducir revisiones o malentendidos</td></tr></tbody></table><h2>Versión mínima y versión completa</h2><h3>Versión mínima (3 preguntas — para máxima conversión)</h3><p>Si tu volumen es alto o la fricción te preocupa, empieza solo con estas tres:</p><ol><li>¿Qué servicio concreto buscas?</li><li>¿Tienes fecha o margen de tiempo?</li><li>¿Cómo te llamas y cómo prefieres que te contacte?</li></ol><p>Con esto ya tienes suficiente para saber si hay encaje básico y para retomar con contexto. El resto lo puedes preguntar en el chat final.</p><h3>Versión completa (las 7 — para casos con más variabilidad o ticket alto)</h3><p>Usa las 7 cuando el servicio tiene mucha variabilidad de precio, cuando hay requisitos que descartan a una parte de las consultas o cuando tu proceso requiere más contexto antes de hacer una propuesta seria.</p><p>Si no sabes cuál usar, empieza con la versión mínima. Añade preguntas solo cuando notes que llegas al chat final sin datos que necesitas sí o sí.</p><h2>Scripts de introducción para no sonar a interrogatorio</h2><p>La diferencia entre que alguien responda y que abandone muchas veces no está en las preguntas, sino en cómo introduces que vas a hacer preguntas. Una frase antes reduce el abandono.</p><blockquote><p>«Para darte una respuesta útil y no marearte con mensajes, necesito tres datos rápidos. Te lleva menos de un minuto.»</p></blockquote><blockquote><p>«Antes de darte precio o disponibilidad, necesito entender bien qué buscas. Así no te doy un número que luego no cuadra.»</p></blockquote><blockquote><p>«Cuéntame un poco más para poder ayudarte bien: ¿qué servicio concreto buscas, tienes alguna fecha en mente y cómo te llamas?»</p></blockquote><p>El tono puede variar (más directo, más cercano, más premium), pero la estructura es la misma: anticipa que vas a preguntar, explica en una frase por qué, y pide solo lo imprescindible.</p><p>Si necesitas scripts adaptados a cada tipo de cliente (el que solo pregunta precio, el curioso que no va a comprar, el que tiene prisa), <a href=\"/blog/como-filtrar-curiosos-sin-ser-borde/\">Cómo filtrar curiosos sin ser borde</a> tiene versiones listas para copiar.</p><h2>Errores frecuentes al cualificar</h2><ol><li><strong>Pedir datos que no cambian nada todavía</strong> — «¿Cómo conociste el negocio?» es interesante para marketing, pero no es una pregunta de cualificación. Guárdala para después.</li><li><strong>Hacer todas las preguntas en un solo mensaje largo</strong> — Parece un formulario. Resultado: abandono. Mejor 1-2 preguntas por mensaje o un flujo corto que guíe de una en una.</li><li><strong>Preguntar sin explicar para qué</strong> — «¿Cuál es tu presupuesto?» de golpe genera desconfianza. Una frase de contexto lo cambia todo: «Para no darte opciones fuera de rango...»</li><li><strong>Pedir presupuesto cuando no filtra</strong> — Si aceptas a todo el mundo independientemente del presupuesto, preguntar eso solo genera roce.</li><li><strong>No recoger nombre ni contacto al principio</strong> — Si el cliente desaparece antes de terminar, no tienes forma de retomar. El nombre y el canal van siempre.</li><li><strong>Usar las mismas preguntas para todos los servicios</strong> — Lo que necesitas saber para un tatuaje pequeño es diferente de lo que necesitas para un proyecto largo. Ajusta por servicio.</li></ol><p>Para ir más allá de las preguntas y ver cómo estructurar rutas por tipo de cliente según intención, requisitos y presupuesto, <a href=\"/blog/matriz-filtro-intencion-requisitos-presupuesto/\">Matriz de filtrado: intención × requisitos × presupuesto</a> tiene un modelo visual aplicable directamente.</p><h2>Cuándo NO usar una lista fija de preguntas</h2><ul><li>Cuando cada consulta es radicalmente distinta y no hay patrón repetible. En ese caso, la lista no ayuda: necesitas discovery humano desde el principio.</li><li>Cuando el volumen es muy bajo (1-3 consultas al día) y tienes tiempo para una conversación natural sin estructura.</li><li>Cuando la venta es larga y consultiva desde el primer contacto. Una lista de 7 preguntas no sustituye una conversación de descubrimiento en profundidad.</li><li>Cuando la oferta todavía no está clara. Si no tienes definido qué vendes, qué incluye y a qué precio, ninguna pregunta de cualificación va a ordenar eso.</li></ul><h2>El siguiente paso si quieres implementarlo</h2><p>Estas 7 preguntas funcionan bien como checklist mental, como base de un primer mensaje o como esqueleto de un flujo de entrada. Si recibes muchas consultas desde Instagram y WhatsApp y quieres que el cliente llegue al chat final con estos datos ya recogidos, la opción más directa es un punto de entrada único que los capture antes de llegar a ti.</p><p>Si quieres ver plantillas de preguntas adaptadas por sector (tatuaje, estética, fotografía, coaching), <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Qué preguntas hacer para filtrar clientes: plantillas por sector y servicio</a> tiene versiones listas para adaptar.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan las preguntas mínimas antes de redirigir al cliente a WhatsApp con el contexto ya recogido, mediante un link único compartible en bio, stories o Google Business Profile. No es para todos los casos — si tu volumen es bajo o cada consulta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas son demasiadas antes de responder?",
+        "answer": "Más de 5 en un primer mensaje suele generar abandono. Si necesitas muchos datos, divide en dos momentos: 3 preguntas al inicio y el resto cuando ya hay intención clara. La regla práctica es no pedir nada que no cambie lo que vas a hacer."
+      },
+      {
+        "question": "¿Qué hago si alguien no responde a mis preguntas y solo repite 'precio'?",
+        "answer": "Da un rango condicionado: 'Depende del servicio exacto, pero orientativamente entre X y Y. Para concretar, necesito saber...' Así no te cierras, pero tampoco das una cifra sin contexto que luego genera malentendidos."
+      },
+      {
+        "question": "¿Debo pedir siempre el presupuesto orientativo?",
+        "answer": "No siempre. Pregúntalo solo si tu precio mínimo descarta a una parte significativa de las consultas que recibes. Si aceptas un rango amplio de clientes, preguntar presupuesto pronto genera fricción innecesaria."
+      },
+      {
+        "question": "¿Puedo hacer estas preguntas por DM de Instagram o es mejor pasarlo a WhatsApp antes?",
+        "answer": "Puedes empezar en DM, pero lo ideal es que el DM solo capture 1-2 datos básicos y luego lleve a un link o a WhatsApp con el contexto ya recogido. Convertir un DM en un formulario largo genera abandono."
+      },
+      {
+        "question": "¿Qué hago si el cliente da información incompleta o evasiva?",
+        "answer": "Pide el dato concreto que te falta con una frase de contexto: 'Para darte disponibilidad real necesito la fecha aproximada, aunque sea un margen.' Si tras dos intentos no hay respuesta, cierre amable. El que va en serio responde."
+      },
+      {
+        "question": "¿Estas preguntas sirven igual para todos los sectores?",
+        "answer": "La estructura es universal, pero las preguntas concretas cambian por sector. Un tatuador necesita saber zona del cuerpo y tamaño; un fotógrafo, tipo de sesión y uso de las fotos; un coach, objetivo y punto de partida. Adapta las 7 a tu servicio específico."
+      },
+      {
+        "question": "¿Tengo que pedir consentimiento antes de guardar los datos del cliente?",
+        "answer": "Sí, si vas a usar esos datos para enviar mensajes posteriores. Un campo de aceptación breve o una frase explícita al inicio del flujo cubre esto. No es burocracia: es lo que permite que el seguimiento sea legítimo."
+      },
+      {
+        "question": "¿Qué diferencia hay entre cualificar y filtrar?",
+        "answer": "Cualificar es recoger información para saber si encaja y cómo responder. Filtrar es tomar una decisión con esa información: seguir, descartar o reconducir. Las 7 preguntas te dan los datos para hacer las dos cosas."
+      }
+    ]
+  },
+  {
     "slug": "centralizar-consultas-con-formulario-vs-chat",
     "title": "Formulario vs conversación: qué centraliza mejor en negocios locales",
     "description": "Compara formularios estáticos y flujos conversacionales para centralizar consultas en negocios de servicios. Descubre cuándo cada formato reduce fricción y cuál captura mejor los datos que necesitas antes de responder.",
