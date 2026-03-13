@@ -1,5 +1,109 @@
 [
   {
+    "slug": "como-pedir-presupuesto-sin-espantar",
+    "title": "Cómo pedir presupuesto sin espantar (y sin regalar horas)",
+    "description": "Aprende a pedir el contexto necesario antes de dar precio sin generar fricción. Checklist, scripts y errores comunes para negocios de servicios que reciben consultas por WhatsApp e Instagram.",
+    "excerpt": "Pedir presupuesto funciona si pides rango orientativo y contexto del servicio antes de dar precio. Evita preguntas largas sin explicación y reduce el abandono sin perder cualificación.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-pedir-presupuesto-sin-espantar.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "presupuesto",
+      "cualificacion",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Cómo pedir contexto antes de dar precio sin perder conversiones",
+    "quickAnswer": [
+      "**Pide solo lo que cambia el precio** — Si un dato no afecta tu respuesta, no lo preguntes todavía. Cada pregunta extra es fricción.",
+      "**Explica por qué preguntas** — Una frase de microcopy ('para darte un precio realista necesito 3 datos') reduce el abandono más que cualquier optimización de formulario.",
+      "**Da un rango condicionado, no precio exacto** — 'Depende del tamaño y la zona: entre X y Z' es más útil que 'no puedo decirte sin más info'.",
+      "**Separa cualificación de negociación** — Las preguntas mínimas son para responder bien, no para filtrar al cliente con un interrogatorio."
+    ],
+    "oneLineDefinition": "Pedir presupuesto sin espantar es recoger el contexto mínimo necesario para dar una cifra útil, con microcopy que explica por qué preguntas, sin convertir el primer mensaje en un formulario.",
+    "sections": [
+      "El problema real: no es el precio, es la secuencia",
+      "Qué información cambia realmente tu respuesta",
+      "Checklist: preguntas mínimas para dar presupuesto",
+      "Scripts listos para pedir datos sin espantar",
+      "Errores que bajan la conversión al pedir presupuesto",
+      "Cuándo NO aplica este sistema",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Pedir presupuesto sin espantar en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Primer mensaje de respuesta",
+        "Microcopy de contexto",
+        "Rango condicionado"
+      ],
+      "steps": [
+        {
+          "name": "Identifica los datos que cambian el precio",
+          "text": "Lista los 3-5 variables que determinan tu tarifa real: tipo de servicio, tamaño, zona, urgencia, requisitos previos."
+        },
+        {
+          "name": "Escribe microcopy que explique por qué preguntas",
+          "text": "Una frase antes de las preguntas ('para darte un precio realista necesito 3 datos') reduce el abandono y humaniza el proceso."
+        },
+        {
+          "name": "Formula las preguntas en orden de impacto",
+          "text": "Empieza por el dato más determinante. Si con uno ya puedes dar rango, no preguntes los otros todavía."
+        },
+        {
+          "name": "Prepara la respuesta con rango condicionado",
+          "text": "Estructura tu respuesta como 'entre X y Z según [variable]' en lugar de precio exacto o 'no puedo decirte'."
+        },
+        {
+          "name": "Define el siguiente paso claro",
+          "text": "Después del rango, ofrece un paso concreto: llamada de 10 minutos, formulario de reserva o solicitud de referencias."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: no es el precio, es la secuencia</h2><p>Te escribe alguien: 'precio?'. Tú tienes dos opciones malas: dar precio sin contexto y asumir malentendidos después, o preguntar cinco cosas seguidas y que el cliente desaparezca. El problema no es que preguntes, es la secuencia y la falta de explicación.</p><p>El cliente que pregunta precio está haciendo una comparativa rápida. No quiere un formulario. Quiere saber si está en el rango correcto para seguir. Si tu primer movimiento es un interrogatorio sin contexto, la percepción es de burocracia, no de profesionalidad.</p><p>Lo que funciona es distinto: una frase que explique por qué necesitas datos, las preguntas mínimas que determinan el precio, y una respuesta útil aunque sea un rango. Eso reduce la fricción sin regalar horas valorando proyectos que no van a ningún sitio. Si quieres entender mejor qué preguntas son realmente mínimas, <a href=\"/blog/preguntas-minimas-para-cualificar-clientes/\">Las 7 preguntas mínimas para cualificar clientes</a> entra en detalle por cada tipo de servicio.</p><h2>Qué información cambia realmente tu respuesta</h2><p>Antes de diseñar el flujo, haz este ejercicio: anota las últimas cinco veces que diste presupuesto. ¿Qué datos necesitabas para dar una cifra realista? En la mayoría de servicios, la lista real es corta.</p><p>En un estudio de tatuajes: tamaño aproximado, zona del cuerpo, si es a color o línea, y si tiene referencia o es diseño original. En fotografía: tipo de sesión, número de horas, ubicación y entregables. En estética: tratamiento concreto, zona y si es primera vez o mantenimiento. En coaching: modalidad (individual o grupal), frecuencia y objetivo principal.</p><p>Lo que comparten todos estos casos es que son entre 3 y 5 variables. No diez. Si estás pidiendo más, estás pidiendo demasiado en el primer contacto. La cualificación completa viene después, cuando el cliente ya está interesado.</p><h2>Checklist: preguntas mínimas para dar presupuesto</h2><p>Este checklist sirve para cualquier servicio. Adapta las preguntas específicas a tu sector, pero respeta la estructura: solo pides lo que determina la cifra, y lo haces en orden de impacto.</p><ul><li><strong>Servicio concreto</strong> — No 'qué quieres' sino 'de las opciones que ofrezco, cuál encaja más: [opción A / opción B / opción C]'. Reduce ambigüedad desde el inicio.</li><li><strong>Variable principal que determina precio</strong> — Tamaño, duración, número de personas, urgencia. El dato que más peso tiene en tu tarifa.</li><li><strong>Contexto mínimo</strong> — Una frase de contexto del cliente ('es para evento, es para uso comercial, es primera vez'). No para filtrar, sino para no dar precio equivocado.</li><li><strong>Fecha orientativa</strong> — Si la disponibilidad afecta al precio (urgencias, temporada alta), pregúntalo aquí. Si no, déjalo para después.</li><li><strong>Referencia o descripción</strong> — Solo si sin eso no puedes dar ni rango. En algunos servicios (diseño, tatuaje personalizado) es determinante. En otros, no.</li></ul><p>Regla de oro: si no mencionas ese dato en tu respuesta de presupuesto, no lo preguntes todavía.</p><h2>Scripts listos para pedir datos sin espantar</h2><p>Los scripts siguientes funcionan porque siguen la misma estructura: reconocer la consulta, explicar por qué preguntas en una frase y hacer la pregunta concreta. No son formales ni fríos, pero tampoco son conversación sin estructura.</p><h3>Script 1 — Respuesta a 'precio?' por WhatsApp (versión neutral)</h3><blockquote><p>Hola, claro. Para darte un precio realista y no marearte con mensajes, necesito un dato: ¿qué tipo de [servicio] buscas exactamente? [Opción A / Opción B / Opción C]. Con eso te digo rango en el acto.</p></blockquote><h3>Script 2 — Respuesta a 'precio?' por WhatsApp (versión cercana)</h3><blockquote><p>Hola. Depende de algunas cosas, pero te lo digo rápido: ¿es para [contexto A] o [contexto B]? Y más o menos qué tamaño/duración tienes en mente. Con eso ya tengo suficiente.</p></blockquote><h3>Script 3 — Cuando la consulta llega por Instagram DM y quieres derivar con contexto</h3><blockquote><p>Hola, gracias por escribir. Para darte precio necesito 3 datos rápidos. Te paso el enlace donde los recojo y en cuanto lo vea te respondo con cifras concretas: [link].</p></blockquote><p>El tercer script es útil cuando el volumen de consultas hace que responder una a una por DM sea inviable. Si quieres ver cómo funciona ese flujo completo antes de responder manualmente, <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> lo explica paso a paso.</p><h3>Script 4 — Dar rango condicionado (en lugar de precio exacto o 'no puedo decirte')</h3><blockquote><p>El precio depende de [variable 1] y [variable 2]. Si me confirmas esos dos datos, te doy cifra exacta. De entrada, para darte referencia, el rango habitual es entre X y Z euros.</p></blockquote><p>Este script es el más importante. Da información útil al cliente (el rango), condiciona la precisión a los datos que necesitas, y no cierra la conversación con una negativa disfrazada de 'depende de muchas cosas'.</p><h2>Errores que bajan la conversión al pedir presupuesto</h2><ol><li><strong>Preguntar sin explicar</strong> — 'Necesito saber más' sin contexto genera desconfianza. Corrección: una frase antes de cada pregunta que explique para qué la necesitas.</li><li><strong>Pedir datos en mensajes separados</strong> — Enviar las preguntas una a una hace parecer un interrogatorio en tiempo real. Corrección: agrupa las 3-4 preguntas en un solo mensaje o un link.</li><li><strong>Dar precio sin rango</strong> — 'No puedo decirte sin saber más' es una respuesta que corta la conversación. Corrección: siempre da un rango orientativo aunque sea amplio.</li><li><strong>Pedir datos que no afectan al precio</strong> — Preguntar nombre completo, email y teléfono antes de dar presupuesto es fricción pura. Corrección: datos de contacto solo cuando el cliente quiere seguir.</li><li><strong>Responder al precio con otro precio</strong> — Si el cliente dice 'vi que cobras X en Instagram', no entres en esa negociación sin contexto. Corrección: reconoce y redirige a las variables que determinan la tarifa real.</li><li><strong>Confundir presupuesto con cierre</strong> — El presupuesto no es el momento de vender. Es el momento de calificar si hay encaje. Corrección: responde el precio, propón un siguiente paso concreto y deja que el cliente decida.</li></ol><p>Si el patrón que más te llega es 'precio?' sin ningún dato adicional, <a href=\"/blog/como-evitar-que-te-escriban-solo-precio/\">Cómo evitar que te escriban solo 'precio?'</a> tiene estrategias específicas para cambiar eso desde la bio y las stories.</p><h2>Cuándo NO aplica este sistema</h2><ul><li>Si tu servicio es 100% único en cada caso (no hay variables repetibles), un flujo de preguntas mínimas no funciona. Necesitas conversación directa desde el inicio.</li><li>Si el volumen de consultas es muy bajo (1-3 al día), el coste de montar este sistema supera el beneficio. Gestiona a mano y espera a que el volumen justifique el orden.</li><li>Si tu precio es fijo y público, no hay nada que cualificar en la fase de presupuesto. El flujo cambia: lo que necesitas es cualificar disponibilidad y fit, no precio.</li><li>Si vendes servicios de ticket muy alto con proceso de venta largo, las preguntas mínimas por chat no bastan. El presupuesto viene después de una llamada o reunión, no de un mensaje de WhatsApp.</li></ul><h2>Si quieres implementar esto sin construirlo desde cero</h2><p>El flujo descrito aquí, recoger 3-5 datos antes de dar precio y llegar a WhatsApp con contexto, se puede montar manualmente con scripts guardados o con una herramienta que lo estructure. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: recogen los datos mínimos a través de un asistente conversacional antes de que respondas manualmente, y te llega la consulta ya preparada con el contexto necesario. No es para todos los casos: si tu volumen es bajo o cada presupuesto requiere una conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que el cliente se vaya?",
+        "answer": "En la práctica, 3 preguntas con microcopy que explique por qué las haces tienen una tasa de respuesta mucho más alta que 5 preguntas sin contexto. El límite no es el número exacto, es si cada pregunta está justificada y si el cliente entiende para qué la necesitas."
+      },
+      {
+        "question": "¿Qué hago si me preguntan precio y ya lo tengo publicado en el perfil?",
+        "answer": "Señala dónde está ('en el enlace de la bio tienes los precios por servicio') y añade una frase que abra la conversación si hay fit ('si tienes algo concreto en mente, dime y te confirmo si encaja'). No respondas de nuevo el precio; redirige."
+      },
+      {
+        "question": "¿Debo dar precio exacto o siempre rango?",
+        "answer": "Da precio exacto cuando tengas todos los datos que lo determinan. Da rango cuando falte alguno. Nunca respondas 'depende de muchas cosas' sin acompañarlo de un rango orientativo: esa respuesta corta la conversación sin aportar nada."
+      },
+      {
+        "question": "¿Cómo pido presupuesto sin sonar como un formulario de empresa grande?",
+        "answer": "El tono lo cambia el microcopy. 'Para no marearte con mensajes, necesito un dato' es más cercano que 'Por favor, indíquenos el servicio requerido'. La estructura puede ser la misma; el tono depende de cómo escribes."
+      },
+      {
+        "question": "¿Qué hago si el cliente insiste en precio antes de darme datos?",
+        "answer": "Da el rango más amplio posible con la condición: 'Entre X y Z, dependiendo de [variable principal]. Si me dices cuál es tu caso, te confirmo en un mensaje'. No entres en negociación de precio sin contexto; solo perderás tiempo o cerrarás mal."
+      },
+      {
+        "question": "¿Cuándo tiene sentido usar un link para recoger datos en lugar de preguntar por chat?",
+        "answer": "Cuando el volumen de consultas hace que responder una a una sea inviable, o cuando los clientes te llegan desde varios canales y pierdes contexto entre conversaciones. Con volumen bajo, un link añade fricción innecesaria; con volumen medio-alto, reduce tiempo y estandariza la información que recibes."
+      },
+      {
+        "question": "¿Qué hago si me da presupuesto y luego desaparece sin responder?",
+        "answer": "Un seguimiento a las 24-48 horas con un mensaje corto y sin presión ('¿Pudiste ver el presupuesto? Si tienes dudas o quieres ajustar algo, dime'). Si no responde a ese segundo contacto, cierre amable. El que va en serio suele responder."
+      },
+      {
+        "question": "¿Cómo gestiono presupuestos cuando me llegan desde Instagram y WhatsApp al mismo tiempo?",
+        "answer": "Define un canal de cierre único (normalmente WhatsApp) y redirige desde Instagram con un link o un mensaje que lleve allí con el contexto ya recogido. Tener dos conversaciones abiertas del mismo cliente en dos canales distintos multiplica el tiempo y el riesgo de error."
+      }
+    ]
+  },
+  {
     "slug": "matriz-filtro-intencion-requisitos-presupuesto",
     "title": "Matriz de filtrado: intención × requisitos × presupuesto (modelo simple)",
     "description": "Un modelo mental para cruzar intención, requisitos y presupuesto antes de responder, y decidir en segundos si ese mensaje merece tiempo, más preguntas o un descarte amable.",
