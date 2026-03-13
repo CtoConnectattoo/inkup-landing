@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-cualificar-consultas-por-instagram",
+    "title": "Cómo cualificar consultas por Instagram sin eternizarte en DMs",
+    "description": "Aprende a cualificar consultas que llegan por Instagram DM sin gastar 20 minutos por cliente: flujo DM→link→WhatsApp con preguntas mínimas y contexto listo antes de responder.",
+    "excerpt": "Cualificar consultas por Instagram significa extraer la información mínima necesaria antes de invertir tiempo en el chat, usando el DM como puerta hacia un flujo estructurado, no como interrogatorio.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-cualificar-consultas-por-instagram.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "cualificar-consultas",
+      "dm-instagram",
+      "gestion-mensajes",
+      "procesos",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Cualificar consultas por Instagram DM sin perder el tiempo",
+    "quickAnswer": [
+      "**El DM es la puerta, no el formulario** — Usar el DM de Instagram para preguntar todo es el error más común. Su función es redirigir, no interrogar.",
+      "**Pide un solo dato antes de derivar** — Una pregunta de intención (cita, presupuesto o info) basta para enviar al cliente al flujo correcto.",
+      "**Usa un link con preguntas mínimas** — El link captura contexto antes de que abras WhatsApp: servicio, fecha, requisitos y contacto.",
+      "**Llega a WhatsApp con la info ya recogida** — El chat final no empieza desde cero; empieza desde donde lo dejó el flujo previo.",
+      "**Descarta sin perder energía** — Si el cliente no pasa el flujo mínimo, no está listo. No es un rechazo; es un filtro que protege tu tiempo."
+    ],
+    "oneLineDefinition": "Cualificar consultas por Instagram es usar el DM como punto de entrada para redirigir al cliente a un flujo breve que recoge la información mínima, de modo que la conversación en WhatsApp empiece con contexto y sin preguntas repetidas.",
+    "sections": [
+      "Por qué el DM de Instagram no sirve para cualificar",
+      "El flujo correcto: DM como puerta, no como formulario",
+      "Qué información mínima necesitas antes de responder",
+      "Scripts listos para el primer DM",
+      "Errores que alargan la conversación innecesariamente",
+      "Cuándo no filtrar desde Instagram",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar consultas de Instagram en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Respuestas rápidas de Instagram",
+        "Link único de atención",
+        "WhatsApp Business"
+      ],
+      "steps": [
+        {
+          "name": "Define la pregunta de intención",
+          "text": "Decide qué pregunta hace el primer mensaje: cita, presupuesto o información. Solo una."
+        },
+        {
+          "name": "Prepara el primer DM",
+          "text": "Escribe el mensaje de respuesta inicial que reconoce al cliente y ofrece 2-3 rutas claras."
+        },
+        {
+          "name": "Crea o configura el link de atención",
+          "text": "El link recoge servicio, fecha, contexto y contacto antes de abrir WhatsApp."
+        },
+        {
+          "name": "Deriva al link desde el DM",
+          "text": "El segundo mensaje del DM lleva al cliente al link con una frase de microcopy que explica por qué."
+        },
+        {
+          "name": "Recoge en WhatsApp con contexto",
+          "text": "La conversación final empieza con los datos ya capturados. No repites preguntas básicas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el DM de Instagram no sirve para cualificar</h2><p>Recibes un DM: «Hola, ¿tenéis disponibilidad?». Preguntas la fecha. Te responden dos días después con otra pregunta. Preguntas el servicio. Vuelven a desaparecer. Cuando por fin tienes los datos mínimos, han pasado cuatro días y tú has invertido ocho mensajes en algo que podría haberse resuelto en dos minutos.</p><p>El DM de Instagram no está diseñado para recoger información estructurada. Está diseñado para conversaciones cortas y reactivas. Intentar cualificar en ese canal es como hacer una entrevista por notas al margen: funciona a veces, pero no escala y depende de que el cliente tenga paciencia.</p><p>El problema no es Instagram. Es usarlo para algo que no hace bien.</p><h2>El flujo correcto: DM como puerta, no como formulario</h2><p>La lógica que sí funciona es simple: el DM recibe, orienta y redirige. No interroga.</p><p>El flujo tiene tres pasos:</p><ol><li><strong>DM inicial</strong> — Un mensaje breve que reconoce la consulta y pregunta una sola cosa: qué busca el cliente (cita, presupuesto o información).</li><li><strong>Link con preguntas mínimas</strong> — Un enlace que captura el contexto necesario antes del chat final. No es un formulario de quince campos; son tres a cinco preguntas que cambian lo que vas a responder.</li><li><strong>WhatsApp con contexto</strong> — La conversación final empieza con la información ya recogida. No vuelves a preguntar lo básico.</li></ol><p>Este flujo convierte el DM en una puerta, no en el lugar donde pasa todo. Si quieres entender cómo hacer esa transición sin que el cliente sienta que le estás mandando a otro sitio, en <a href=&quot;/blog/como-pasar-de-instagram-a-whatsapp-con-contexto/&quot;>cómo pasar de Instagram a WhatsApp sin perder contexto</a> tienes el proceso paso a paso.</p><h3>Bloque citable: Flujo DM → Link → WhatsApp</h3><table><thead><tr><th>Paso</th><th>Canal</th><th>Qué ocurre</th><th>Error típico</th></tr></thead><tbody><tr><td>1. Entrada</td><td>DM Instagram</td><td>Reconoces la consulta y preguntas la intención (1 pregunta)</td><td>Empezar a preguntar todo desde aquí</td></tr><tr><td>2. Filtrado</td><td>Link / asistente breve</td><td>El cliente responde 3-5 preguntas mínimas: servicio, fecha, contexto, contacto</td><td>Poner 10+ preguntas o no explicar por qué se piden</td></tr><tr><td>3. Cierre</td><td>WhatsApp</td><td>Recibes el contexto ya ordenado y respondes con propuesta concreta</td><td>Volver a preguntar lo que ya capturó el link</td></tr></tbody></table><h2>Qué información mínima necesitas antes de responder</h2><p>Antes de diseñar cualquier flujo, define qué datos cambian realmente tu respuesta. Si un dato no modifica lo que vas a decir, no lo pidas todavía.</p><p>Para la mayoría de servicios locales (tatuadores, estética, fotografía, coaching), el mínimo suele ser:</p><ul><li><strong>Servicio exacto</strong> — No «una sesión», sino qué tipo, tamaño, complejidad o modalidad.</li><li><strong>Objetivo o contexto</strong> — Para qué es, para quién, qué quiere conseguir. En dos frases.</li><li><strong>Disponibilidad o urgencia</strong> — Fecha aproximada o rango de fechas. Sin esto, no puedes agendar ni priorizar.</li><li><strong>Requisitos previos</strong> — Si tu servicio tiene condiciones (edad, estado de la piel, zona geográfica, sesión previa), mejor saberlo antes.</li><li><strong>Contacto</strong> — Nombre y número de WhatsApp para poder redirigir.</li></ul><p>Eso es todo. Cinco datos que, si los tienes antes de abrir el chat, reducen la conversación a dos o tres mensajes en vez de veinte.</p><p>Para profundizar en qué preguntas hacer antes de responder y cómo ordenarlas, <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> lo explica con detalle por tipo de intención.</p><h2>Scripts listos para el primer DM</h2><p>El primer mensaje que envías marca el tono de todo lo que viene. Debe ser corto, amigable y llevar a un paso concreto.</p><h3>Script 1 — Respuesta inicial (neutro)</h3><blockquote><p>«¡Hola! Gracias por escribirnos. Para ayudarte rápido, ¿qué estás buscando: información, presupuesto o disponibilidad para cita? Dime cuál y te cuento el siguiente paso.»</p></blockquote><h3>Script 2 — Derivar al link (con microcopy)</h3><blockquote><p>«Para darte una respuesta útil sin ir y venir por aquí, te paso un enlace rápido: son 3 preguntas y te lleva menos de un minuto. Así te respondo con todo el contexto y sin pedirte lo mismo dos veces.»</p></blockquote><h3>Script 3 — Tono cercano (para negocios con voz más informal)</h3><blockquote><p>«¡Buenas! Para no perdernos en mensajes y darte una respuesta real, te mando el link de siempre: son 3 cositas rápidas y en cuanto las vea te escribo por WhatsApp con lo que necesitas.»</p></blockquote><p>Nota sobre el tono: si tu negocio ya tiene una voz reconocible en Instagram, adapta el microcopy a ese registro. Lo que no cambia es la estructura: reconocer, orientar, derivar.</p><p>Si quieres ver cómo funciona una respuesta automática que no espante antes de que tú respondas manualmente, <a href=&quot;/blog/auto-respuesta-instagram-que-convierte/&quot;>auto-respuesta en Instagram que convierte</a> tiene ejemplos concretos por sector.</p><h2>Errores que alargan la conversación innecesariamente</h2><ol><li><strong>Usar el DM como interrogatorio</strong> — Preguntar servicio, fecha, zona, presupuesto y requisitos en mensajes sucesivos. El cliente abandona o tarda días. Corrección: un mensaje de intención y luego el link.</li><li><strong>Mandar el link sin explicar por qué</strong> — «Rellena esto» sin contexto genera desconfianza. Corrección: una frase de microcopy («para responderte sin ir y venir»).</li><li><strong>Poner demasiadas preguntas en el link</strong> — Si el flujo tiene diez campos, la mitad no llega al final. Corrección: cinco preguntas máximo en la versión inicial.</li><li><strong>Responder antes de tener los datos</strong> — El instinto de contestar rápido lleva a dar precio sin contexto o agendar sin confirmar requisitos. Corrección: el primer mensaje orienta, la respuesta real llega después del link.</li><li><strong>No cerrar las conversaciones sin respuesta</strong> — Conversaciones abiertas con «hola» o «precio?» sin respuesta durante días saturan la bandeja. Corrección: si no responden en dos intentos, cierre amable y guardado.</li><li><strong>Ofrecer demasiadas rutas en el primer mensaje</strong> — Cinco opciones paralizan. Corrección: máximo tres (info / presupuesto / cita).</li></ol><h2>Cuándo no filtrar desde Instagram</h2><p>Este flujo funciona cuando hay un patrón de consultas repetibles y volumen suficiente para que el caos sea real. Hay casos donde no aplica:</p><ul><li><strong>Volumen muy bajo</strong> — Si recibes dos o tres mensajes a la semana, no necesitas flujo; necesitas respuestas rápidas bien escritas y punto.</li><li><strong>Servicio completamente único</strong> — Si cada consulta requiere una conversación inicial larga y personalizada sin ningún patrón común, el link no aporta gran cosa.</li><li><strong>El cliente ya llegó con toda la información</strong> — Si alguien manda un mensaje con servicio, fecha y presupuesto incluidos, no le mandes a un flujo. Responde directamente.</li><li><strong>El problema es captación, no gestión</strong> — Si recibes pocos mensajes porque no hay demanda suficiente, ningún flujo de cualificación lo resuelve. Ese es otro problema.</li></ul><p>Si quieres automatizar el primer contacto de forma más amplia sin perder el trato local, <a href=&quot;/blog/automatizar-mensajes-instagram-negocio/&quot;>cómo automatizar mensajes en Instagram para un negocio local</a> cubre los límites y ventajas de hacerlo bien.</p><h2>Si quieres implementar esto sin construirlo desde cero</h2><p>El flujo descrito arriba (DM → link con preguntas mínimas → WhatsApp con contexto) se puede montar de forma manual con respuestas rápidas de Instagram y un formulario externo. Funciona, pero requiere tiempo de configuración y mantenimiento.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que lanza un asistente conversacional breve, recoge la información mínima y redirige a WhatsApp con el contexto ya ordenado. No es para todos los casos — si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago si alguien me escribe por DM y no quiere ir al link?",
+        "answer": "Responde con una sola pregunta de intención directamente en el DM. Si contesta, recoge los datos mínimos en el propio chat y deriva a WhatsApp tú manualmente. El link es una herramienta, no una obligación."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo meter en el link antes de que la gente abandone?",
+        "answer": "Con cinco preguntas cortas la mayoría completa el flujo. A partir de siete u ocho empieza el abandono, especialmente si no explicas por qué las haces."
+      },
+      {
+        "question": "¿Cómo evito parecer frío o robótico cuando uso mensajes predefinidos?",
+        "answer": "Escribe el microcopy en tu voz, explica por qué pides los datos en una frase y deja siempre la opción de que el cliente siga por DM si prefiere. La estructura no tiene que sonar a bot."
+      },
+      {
+        "question": "¿Qué hago si me escriben por DM y por WhatsApp con la misma duda el mismo día?",
+        "answer": "Responde en el canal donde llegó primero y redirige al otro canal con el contexto. Deja claro cuál es el canal principal para cerrar conversaciones y mencionalo en tu bio."
+      },
+      {
+        "question": "¿Tiene sentido poner el link en la bio si ya tengo Linktree u otro agregador?",
+        "answer": "Sí, pero el link de atención debe ser una opción visible y diferenciada, no la quinta de una lista. Cuantos más clics hasta llegar, más abandono."
+      },
+      {
+        "question": "¿Cómo sé si mi flujo de DM está funcionando o está espantando clientes?",
+        "answer": "Mira cuántos clientes que mandan el primer DM terminan llegando a WhatsApp con datos. Si ese porcentaje es bajo y el microcopy es claro, el problema suele ser la cantidad de preguntas o el tono."
+      },
+      {
+        "question": "¿Puedo usar este flujo si ofrezco varios servicios muy distintos?",
+        "answer": "Sí. La primera pregunta del link puede ser el tipo de servicio y a partir de ahí el flujo se ramifica. Tres o cuatro rutas distintas con preguntas específicas por servicio es manejable sin volverse complejo."
+      },
+      {
+        "question": "¿Qué pasa si el cliente no tiene claro qué quiere cuando escribe el DM?",
+        "answer": "El primer mensaje de intención (cita, presupuesto o info) ya los orienta. Si aun así no saben, el propio flujo de preguntas mínimas les ayuda a aclararse antes de llegar a WhatsApp."
+      }
+    ]
+  },
+  {
     "slug": "como-cualificar-consultas-por-whatsapp",
     "title": "Cómo cualificar consultas por WhatsApp (sin API)",
     "description": "Un proceso simple para filtrar y cualificar consultas que llegan por WhatsApp sin necesidad de API, automatizaciones complejas ni CRM. Solo un mensaje guía, 3-5 datos y reglas claras.",
