@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-filtrar-curiosos-sin-ser-borde",
+    "title": "Cómo filtrar curiosos sin ser borde (scripts listos)",
+    "description": "Scripts y criterios concretos para separar consultas serias de las que solo miran precio, sin sonar frío ni perder clientes potenciales reales.",
+    "excerpt": "Filtrar curiosos no es ignorar gente: es hacer las preguntas correctas, en el orden correcto, con el tono correcto. Estos scripts funcionan porque explican el motivo detrás de cada pregunta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-filtrar-curiosos-sin-ser-borde.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "filtrar-consultas",
+      "cualificar-clientes",
+      "scripts-whatsapp",
+      "atencion-clientes",
+      "procesos",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Cómo filtrar curiosos sin perder clientes ni sonar frío",
+    "quickAnswer": [
+      "**Explica siempre el motivo** — Decir \"te pregunto esto para darte un precio realista\" reduce fricción y no suena a interrogatorio.",
+      "**Pide 2-3 datos, no 10** — Cada pregunta extra multiplica el abandono; pide solo lo que cambia tu respuesta.",
+      "**Da opciones, no preguntas abiertas** — \"¿Buscas cita, presupuesto o información?\" convierte mucho mejor que \"¿En qué te puedo ayudar?\"",
+      "**El primer mensaje cualifica, no cierra** — Su función es redirigir a la ruta correcta, no convencer ni presionar.",
+      "**Si no responde dos veces, cierra amable** — El que va en serio responde; perseguir cuesta tiempo y da imagen de desesperación."
+    ],
+    "oneLineDefinition": "Filtrar curiosos es separar las consultas con intención real de las que solo consumen tiempo, haciendo las preguntas justas con el tono adecuado para no espantar a nadie que sí encaje.",
+    "sections": [
+      "El problema real: no es el curioso, es la ausencia de filtro",
+      "Qué convierte una pregunta en borde o en útil",
+      "Scripts listos para filtrar sin perder conversaciones",
+      "Checklist: cómo aplicar el filtro paso a paso",
+      "Errores comunes al intentar filtrar",
+      "Cuándo NO filtrar (o filtrar menos)",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Filtrar consultas sin perder clientes en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business",
+        "Instagram DM",
+        "Respuestas rápidas"
+      ],
+      "steps": [
+        {
+          "name": "Define qué hace que una consulta encaje",
+          "text": "Anota los 2-3 criterios que separan un cliente real de uno que no va a comprar: tiene fecha, tiene presupuesto aproximado, cumple requisitos mínimos."
+        },
+        {
+          "name": "Elige el dato mínimo que lo revela",
+          "text": "Una sola pregunta bien elegida suele bastar para saber si vale la pena invertir tiempo. Elige la que más información te da con menos fricción."
+        },
+        {
+          "name": "Escribe el microcopy que explica por qué preguntas",
+          "text": "Una frase antes de la pregunta cambia la percepción completamente: 'para darte un precio ajustado, necesito saber...' es muy distinto a disparar la pregunta sin contexto."
+        },
+        {
+          "name": "Prepara la respuesta para cada ruta",
+          "text": "Si encaja, guía al siguiente paso. Si no encaja, cierra con amabilidad y sin dejar la conversación muerta."
+        },
+        {
+          "name": "Guarda los scripts como respuestas rápidas",
+          "text": "En WhatsApp Business puedes crear atajos para no escribir lo mismo cada vez. El sistema solo funciona si lo usas de verdad."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: no es el curioso, es la ausencia de filtro</h2><p>Recibes veinte mensajes al día y la mitad son \"precio?\", \"info\" o \"¿tenéis hueco para mañana?\" sin ningún dato más. El problema no es que existan esas personas. El problema es que sin un filtro claro, tratas a todos igual y acabas invirtiendo el mismo tiempo en el que va a comprar hoy y en el que solo está mirando.</p><p>Filtrar no significa ser borde. Significa hacer las preguntas correctas, en el orden correcto, con una frase que explique por qué las haces. La diferencia entre sonar frío y sonar profesional está casi siempre en esa frase de contexto.</p><p>Lo contraintuitivo: añadir una pregunta bien planteada antes de dar precio no reduce conversiones, las mejora. El cliente que encaja entiende por qué la preguntas. El que solo miraba precio desaparece, y eso es exactamente lo que buscas.</p><h2>Qué convierte una pregunta en borde o en útil</h2><p>El mismo contenido puede sonar de dos formas completamente distintas según cómo lo introduces. Estos son los factores que marcan la diferencia:</p><ul><li><strong>Motivo visible</strong>: si explicas por qué preguntas, la pregunta deja de sentirse como un interrogatorio.</li><li><strong>Número de preguntas</strong>: una o dos en el primer mensaje es normal. Cinco seguidas es un formulario disfrazado de chat.</li><li><strong>Opciones vs preguntas abiertas</strong>: dar tres opciones concretas es más cómodo para el cliente que una pregunta abierta que exige que construya la respuesta desde cero.</li><li><strong>Tono de la transición</strong>: si el cliente no encaja, cómo cierras esa conversación define si te recomienda o no.</li></ul><p>Puedes revisar <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> para entender el proceso completo antes de adaptar los scripts a tu sector.</p><h2>Scripts listos para filtrar sin perder conversaciones</h2><h3>Script 1 — Respuesta a \"precio?\" sin contexto</h3><blockquote><p>Hola, gracias por escribir. El precio depende de un par de cosas, así que para darte una cifra realista necesito saber: ¿qué tienes en mente exactamente y para cuándo lo necesitas? Con eso te respondo en un mensaje.</p></blockquote><p>Por qué funciona: reconoce el mensaje, explica que el precio depende de algo concreto (no es excusa, es real) y pide dos datos en una sola frase.</p><h3>Script 2 — Respuesta a \"info\" o \"hola\" sin más</h3><blockquote><p>Hola. Para orientarte rápido: ¿buscas información general, quieres un presupuesto o estás buscando disponibilidad para una fecha? Dime cuál y te paso lo que necesitas.</p></blockquote><p>Por qué funciona: evita el ping-pong de \"¿en qué te puedo ayudar?\" → \"es que quería saber...\" → \"claro, ¿y para cuándo?\" Reduce dos o tres mensajes a uno.</p><h3>Script 3 — Cuando el cliente no cumple un requisito</h3><blockquote><p>Gracias por escribir. Por lo que me comentas, ahora mismo no es el momento ideal porque [motivo concreto en una frase]. Si la situación cambia, escríbeme sin problema. Suerte con el proyecto.</p></blockquote><p>Por qué funciona: cierra sin dejar la conversación muerta, da un motivo real (no una excusa genérica) y no corta el puente si la situación cambia.</p><h3>Script 4 — Cuando solo mira precio y no tiene fecha ni contexto</h3><blockquote><p>El rango está entre X y Z dependiendo de [variable concreta]. Para darte una cifra exacta necesito saber [dato mínimo]. ¿Tienes algo en mente o todavía estás explorando opciones?</p></blockquote><p>Por qué funciona: da un rango (no esconde el precio, que genera desconfianza) y la última pregunta cualifica de forma natural sin presionar. El que está explorando lo dice, y tú decides cuánto tiempo invertir.</p><h3>Script 5 — Seguimiento cuando no responde</h3><blockquote><p>Hola de nuevo, te escribí hace unos días. Si sigues interesado, aquí estoy. Si ya lo has resuelto, sin problema. Un saludo.</p></blockquote><p>Por qué funciona: es breve, no presiona, da una salida amable y no suena a desesperación. Un solo seguimiento de este tipo; dos como máximo.</p><h2>Checklist: cómo aplicar el filtro paso a paso</h2><ol><li>Define los 2-3 criterios que hacen que una consulta encaje contigo (tiene fecha, tiene presupuesto orientativo, cumple requisitos mínimos del servicio).</li><li>Elige el dato mínimo que revela si encaja: normalmente es el servicio exacto o la fecha.</li><li>Escribe una frase de contexto antes de la pregunta: \"para darte X sin marearte con mensajes, necesito saber...\"</li><li>Limita el primer mensaje a una o dos preguntas. No tres, no cuatro.</li><li>Da opciones cuando puedas (cita / presupuesto / info) en lugar de preguntas abiertas.</li><li>Si no encaja, cierra con motivo concreto y puerta abierta si cambia la situación.</li><li>Si no responde dos veces, cierra amable y guarda el contacto sin perseguir.</li><li>Guarda los scripts como respuestas rápidas en WhatsApp Business para no escribir lo mismo cada vez.</li></ol><p>Para saber qué datos pedir exactamente según tu sector, revisa <a href=\"/blog/preguntas-minimas-para-cualificar-clientes/\">las 7 preguntas mínimas para cualificar clientes sin perder conversiones</a>.</p><h2>Errores comunes al intentar filtrar</h2><ol><li><strong>Preguntar sin explicar</strong> → suena a interrogatorio → el cliente se va o contesta con evasivas. Corrección: una frase de motivo antes de cada pregunta.</li><li><strong>Dar precio de golpe sin contexto</strong> → el cliente compara sin entender el valor → objeción de precio inmediata. Corrección: rango condicionado a variable concreta.</li><li><strong>Cinco preguntas en el primer mensaje</strong> → fricción → abandono. Corrección: máximo dos preguntas; el resto en el siguiente intercambio si hay respuesta.</li><li><strong>Cerrar sin motivo</strong> → el cliente no entiende por qué no puede ser cliente tuyo → mala imagen. Corrección: un motivo concreto y real, aunque sea breve.</li><li><strong>Perseguir más de dos veces</strong> → imagen de desesperación → baja percepción de valor. Corrección: un seguimiento, máximo dos, y cierre amable.</li><li><strong>Usar el mismo script para intenciones distintas</strong> → confusión → conversaciones eternas. Corrección: un script para \"precio sin contexto\", otro para \"cita\", otro para \"info\".</li></ol><p>Si te preocupa que un sistema de preguntas previas espante a tus clientes, <a href=\"/blog/los-chatbots-espantan-clientes/\">este artículo sobre chatbots y negocios de servicios</a> explica cuándo el filtrado suma y cuándo resta.</p><h2>Cuándo NO filtrar (o filtrar menos)</h2><ul><li>Volumen muy bajo (menos de cinco consultas al día): si no hay caos real, el filtro añade fricción innecesaria.</li><li>Cada consulta es genuinamente única y requiere discovery humano profundo desde el primer mensaje.</li><li>Tu oferta todavía no está definida: si no sabes bien qué vendes ni a quién, ningún script arregla eso.</li><li>El cliente viene por recomendación directa y ya viene cualificado: forzar el script puede resultar frío en contextos de alta confianza previa.</li></ul><p>Si quieres implementar este sistema sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la información mínima antes de redirigir al cliente a WhatsApp, para que llegues a la conversación final con el contexto ya recogido y sin tener que volver a preguntar lo básico. No es para todos los casos: si tu volumen es bajo o cada consulta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cómo pido el presupuesto del cliente sin que se sienta interrogado?",
+        "answer": "Contextualiza antes de preguntar: 'El precio varía bastante según el proyecto; para no darte una cifra que luego no cuadre, ¿tienes un rango orientativo en mente?' Una pregunta con motivo visible genera menos resistencia que la misma pregunta sola."
+      },
+      {
+        "question": "¿Qué hago si me preguntan precio y no quiero dar cifras antes de saber más?",
+        "answer": "Da un rango condicionado: 'Está entre X y Z dependiendo de [variable concreta]. Para ajustarlo necesito saber [dato mínimo].' Esconder el precio genera desconfianza; condicionarlo es honesto y cualifica al mismo tiempo."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que el cliente se vaya?",
+        "answer": "Una o dos en el primer mensaje es lo habitual sin generar abandono. A partir de tres seguidas en el mismo bloque, la conversión cae de forma visible. Si necesitas más datos, pídelos en el siguiente intercambio una vez que haya respondido."
+      },
+      {
+        "question": "¿Cómo cierro una conversación con alguien que no encaja sin quedar mal?",
+        "answer": "Da un motivo concreto y deja la puerta abierta si la situación cambia: 'Por lo que me comentas, ahora mismo no encaja porque [motivo real]. Si eso cambia, escríbeme sin problema.' Breve, honesto y sin dejar la conversación muerta."
+      },
+      {
+        "question": "¿Qué hago si el cliente me insiste en precio aunque no me ha dado ningún dato?",
+        "answer": "Mantén el rango condicionado sin ceder: 'Entiendo que quieres una cifra, el rango es X-Z y depende de [variable]. Con ese dato te doy el número exacto en un mensaje.' No dar precio sin contexto no es ser borde; es no crear malentendidos después."
+      },
+      {
+        "question": "¿Funciona este sistema si mis clientes vienen principalmente por Instagram?",
+        "answer": "Sí, con una adaptación: en Instagram el primer mensaje suele ser más informal, así que el microcopy tiene que ser aún más corto y natural. La estructura es la misma: reconoce, explica brevemente, pide un dato o da opciones."
+      },
+      {
+        "question": "¿Cuántos seguimientos hago si no responde?",
+        "answer": "Uno o dos como máximo, separados por al menos 48 horas. Más de dos da imagen de desesperación y baja la percepción de valor de tu servicio. El que va en serio responde; el que no responde dos veces no iba a comprar."
+      },
+      {
+        "question": "¿Pierdo clientes si filtro demasiado al inicio?",
+        "answer": "Solo pierdes los que no encajaban. Si el filtro está bien calibrado (preguntas el dato que realmente separa a tu cliente ideal del resto), los que encajan no se van; entienden que preguntas por una razón. El riesgo real es filtrar con mal tono, no filtrar en sí."
+      }
+    ]
+  },
+  {
     "slug": "preguntas-minimas-para-cualificar-clientes",
     "title": "Las 7 preguntas mínimas para cualificar clientes (sin perder conversiones)",
     "description": "Descubre qué 7 preguntas necesitas hacer antes de responder para no perder tiempo en consultas que no van a ningún lado y no espantar a los que sí encajan.",
