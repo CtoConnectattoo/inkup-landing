@@ -1,5 +1,111 @@
 [
   {
+    "slug": "matriz-filtro-intencion-requisitos-presupuesto",
+    "title": "Matriz de filtrado: intención × requisitos × presupuesto (modelo simple)",
+    "description": "Un modelo mental para cruzar intención, requisitos y presupuesto antes de responder, y decidir en segundos si ese mensaje merece tiempo, más preguntas o un descarte amable.",
+    "excerpt": "Filtrar consultas no es rechazar clientes. Es cruzar tres variables (intención, requisitos, presupuesto) para saber qué responder y cuánto tiempo invertir antes de abrir conversación.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/matriz-filtro-intencion-requisitos-presupuesto.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "cualificacion",
+      "filtrado-consultas",
+      "presupuesto",
+      "gestion-consultas",
+      "procesos",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Matriz de filtrado: intención × requisitos × presupuesto",
+    "quickAnswer": [
+      "**Cruza tres variables antes de responder** — intención (qué quiere), requisitos (si puede ser tu cliente) y presupuesto (si encaja económicamente). Solo cuando las tres alinean, inviertes tiempo real.",
+      "**La intención decide la ruta** — información, presupuesto o cita son tres conversaciones distintas que necesitan respuestas distintas. Mezclarlas es la causa número uno de conversaciones eternas.",
+      "**Los requisitos filtran antes que el precio** — si el cliente no cumple condiciones básicas del servicio, el presupuesto da igual. Comprueba esto primero.",
+      "**El presupuesto no se pide: se condiciona** — en lugar de preguntar cuánto tiene, presentas un rango asociado a variables concretas. Eso filtra sin tensar.",
+      "**Las combinaciones malas tienen respuesta estándar** — no improvises cuando intención, requisitos o presupuesto no encajan. Tener una respuesta preparada reduce el tiempo perdido y no cierra la puerta con mala cara."
+    ],
+    "oneLineDefinition": "La matriz de filtrado intención × requisitos × presupuesto es un modelo para decidir, antes de responder, si una consulta merece conversación larga, más preguntas o un descarte amable.",
+    "sections": [
+      "Por qué filtrar sin modelo acaba en conversaciones inútiles",
+      "Las tres variables del filtro",
+      "La matriz: cómo se cruzan las tres variables",
+      "Cómo aplicarlo en la práctica (paso a paso)",
+      "Scripts para cada combinación",
+      "Errores comunes al filtrar",
+      "Cuándo este modelo no aplica",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Aplicar la matriz de filtrado en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Definición de requisitos del servicio",
+        "Rango de presupuesto orientativo",
+        "Scripts de respuesta por combinación"
+      ],
+      "steps": [
+        {
+          "name": "Identificar la intención de la consulta",
+          "text": "Clasifica cada mensaje en una de tres categorías: información, presupuesto o cita/disponibilidad."
+        },
+        {
+          "name": "Comprobar requisitos mínimos",
+          "text": "Verifica si el cliente cumple las condiciones básicas del servicio antes de seguir. Si no cumple, descarte amable."
+        },
+        {
+          "name": "Anclar el presupuesto a variables",
+          "text": "No preguntes cuánto tiene. Presenta un rango condicionado a 2-3 variables concretas del servicio."
+        },
+        {
+          "name": "Cruzar las tres variables en la matriz",
+          "text": "Identifica en qué celda cae la consulta y aplica la respuesta correspondiente sin improvisar."
+        },
+        {
+          "name": "Usar el script preparado para esa combinación",
+          "text": "Responde con el mensaje estándar para ese caso. Ajusta tono, no estructura."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué filtrar sin modelo acaba en conversaciones inútiles</h2><p>Te escriben. Respondes. Preguntas precio. Te dan un dato suelto. Tú preguntas otro. Intercambias seis mensajes y descubres que no encaja ni el presupuesto ni la fecha ni el servicio. Ese tiempo no se recupera.</p><p>El problema no es que no filtraras: es que filtraste sin orden. Primero preguntaste lo que te vino a la cabeza, no lo que decide si esa persona es tu cliente. Un modelo de filtrado no es un interrogatorio. Es una secuencia que cruza tres variables en el orden correcto para que, al tercer mensaje, ya sepas si vale la pena seguir.</p><h2>Las tres variables del filtro</h2><h3>1. Intención: qué quiere ahora mismo</h3><p>Antes de cualquier otra cosa, la intención decide la ruta. No es lo mismo alguien que quiere información general, alguien que quiere saber cuánto cuesta y alguien que quiere reservar hueco. Son tres conversaciones con estructura, tiempos y cierres distintos.</p><ul><li><strong>Información:</strong> quiere entender qué haces, cómo funciona, qué incluye. No está listo para decidir.</li><li><strong>Presupuesto:</strong> quiere saber si puede pagarlo. Está comparando opciones activamente.</li><li><strong>Cita/disponibilidad:</strong> ya ha decidido, necesita confirmar que hay hueco y cerrar.</li></ul><p>Si no separas estas tres intenciones, acabas dando precios a quien solo quería información y mandando disponibilidades a quien necesitaba más contexto. Lee más sobre cómo <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtrar y cualificar consultas antes de responder por WhatsApp</a> para entender cómo la intención afecta a todo el flujo.</p><h3>2. Requisitos: si puede ser tu cliente</h3><p>Cada servicio tiene condiciones mínimas. Un estudio de tatuaje puede requerir que el diseño sea viable en la zona anatómica pedida. Una fotógrafa de boda puede requerir que la fecha esté libre. Una coach puede requerir que el cliente esté en un momento vital específico.</p><p>Los requisitos filtran antes que el precio. Si alguien no cumple la condición básica, el presupuesto es irrelevante. Comprobar esto primero ahorra la parte más incómoda del proceso: llegar al precio después de cinco mensajes y descubrir que el servicio ni siquiera aplica.</p><h3>3. Presupuesto: si encaja económicamente</h3><p>El presupuesto no se pregunta directamente. Se condiciona. Presentas un rango asociado a variables concretas del servicio (tamaño, duración, complejidad, materiales) y dejas que el cliente ubique su caso dentro de ese rango. Esto filtra sin tensar y sin parecer que estás calificando su bolsillo. Puedes ver cómo hacerlo en detalle en <a href=\"/blog/como-pedir-presupuesto-sin-espantar/\">cómo pedir presupuesto sin espantar (y sin regalar horas)</a>.</p><h2>La matriz: cómo se cruzan las tres variables</h2><p>El siguiente bloque es el núcleo del modelo. Cada celda combina un estado de las tres variables y te dice qué acción tomar. No hay que memorizar nada: basta con identificar en qué celda cae la consulta.</p><table><thead><tr><th>Intención</th><th>Requisitos</th><th>Presupuesto</th><th>Acción</th></tr></thead><tbody><tr><td>Información</td><td>Cumple</td><td>Sin datos aún</td><td>Responde con info básica + invita a concretar intención</td></tr><tr><td>Información</td><td>No cumple</td><td>Irrelevante</td><td>Descarte amable + explica condición</td></tr><tr><td>Presupuesto</td><td>Cumple</td><td>Rango encaja</td><td>Da rango condicionado + siguiente paso (cita o datos)</td></tr><tr><td>Presupuesto</td><td>Cumple</td><td>Rango no encaja</td><td>Descarte honesto o alternativa más accesible si existe</td></tr><tr><td>Presupuesto</td><td>No cumple</td><td>Irrelevante</td><td>Descarte amable + explica condición</td></tr><tr><td>Cita/disponibilidad</td><td>Cumple</td><td>Encaja (ya confirmado)</td><td>Verifica hueco + cierra con siguiente paso concreto</td></tr><tr><td>Cita/disponibilidad</td><td>Cumple</td><td>Sin confirmar aún</td><td>Pide confirmar presupuesto antes de reservar hueco</td></tr><tr><td>Cita/disponibilidad</td><td>No cumple</td><td>Irrelevante</td><td>Descarte amable + explica condición</td></tr></tbody></table><p>La mayoría de consultas caen en cuatro o cinco de estas combinaciones. Las otras son casos límite que se resuelven con el mismo criterio: intención primero, requisitos segundo, presupuesto tercero.</p><h2>Cómo aplicarlo en la práctica (paso a paso)</h2><h3>Paso 1: identifica la intención en el primer mensaje</h3><p>No esperes a que el cliente la declare. &quot;Hola, info&quot; es probablemente información. &quot;¿Cuánto cuesta?&quot; es presupuesto. &quot;¿Tenéis hueco el sábado?&quot; es cita. Si no está claro, pregunta directamente con una sola frase: &quot;Para enviarte lo más útil, ¿buscas información, precio o disponibilidad?&quot;</p><h3>Paso 2: comprueba el requisito más excluyente primero</h3><p>Identifica cuál es la condición que más descarta en tu servicio y compruébala antes de seguir. Si eres tatuadora y el cliente quiere un diseño en una zona con cicatrices complejas, eso va antes del precio. Si eres fotógrafo y la fecha ya está ocupada, eso va antes de hablar de estilo o tarifa.</p><p>Las <a href=\"/blog/preguntas-minimas-para-cualificar-clientes/\">7 preguntas mínimas para cualificar clientes</a> te ayudan a identificar cuál es ese requisito más excluyente según tu servicio concreto.</p><h3>Paso 3: presenta el presupuesto como rango condicionado</h3><p>No preguntes &quot;¿cuánto tienes pensado gastar?&quot;. Di algo como: &quot;Para un trabajo de esas características, el rango habitual está entre X y Y, dependiendo de [variable concreta]. ¿Eso encaja con lo que tienes en mente?&quot; Eso filtra sin confrontar.</p><h3>Paso 4: ubica la consulta en la matriz y aplica la acción correspondiente</h3><p>Una vez tienes los tres datos, identificas la celda y respondes con el mensaje que corresponde. No improvises sobre algo que ya puedes tener preparado.</p><h3>Paso 5: si hay hueco, cierra con un paso concreto</h3><p>El error más frecuente en este punto es dejar la conversación abierta. Un cierre tiene siempre un paso concreto: confirmar fecha, enviar referencia, aprobar presupuesto. Sin ese paso, el cliente desaparece aunque quisiera seguir. Si quieres ver cómo funciona esto en el contexto de agendas, revisa <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a>.</p><h2>Scripts para cada combinación</h2><h3>Script 1: intención de información, requisitos cumplidos</h3><blockquote><p>&quot;¡Hola! Te cuento lo básico: [descripción de 2-3 líneas del servicio]. Si quieres saber si encaja con lo que buscas, dime [variable clave] y te respondo con algo más concreto.&quot;</p></blockquote><h3>Script 2: intención de presupuesto, requisitos cumplidos, rango encaja</h3><blockquote><p>&quot;Para un trabajo como el que describes, el rango habitual está entre [X] y [Y], dependiendo de [variable]. Eso encaja bien con lo que comentas. ¿Seguimos con los detalles o prefieres que te cuente cómo funciona el proceso?&quot;</p></blockquote><h3>Script 3: requisitos no cumplidos (cualquier intención)</h3><blockquote><p>&quot;Gracias por escribir. En este caso concreto no podría ayudarte porque [condición específica en una frase]. Si en algún momento cambia eso, encantado de retomarlo.&quot;</p></blockquote><h3>Script 4: presupuesto no encaja</h3><blockquote><p>&quot;Para ese tipo de trabajo, el precio más ajustado que manejo está en torno a [X]. Entiendo que puede no encajar ahora. Si en algún momento cambia, aquí estoy.&quot;</p></blockquote><h3>Script 5: cita/disponibilidad, todo encaja, cierre</h3><blockquote><p>&quot;Perfecto, tengo hueco el [fecha/hora]. Para confirmarlo necesito [dato concreto: señal, formulario, referencia]. ¿Te va bien?&quot;</p></blockquote><h2>Errores comunes al filtrar</h2><ol><li><strong>Preguntar el presupuesto antes de comprobar requisitos.</strong> Si el cliente no cumple condiciones básicas, el precio es irrelevante y habrás incomodado la conversación sin necesidad.</li><li><strong>No separar intención.</strong> Dar precio a quien quería información genera desconfianza. Mandar disponibilidad a quien no ha decidido genera fricción. Identifica la intención primero.</li><li><strong>Improvisar en lugar de usar el script preparado.</strong> Cada combinación tiene una respuesta que ya funciona. Improvisar sobre lo que ya está resuelto gasta energía y genera inconsistencia si hay equipo.</li><li><strong>Descarte sin explicación.</strong> Un &quot;no encaja&quot; sin motivo parece desprecio. Un &quot;no encaja porque [condición]&quot; deja la puerta entreabierta y protege la reputación.</li><li><strong>Mezclar el filtro con el cierre.</strong> El filtro es para decidir si sigues. El cierre es para confirmar. Son dos momentos distintos y mezclarlos genera conversaciones que no avanzan ni terminan.</li><li><strong>Pedir los tres datos a la vez en el primer mensaje.</strong> Eso parece formulario y reduce la respuesta. Ve variable a variable, en el orden que más descarta.</li></ol><h2>Cuándo este modelo no aplica</h2><ul><li>Si cada consulta es completamente única y no hay patrón repetible, la matriz no tiene donde apoyarse. Necesitas criterio ad hoc, no modelo.</li><li>Si el volumen es muy bajo (1-3 consultas al día), el beneficio de formalizar el filtro es mínimo. Hazlo mentalmente.</li><li>Si tu proceso de venta requiere discovery largo desde el inicio (sesiones exploratorias, proyectos a medida de alto ticket), filtrar con tres variables antes del primer contacto puede descartar clientes buenos. En esos casos, el filtro va después de la primera llamada.</li><li>Si tu problema es que no te escriben suficiente gente, ningún filtro lo soluciona. El filtrado sirve para gestionar volumen, no para generarlo.</li></ul><h2>El siguiente paso</h2><p>Si quieres implementar este modelo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la intención, los requisitos básicos y el contexto de presupuesto antes de que la conversación llegue a tu WhatsApp, de modo que ya sabes en qué celda de la matriz está cada consulta antes de abrir el chat. No es para todos los casos: si tu volumen es bajo o cada consulta es radicalmente distinta, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿En qué orden debo cruzar las tres variables?",
+        "answer": "Primero intención (para elegir la ruta correcta), luego requisitos (para descartar antes de hablar de precio) y por último presupuesto. Cambiar el orden genera incomodidad o tiempo perdido."
+      },
+      {
+        "question": "¿Qué hago si el primer mensaje no me da suficiente información para identificar la intención?",
+        "answer": "Pregunta directamente con una sola frase: 'Para enviarte lo más útil, ¿buscas información, precio o disponibilidad?' No esperes a que el cliente lo declare solo."
+      },
+      {
+        "question": "¿Cómo descarto sin quedar mal o parecer borde?",
+        "answer": "Explica la condición específica en una frase y deja la puerta entreabierta. 'En este caso no puedo ayudarte porque [condición concreta]. Si eso cambia, aquí estoy.' Sin esa explicación, el descarte parece desprecio."
+      },
+      {
+        "question": "¿Qué hago si el cliente cumple requisitos pero el presupuesto no está claro?",
+        "answer": "Presenta un rango condicionado a variables concretas del servicio y pregunta si encaja. No preguntes cuánto tiene: condiciona el rango a lo que tú puedes ofrecer."
+      },
+      {
+        "question": "¿Este modelo sirve si soy la única persona del negocio?",
+        "answer": "Sí, especialmente en ese caso. Sin equipo, cada minuto en conversaciones inútiles te cuesta trabajo facturable. La matriz te da una decisión en segundos sin tener que pensar cada vez."
+      },
+      {
+        "question": "¿Qué hago si alguien pide cita pero no ha confirmado el presupuesto?",
+        "answer": "No reserves el hueco hasta confirmar que el presupuesto encaja. Pide ese paso antes: 'Para bloquearte fecha necesito confirmar que el presupuesto te va bien.' Reservar sin ese paso genera cancelaciones de última hora."
+      },
+      {
+        "question": "¿Cuántas preguntas necesito hacer para cruzar las tres variables?",
+        "answer": "En la mayoría de servicios, con dos o tres preguntas bien diseñadas tienes suficiente. La intención suele estar en el primer mensaje, el requisito más excluyente en una pregunta y el presupuesto en una frase condicionada."
+      },
+      {
+        "question": "¿Qué pasa si el cliente tiene intención de cita pero no cumple requisitos?",
+        "answer": "Descarte amable explicando la condición, aunque el cliente parezca muy decidido. Un cliente que no puede recibir el servicio no se convierte en cliente, por mucho que quiera agendar."
+      }
+    ]
+  },
+  {
     "slug": "como-filtrar-curiosos-sin-ser-borde",
     "title": "Cómo filtrar curiosos sin ser borde (scripts listos)",
     "description": "Scripts y criterios concretos para separar consultas serias de las que solo miran precio, sin sonar frío ni perder clientes potenciales reales.",
