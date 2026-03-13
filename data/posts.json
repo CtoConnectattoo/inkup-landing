@@ -1,5 +1,115 @@
 [
   {
+    "slug": "como-cualificar-consultas-por-whatsapp",
+    "title": "Cómo cualificar consultas por WhatsApp (sin API)",
+    "description": "Un proceso simple para filtrar y cualificar consultas que llegan por WhatsApp sin necesidad de API, automatizaciones complejas ni CRM. Solo un mensaje guía, 3-5 datos y reglas claras.",
+    "excerpt": "Cualificar consultas por WhatsApp sin API es usar un mensaje guía que pida 3-5 datos clave y un siguiente paso claro antes de seguir la conversación.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-cualificar-consultas-por-whatsapp.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-13",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "cualificar-consultas",
+      "gestion-mensajes",
+      "procesos",
+      "sin-api"
+    ],
+    "quickAnswerSubtitle": "Cualificar consultas por WhatsApp sin API",
+    "quickAnswer": [
+      "**Define 3-5 datos mínimos** — solo los que cambian lo que vas a responder, no más.",
+      "**Usa un mensaje guía de entrada** — una frase que oriente al cliente y le pida el contexto necesario antes de continuar.",
+      "**Separa intenciones desde el inicio** — info, presupuesto o cita tienen respuestas distintas y deben ir por rutas distintas.",
+      "**Filtra sin interrogar** — microcopy claro ('para darte precio exacto necesito saber X') baja el abandono y elimina la percepción de formulario frío.",
+      "**No necesitas API ni automatización** — con respuestas rápidas guardadas y un proceso definido, puedes cualificar de forma consistente desde hoy."
+    ],
+    "oneLineDefinition": "Cualificar consultas por WhatsApp sin API es aplicar un proceso de preguntas mínimas y un mensaje guía que filtra intención y contexto antes de invertir tiempo en la conversación.",
+    "sections": [
+      "Qué significa cualificar por WhatsApp (y por qué no necesitas API para hacerlo)",
+      "Los 3-5 datos que siempre necesitas antes de responder",
+      "Cómo estructurar el mensaje guía de entrada",
+      "Checklist de implementación paso a paso",
+      "Scripts listos para copiar",
+      "Errores que cortan la conversión",
+      "Cuándo este proceso no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar consultas por WhatsApp sin API en 6 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "WhatsApp Business",
+        "Respuestas rápidas",
+        "Mensaje de bienvenida",
+        "Criterios de cualificación definidos"
+      ],
+      "steps": [
+        {
+          "name": "Define los 3-5 datos mínimos",
+          "text": "Escribe qué necesitas saber antes de dar precio o hueco. Solo lo que cambia tu respuesta."
+        },
+        {
+          "name": "Redacta el mensaje guía de entrada",
+          "text": "Una frase que reconozca al cliente, ofrezca 2-3 rutas y pida el dato mínimo para avanzar."
+        },
+        {
+          "name": "Guarda el mensaje como respuesta rápida",
+          "text": "En WhatsApp Business, guarda el mensaje guía como atajo (/bienvenida o similar) para usarlo en segundos."
+        },
+        {
+          "name": "Define las rutas por intención",
+          "text": "Info, presupuesto y cita tienen flujos distintos. Prepara un mensaje específico para cada ruta."
+        },
+        {
+          "name": "Establece criterios de descarte",
+          "text": "Define qué respuesta indica que el cliente no encaja (presupuesto muy bajo, requisito no cumplido, fuera de zona) y prepara un cierre amable."
+        },
+        {
+          "name": "Aplica y ajusta la primera semana",
+          "text": "Usa el proceso durante 5-7 días y anota qué preguntas siguen apareciendo para afinar el mensaje guía."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué significa cualificar por WhatsApp (y por qué no necesitas API para hacerlo)</h2><p>Cada día te escriben personas que empiezan con \"hola\", \"precio?\" o \"tenéis hueco?\". Sin más. Para responder bien necesitas contexto. Sin contexto, das precios genéricos, abres conversaciones que no van a ningún lado y acabas en 15 mensajes haciendo lo que podrías haber resuelto en 3.</p><p>Cualificar por WhatsApp no es usar tecnología compleja. Es tener un proceso claro: un mensaje que guía, unas preguntas mínimas que pides antes de invertir tiempo y un criterio que te dice si el cliente encaja o no. Sin API, sin automatizaciones, sin programar nada.</p><p>Si quieres entender el proceso completo antes de enfocarte en WhatsApp, en <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> está el marco general. Este artículo es el paso siguiente: cómo hacerlo específicamente dentro del chat.</p><h2>Los 3-5 datos que siempre necesitas antes de responder</h2><p>Antes de escribir ningún script, define qué información cambia lo que vas a decir. Si un dato no altera tu respuesta, no lo pidas aún.</p><p>En servicios locales (tatuadores, estética, coaches, fotógrafos), los datos que casi siempre importan son:</p><ul><li><strong>Servicio exacto</strong> — no todos los servicios tienen el mismo precio ni la misma disponibilidad.</li><li><strong>Objetivo o contexto mínimo</strong> — para qué, para quién, qué tiene en mente.</li><li><strong>Fecha o franja</strong> — si hay agenda limitada, esto filtra solo.</li><li><strong>Zona o modalidad</strong> — si trabajas en local, a domicilio o en remoto.</li><li><strong>Presupuesto orientativo</strong> — solo si tu rango de precios varía mucho y filtra de verdad.</li></ul><p>Con 3 de estos 5 datos ya puedes responder con precisión y decidir si el cliente encaja. Más de 5 preguntas seguidas en WhatsApp generan abandono.</p><h2>Cómo estructurar el mensaje guía de entrada</h2><p>El mensaje guía es el primer paso del proceso. No es un saludo largo ni un formulario encubierto. Es una frase (o dos) que hace tres cosas: reconoce al cliente, le ofrece rutas claras y le pide el dato mínimo para avanzar.</p><p>Estructura básica:</p><ol><li>Reconocer: \"¡Hola! Gracias por escribir.\"</li><li>Orientar: \"Para ayudarte rápido, dime qué buscas: cita, presupuesto o información.\"</li><li>Pedir el dato mínimo: \"Y si puedes, cuéntame en una frase qué tienes en mente.\"</li></ol><p>Eso es suficiente para el primer mensaje. No pidas los 5 datos de golpe. El objetivo del primer mensaje es que el cliente responda, no que rellene un formulario.</p><p>Una vez responde, vas a la ruta correspondiente (info, presupuesto o cita) y pides los datos específicos de esa ruta.</p><h2>Checklist de implementación paso a paso</h2><ol><li>Escribe los 3-5 datos mínimos que necesitas antes de responder cualquier consulta.</li><li>Redacta el mensaje guía de entrada siguiendo la estructura: reconocer + orientar + dato mínimo.</li><li>Guárdalo como respuesta rápida en WhatsApp Business (menú → Herramientas de negocio → Respuestas rápidas).</li><li>Prepara un mensaje específico para cada ruta: uno para info, uno para presupuesto, uno para cita.</li><li>Define en 1 frase el criterio de descarte: qué respuesta indica que el cliente no encaja.</li><li>Prepara un cierre amable para descartes (sin dejar al cliente en el limbo).</li><li>Aplica el proceso durante 5-7 días y anota qué preguntas siguen apareciendo sin respuesta.</li><li>Ajusta el mensaje guía con lo que aprendas esa primera semana.</li></ol><h2>Scripts listos para copiar</h2><h3>Script 1 — Mensaje guía de entrada (neutro)</h3><blockquote><p>\"¡Hola! Para ayudarte lo antes posible, dime qué buscas: cita, presupuesto o información general. Y si puedes, cuéntame en una frase qué tienes en mente.\"</p></blockquote><h3>Script 2 — Ruta presupuesto (pedir contexto sin sonar frío)</h3><blockquote><p>\"Para darte un precio realista y no marearte con rangos muy amplios, necesito 3 datos rápidos: qué servicio exacto buscas, para cuándo aproximadamente y si tienes alguna referencia o idea concreta. Con eso te respondo en un mensaje.\"</p></blockquote><h3>Script 3 — Ruta cita (filtrar disponibilidad)</h3><blockquote><p>\"Perfecto. Para ver disponibilidad real, dime: qué servicio necesitas, qué fechas o días te vienen mejor y si tienes flexibilidad horaria. Así te confirmo hueco o te apunto en lista de espera.\"</p></blockquote><h3>Script 4 — Cierre amable por descarte</h3><blockquote><p>\"Gracias por escribir. Con lo que me cuentas, creo que ahora mismo no soy la opción que mejor encaja para lo que buscas [razón en 1 frase]. Si en algún momento cambia la situación, estaré por aquí.\"</p></blockquote><h3>Script 5 — Seguimiento si no responde</h3><blockquote><p>\"Hola de nuevo, te escribí el [día] para ayudarte con tu consulta. Si sigues interesada/o, cuéntame qué necesitas y te respondo. Si ya lo resolviste, sin problema.\"</p></blockquote><p>Si el volumen empieza a crecer y necesitas que ese proceso funcione antes de llegar al chat, en <a href=\"/blog/automatizar-whatsapp-sin-api/\">automatizar WhatsApp sin API: qué puedes hacer hoy</a> hay opciones concretas que no requieren programar.</p><h2>Errores que cortan la conversión</h2><ol><li><strong>Primer mensaje con 6 preguntas seguidas</strong> — el cliente ve un formulario, no una conversación, y abandona. Corrección: 1 dato mínimo en el primer mensaje, el resto después.</li><li><strong>Dar precio sin contexto</strong> — genera malentendidos y clientes que vuelven a preguntar. Corrección: rango condicionado a 2-3 variables antes de la cifra.</li><li><strong>No tener criterio de descarte definido</strong> — acabas en conversaciones largas con gente que no encaja. Corrección: escribe en 1 frase qué respuesta indica que no es tu cliente.</li><li><strong>Preguntar sin explicar para qué</strong> — genera desconfianza. Corrección: microcopy en 1 frase (\"para darte precio exacto necesito saber X\").</li><li><strong>No guardar los scripts como respuestas rápidas</strong> — cada vez tardas más y el proceso no es consistente. Corrección: configura atajos en WhatsApp Business para los mensajes que usas a diario.</li><li><strong>Perseguir clientes que no responden</strong> — consume tiempo y da imagen de desesperación. Corrección: 2 intentos máximo, cierre amable y guardado.</li></ol><h2>Cuándo este proceso no es suficiente</h2><p>Este sistema funciona cuando el volumen es manejable y tú (o una persona) puedes responder los mensajes guía de forma consistente. Hay situaciones donde se queda corto:</p><ul><li>Si recibes más de 20-30 consultas al día y no das abasto con los mensajes manuales, aunque sean rápidos.</li><li>Si tienes varios canales activos (Instagram, Google, web, WhatsApp) y los mensajes llegan dispersos sin orden.</li><li>Si necesitas que la información llegue estructurada antes de que tú respondas, no durante la conversación.</li></ul><p>En esos casos, el problema ya no es el script: es la entrada. Lo que ayuda es tener un punto de entrada único que capture los datos antes de que el cliente llegue al chat. En <a href=\"/blog/como-cualificar-consultas-por-instagram/\">cómo cualificar consultas por Instagram sin eternizarte en DMs</a> está cómo coordinarlo cuando los mensajes vienen también de IG.</p><p>Si quieres implementar ese punto de entrada sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, capta los datos mínimos según el servicio y redirige al cliente a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen es bajo o cada conversación es distinta desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Puedo cualificar consultas en WhatsApp sin tener WhatsApp Business?",
+        "answer": "Puedes aplicar el proceso con cualquier versión de WhatsApp, pero WhatsApp Business tiene respuestas rápidas y mensaje de bienvenida que hacen el proceso más consistente. Si tienes volumen, el cambio vale la pena y es gratuito."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer en el primer mensaje sin que el cliente se vaya?",
+        "answer": "Una, máximo dos. El primer mensaje sirve para que el cliente responda, no para recoger todos los datos. El resto de preguntas van después, en la ruta que corresponda."
+      },
+      {
+        "question": "¿Qué hago si el cliente me responde solo 'precio' sin dar ningún dato?",
+        "answer": "Usa el script de ruta presupuesto: pide 3 datos concretos con microcopy que explique por qué los necesitas. No des rango sin contexto o tendrás que repetir la conversación."
+      },
+      {
+        "question": "¿Cómo descarto a alguien sin quedar mal?",
+        "answer": "Con el script de cierre amable: una razón en 1 frase y la puerta abierta para más adelante. No desaparezcas ni dejes la conversación sin respuesta."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y luego por WhatsApp con la misma consulta?",
+        "answer": "Si llegan con contexto de uno de los canales, úsalo en WhatsApp para no empezar de cero. Si llegan sin contexto, aplica el mensaje guía igual. La prioridad es no hacer que el cliente repita lo que ya dijo."
+      },
+      {
+        "question": "¿Cuánto tiempo al día me ahorra tener este proceso definido?",
+        "answer": "Depende del volumen, pero reducir de 10 mensajes por cierre a 3-4 supone varios minutos por consulta. Con 15 consultas diarias, son 30-60 minutos reales que recuperas sin cambiar nada tecnológico."
+      },
+      {
+        "question": "¿Necesito responder fuera de horario para no perder clientes?",
+        "answer": "No necesariamente. Un mensaje de ausencia en WhatsApp Business que explique el horario de respuesta y pida el contexto mínimo reduce la sensación de espera. El cliente que va en serio espera si ve que hay un proceso claro."
+      },
+      {
+        "question": "¿Este proceso funciona si somos dos personas contestando el WhatsApp?",
+        "answer": "Sí, pero necesitáis acordar los mismos scripts y criterios de descarte. Si cada persona usa un mensaje distinto, el proceso pierde consistencia y el cliente lo nota."
+      }
+    ]
+  },
+  {
     "slug": "como-pedir-presupuesto-sin-espantar",
     "title": "Cómo pedir presupuesto sin espantar (y sin regalar horas)",
     "description": "Aprende a pedir el contexto necesario antes de dar precio sin generar fricción. Checklist, scripts y errores comunes para negocios de servicios que reciben consultas por WhatsApp e Instagram.",
