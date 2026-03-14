@@ -1,5 +1,116 @@
 [
   {
+    "slug": "como-cualificar-consultas-en-estetica",
+    "title": "Cómo cualificar consultas en estética (plantilla mínima + avanzada)",
+    "description": "Plantilla práctica para cualificar consultas entrantes en negocios de estética: qué preguntar, cuándo preguntar y cómo evitar dar precio sin datos. Versión mínima (3 preguntas) y avanzada (6 preguntas).",
+    "excerpt": "Cualificar consultas en estética es pedir los datos mínimos que cambian tu respuesta antes de dar precio, hueco o recomendación de tratamiento. Sin esos datos, cada conversación empieza de cero.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-cualificar-consultas-en-estetica.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-14",
+    "readingTime": "8 min",
+    "tags": [
+      "estetica",
+      "cualificar-consultas",
+      "filtrar-clientes",
+      "whatsapp",
+      "instagram",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Cómo cualificar consultas en estética antes de responder",
+    "quickAnswer": [
+      "**Pregunta el tratamiento concreto** — \"facial\" o \"depilación\" no es suficiente; necesitas saber qué zona, qué técnica y qué objetivo para poder responder con sentido.",
+      "**Pide condición de piel o historial relevante** — embarazo, rosácea, isotretinoína, piel sensible: cualquiera de estos cambia el protocolo o descarta el tratamiento directamente.",
+      "**Recoge fecha o margen de disponibilidad antes de abrir la agenda** — sin esto pierdes tiempo comprobando huecos para alguien que no puede venir en semanas.",
+      "**No des precio sin diagnóstico mínimo** — en estética el precio varía por zona, número de sesiones y condición de partida; dar cifra sin datos genera malentendidos y clientes frustrados.",
+      "**Filtra antes de llegar al chat** — un formulario conversacional previo al WhatsApp evita que llegues a la conversación con un «hola, info» sin contexto."
+    ],
+    "oneLineDefinition": "Cualificar consultas en estética es recoger tratamiento, objetivo, condición de piel, disponibilidad y presupuesto orientativo antes de responder, para no invertir tiempo en conversaciones que no pueden avanzar.",
+    "sections": [
+      "Por qué las consultas de estética necesitan cualificación antes que respuesta",
+      "Qué datos mínimos cambian tu respuesta en estética",
+      "Plantilla mínima: 3 preguntas para el 80% de los casos",
+      "Plantilla avanzada: 6 preguntas para alta variabilidad o alto ticket",
+      "Tabla de decisión: condición y acción",
+      "Scripts listos para pedir datos sin sonar a formulario",
+      "Errores comunes al cualificar en estética",
+      "Cuándo NO usar plantilla rígida",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar una consulta de estética en 2 minutos",
+      "totalTimeMinutes": 5,
+      "tools": [
+        "Formulario conversacional o link de entrada",
+        "WhatsApp Business con respuestas rápidas",
+        "Guion de primeras preguntas"
+      ],
+      "steps": [
+        {
+          "name": "Identificar el tratamiento real",
+          "text": "Pregunta qué tratamiento busca y para qué zona. Evita aceptar respuestas genéricas como 'facial' o 'depilación' sin especificar."
+        },
+        {
+          "name": "Preguntar el objetivo",
+          "text": "¿Qué quiere conseguir: limpiar, reducir manchas, retrasar envejecimiento, eliminar vello? El objetivo define el protocolo."
+        },
+        {
+          "name": "Detectar condiciones relevantes",
+          "text": "Pregunta si hay embarazo, lactancia, piel sensible, medicación fotosensibilizante o tratamiento reciente con ácidos o laser."
+        },
+        {
+          "name": "Recoger disponibilidad",
+          "text": "Pregunta si tiene fecha en mente o margen de días antes de consultar la agenda."
+        },
+        {
+          "name": "Obtener presupuesto orientativo (si el servicio varía mucho)",
+          "text": "Solo en servicios de alto ticket o con gran variabilidad de precio. No siempre es necesario en la primera pregunta."
+        },
+        {
+          "name": "Derivar con contexto",
+          "text": "Con esos datos, redirige a WhatsApp o confirma cita directamente. El cliente llega con contexto; tú no vuelves a preguntar lo mismo."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué las consultas de estética necesitan cualificación antes que respuesta</h2><p>Te escribe alguien: «Hola, ¿cuánto cuesta el láser?». Sin saber si habla de depilación láser, de rejuvenecimiento, de qué zona, de qué tipo de piel o de cuántas sesiones espera, no puedes dar un precio honesto. Si das uno genérico, en el 60% de los casos acaba mal: o el cliente se decepciona cuando el precio real es diferente, o descubres en cabina que no era candidata al tratamiento.</p><p>El problema no es la consulta en sí. Es que en estética casi ningún servicio tiene precio fijo e igual para todo el mundo. La zona, el historial de piel, el número de sesiones necesarias y las condiciones médicas cambian el protocolo, el precio y a veces la viabilidad. Por eso cualificar no es un filtro frío: es el paso que te permite dar una respuesta útil en lugar de una respuesta genérica.</p><p>Si quieres entender esto en un marco más amplio, el artículo sobre <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> explica la lógica general que aplica aquí.</p><h2>Qué datos mínimos cambian tu respuesta en estética</h2><p>Antes de diseñar ninguna plantilla, define qué información te permite decidir algo. En estética, hay seis variables que cambian casi siempre tu respuesta:</p><ul><li><strong>Tratamiento y zona</strong>: no es lo mismo depilación axilas que piernas completas; no es lo mismo peeling enzimático que químico.</li><li><strong>Objetivo del cliente</strong>: limpiar poros, reducir manchas, suavizar arrugas, eliminar vello de forma definitiva. El objetivo define el protocolo y el número de sesiones.</li><li><strong>Condición de piel o historial clínico relevante</strong>: embarazo, lactancia, rosácea, acné activo, isotretinoína en los últimos seis meses, piel muy sensible, tratamiento laser reciente. Cualquiera de estos puede contraindicar el servicio o modificar el protocolo completamente.</li><li><strong>Número de sesiones previas (si el servicio es de ciclo)</strong>: en depilación láser o tratamientos de ciclo, saber si empieza desde cero o viene con sesiones previas cambia el presupuesto y la expectativa.</li><li><strong>Disponibilidad o margen de fecha</strong>: sin esto consultas la agenda para alguien que no puede venir en tres semanas.</li><li><strong>Presupuesto orientativo</strong>: solo si el servicio tiene alta variabilidad de precio o es de ticket elevado (por ejemplo, tratamiento corporal de varias sesiones).</li></ul><p>No necesitas los seis siempre. La versión mínima son tres; la avanzada, seis. Elige según la variabilidad de tu servicio y el volumen de consultas.</p><h2>Plantilla mínima: 3 preguntas para el 80% de los casos</h2><p>Esta versión prioriza la conversión. Reduce fricción al máximo y cubre los casos más comunes: tratamientos de precio variable pero sin condiciones médicas críticas.</p><ol><li><strong>¿Qué tratamiento buscas y para qué zona?</strong> (no aceptes «facial» ni «depilación» sin especificar)</li><li><strong>¿Tienes alguna condición de piel, embarazo, lactancia o tratamiento médico activo?</strong> (esta pregunta es no negociable; protege al cliente y a ti)</li><li><strong>¿Tienes fecha en mente o buscas el primer hueco disponible?</strong></li></ol><p>Con estas tres preguntas puedes: confirmar si el tratamiento es viable, dar un rango de precio con sentido y ofrecer disponibilidad real. Es la base. Si tu consulta habitual es de servicios de bajo ticket y poca variabilidad, no necesitas más.</p><h2>Plantilla avanzada: 6 preguntas para alta variabilidad o alto ticket</h2><p>Para tratamientos más complejos (laser de rejuvenecimiento, tratamientos corporales de ciclo, mesoterapia, dermaplaning con protocolos específicos), añade:</p><ol><li><strong>¿Qué tratamiento buscas y para qué zona?</strong></li><li><strong>¿Cuál es tu objetivo principal?</strong> (ejemplos: manchas, flacidez, vello, poros, hidratación)</li><li><strong>¿Tienes alguna condición de piel, embarazo, lactancia, medicación activa o tratamiento laser reciente?</strong></li><li><strong>¿Has recibido este tratamiento antes? ¿Cuántas sesiones y hace cuánto?</strong> (solo si el servicio es de ciclo)</li><li><strong>¿Tienes fecha en mente o buscas disponibilidad?</strong></li><li><strong>¿Tienes un presupuesto orientativo en mente?</strong> (solo si el ticket varía mucho; no preguntes si el precio es fijo o transparente)</li></ol><p>Esta versión da más contexto para servicios donde el diagnóstico previo es parte del proceso. Úsala cuando sabes que sin esas respuestas acabarás haciendo tres rondas de preguntas en WhatsApp antes de poder confirmar nada.</p><p>Si quieres ver cómo se adaptan estas preguntas a otros sectores, la guía de <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes por sector y servicio</a> tiene variantes para tatuadores, fotógrafos y coaches.</p><h2>Tabla de decisión: condición y acción</h2><table><thead><tr><th>Condición detectada</th><th>Acción recomendada</th><th>Qué NO hacer</th></tr></thead><tbody><tr><td>Embarazo o lactancia</td><td>Derivar solo a tratamientos compatibles (hidratación, algunos masajes); descartar láser, ácidos, cavitación</td><td>Dar cita sin preguntar y descubrir en cabina</td></tr><tr><td>Isotretinoína en los últimos 6 meses</td><td>No realizar peeling ni láser; informar y proponer lista de espera con fecha</td><td>Ignorar y confirmar cita</td></tr><tr><td>Piel sensible o rosácea activa</td><td>Solicitar foto o primera visita de valoración antes de confirmar tratamiento</td><td>Dar precio y agendar sin ver el estado de la piel</td></tr><tr><td>Tratamiento laser reciente (menos de 4 semanas)</td><td>Pedir fecha del último tratamiento y valorar intervalo; en muchos casos, aplazar</td><td>Agendar sin verificar el intervalo mínimo</td></tr><tr><td>Sin condiciones relevantes + zona clara + fecha flexible</td><td>Dar rango de precio y proponer hueco directamente</td><td>Seguir pidiendo más datos innecesarios</td></tr><tr><td>No responde a la pregunta de condiciones</td><td>Recordar una vez; si no responde, no confirmar cita hasta tenerlo</td><td>Confirmar igualmente &quot;para no perder al cliente&quot;</td></tr></tbody></table><h2>Scripts listos para pedir datos sin sonar a formulario</h2><p>El tono importa. Pedir datos en estética puede percibirse como frío o desconfiante si no explicas por qué. Estas frases reducen ese efecto:</p><h3>Script 1 — entrada desde DM o WhatsApp (versión mínima)</h3><blockquote><p>«¡Hola! Para ayudarte bien y darte un precio real, necesito tres datos rápidos: ¿qué tratamiento y zona buscas?, ¿tienes alguna condición de piel, embarazo o medicación activa?, ¿tienes fecha en mente? Con eso te respondo en un mensaje.»</p></blockquote><h3>Script 2 — cuando preguntan precio directamente sin contexto</h3><blockquote><p>«El precio depende de la zona y de alguna condición que pueda afectar al protocolo. Dime qué zona y si hay algo relevante de tu piel y te doy el rango exacto, sin rodeos.»</p></blockquote><h3>Script 3 — cuando hay condición que requiere más información</h3><blockquote><p>«Antes de confirmar quiero asegurarme de que el tratamiento encaja bien con tu situación. ¿Puedes contarme un poco más sobre [condición mencionada]? Así te recomiendo lo que mejor funciona para ti.»</p></blockquote><h3>Script 4 — derivación a WhatsApp con contexto preformateado</h3><blockquote><p>«Perfecto. Te paso a WhatsApp donde podemos confirmar el hueco. Para agilizar, incluye en tu mensaje: tratamiento + zona + si hay condiciones de piel + fecha preferida.»</p></blockquote><h2>Errores comunes al cualificar en estética</h2><ol><li><strong>Dar precio sin saber la zona</strong> — «la depilación láser desde 25 euros» sin saber si es labio o piernas completas genera expectativas imposibles de gestionar. Corrección: precio siempre condicionado a zona y sesiones.</li><li><strong>No preguntar condiciones médicas hasta la cabina</strong> — el momento de descubrir que la clienta está embarazada no es cuando ya está tumbada. Corrección: pregunta explícita antes de confirmar cita, siempre.</li><li><strong>Preguntar todo a la vez en un mensaje de 10 líneas</strong> — fricción alta, conversión baja. Corrección: plantilla mínima primero; si hace falta más, se pide en una segunda vuelta.</li><li><strong>Confirmar cita sin saber el objetivo</strong> — sin saber qué quiere conseguir, no puedes gestionar expectativas ni recomendar el número correcto de sesiones. Corrección: objetivo en la plantilla mínima avanzada.</li><li><strong>No pedir foto cuando la condición lo requiere</strong> — en casos de rosácea, acné activo o manchas, una foto previa evita una visita de valoración innecesaria o una cita que no puede realizarse. Corrección: pedir foto antes de confirmar en esos casos concretos.</li><li><strong>Ignorar la respuesta «no sé» al preguntar condiciones</strong> — algunos clientes no saben si su medicación es fotosensibilizante. Corrección: ofrece ejemplos concretos («¿tomas antibióticos, retinoides, anticoagulantes?») y recomienda consultar con su médico si hay duda.</li></ol><h2>Cuándo NO usar plantilla rígida</h2><ul><li>Si tu servicio es siempre el mismo precio y la misma técnica independientemente del cliente (poco habitual en estética, pero ocurre en servicios muy estandarizados).</li><li>Si recibes menos de 5 consultas a la semana y cada una es genuinamente distinta: la plantilla aporta menos que una conversación directa.</li><li>Si ya tienes un proceso de valoración presencial obligatorio antes de cualquier tratamiento: en ese caso, la cualificación previa se limita a confirmar disponibilidad y descartar contraindicaciones obvias.</li><li>Si tu proceso de venta requiere ver la piel antes de cualquier recomendación: no uses la plantilla para prometer resultados o dar precio; úsala solo para filtrar contraindicaciones y gestionar agenda.</li></ul><p>Si quieres implementar este flujo sin construirlo desde cero en cada canal, herramientas como Inkup hacen exactamente esto: recogen las preguntas mínimas antes de que llegue el mensaje a tu WhatsApp, filtran las consultas con contraindicaciones obvias y redirigen con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o cada consulta necesita conversación humana desde el primer mensaje, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Qué hago si me preguntan precio y no me dan ningún dato de la zona ni del tratamiento?",
+        "answer": "No des precio genérico. Responde con una pregunta directa: «El precio depende de la zona y de si hay alguna condición de piel. Dime qué zona buscas y te doy el rango exacto.» Una sola pregunta es suficiente para desbloquear la conversación sin sonar a interrogatorio."
+      },
+      {
+        "question": "¿Tengo que preguntar condiciones médicas antes de cada cita o solo la primera vez?",
+        "answer": "En cada ciclo de tratamiento nuevo, sí. Si es una clienta habitual con historial conocido, puedes simplificarlo a «¿Ha cambiado algo desde la última vez?». En clientes nuevas, siempre antes de confirmar la cita."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para no perder a la clienta antes de responder?",
+        "answer": "Más de cuatro preguntas en el primer mensaje genera abandono. Usa la versión mínima (3 preguntas) como primera vuelta. Si el caso lo requiere, pide el resto en una segunda vuelta una vez confirmado el interés."
+      },
+      {
+        "question": "¿Cómo gestiono a alguien que me insiste en el precio antes de dar ningún dato?",
+        "answer": "Da un rango condicionado: «Desde X hasta Y según zona y sesiones. Para darte el precio exacto necesito saber qué zona buscas.» Un rango reduce la presión sin comprometerte a una cifra que luego no encaja."
+      },
+      {
+        "question": "¿Qué hago si descubro por el chat que hay una contraindicación?",
+        "answer": "Informa con claridad y sin rodeos: explica por qué ese tratamiento no es adecuado en ese momento, ofrece alternativas compatibles si las hay, y propón lista de espera o revisión en otro momento. No confirmes la cita para «no perderla»."
+      },
+      {
+        "question": "¿Sirve esta plantilla para todos los servicios de estética o solo algunos?",
+        "answer": "La plantilla mínima sirve para la mayoría. La avanzada encaja mejor con tratamientos de ciclo (láser, tratamientos faciales con ácidos, mesoterapia) donde el historial y el objetivo cambian el protocolo y el precio. Para servicios muy estandarizados de precio fijo, puedes reducirla a dos preguntas."
+      },
+      {
+        "question": "¿Cómo pido una foto antes de la cita sin que resulte invasivo?",
+        "answer": "Explica el motivo en el mismo mensaje: «Para recomendarte bien el tratamiento y ver si encaja con el estado actual de tu piel, ¿puedes enviarme una foto de la zona sin maquillaje con buena luz?» La razón elimina casi toda la resistencia."
+      },
+      {
+        "question": "¿Puedo usar esta plantilla como mensaje automático de respuesta en Instagram?",
+        "answer": "Puedes usar las preguntas como base, pero el mensaje automático de Instagram tiene que ser muy corto o el cliente no responde. Lo más efectivo es dirigir a un link donde el formulario conversacional recoge los datos en pasos pequeños, en lugar de pedir todo en un solo mensaje."
+      }
+    ]
+  },
+  {
     "slug": "que-datos-pedir-antes-de-dar-precio",
     "title": "Qué datos pedir antes de dar precio (para no perder tiempo)",
     "description": "Aprende qué información pedir antes de dar precio para no perder tiempo con curiosos, evitar malentendidos y dar presupuestos que convierten. Sin interrogatorio, sin fricción.",
