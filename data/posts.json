@@ -1,5 +1,114 @@
 [
   {
+    "slug": "que-datos-pedir-antes-de-dar-precio",
+    "title": "Qué datos pedir antes de dar precio (para no perder tiempo)",
+    "description": "Aprende qué información pedir antes de dar precio para no perder tiempo con curiosos, evitar malentendidos y dar presupuestos que convierten. Sin interrogatorio, sin fricción.",
+    "excerpt": "Dar precio sin contexto genera malentendidos y desperdicia tiempo. Antes de responder, pide el servicio exacto, el objetivo, la fecha y los requisitos mínimos que cambian tu respuesta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/que-datos-pedir-antes-de-dar-precio.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-14",
+    "readingTime": "7 min",
+    "tags": [
+      "presupuestos",
+      "cualificacion",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Qué datos pedir antes de dar precio en servicios",
+    "quickAnswer": [
+      "**Pide el servicio exacto** — sin saber qué quieren concretamente, cualquier cifra que des será malinterpretada o ignorada.",
+      "**Pregunta el objetivo o contexto** — el mismo tratamiento puede costar el doble si el caso es más complejo; saberlo antes evita sustos.",
+      "**Confirma la fecha o urgencia** — disponibilidad y precio van ligados; sin fecha, estás cotizando en el vacío.",
+      "**Verifica que cumple requisitos mínimos** — si tu servicio tiene condiciones (edad, zona, estado previo, tipo de piel), filtra antes de invertir tiempo.",
+      "**No pidas más de 4-5 datos en el primer contacto** — cada dato extra reduce la tasa de respuesta; pide solo lo que cambia lo que harás."
+    ],
+    "oneLineDefinition": "Los datos mínimos antes de dar precio son el servicio exacto, el objetivo o contexto, la fecha y los requisitos del caso; sin esa información, cualquier cifra que des generará malentendidos o perderás tiempo con quien no encaja.",
+    "sections": [
+      "Por qué dar precio sin datos sale caro",
+      "Qué datos cambian realmente tu respuesta (y cuáles no)",
+      "Tabla: dato → por qué pedirlo → qué decisión habilita",
+      "Cómo pedirlos sin parecer un interrogatorio (scripts)",
+      "Errores que hacen caer la conversión",
+      "Cuándo no hace falta pedir tanto",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo recoger datos mínimos antes de dar precio",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Primer mensaje estructurado",
+        "Rutas por intención",
+        "Microcopy de contexto"
+      ],
+      "steps": [
+        {
+          "name": "Define qué dato cambia tu precio",
+          "text": "Identifica las 3-5 variables que hacen que tu precio suba, baje o directamente no encaje. Solo esas."
+        },
+        {
+          "name": "Escribe el servicio exacto que ofreces",
+          "text": "Pide al cliente que especifique qué quiere, no asumas por el canal de entrada."
+        },
+        {
+          "name": "Pregunta el objetivo o contexto del caso",
+          "text": "Un dato de contexto (zona a tratar, estilo, evento, situación previa) cambia el diagnóstico y el precio."
+        },
+        {
+          "name": "Confirma la fecha o margen temporal",
+          "text": "Sin fecha no puedes confirmar disponibilidad ni calcular urgencia."
+        },
+        {
+          "name": "Filtra requisitos mínimos antes de cotizar",
+          "text": "Si tienes condiciones de servicio, ponlas en el flujo de entrada, no al final."
+        },
+        {
+          "name": "Construye el primer mensaje con microcopy",
+          "text": "Explica en una frase por qué preguntas. Reduce abandono y genera confianza."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué dar precio sin datos sale caro</h2><p>Te escribe alguien: \"¿Cuánto cuesta un tatuaje?\" o \"¿Precio de masaje?\" o \"¿Cuánto cobras por una sesión de fotos?\". Si respondes con una cifra, tienes tres opciones: dar un número tan vago que no sirve de nada, dar un precio que asusta sin contexto, o dar un precio bajo que luego no cubre el trabajo real.</p><p>Ninguna de las tres convierte bien. El problema no es el precio en sí. Es que estás respondiendo una pregunta que todavía no tiene los datos suficientes para tener respuesta.</p><p>Esto pasa todos los días en negocios de servicios: tatuadores, fotógrafos, esteticistas, coaches, nutricionistas. El cliente pregunta precio, el profesional responde sin contexto, el cliente desaparece o llega con expectativas equivocadas. <a href=\"/blog/como-evitar-que-te-escriban-solo-precio/\">Evitar que te escriban solo 'precio?' tiene más que ver con el proceso de entrada que con el precio en sí.</a></p><p>La solución no es negarse a dar precio. Es pedir primero los datos que hacen que ese precio tenga sentido, tanto para ti como para el cliente.</p><h2>Qué datos cambian realmente tu respuesta (y cuáles no)</h2><p>Aquí está la trampa: la mayoría de profesionales pide demasiado o demasiado poco. Piden el nombre y el teléfono (que no cambian nada en el presupuesto) antes de pedir la información que sí importa. O preguntan todo a la vez y el cliente se cansa.</p><p>La regla es simple: si ese dato no cambia lo que vas a responder, no lo pidas todavía.</p><p>Los datos que sí cambian la respuesta en la mayoría de servicios son estos cinco:</p><ul><li><strong>Servicio exacto:</strong> no es lo mismo un retrato que una boda, no es lo mismo un tatuaje de línea fina que un realismo, no es lo mismo depilación de axilas que depilación integral.</li><li><strong>Objetivo o contexto del caso:</strong> para qué lo quiere, en qué estado está la zona, qué resultado espera. Esto cambia el diagnóstico y el tiempo necesario.</li><li><strong>Fecha o margen temporal:</strong> ¿es urgente? ¿tiene flexibilidad? La disponibilidad y a veces el precio cambian con esto.</li><li><strong>Requisitos del servicio:</strong> si tu trabajo tiene condiciones previas (tipo de piel, zona, equipo, estilo, estado del cliente), necesitas saberlas antes de cotizar.</li><li><strong>Zona o modalidad:</strong> presencial, online, desplazamiento, estudio propio o domicilio. En muchos servicios esto cambia el precio directamente.</li></ul><p>Lo que no necesitas en el primer contacto: nombre completo, teléfono de empresa, cómo nos encontró, qué otras opciones está mirando. Eso viene después, cuando ya hay intención real.</p><h2>Tabla: dato → por qué pedirlo → qué decisión habilita</h2><table><thead><tr><th>Dato que pides</th><th>Por qué lo necesitas</th><th>Qué decide sin él</th><th>Qué decisión habilita</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>El precio varía según la complejidad o categoría</td><td>Das un rango inútil o confuso</td><td>Cotizar con precisión real</td></tr><tr><td>Objetivo / contexto</td><td>El mismo servicio puede durar 1h o 3h según el caso</td><td>Infravaloras o sobrevaloras</td><td>Ajustar tiempo y precio correctamente</td></tr><tr><td>Fecha / urgencia</td><td>Disponibilidad y posibles recargos por urgencia</td><td>Confirmas algo que quizá no puedes cumplir</td><td>Gestionar agenda y filtrar urgencias reales</td></tr><tr><td>Requisitos del servicio</td><td>Filtrar casos que no encajan o necesitan pasos previos</td><td>Pierdes tiempo con quien no puede contratarte aún</td><td>Descartar o redirigir antes de invertir tiempo</td></tr><tr><td>Zona / modalidad</td><td>Afecta directamente al precio o a la viabilidad</td><td>Cotizas algo que luego no cuadra logísticamente</td><td>Confirmar si el servicio es viable para ese caso</td></tr></tbody></table><h2>Cómo pedirlos sin parecer un interrogatorio (scripts)</h2><p>El microcopy importa. Una frase de contexto antes de preguntar reduce el abandono y elimina la sensación de formulario frío. Explica por qué preguntas en una línea y el cliente responde con mucho más detalle.</p><h3>Script 1 — Primer mensaje breve (para DM o WhatsApp inicial)</h3><blockquote><p>&quot;Para darte un precio real y no marearte con mensajes de ida y vuelta, necesito 3 datos rápidos: ¿qué servicio exacto buscas, para cuándo lo necesitas y si tienes alguna condición especial? Con eso te respondo en un mensaje.&quot;</p></blockquote><h3>Script 2 — Versión más cercana (para sectores como tatuaje o estética)</h3><blockquote><p>&quot;Antes de darte precio, cuéntame un poco: ¿qué tienes en mente, en qué zona del cuerpo y si tienes alguna referencia o idea del tamaño? Con eso ya puedo orientarte bien.&quot;</p></blockquote><h3>Script 3 — Versión para servicios con requisitos previos (coaching, nutrición, fisio)</h3><blockquote><p>&quot;Para orientarte bien sobre precio y proceso, necesito saber: ¿cuál es tu objetivo principal, en qué punto estás ahora y si estás buscando sesiones puntuales o un seguimiento? Así te cuento qué encaja mejor en tu caso.&quot;</p></blockquote><p>Los tres scripts tienen algo en común: explican el motivo antes de pedir datos, piden un máximo de 3 cosas y prometen una respuesta útil al otro lado. <a href=\"/blog/como-pedir-presupuesto-sin-espantar/\">Pedir presupuesto sin espantar tiene mucho que ver con este orden: contexto primero, precio después.</a></p><h2>Errores que hacen caer la conversión</h2><ol><li><strong>Pedir datos de contacto antes que datos de servicio.</strong> El cliente no entiende por qué le pides el teléfono antes de saber si puedes ayudarle. Genera desconfianza.</li><li><strong>Preguntar sin explicar el motivo.</strong> &quot;¿Para cuándo lo necesitas?&quot; suena a interrogatorio. &quot;Para saber si tengo hueco esa semana&quot; lo convierte en algo útil para el cliente.</li><li><strong>Lanzar 6 preguntas a la vez.</strong> Cada pregunta extra reduce la probabilidad de respuesta. Tres preguntas bien elegidas convierten mejor que seis preguntas completas.</li><li><strong>Dar precio antes de tener los datos.</strong> El resultado es siempre el mismo: el cliente dice &quot;ah, es que yo quería algo diferente&quot; o desaparece sin explicación.</li><li><strong>No filtrar requisitos mínimos y agendar sin saber si encaja.</strong> Pierdes tiempo en reuniones o consultas que terminan en &quot;no puedo hacer eso en tu caso&quot;.</li><li><strong>Usar el mismo guion para intenciones distintas.</strong> Quien pregunta por disponibilidad necesita fecha y servicio. Quien pide presupuesto necesita contexto y objetivo. No son la misma conversación.</li></ol><p><a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Filtrar y cualificar antes de responder por WhatsApp</a> evita exactamente estos errores: ordena la entrada antes de que llegue al chat final.</p><h2>Cuándo no hace falta pedir tanto</h2><p>Hay casos donde pedir datos mínimos antes de dar precio añade fricción innecesaria:</p><ul><li>Si tu servicio tiene precio fijo sin variables (precio de catálogo, tarifa plana por sesión). En ese caso, el precio es el mismo para todos y pedirlo no filtra nada.</li><li>Si tu volumen es muy bajo (menos de 5 consultas por semana). Con ese volumen, la conversación directa funciona mejor que cualquier sistema.</li><li>Si cada consulta es realmente única y no hay patrón repetible. En ese caso, la conversación abierta desde el principio tiene más sentido que un guion.</li><li>Si ya tienes un proceso de discovery largo con el cliente antes de cotizar. Entonces el filtrado mínimo inicial no cambia nada: igualmente necesitas la reunión.</li></ul><p>La idea es aplicar esto donde hay repetición y volumen. Si recibes las mismas preguntas todos los días y das presupuestos que dependen de 3-5 variables, un pequeño sistema de entrada ahorra horas a la semana.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan los datos mínimos antes de redirigir al cliente a WhatsApp, de manera que cuando llegas a la conversación final ya tienes el servicio, el contexto y la fecha. No es para todos los casos — si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántos datos es demasiado pedir antes de dar precio?",
+        "answer": "Más de 5 preguntas en el primer contacto suele generar abandono. Pide solo lo que cambia tu respuesta: servicio exacto, contexto, fecha y requisitos mínimos. El nombre completo o el teléfono pueden esperar."
+      },
+      {
+        "question": "¿Qué hago si el cliente insiste en que le dé precio antes de responder nada?",
+        "answer": "Da un rango condicionado: \"Depende del servicio exacto y del caso, pero orientativamente va de X a Y. Para afinar, necesito saber...\" Así das algo útil sin comprometerte a una cifra que puede no aplicar."
+      },
+      {
+        "question": "¿Cómo pido datos sin parecer desconfiado o frío?",
+        "answer": "Usa microcopy que explique el motivo antes de preguntar. \"Para darte un precio real en un solo mensaje, necesito 3 datos\" suena útil, no burocrático. El tono importa tanto como la pregunta."
+      },
+      {
+        "question": "¿Qué pasa si el cliente no responde a mis preguntas de cualificación?",
+        "answer": "Después de dos intentos sin respuesta, cierre amable y sin perseguir. Quien tiene intención real responde. El silencio también es información: ese lead probablemente solo exploraba opciones."
+      },
+      {
+        "question": "¿Debería pedir presupuesto orientativo del cliente antes de dar el mío?",
+        "answer": "Solo si el presupuesto del cliente filtra de verdad. Si tienes un mínimo por debajo del cual no trabajas, sí tiene sentido preguntarlo. Si no, puede sonar a táctica de negociación y genera desconfianza."
+      },
+      {
+        "question": "¿Cómo adapto estas preguntas si tengo varios servicios muy distintos?",
+        "answer": "Crea rutas por servicio, no un guion genérico para todo. Las preguntas para tatuaje son distintas a las de fotografía de evento. Dos o tres guiones específicos convierten mejor que uno universal."
+      },
+      {
+        "question": "¿Qué hago si me dan los datos pero el caso no encaja con lo que ofrezco?",
+        "answer": "Descarta amablemente y, si puedes, redirige a una alternativa. \"En tu caso no soy la persona adecuada porque X, pero podrías mirar Y\" genera más confianza que desaparecer sin respuesta."
+      },
+      {
+        "question": "¿Sirve esto para servicios de alto ticket donde hay reunión previa siempre?",
+        "answer": "En servicios de alto ticket con discovery largo, el filtrado mínimo inicial sirve para descartar quienes claramente no encajan antes de invertir tiempo en una reunión. No sustituye la conversación, pero sí evita reuniones innecesarias."
+      }
+    ]
+  },
+  {
     "slug": "como-reducir-idas-y-vueltas-en-whatsapp",
     "title": "Cómo reducir idas y vueltas en WhatsApp (regla del contexto mínimo)",
     "description": "Si cada consulta te cuesta 10 mensajes antes de poder responder algo útil, el problema no es el cliente: es que no tienes definido qué necesitas saber antes de hablar. Aprende a aplicar la regla del contexto mínimo.",
