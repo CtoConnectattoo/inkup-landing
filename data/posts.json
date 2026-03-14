@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-guardar-datos-cliente-sin-crm",
+    "title": "Cómo guardar datos de clientes potenciales sin un CRM (método ligero)",
+    "description": "Aprende a capturar y guardar los datos mínimos de clientes potenciales sin implantar un CRM complejo. Un método ligero para negocios de servicios que gestionan consultas desde WhatsApp e Instagram.",
+    "excerpt": "Guardar datos de clientes potenciales sin CRM es decidir qué información capturar, cuándo pedirla y dónde dejarla anotada para que no se pierda entre mensajes.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-guardar-datos-cliente-sin-crm.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-14",
+    "readingTime": "7 min",
+    "tags": [
+      "captura-datos",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "sin-crm"
+    ],
+    "quickAnswerSubtitle": "Guardar datos de clientes potenciales sin CRM",
+    "quickAnswer": [
+      "**Define los datos mínimos antes de que llegue el mensaje** — Solo los que cambian tu respuesta: servicio, fecha, contexto, contacto.",
+      "**Captura la información antes del chat final** — El momento de pedir datos es antes de abrir WhatsApp, no durante la conversación.",
+      "**Usa una estructura fija aunque sea sencilla** — Una hoja de cálculo con columnas claras funciona mejor que notas dispersas en el móvil.",
+      "**No guardes más de lo que vas a usar** — Cada dato que no afecta tu decisión aumenta la fricción y reduce las respuestas.",
+      "**Estandariza el momento de recogida** — Si cada consulta entra de forma diferente, los datos nunca quedan completos."
+    ],
+    "oneLineDefinition": "Guardar datos de clientes potenciales sin CRM es definir qué información necesitas antes de responder, capturarla en el momento correcto y dejarla en un sitio único donde no se pierda.",
+    "sections": [
+      "El problema real: los datos se pierden entre mensajes",
+      "Qué datos guardar (y cuáles no)",
+      "Cuándo capturar los datos (el momento importa más que la herramienta)",
+      "Checklist: sistema ligero de captura sin CRM",
+      "Errores comunes al guardar datos de clientes",
+      "Cuándo este método ya no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Guardar datos de clientes potenciales sin CRM en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Hoja de cálculo o tabla simple",
+        "Formulario conversacional o primer mensaje estructurado",
+        "Canal final definido (WhatsApp)"
+      ],
+      "steps": [
+        {
+          "name": "Define los datos mínimos",
+          "text": "Escribe los 4-6 datos que cambian tu respuesta. Si un dato no afecta lo que harás, no lo pidas todavía."
+        },
+        {
+          "name": "Elige el momento de captura",
+          "text": "Recoge la información antes del chat final, no durante. El primer contacto es el momento correcto."
+        },
+        {
+          "name": "Crea una estructura de registro",
+          "text": "Usa una hoja de cálculo con columnas fijas: nombre, servicio, fecha, contexto, estado, contacto."
+        },
+        {
+          "name": "Estandariza la entrada",
+          "text": "Usa el mismo primer mensaje o formulario para todas las consultas del mismo tipo de servicio."
+        },
+        {
+          "name": "Define qué pasa con los datos tras cerrar",
+          "text": "Decide si el registro se archiva, se elimina o pasa a lista de seguimiento según el resultado."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: los datos se pierden entre mensajes</h2><p>Te escriben, respondes, preguntas datos a trozos, el cliente responde en distintos momentos y al final tienes nombre en WhatsApp, fecha en un DM de Instagram y el servicio en una nota del móvil. Cuando quieres cerrar, ya no sabes de quién era ese hueco ni qué había pedido.</p><p>El problema no es que no tengas CRM. El problema es que no hay un momento fijo donde esos datos se recogen, y no hay un sitio único donde quedan. <a href=\"/blog/como-organizar-mensajes-clientes-sin-crm/\">Organizar mensajes sin CRM</a> empieza exactamente aquí: antes de pensar en herramientas, hay que decidir qué datos necesitas y cuándo pedirlos.</p><h2>Qué datos guardar (y cuáles no)</h2><p>La tentación es guardar todo por si acaso. Eso llena el registro de ruido y hace que nada sea fácil de encontrar. Hay una regla útil: si un dato no cambia lo que vas a responder o hacer, no lo pidas todavía.</p><h3>Datos mínimos que sí cambian tu decisión</h3><ul><li><strong>Servicio exacto</strong> — No &quot;me interesa algo&quot;, sino qué servicio concreto. Cambia el precio, el tiempo y la disponibilidad.</li><li><strong>Fecha o margen de fechas</strong> — Para saber si hay hueco o si entra en lista de espera.</li><li><strong>Contexto mínimo</strong> — El dato que hace que tu respuesta sea útil: zona del cuerpo, tipo de evento, objetivo del tratamiento, según tu sector.</li><li><strong>Contacto</strong> — Nombre y el canal por el que prefiere respuesta (o número de WhatsApp si vas a cerrar ahí).</li><li><strong>Requisito o condición relevante</strong> — Si en tu servicio hay algo que descalifica (edad mínima, tipo de piel, presupuesto mínimo), pregúntalo antes de invertir tiempo.</li></ul><h3>Datos que puedes esperar</h3><p>Dirección exacta, detalles de facturación, referencias detalladas, historial previo. Todo eso llega después, cuando ya hay intención real. Pedirlo en el primer contacto aumenta la fricción y reduce las respuestas sin añadir valor a tu decisión inicial.</p><h2>Cuándo capturar los datos (el momento importa más que la herramienta)</h2><p>Guardar datos en el momento equivocado es tan inútil como no guardarlos. En servicios, hay tres momentos habituales y solo uno funciona bien como punto de captura estructurada.</p><h3>Momento 1: durante el chat de WhatsApp</h3><p>Es lo más habitual y lo que peor funciona. Preguntas a trozos, el cliente responde cuando puede, la conversación se alarga y los datos quedan dispersos en el hilo. Para recuperarlos hay que releer toda la conversación.</p><h3>Momento 2: al final, cuando ya has cerrado</h3><p>Demasiado tarde para cualificar. Sirve para archivar, no para decidir.</p><h3>Momento 3: antes del chat final (el correcto)</h3><p>El cliente llega a WhatsApp habiendo respondido ya las preguntas mínimas. Tú tienes el contexto antes de abrir la conversación. Esto es lo que permite responder en un mensaje, sin ping-pong y sin perder datos. <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Filtrar consultas antes de responder</a> funciona exactamente con este principio: la información se recoge antes, no durante.</p><h2>Checklist: sistema ligero de captura sin CRM</h2><p>Este es el bloque que puedes implementar esta semana sin instalar nada complejo.</p><ol><li><strong>Escribe los 4-6 datos mínimos</strong> que necesitas para responder a cualquier consulta de tu servicio principal. Si tienes varios servicios, haz la lista por servicio.</li><li><strong>Elige el soporte de registro</strong>: hoja de cálculo (Sheets, Excel, Notion) con columnas fijas. Las columnas mínimas: nombre, servicio, fecha, contexto, estado (pendiente / cerrado / descartado), contacto.</li><li><strong>Crea un punto de entrada que recoja esos datos antes del chat</strong>: puede ser un primer mensaje estructurado en DM, un formulario sencillo o un enlace con preguntas concretas.</li><li><strong>Usa el mismo formato para todas las consultas del mismo tipo</strong>. Si cada consulta entra de forma diferente, los datos nunca quedan completos ni comparables.</li><li><strong>Define el estado de cada registro</strong>: al menos tres estados (en curso, cerrado, descartado) para no acumular entradas sin sentido.</li><li><strong>Establece cuándo se archiva o elimina</strong>: un registro que nadie revisa no es un sistema, es ruido acumulado.</li></ol><table><thead><tr><th>Dato</th><th>Por qué importa</th><th>Cuándo pedirlo</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>Determina precio, tiempo y disponibilidad</td><td>Primer contacto</td></tr><tr><td>Fecha o margen</td><td>Valida si hay hueco o va a lista de espera</td><td>Primer contacto</td></tr><tr><td>Contexto mínimo</td><td>Hace que tu respuesta sea útil</td><td>Primer contacto</td></tr><tr><td>Requisito o condición</td><td>Descarta sin invertir tiempo</td><td>Primer contacto</td></tr><tr><td>Contacto (nombre + canal)</td><td>Permite hacer seguimiento</td><td>Primer contacto</td></tr><tr><td>Detalles de facturación</td><td>Solo relevante al cerrar</td><td>Al confirmar</td></tr></tbody></table><h2>Errores comunes al guardar datos de clientes</h2><p>La mayoría no son errores de herramienta. Son errores de proceso.</p><ol><li><strong>Pedir datos sin explicar por qué</strong> — Genera desconfianza y abandono. Una frase lo resuelve: &quot;Te hago tres preguntas para darte un precio real sin marearte con mensajes.&quot;</li><li><strong>Guardar en sitios distintos según el día</strong> — WhatsApp, notas del móvil, email y una hoja de papel. Cuando necesitas el dato, no sabes dónde está. Solución: un único soporte, siempre el mismo.</li><li><strong>No separar &quot;interesado&quot; de &quot;cualificado&quot;</strong> — Si alguien pregunta precio sin dar contexto, no es todavía un lead cualificado. Guardarlo igual que uno con fecha y servicio confirmado mezcla calidades y distorsiona tu seguimiento.</li><li><strong>Acumular registros sin revisarlos</strong> — Un registro que nadie consulta no sirve. Si no tienes tiempo de revisar 200 entradas, no tiene sentido tener 200 entradas.</li><li><strong>Pedir datos que no usas</strong> — Cada pregunta extra reduce la tasa de respuesta. Si no vas a usar el dato en las próximas 48 horas, no lo pidas en el primer contacto.</li><li><strong>Capturar durante el chat en lugar de antes</strong> — El resultado es siempre el mismo: datos incompletos, conversaciones largas y contexto disperso.</li></ol><h2>Cuándo este método ya no es suficiente</h2><p>Un sistema ligero de captura funciona bien hasta cierto volumen y cierta complejidad. Hay señales claras de que necesitas algo más estructurado:</p><ul><li>Recibes más de 30 consultas semanales y la hoja de cálculo ya no es manejable.</li><li>Hay más de una persona respondiendo y cada una guarda datos a su manera.</li><li>Necesitas hacer seguimientos programados (recordatorios, recontactos a los 3 días).</li><li>Tu proceso de venta tiene varias fases y necesitas ver en qué fase está cada lead.</li></ul><p>Si todavía no estás ahí, <a href=\"/blog/no-necesito-crm-solo-orden/\">la diferencia entre necesitar orden y necesitar un CRM</a> es más operativa de lo que parece. La mayoría de negocios de servicios locales resuelven el 80% de sus problemas con datos mínimos y un registro simple antes de plantearse nada más complejo.</p><p>Si quieres implementar la capa de captura previa sin construirla desde cero, herramientas como Inkup hacen exactamente esto: un enlace con un asistente conversacional que recoge los datos mínimos antes de redirigir al cliente a WhatsApp, con el contexto ya ordenado. No es para todos los casos — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué pasa si el cliente no me da todos los datos que pido?",
+        "answer": "Depende de cuántos datos faltan. Si falta el dato que cambia tu decisión (servicio, fecha, condición), pídelo una vez más con contexto: 'Para darte un precio real, necesito saber qué zona y en qué plazo aproximado.' Si no responde, cierra amable y archiva. El que tiene intención real suele responder."
+      },
+      {
+        "question": "¿Sirve una hoja de cálculo o necesito algo más sofisticado?",
+        "answer": "Para menos de 30 consultas semanales y una persona gestionando, una hoja con columnas fijas es suficiente. El problema no es la herramienta, es no tener columnas fijas ni un momento de captura estándar. Empieza con lo simple y añade complejidad solo cuando lo simple ya no alcanza."
+      },
+      {
+        "question": "¿Cuántos datos son demasiados en el primer contacto?",
+        "answer": "Más de 5-6 preguntas en el primer contacto aumentan el abandono de forma notable. Regla práctica: si el dato no cambia lo que harás en las próximas 48 horas, no lo pidas todavía."
+      },
+      {
+        "question": "¿Cómo capturo datos cuando el cliente llega por Instagram DM?",
+        "answer": "Responde con un primer mensaje que guíe hacia un enlace o haga las 2-3 preguntas mínimas directamente. El objetivo es que antes de llegar a WhatsApp, el cliente ya haya dado el contexto. Así no empiezas la conversación desde cero."
+      },
+      {
+        "question": "¿Qué diferencia hay entre guardar datos y tener un CRM?",
+        "answer": "Guardar datos es registrar información de cada consulta en un soporte accesible. Un CRM añade pipeline, automatizaciones, reporting y gestión de múltiples fases. Para la mayoría de negocios de servicios locales, el primer paso es suficiente durante mucho tiempo."
+      },
+      {
+        "question": "¿Cómo evito que los datos queden dispersos entre WhatsApp, Instagram y notas del móvil?",
+        "answer": "Define un único soporte de registro y un único momento de captura. Si la información entra por varios canales, el flujo debe llevar a todos al mismo punto antes de llegar al chat final. Un enlace único desde bio y perfil de Google resuelve la dispersión de entrada."
+      },
+      {
+        "question": "¿Qué hago con los datos de consultas que no cerraron?",
+        "answer": "Márcalos como 'descartado' o 'sin respuesta' y decide si merece un recontacto en X días. Si no tienes tiempo de hacer seguimiento, archívalos y limpia el registro periódicamente. Un registro lleno de entradas muertas es tan inútil como no tener registro."
+      },
+      {
+        "question": "¿Tengo que pedir consentimiento explícito para guardar datos de clientes potenciales?",
+        "answer": "Sí, si guardas nombre, teléfono u otros datos personales en un registro. En la práctica, un aviso sencillo en el momento de recogida ('Guardamos tus datos para gestionar tu consulta conforme a nuestra política de privacidad') cubre el requisito básico para la mayoría de negocios pequeños. Para casos con mayor volumen o datos sensibles, consulta con un especialista en protección de datos."
+      }
+    ]
+  },
+  {
     "slug": "errores-al-cualificar-clientes",
     "title": "Errores al cualificar clientes que bajan tu conversión",
     "description": "Los errores más comunes al cualificar clientes en negocios de servicios: pedir demasiado, no explicar por qué, dar precios sin contexto. Con correcciones directas para cada uno.",
