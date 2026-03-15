@@ -1,5 +1,111 @@
 [
   {
+    "slug": "faq-ubicacion-horario-pasos-reserva",
+    "title": "Cómo resolver ubicación, horario y pasos de reserva sin repetirlo 50 veces",
+    "description": "Si cada día respondes lo mismo sobre dónde estás, cuándo abres y cómo se reserva, el problema no es el cliente: es que esa información no está en el sitio correcto antes del chat. Aquí está la solución.",
+    "excerpt": "Ubicación, horario y pasos de reserva son las tres preguntas que más se repiten en negocios de servicios. Resolverlas antes del chat no es burocracia: es la forma más rápida de recuperar tiempo y reducir fricción.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/faq-ubicacion-horario-pasos-reserva.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "faq-operativas",
+      "atencion-clientes",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "reservas"
+    ],
+    "quickAnswerSubtitle": "Resolver ubicación, horario y pasos de reserva sin repetirlo cada día",
+    "quickAnswer": [
+      "**Saca esa información del chat** — Ubicación, horario y pasos de reserva deben estar accesibles antes de que el cliente te escriba, no dentro de la conversación.",
+      "**Un sitio único, no cinco** — Bio de Instagram, Google Business Profile y el primer mensaje de WhatsApp deben apuntar al mismo sitio con la misma información.",
+      "**Acompaña la info con una pregunta** — Después de resolver la duda operativa, pide el dato que cambia tu respuesta. Así no pierdes la conversación.",
+      "**Estandariza los pasos de reserva en 3 frases** — Si tardas más de 3 frases en explicar cómo reservar, el proceso tiene fricción innecesaria.",
+      "**Revisa el texto cada 3 meses** — Horarios, precios orientativos y ubicación cambian. Un dato desactualizado genera más preguntas, no menos."
+    ],
+    "oneLineDefinition": "Resolver FAQs operativas antes del chat es colocar la información de ubicación, horario y pasos de reserva en el punto de entrada correcto para que el cliente llegue a la conversación con esa duda resuelta.",
+    "sections": [
+      "Por qué sigues respondiendo lo mismo aunque ya lo tienes en el perfil",
+      "Las tres preguntas que más tiempo roban (y cómo resolverlas fuera del chat)",
+      "Checklist: dónde colocar cada pieza de información",
+      "Scripts listos para estandarizar la respuesta cuando llega igual",
+      "Errores que hacen que la información no funcione aunque esté publicada",
+      "Cuándo NO es útil resolver esto en el flujo previo",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo sacar las FAQs operativas del chat en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Google Business Profile",
+        "Bio de Instagram",
+        "Mensaje de bienvenida de WhatsApp Business",
+        "Link de atención (opcional)"
+      ],
+      "steps": [
+        {
+          "name": "Identifica las tres preguntas más repetidas",
+          "text": "Revisa los últimos 30 mensajes y anota qué tres cosas te preguntan siempre antes de reservar."
+        },
+        {
+          "name": "Escribe una respuesta cerrada para cada una",
+          "text": "Máximo 3 frases por respuesta. Si necesitas más, el proceso de reserva tiene fricción que resolver antes."
+        },
+        {
+          "name": "Coloca cada respuesta en el punto de entrada correcto",
+          "text": "Google Business Profile para ubicación y horario. Bio de Instagram para pasos de reserva. Mensaje de bienvenida de WhatsApp para los tres juntos."
+        },
+        {
+          "name": "Añade una pregunta de cualificación al final de cada respuesta",
+          "text": "Después de resolver la duda, pide el dato que cambia tu respuesta: servicio, fecha o contexto."
+        },
+        {
+          "name": "Revisa y actualiza cada 3 meses",
+          "text": "Horarios de verano, cambios de ubicación, nuevos pasos de reserva. Un dato desactualizado genera más preguntas de las que ahorra."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué sigues respondiendo lo mismo aunque ya lo tienes en el perfil</h2><p>Tienes la dirección en Google, el horario en la bio y los pasos de reserva explicados en las highlights. Y aun así, cada día alguien te escribe: \"¿dónde estáis?\", \"¿cuándo abrís?\" o \"¿cómo hago para reservar?\". El problema no es que los clientes no lean. El problema es que la información está en varios sitios, no siempre actualizada y nunca acompañada de un paso siguiente claro.</p><p>Cuando el cliente tiene que buscar activamente la información, la opción más fácil es preguntar directamente. Y tú acabas siendo el buscador de tu propio negocio, respondiendo lo mismo diez veces al día mientras intentas trabajar.</p><p>La solución no es poner más carteles. Es colocar esa información en el momento y el lugar exacto donde el cliente la necesita, antes de que abra el chat, y acompañarla de una pregunta que mueva la conversación hacia algo útil. Si quieres entender cómo encaja esto en un sistema más amplio, <a href=\"/blog/faq-operativas-que-debes-resolver-antes-whatsapp/\">las FAQs operativas que debes resolver antes de WhatsApp</a> explican qué información debe vivir fuera del chat y cuál sí necesita conversación.</p><h2>Las tres preguntas que más tiempo roban (y cómo resolverlas fuera del chat)</h2><h3>1. Ubicación</h3><p>La ubicación es la pregunta más fácil de resolver fuera del chat y la que más tiempo consume cuando no está bien colocada. El cliente no busca una dirección exacta: busca saber si le queda cerca y si puede llegar sin complicaciones.</p><p>Lo que funciona: Google Business Profile actualizado con dirección, pin en mapa y referencia visual si la calle es difícil de encontrar. En Instagram, un link en la bio que abra directamente Google Maps, no una página intermedia. Si tienes local físico, una imagen de la fachada en highlights reduce las preguntas de \"¿cómo os encuentro?\" más que cualquier texto.</p><h3>2. Horario</h3><p>Los horarios cambian. Verano, festivos, semana santa, vacaciones. Un horario desactualizado genera más preguntas que no tener horario publicado, porque el cliente llega con una expectativa equivocada y tú tienes que gestionar la decepción.</p><p>Lo que funciona: Google Business Profile tiene campo de horario con opción de horario especial por fechas. Úsalo. En WhatsApp Business, el mensaje de ausencia puede incluir el horario actual. En Instagram, si los horarios cambian con frecuencia, no los pongas en la bio fija: ponlos en stories con actualización cada vez que cambian.</p><h3>3. Pasos de reserva</h3><p>Esta es la más compleja de las tres porque el cliente no solo necesita información: necesita entender qué tiene que hacer él. Si el proceso de reserva requiere más de 3 pasos para explicarse, tiene fricción que resolver antes de publicarlo.</p><p>Lo que funciona: describe el proceso en 3 frases exactas. Ejemplo: \"Rellena el formulario del link en bio. Te confirmo disponibilidad en 24 horas. Pagas el 30% para confirmar la cita.\" Si usas un link de atención desde la bio, ese link es el sitio correcto para explicar los pasos antes de que el cliente llegue al chat, tal como explica la guía sobre <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente</a>.</p><h2>Checklist: dónde colocar cada pieza de información</h2><table><thead><tr><th>Información</th><th>Google Business Profile</th><th>Bio / Link en bio Instagram</th><th>Mensaje de bienvenida WhatsApp</th><th>Flujo previo al chat</th></tr></thead><tbody><tr><td>Dirección y cómo llegar</td><td>Obligatorio</td><td>Link a Google Maps</td><td>Mencionar si el cliente viene en persona</td><td>Mostrar antes de pedir datos</td></tr><tr><td>Horario actualizado</td><td>Obligatorio (con especiales)</td><td>Solo si es estable; si cambia, en stories</td><td>En mensaje de ausencia</td><td>Mostrar antes de pedir fecha</td></tr><tr><td>Pasos de reserva</td><td>En descripción del negocio</td><td>En highlights o link de atención</td><td>En primer mensaje de bienvenida</td><td>Antes de pedir datos mínimos</td></tr><tr><td>Pregunta de cualificación</td><td>No aplica</td><td>En el link de atención</td><td>Al final del mensaje de bienvenida</td><td>Obligatorio después de info</td></tr></tbody></table><p>La regla de oro: cada punto de entrada debe resolver la duda operativa y terminar con un paso siguiente. Si la información no lleva a ningún sitio, el cliente pregunta de nuevo.</p><h2>Scripts listos para estandarizar la respuesta cuando llega igual</h2><p>Estos scripts sirven para el mensaje de bienvenida de WhatsApp Business, para respuestas rápidas guardadas o para el texto del link de atención. No son para copiar sin leer: son para adaptar al tono de tu negocio en 5 minutos.</p><h3>Script 1: respuesta a \"¿dónde estáis?\" (mensaje rápido)</h3><blockquote><p>Estamos en [dirección], cerca de [referencia visible]. Aquí tienes el pin directo: [link Google Maps]. Si tienes algún problema para encontrarnos el día de tu cita, escríbeme y te ayudo. Por cierto, ¿qué servicio estás buscando?</p></blockquote><h3>Script 2: respuesta a \"¿cuándo abrís?\" (mensaje rápido)</h3><blockquote><p>Trabajamos [horario actual]. Si coincide con lo que necesitas, dime qué servicio tienes en mente y te busco hueco esta semana.</p></blockquote><h3>Script 3: explicación de pasos de reserva (mensaje de bienvenida o link de atención)</h3><blockquote><p>Para reservar son tres pasos: rellena el formulario con tu servicio y fecha preferida, te confirmo disponibilidad en 24 horas y cierras con un [X]% de anticipo. ¿Qué servicio te interesa?</p></blockquote><p>El patrón es siempre el mismo: información cerrada + pregunta de cualificación. Sin la pregunta, resuelves la duda pero no avanzas la conversación. Para ver cómo aplicar esto a escala en el link de tu bio, <a href=\"/blog/link-en-bio-que-convierte-a-whatsapp/\">esta checklist del link en bio que convierte a WhatsApp</a> detalla exactamente qué incluir y en qué orden.</p><h2>Errores que hacen que la información no funcione aunque esté publicada</h2><ol><li><strong>Información desactualizada</strong> — Si el horario del perfil es el del año pasado, genera más fricción que no tenerlo. Consecuencia: el cliente llega a una hora equivocada y lo primero que hace es quejarse. Corrección: horario actualizado en Google Business Profile es la primera prioridad antes de cualquier otra optimización.</li><li><strong>Información distribuida en demasiados sitios distintos</strong> — Si la dirección está en una highlight, en la bio y en el mensaje de bienvenida pero cada uno dice algo diferente, el cliente se confunde. Corrección: un sitio de referencia para cada dato; el resto apunta a ese sitio.</li><li><strong>Pasos de reserva explicados con jerga interna</strong> — \"Mándame referencia, te paso señal, confirmamos por aquí\" no significa nada para alguien que no ha reservado antes. Corrección: escribe los pasos como si se los explicaras a alguien que nunca ha reservado en ningún negocio similar.</li><li><strong>Información sin paso siguiente</strong> — Publicar el horario sin decir qué hacer a continuación no mueve al cliente. Corrección: después de cada bloque de información, una pregunta o un enlace claro.</li><li><strong>Highlights desactualizadas que nadie mira</strong> — Si la highlight de \"Reservas\" lleva a un proceso que ya no usas, confunde más de lo que ayuda. Corrección: o se actualiza o se elimina. Una highlight vacía de contenido útil daña la confianza.</li></ol><p>Si el problema de fondo es que sigues recibiendo las mismas preguntas por WhatsApp e Instagram a pesar de tener la información publicada, <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">cómo reducir preguntas repetidas sin sonar robótico</a> entra en el detalle de por qué ocurre y cómo cortarlo sin perder el trato humano.</p><h2>Cuándo NO es útil resolver esto en el flujo previo</h2><ul><li>Si tu negocio no tiene una ubicación fija (servicios a domicilio, fotógrafos que trabajan en exteriores variables): la dirección no aplica y forzar ese dato al inicio confunde.</li><li>Si el proceso de reserva cambia según el tipo de cliente o servicio: una plantilla única puede generar más malentendidos que la conversación directa.</li><li>Si tu volumen de consultas es muy bajo (1-3 al día): el esfuerzo de sistematizar supera el tiempo que ahorras. Con ese volumen, una respuesta rápida guardada es suficiente.</li><li>Si la venta requiere una conversación larga de descubrimiento antes de dar cualquier información: en ese caso, filtrar con FAQs operativas al inicio puede cortar conversaciones que valían la pena.</li></ul><p>Si quieres implementar este flujo previo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la información operativa (ubicación mostrada, horario aclarado, pasos de reserva explicados) antes de que el cliente llegue al chat, y redirigen a WhatsApp con el contexto ya recogido. No es para todos los casos: si tu volumen es bajo o cada reserva requiere una conversación exploratoria larga desde el primer mensaje, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Qué hago si me preguntan la dirección aunque la tengo en Google Maps?",
+        "answer": "El cliente no siempre llega por Google: llega por Instagram o WhatsApp y no va a salir a buscar. Pon el link directo a Google Maps en la bio y en el mensaje de bienvenida de WhatsApp. Si aun así preguntan, es señal de que el link no está visible o no funciona bien en móvil."
+      },
+      {
+        "question": "¿Cuántos pasos de reserva son demasiados para explicar por WhatsApp?",
+        "answer": "Si necesitas más de 3 frases para explicar cómo reservar, el proceso tiene fricción que resolver antes de publicarlo. Simplifica el proceso o acepta que necesitarás una conversación para explicarlo cada vez."
+      },
+      {
+        "question": "¿Dónde pongo el horario si cambia con frecuencia (verano, festivos)?",
+        "answer": "Google Business Profile permite horarios especiales por fecha: úsalo. Para cambios frecuentes, el mensaje de ausencia de WhatsApp Business es más ágil que actualizar la bio. Una story semanal con el horario actualizado también reduce las preguntas más que cualquier texto fijo."
+      },
+      {
+        "question": "¿Cómo evito que la respuesta sobre reservas suene a copia-pega sin trato?",
+        "answer": "Añade el nombre del servicio que el cliente mencionó y termina con una pregunta específica. La diferencia entre sonar robótico y sonar humano está en si el mensaje parece que sabe algo del cliente o no."
+      },
+      {
+        "question": "Si tengo la info en highlights de Instagram, ¿por qué siguen preguntando?",
+        "answer": "Las highlights tienen una tasa de consumo muy baja comparadas con un mensaje directo o un link en bio. No des por supuesto que el cliente las ha visto. La información que quieres que llegue al 100% de los clientes tiene que estar en el flujo activo, no en contenido pasivo."
+      },
+      {
+        "question": "¿Tiene sentido resolver estas FAQs en el link en bio o es mejor dejarlas en WhatsApp?",
+        "answer": "En el link en bio si quieres que el cliente llegue a WhatsApp con esa duda resuelta. En WhatsApp si prefieres controlar cuándo y cómo se dan esos datos. La primera opción ahorra más tiempo; la segunda da más control sobre el tono de la conversación."
+      },
+      {
+        "question": "¿Qué pasa si el cliente llega a WhatsApp y me pregunta igualmente aunque ya lo había visto?",
+        "answer": "Pasa. Algunos clientes confirman lo que ya leyeron porque quieren seguridad, no información. En ese caso, la respuesta rápida guardada funciona perfectamente: confirma en 5 segundos y pasa a la pregunta de cualificación."
+      },
+      {
+        "question": "¿Con qué frecuencia debo revisar si la información publicada sigue siendo correcta?",
+        "answer": "Cada 3 meses como mínimo, y siempre que haya un cambio operativo (horario, precio orientativo, proceso de reserva, ubicación). Un dato desactualizado genera más preguntas de las que ahorra y daña la confianza antes de empezar la conversación."
+      }
+    ]
+  },
+  {
     "slug": "como-evitar-menu-infinito-en-respuestas",
     "title": "Por qué los menús infinitos en auto-respuestas bajan la conversión",
     "description": "Los menús con demasiadas opciones en respuestas automáticas hacen que los clientes abandonen antes de llegar a ti. Aprende a reducirlos a 2-3 rutas que guíen por intención y conviertan más.",
