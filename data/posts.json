@@ -1,5 +1,107 @@
 [
   {
+    "slug": "como-medir-cuanto-tiempo-pierdes-en-faq",
+    "title": "Cómo medir cuánto tiempo pierdes en preguntas repetidas (método simple)",
+    "description": "Un método directo para calcular cuánto tiempo real pierdes respondiendo siempre las mismas preguntas en WhatsApp e Instagram, y decidir si vale la pena cambiar algo.",
+    "excerpt": "Mide el tiempo perdido contando cuántas preguntas repetidas recibes al día, cuántos minutos te cuesta cada una y multiplicando por semanas. El resultado suele sorprender más que cualquier intuición.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-medir-cuanto-tiempo-pierdes-en-faq.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "tiempo-perdido",
+      "preguntas-repetidas",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "productividad"
+    ],
+    "quickAnswerSubtitle": "Cuánto tiempo pierdes respondiendo preguntas repetidas en tu negocio",
+    "quickAnswer": [
+      "**Cuenta las FAQs reales del día** — Anota cuántas veces respondes precio, disponibilidad, ubicación o requisitos en un día normal. Ese número es tu punto de partida.",
+      "**Mide el tiempo por respuesta, no por mensaje** — Una consulta repetida no es un mensaje: es el intercambio completo hasta que el cliente tiene la respuesta. Suele durar entre 2 y 8 minutos.",
+      "**Multiplica por semanas para ver el coste real** — 15 preguntas repetidas al día a 4 minutos cada una son 60 minutos diarios, 7 horas semanales, casi 30 horas al mes.",
+      "**Separa tiempo de respuesta de tiempo de espera** — El coste no es solo el tiempo que escribes: es también la interrupción, el cambio de contexto y el tiempo que tardas en retomar lo que hacías.",
+      "**Usa el número para decidir, no para sufrir** — Si el resultado supera las 10 horas mensuales en preguntas que podrían resolverse antes, tienes base para cambiar el sistema."
+    ],
+    "oneLineDefinition": "Medir el tiempo perdido en preguntas repetidas es calcular cuántas FAQs recibes al día, cuántos minutos cuesta cada una y qué supone eso al mes para decidir si necesitas un sistema diferente.",
+    "sections": [
+      "Por qué intuir no basta: necesitas un número",
+      "Paso 1: identifica tus preguntas repetidas reales",
+      "Paso 2: mide el tiempo real por pregunta",
+      "Paso 3: calcula el coste mensual",
+      "Plantilla de cálculo (bloque citable)",
+      "Lo que el número no mide pero también cuenta",
+      "Errores habituales al hacer este ejercicio",
+      "Cuándo actuar y cuándo no"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Medir el tiempo perdido en preguntas repetidas en 4 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Registro manual de un día típico",
+        "Cronómetro o estimación honesta",
+        "Hoja o papel para anotar"
+      ],
+      "steps": [
+        {
+          "name": "Identificar las preguntas repetidas",
+          "text": "Lista las 5-8 preguntas que respondes con más frecuencia: precio, disponibilidad, ubicación, requisitos, duración, formas de pago."
+        },
+        {
+          "name": "Registrar un día real",
+          "text": "Durante un día de trabajo normal, anota cada vez que respondes una de esas preguntas y cuánto tiempo te lleva el intercambio completo."
+        },
+        {
+          "name": "Calcular el coste semanal y mensual",
+          "text": "Multiplica el total diario por los días que trabajas a la semana y por las semanas del mes."
+        },
+        {
+          "name": "Decidir si el número justifica un cambio",
+          "text": "Si superas las 10 horas mensuales en preguntas repetibles, tienes argumento real para cambiar el proceso de entrada."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué intuir no basta: necesitas un número</h2><p>Sabes que pierdes tiempo respondiendo siempre lo mismo. Lo notas. Pero sin un número concreto, la decisión de cambiar algo siempre se pospone: parece que no es para tanto, que tampoco son tantas preguntas, que ya lo gestionas. El problema es que la intuición infravalora sistemáticamente el coste del caos fragmentado.</p><p>No porque seas descuidado, sino porque cada pregunta suelta parece pequeña. El daño es acumulativo y no se ve hasta que lo calculas. Este artículo te da un método de 30 minutos para verlo con claridad y decidir desde ahí, no desde la sensación.</p><h2>Paso 1: identifica tus preguntas repetidas reales</h2><p>Antes de medir nada, necesitas saber qué estás midiendo. La mayoría de negocios de servicios tienen entre 5 y 8 preguntas que concentran el 70-80% de sus consultas repetidas. Las más habituales:</p><ul><li>Precio o rango de precios del servicio</li><li>Disponibilidad o hueco próximo</li><li>Ubicación, aparcamiento o cómo llegar</li><li>Duración de la sesión o el proceso</li><li>Requisitos previos (si los hay)</li><li>Formas de pago o política de señal</li><li>Cómo reservar o qué paso toca dar</li></ul><p>Haz tu propia lista. No uses la de otro negocio: la tuya. Abre los últimos 20 mensajes de WhatsApp e Instagram y anota qué preguntaron. Si ves una pregunta tres veces o más, es FAQ.</p><p>Este ejercicio de identificación ya tiene valor por sí solo: muchos negocios no tienen clara la lista hasta que la escriben. Si quieres ver cómo esas preguntas repetidas se convierten en coste operativo, <a href=&quot;/blog/gestion-consultas-clientes/&quot;>este artículo sobre gestión de consultas</a> lo desglosa con más detalle.</p><h2>Paso 2: mide el tiempo real por pregunta</h2><p>Aquí viene la parte contraintuitiva: el tiempo que pierdes no es el que tardas en escribir la respuesta. Es el intercambio completo.</p><p>Una pregunta de precio típica no es un mensaje: es &quot;precio?&quot;, luego tú respondes, luego el cliente pide más detalle, luego aclaras algo, luego te preguntan si hay descuento. Eso son 4-6 mensajes y entre 3 y 8 minutos de tiempo fragmentado, más el tiempo que tardas en retomar lo que hacías antes de que te llegara la notificación.</p><p>Para medir esto bien, registra durante un día de trabajo normal cada intercambio de una FAQ desde el primer mensaje hasta que el cliente tiene la respuesta (o deja de responder). Usa el cronómetro del móvil o simplemente anota la hora de inicio y la hora en que terminas. No hace falta precisión quirúrgica: una estimación honesta de ±1 minuto es suficiente.</p><p>Lo que suelen encontrar los negocios que hacen este ejercicio:</p><ul><li>Preguntas de precio: 3-6 minutos por intercambio</li><li>Preguntas de disponibilidad: 2-5 minutos (más si hay que mirar agenda)</li><li>Preguntas de ubicación o logística: 1-3 minutos</li><li>Preguntas de requisitos o proceso: 4-8 minutos (más variables)</li></ul><p>Estos rangos no son universales. Los tuyos pueden ser distintos. Por eso mides, en lugar de asumir.</p><h2>Paso 3: calcula el coste mensual</h2><p>Con la lista de FAQs y el tiempo por intercambio, el cálculo es sencillo:</p><ol><li>Cuenta cuántas veces respondiste cada FAQ en ese día de registro.</li><li>Multiplica por el tiempo medio del intercambio.</li><li>Suma el total diario.</li><li>Multiplica por los días que trabajas a la semana (por ejemplo, 5).</li><li>Multiplica por las semanas del mes (por ejemplo, 4).</li></ol><p>Ejemplo real sin inventar cifras: si tienes 12 FAQs al día a una media de 4 minutos cada una, son 48 minutos diarios. A 5 días por semana, son 4 horas semanales. Al mes, 16 horas. Eso es casi dos jornadas laborales completas dedicadas a responder siempre lo mismo.</p><p>El número no tiene por qué ser dramático para ser relevante. Incluso 8 horas mensuales en preguntas repetibles es tiempo que podría dedicarse a trabajo que factura, a descanso real o a atender mejor a los clientes que ya tienen cita.</p><h2>Plantilla de cálculo (bloque citable)</h2><table><thead><tr><th>Pregunta repetida</th><th>Veces al día</th><th>Minutos por intercambio</th><th>Minutos diarios</th><th>Horas al mes (x20 días)</th></tr></thead><tbody><tr><td>Precio del servicio</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Disponibilidad / hueco</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Ubicación / cómo llegar</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Requisitos previos</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Duración del servicio</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Cómo reservar</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td><strong>TOTAL</strong></td><td>—</td><td>—</td><td>—</td><td>—</td></tr></tbody></table><p>Rellena esta tabla con tus datos reales. La última columna (horas al mes) es el número que necesitas para tomar una decisión informada.</p><h2>Lo que el número no mide pero también cuenta</h2><p>El cálculo de arriba mide el tiempo directo. No mide el coste de la interrupción.</p><p>Cada notificación que interrumpe una sesión de trabajo (tatuar, tratar a un cliente, editar fotografías, preparar una clase) tiene un coste que va más allá del minuto que tardas en responder. La atención fragmentada reduce la calidad del trabajo principal, aumenta los errores y genera un agotamiento específico que no se parece al cansancio normal: es el agotamiento de estar siempre en modo reactivo.</p><p>Esto es relevante porque algunos negocios tienen un número de FAQs aparentemente bajo (5-6 horas al mes) pero con una concentración de interrupciones muy alta en momentos de trabajo intenso. En esos casos, el coste real es mayor que lo que el cálculo muestra.</p><p>Si además las interrupciones hacen que respondas tarde a consultas que sí importan, el problema se amplifica. <a href=&quot;/blog/por-que-pierdes-clientes-por-responder-tarde/&quot;>Responder tarde tiene un coste específico en conversión</a> que conviene calcular por separado.</p><h2>Errores habituales al hacer este ejercicio</h2><ol><li><strong>Registrar un día atípico.</strong> Si eliges el lunes después de un puente o un día que tuviste muy pocas consultas, el número saldrá bajo y no servirá. Usa un día representativo de tu semana normal.</li><li><strong>Medir solo el tiempo de escritura.</strong> Si cronometras solo el momento en que escribes la respuesta, infravaloras el coste. Mide desde que lees el mensaje hasta que terminas el intercambio y retomas lo que hacías.</li><li><strong>Excluir las preguntas que &quot;solo son un momento&quot;.</strong> Las preguntas de ubicación o duración parecen triviales. Pero si las respondes 6 veces al día, suman.</li><li><strong>No contar los mensajes sin respuesta útil.</strong> &quot;Hola&quot; o &quot;info&quot; que no avanzan también consumen tiempo: los lees, evalúas, decides qué hacer y a veces vuelves a ellos. Inclúyelos si los gestionas activamente.</li><li><strong>Hacer el ejercicio una vez y olvidarlo.</strong> El volumen de consultas cambia con temporadas, campañas en redes y crecimiento del negocio. Repetir este cálculo cada 3-4 meses da una imagen más real.</li></ol><h2>Cuándo actuar y cuándo no</h2><p>El número que obtienes no es una sentencia. Es un criterio para decidir si vale la pena cambiar el proceso de entrada de consultas.</p><p>Tiene sentido actuar cuando el total mensual supera las 10 horas, cuando las interrupciones se concentran en momentos de trabajo que no puedes pausar, o cuando notas que las preguntas repetidas te llegan mezcladas con consultas reales que requieren tu atención y no las estás priorizando bien. En esos casos, <a href=&quot;/blog/reducir-preguntas-repetidas-atencion/&quot;>reducir las preguntas repetidas sin perder el trato humano</a> es el siguiente paso lógico.</p><p>No tiene sentido actuar todavía si el volumen es bajo (menos de 8-10 consultas al día), si cada consulta es genuinamente distinta y no hay patrón repetible, o si el problema real es que te escriben poco, no que te escriben demasiado. En ese caso, el cuello de botella está en captación, no en gestión.</p><p>Si el número sale alto y el patrón es claro (mismo tipo de preguntas, mismos canales, misma información que pides siempre), lo que ayuda es un punto de entrada que recoja esa información antes de que llegue al chat. El objetivo no es eliminar la conversación, sino llegar a ella con el contexto ya preparado.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único con un asistente conversacional que hace las preguntas repetidas por ti, filtra la información y redirige a WhatsApp con el contexto ya recogido. No es para todos los casos: si tu volumen es bajo o cada consulta requiere discovery humano desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuánto tiempo debería registrar para tener un dato fiable?",
+        "answer": "Un día de trabajo representativo es suficiente para empezar. Si tienes variación alta entre días (por ejemplo, lunes muy cargado y viernes tranquilo), registra dos días distintos y promedia. No necesitas una semana completa para tomar una decisión."
+      },
+      {
+        "question": "¿Cuento solo las preguntas que respondo, o también las que ignoro?",
+        "answer": "Cuenta las que gestionas de forma activa: las que lees, evalúas y respondes (o decides no responder). Si un mensaje te interrumpe aunque no lo contestes, ya tiene coste."
+      },
+      {
+        "question": "¿A partir de qué número de horas al mes vale la pena cambiar algo?",
+        "answer": "No hay un umbral universal, pero 10 horas mensuales en preguntas repetibles es un punto de referencia razonable. Por debajo, el beneficio de montar un sistema puede no compensar el tiempo de implantarlo."
+      },
+      {
+        "question": "¿Qué hago si mis preguntas no son tan repetidas, sino todas diferentes?",
+        "answer": "Si no hay patrón claro entre consultas, un sistema de filtrado previo no te va a ayudar mucho. En ese caso el problema no es la repetición, y la solución es otra."
+      },
+      {
+        "question": "¿Cómo mido el coste de las interrupciones, no solo el tiempo de respuesta?",
+        "answer": "No hay una fórmula exacta, pero puedes anotarlo de forma cualitativa: cuántas veces interrumpiste una tarea para responder y cuánto tardaste en retomar el hilo. Si pasa más de 8-10 veces al día, la interrupción ya es un problema operativo aunque el tiempo total parezca bajo."
+      },
+      {
+        "question": "¿Sirve este método si soy el único que atiende mensajes?",
+        "answer": "Sí, y es especialmente útil en ese caso. Cuando una sola persona gestiona todo el volumen, el coste de cada interrupción es más alto porque no hay nadie que absorba el resto mientras respondes."
+      },
+      {
+        "question": "¿Qué hago con el número una vez que lo tengo?",
+        "answer": "Úsalo para decidir, no para compararte. Si supera tu umbral, busca qué preguntas podrían resolverse antes de llegar al chat (con un mensaje automático, un link de información o un flujo previo). Si no lo supera, cierra la hoja y dedica el tiempo a otra cosa."
+      },
+      {
+        "question": "¿Este cálculo cambia según la temporada?",
+        "answer": "Sí. El volumen de consultas sube en temporadas altas, lanzamientos o campañas. Un número bajo en verano puede dispararse en septiembre. Repetir el ejercicio cada pocos meses da una imagen más honesta."
+      }
+    ]
+  },
+  {
     "slug": "faq-ubicacion-horario-pasos-reserva",
     "title": "Cómo resolver ubicación, horario y pasos de reserva sin repetirlo 50 veces",
     "description": "Si cada día respondes lo mismo sobre dónde estás, cuándo abres y cómo se reserva, el problema no es el cliente: es que esa información no está en el sitio correcto antes del chat. Aquí está la solución.",
