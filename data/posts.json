@@ -1,5 +1,107 @@
 [
   {
+    "slug": "como-responder-a-hola-info",
+    "title": "Cómo responder a 'Hola' / 'Info' sin perder tiempo (y sin parecer seco)",
+    "description": "Guía práctica con scripts y checklist para convertir mensajes vacíos como 'Hola' o 'Info' en conversaciones útiles, sin perder tiempo ni sonar frío.",
+    "excerpt": "Responder a 'Hola' o 'Info' sin estructura te mete en un bucle de preguntas interminables. La solución es devolver una pregunta concreta y dos opciones de intención en el mismo mensaje.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-responder-a-hola-info.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "mensajes-vacios",
+      "whatsapp",
+      "instagram",
+      "atencion-clientes",
+      "scripts",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Cómo responder a 'Hola' o 'Info' sin perder tiempo y sin sonar seco",
+    "quickAnswer": [
+      "**No preguntes '¿En qué te puedo ayudar?'** — Es la respuesta más usada y la que menos avanza la conversación porque devuelve el trabajo al cliente.",
+      "**Ofrece dos opciones de intención en el primer mensaje** — 'Presupuesto o cita?' obliga a elegir y te da el contexto mínimo para responder bien.",
+      "**Pide un solo dato concreto** — Zona, servicio, fecha o tamaño. Un dato es suficiente para cualificar sin abrumar.",
+      "**Explica por qué preguntas** — Una frase corta ('Para darte precio necesito saber...') reduce el abandono y humaniza el mensaje.",
+      "**Si no responden en dos intentos, cierra con amabilidad** — El que va en serio responde. Perseguir agota y no convierte."
+    ],
+    "oneLineDefinition": "Responder a 'Hola' o 'Info' es convertir un mensaje sin contexto en una conversación útil pidiendo un dato mínimo y ofreciendo dos rutas de intención claras.",
+    "sections": [
+      "Por qué 'Hola' e 'Info' son mensajes trampa",
+      "TL;DR — Respuesta directa al problema",
+      "El error más común al responder mensajes vacíos",
+      "Checklist: qué incluir en tu respuesta a un mensaje vacío",
+      "Scripts listos para copiar y pegar",
+      "Errores frecuentes (y cómo corregirlos)",
+      "Cuándo no usar scripts fijos",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Responder a 'Hola' o 'Info' en 4 pasos",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "Respuestas rápidas de WhatsApp Business",
+        "Nota de voz o texto según el canal",
+        "Link de atención con asistente (opcional)"
+      ],
+      "steps": [
+        {
+          "name": "Reconoce al cliente en una frase",
+          "text": "Saluda brevemente sin exagerar. Un 'Hola, gracias por escribir' es suficiente."
+        },
+        {
+          "name": "Ofrece dos opciones de intención",
+          "text": "Pregunta directamente: '¿Buscas presupuesto o cita?' o '¿Es para ti o para regalar?'. Dos opciones, no más."
+        },
+        {
+          "name": "Pide un dato mínimo que cambie tu respuesta",
+          "text": "Servicio, zona, fecha o tamaño. Solo uno. Explica en una frase por qué lo necesitas."
+        },
+        {
+          "name": "Define qué haces si no responden",
+          "text": "Después de dos intentos sin respuesta, cierra con un mensaje amable y archiva. No persigas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué 'Hola' e 'Info' son mensajes trampa</h2><p>Te llega un 'Hola' por Instagram o un 'Info' por WhatsApp. Son los mensajes más frecuentes y también los más costosos si no tienes respuesta preparada. Sin estructura, acabas en un ping-pong de 10 mensajes para saber qué quiere esa persona, si encaja, y si vale la pena invertir más tiempo.</p><p>El problema no es el cliente. La gente escribe así porque es lo más rápido para ellos. El problema es no tener un sistema que convierta ese mensaje vacío en información útil con el mínimo número de intercambios.</p><h2>TL;DR — Respuesta directa al problema</h2><p>Responder bien a un mensaje vacío requiere devolver exactamente dos cosas: una pregunta de intención y un dato mínimo que cambie tu respuesta. Nada más.</p><ul><li><strong>No preguntes '¿En qué te puedo ayudar?'</strong> — Devuelve el trabajo al cliente y no avanza nada.</li><li><strong>Ofrece dos opciones de intención</strong> — 'Presupuesto o cita' fuerza a elegir y te da contexto.</li><li><strong>Pide solo un dato</strong> — Servicio, fecha o zona. Uno. Más de uno aumenta el abandono.</li><li><strong>Explica en una frase por qué preguntas</strong> — Reduce la fricción y humaniza el mensaje.</li><li><strong>Define el límite de seguimiento</strong> — Dos intentos sin respuesta, cierre amable. Punto.</li></ul><h2>El error más común al responder mensajes vacíos</h2><p>La respuesta más habitual a un 'Hola' o 'Info' es '¿En qué te puedo ayudar?' o '¡Hola! Dime'. Parece amable. En realidad, es la respuesta que menos ayuda porque devuelve exactamente el mismo problema al cliente: ahora tiene que pensar cómo estructurar su pregunta.</p><p>El resultado es una de estas dos cosas: o el cliente vuelve con otro mensaje igual de vacío ('Es que quería info sobre precios'), o directamente desaparece porque le diste más trabajo del que esperaba.</p><p>La observación contraintuitiva es esta: un mensaje más corto de tu parte con una pregunta directa convierte mejor que un saludo largo sin dirección. No porque sea más frío, sino porque le facilita el paso siguiente.</p><p>Si quieres reducir la cantidad de mensajes vacíos antes de que lleguen al chat, puedes revisar <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">cómo reducir preguntas repetidas en WhatsApp e Instagram sin sonar robótico</a>. Pero si ya los recibes, lo que sigue es cómo gestionarlos.</p><h2>Checklist: qué incluir en tu respuesta a un mensaje vacío</h2><p>Antes de escribir un solo script, define estos cinco elementos para tu negocio. Sin ellos, cualquier plantilla será genérica y se notará.</p><ol><li><strong>Saludo breve</strong> — Una frase. Sin exclamaciones dobles ni emojis si no es tu estilo.</li><li><strong>Dos opciones de intención</strong> — Las más frecuentes en tu negocio. Para un tatuador: cita o presupuesto. Para un fotógrafo: sesión o evento. Para un coach: sesión de prueba o programa.</li><li><strong>Un dato mínimo</strong> — El que más cambia tu respuesta. En estética suele ser el servicio. En fotografía, la fecha. En tatuaje, la zona del cuerpo y el tamaño aproximado.</li><li><strong>Microcopy de por qué</strong> — Una frase que explique para qué sirve ese dato. 'Para darte un precio real necesito saber el tamaño aproximado' funciona mejor que preguntar a secas.</li><li><strong>Instrucción de cierre si no responden</strong> — No para el cliente, para ti. Define internamente cuántos intentos haces y qué mensaje mandas al cerrar.</li></ol><h2>Scripts listos para copiar y pegar</h2><p>Estos scripts están pensados para negocios de servicios con consultas repetitivas. Elige el que mejor encaje con tu tono y ajusta los detalles del servicio.</p><h3>Script 1 — Respuesta directa (tono neutro)</h3><blockquote><p>Hola, gracias por escribir. Para ayudarte rápido: ¿buscas presupuesto o quieres reservar cita? Dime cuál y te paso la info que necesitas.</p></blockquote><h3>Script 2 — Con dato mínimo incluido (para servicios con variabilidad de precio)</h3><blockquote><p>Hola. Para darte un precio real necesito saber el servicio que te interesa y, si puedes, la zona o el tamaño aproximado. Con eso te respondo sin rodeos.</p></blockquote><h3>Script 3 — Tono más cercano (para negocios con audiencia joven o redes activas)</h3><blockquote><p>Hola, qué bien que escribas. Cuéntame un poco: ¿es para pedir cita, saber precio o tienes una duda concreta? Así te respondo directo sin marearte con preguntas.</p></blockquote><h3>Script 4 — Para cuando el cliente ya preguntó algo parecido antes y vuelve con 'Hola'</h3><blockquote><p>Hola de nuevo. ¿Sigues interesado en [servicio]? Si quieres seguimos donde lo dejamos, dime y te ayudo.</p></blockquote><h3>Script 5 — Cierre amable tras dos intentos sin respuesta</h3><blockquote><p>Hola, te escribo por última vez para no molestarte. Si en algún momento quieres retomar, aquí estamos. Que vaya bien.</p></blockquote><p>Una nota sobre el tono: ninguno de estos scripts tiene que sonar igual que los demás. El objetivo es que el cliente sepa qué hacer en el siguiente paso, no que parezca que hablas con un bot. <a href=\"/blog/como-evitar-que-te-escriban-solo-precio/\">Si el problema que más recibes es el mensaje 'precio?' sin contexto</a>, la solución es parecida pero tiene algún matiz diferente que vale la pena ver por separado.</p><h2>Errores frecuentes (y cómo corregirlos)</h2><ul><li><strong>'¿En qué te puedo ayudar?'</strong> — Devuelve el trabajo al cliente. Corrección: ofrece dos opciones en vez de una pregunta abierta.</li><li><strong>Preguntar tres cosas a la vez</strong> — 'Dime el servicio, la fecha, el tamaño y si es para ti o para regalo' es un interrogatorio. Corrección: un dato, el más importante.</li><li><strong>Responder sin microcopy</strong> — Preguntar sin explicar por qué genera desconfianza. Corrección: añade una frase de contexto antes del dato que pides.</li><li><strong>Usar el mismo script para todos los canales</strong> — Un DM de Instagram tiene límites distintos a un WhatsApp. Corrección: adapta la longitud y el tono según el canal.</li><li><strong>Perseguir al cliente más de dos veces</strong> — Agota y no convierte. Corrección: dos intentos, cierre amable, archivo.</li><li><strong>Responder con una lista de servicios y precios</strong> — Abruma y no filtra. Corrección: primero intención, luego información relevante para esa intención.</li></ul><h2>Cuándo no usar scripts fijos</h2><p>Los scripts funcionan cuando hay un patrón repetible de consultas. Si tu servicio es completamente distinto en cada caso (diseño de interiores, consultoría estratégica, proyectos a medida sin precio estándar), un script fijo puede sonar fuera de lugar o generar expectativas que no puedes cumplir.</p><p>También hay casos donde la consulta inicial, aunque empiece con 'Hola', contiene suficiente contexto como para responder directamente sin pasar por el protocolo. En ese caso, úsalo como guía, no como obligación.</p><p>Si llegas a un punto donde el volumen de mensajes vacíos es alto y el tiempo de respuesta empieza a afectar conversiones, tiene sentido revisar <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a>. Ahí el problema deja de ser el script y pasa a ser el sistema de entrada.</p><p>Si quieres implementar un punto de entrada que capture esos datos mínimos antes de que el cliente llegue al chat, herramientas como Inkup hacen exactamente esto: ponen un asistente conversacional antes del chat final, recogen los datos que necesitas (servicio, intención, contexto) y te pasan el cliente a WhatsApp con la información ya ordenada. No es para todos los casos: si tu volumen es bajo o cada consulta es completamente diferente, probablemente no lo necesitas aún. Si recibes 20 o más mensajes al día con el mismo tipo de preguntas, sí empieza a tener sentido.</p><h2>Preguntas frecuentes</h2>",
+    "faq": [
+      {
+        "question": "¿Qué hago si me responden 'Hola' y no dan ningún dato por más que les pregunto?",
+        "answer": "Haz dos intentos con preguntas concretas y opciones claras. Si no responden, cierra con un mensaje amable y archiva la conversación. El que va en serio responde; perseguir no convierte."
+      },
+      {
+        "question": "¿Cuántos datos puedo pedir en el primer mensaje sin que el cliente se vaya?",
+        "answer": "Uno. El dato que más cambia tu respuesta: servicio, zona, fecha o tamaño. Más de uno en el primer mensaje sube el abandono de forma notable."
+      },
+      {
+        "question": "¿Es mejor responder con texto o con una nota de voz cuando el mensaje es solo 'Hola'?",
+        "answer": "Depende del canal y del volumen. En WhatsApp con pocos mensajes al día, una nota de voz personalizada puede funcionar bien. Con volumen alto, el texto es más escalable y permite usar respuestas rápidas."
+      },
+      {
+        "question": "¿Cómo evito sonar seco si uso un script?",
+        "answer": "Añade una frase de contexto antes de la pregunta ('Para darte info útil necesito saber...') y ajusta el tono a tu forma de hablar. Un script no tiene que sonar igual para todos: cámbialo hasta que se parezca a ti."
+      },
+      {
+        "question": "¿Qué diferencia hay entre responder a 'Hola' en Instagram y en WhatsApp?",
+        "answer": "En Instagram, los DMs son más informales y el cliente espera brevedad. En WhatsApp, hay más tolerancia para un mensaje algo más largo con contexto. En ambos casos, lo importante es ofrecer dos opciones y pedir un dato concreto."
+      },
+      {
+        "question": "¿Funciona esto si soy el único que atiende y tengo picos de mensajes?",
+        "answer": "Sí, especialmente en picos. Con respuestas rápidas guardadas en WhatsApp Business puedes enviar el script en segundos sin escribirlo cada vez. El objetivo es que el cliente avance solo mientras tú terminas lo que estás haciendo."
+      },
+      {
+        "question": "¿Cuándo tiene sentido poner un link en vez de responder directamente?",
+        "answer": "Cuando el volumen es alto y los mensajes vacíos son constantes. Un link con un asistente que recoge datos antes del chat final libera tiempo y estandariza la información que recibes. Con volumen bajo, el script directo es suficiente."
+      },
+      {
+        "question": "¿Qué hago si el cliente insiste en que le dé precio antes de responder nada?",
+        "answer": "Da un rango condicionado a uno o dos datos: 'El precio depende del servicio y el tamaño, pero suele estar entre X e Y. Dime cuál te interesa y te doy el número exacto'. Así no evades, pero tampoco das precio sin contexto."
+      }
+    ]
+  },
+  {
     "slug": "como-escribir-mensajes-automaticos-que-convierten",
     "title": "Cómo escribir mensajes automáticos que convierten (sin espantar)",
     "description": "Aprende a escribir mensajes automáticos que guían al cliente hacia el siguiente paso sin que suenen a robot ni a spam. Con scripts, checklist y errores reales.",
