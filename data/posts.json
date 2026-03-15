@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-escribir-mensajes-automaticos-que-convierten",
+    "title": "Cómo escribir mensajes automáticos que convierten (sin espantar)",
+    "description": "Aprende a escribir mensajes automáticos que guían al cliente hacia el siguiente paso sin que suenen a robot ni a spam. Con scripts, checklist y errores reales.",
+    "excerpt": "Un mensaje automático convierte cuando guía a un paso claro, explica por qué pides lo que pides y reduce fricción. No cuando suelta información sin contexto.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-escribir-mensajes-automaticos-que-convierten.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-15",
+    "readingTime": "8 min",
+    "tags": [
+      "mensajes-automaticos",
+      "whatsapp",
+      "instagram",
+      "conversion",
+      "atencion-al-cliente",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Cómo escribir mensajes automáticos que convierten sin espantar",
+    "quickAnswer": [
+      "**Empieza con reconocimiento, no con formulario** — La primera frase debe hacer sentir al cliente que lo han visto, no que ha caído en un sistema.",
+      "**Explica por qué pides cada dato** — \"Para darte precio real necesito saber X\" convierte más que \"Por favor rellena el formulario\".",
+      "**Un paso por mensaje, nunca dos** — Cada mensaje automático debe pedir una sola acción. Si pides tres cosas a la vez, el cliente no hace ninguna.",
+      "**Cierra siempre con acción concreta** — El mensaje debe terminar con una pregunta directa o una instrucción, no con puntos suspensivos ni con \"cuando quieras\".",
+      "**Deja salida humana visible** — Incluir \"si prefieres hablar directamente, escríbeme\" no reduce conversión: la sube en servicios de ticket medio-alto."
+    ],
+    "oneLineDefinition": "Escribir mensajes automáticos que convierten es combinar tono humano, microcopy honesto y un paso claro por mensaje para que el cliente avance sin sentir que habla con un robot.",
+    "sections": [
+      "Por qué la mayoría de mensajes automáticos no convierten",
+      "Los 3 elementos que tiene todo mensaje que funciona",
+      "Checklist antes de publicar cualquier mensaje automático",
+      "Scripts listos para copiar y adaptar",
+      "Errores comunes (y cómo corregirlos en una frase)",
+      "Cuándo el mensaje automático no es la solución",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Escribir un mensaje automático que convierte en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Canal final definido",
+        "Intención del cliente clara",
+        "Microcopy honesto"
+      ],
+      "steps": [
+        {
+          "name": "Define la intención que dispara el mensaje",
+          "text": "Antes de escribir nada, decide a qué intención responde: información, presupuesto o cita. Un mensaje genérico para todo no funciona."
+        },
+        {
+          "name": "Abre con reconocimiento, no con instrucción",
+          "text": "La primera frase debe dar al cliente la sensación de que alguien lo ha recibido, no de que ha activado un menú."
+        },
+        {
+          "name": "Pide un solo dato con explicación",
+          "text": "Incluye microcopy que explique por qué pides ese dato. «Para darte un precio ajustado necesito saber X» reduce el abandono."
+        },
+        {
+          "name": "Cierra con una acción concreta",
+          "text": "El mensaje debe terminar con una pregunta directa o una instrucción. «¿Cuándo tienes disponibilidad?» o «Escríbeme esto y te respondo hoy» funcionan mejor que «cuando quieras»."
+        },
+        {
+          "name": "Añade salida humana si el ticket lo justifica",
+          "text": "En servicios de 200€ en adelante, una línea del tipo «si prefieres contármelo directamente, responde aquí» puede ser la diferencia entre un cierre y un abandono."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la mayoría de mensajes automáticos no convierten</h2><p>Abres el DM de Instagram y ves: «Hola. Para gestionar tu consulta, selecciona una opción: 1) Precio 2) Cita 3) Información general 4) Otros». El cliente cierra y busca a otro. No porque el sistema sea malo. Sino porque el mensaje no habla con él.</p><p>El problema no es la automatización. Es el wording. Un mensaje automático puede sonar completamente humano si está bien escrito, o puede espantar aunque lo haya redactado una persona real si está estructurado como un formulario burocrático.</p><p>La diferencia entre los dos no está en la herramienta. Está en si el mensaje guía o interroga, si explica o exige, y si termina en un paso claro o en el vacío.</p><h2>Los 3 elementos que tiene todo mensaje que funciona</h2><h3>1) Reconocimiento (el cliente siente que lo han recibido)</h3><p>El primer mensaje automático tiene que hacer una sola cosa: que el cliente sienta que no ha mandado el mensaje al vacío. No necesita ser efusivo. Solo tiene que acusar recibo con naturalidad.</p><p>Correcto: «Recibido, gracias por escribir. Para ayudarte rápido, necesito una cosa...»<br>Incorrecto: «Bienvenido a nuestro sistema de gestión de consultas. Por favor, indica el motivo de tu contacto.»</p><h3>2) Microcopy honesto (explica por qué pides lo que pides)</h3><p>Cuando un mensaje pide información sin contexto, el cliente lo percibe como un filtro o un interrogatorio. Una frase de explicación lo cambia todo.</p><p>Sin microcopy: «¿Cuál es tu presupuesto?»<br>Con microcopy: «Para no mandarte opciones que no encajan, ¿tienes un rango orientativo?»</p><p>Este ajuste es especialmente importante si tu servicio tiene precio variable o requisitos que el cliente no siempre conoce. Si quieres profundizar en cómo reducir las preguntas repetidas sin que suene robótico, este artículo sobre <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">cómo reducir preguntas repetidas en WhatsApp e Instagram sin sonar robótico</a> lo desarrolla con más ejemplos sectoriales.</p><h3>3) Un paso claro al final (no dos, no tres)</h3><p>Cada mensaje debe terminar con una sola acción esperada. Si pides fecha, servicio y presupuesto en el mismo mensaje, el cliente no sabe por dónde empezar y normalmente no empieza.</p><p>Regla simple: si tu mensaje tiene más de una pregunta o más de una instrucción, córtalo en dos mensajes o elige la pregunta más importante.</p><h2>Checklist antes de publicar cualquier mensaje automático</h2><p>Antes de activar un mensaje, pásalo por esta lista. Si falla en más de dos puntos, reescribe antes de publicar.</p><ol><li>¿El primer mensaje reconoce que alguien ha escrito, sin sonar a plantilla?</li><li>¿Cada pregunta tiene una frase de contexto que explica por qué la haces?</li><li>¿Hay una sola acción esperada por mensaje?</li><li>¿El tono es el mismo que usarías si respondieras tú a mano?</li><li>¿El mensaje termina con una pregunta directa o una instrucción concreta?</li><li>¿Hay una salida humana visible (especialmente si el ticket supera los 150€)?</li><li>¿El flujo completo tiene menos de 4 pasos desde el primer mensaje hasta WhatsApp?</li><li>¿Has eliminado todo lo que no cambia tu respuesta final?</li></ol><h2>Scripts listos para copiar y adaptar</h2><h3>Script 1 — Primer mensaje (respuesta automática a DM o a enlace de contacto)</h3><blockquote><p>«Hola, recibido. Para ayudarte sin marearte con mensajes de ida y vuelta, necesito dos datos rápidos: ¿qué servicio te interesa y cuándo tienes disponibilidad? Con eso te respondo hoy mismo.»</p></blockquote><p>Por qué funciona: reconoce al cliente, explica el motivo de la pregunta y cierra con una promesa de respuesta concreta.</p><h3>Script 2 — Pedir presupuesto orientativo sin espantar</h3><blockquote><p>«Para no mandarte opciones que no encajan, ¿tienes un rango orientativo? No hace falta que sea exacto, solo para situarme. Si no lo tienes claro todavía, también te puedo dar un rango de referencia según lo que suele pedir la gente con tu mismo objetivo.»</p></blockquote><p>Por qué funciona: quita la presión de saber el precio exacto y ofrece una salida al cliente que no ha investigado antes.</p><h3>Script 3 — Derivar a WhatsApp con contexto</h3><blockquote><p>«Perfecto, con esto ya tengo lo que necesito. Te escribo ahora por WhatsApp para confirmarte disponibilidad y darte el detalle. Si no recibes nada en los próximos 30 minutos, escríbeme directamente al [número].»</p></blockquote><p>Por qué funciona: da una expectativa de tiempo, abre un canal alternativo de seguridad y cierra el flujo sin dejarlo en el aire.</p><h3>Script 4 — Cuando el cliente no encaja (descarte amable)</h3><blockquote><p>«Gracias por escribir. Con los datos que me has dado, lo que describes está fuera de lo que trabajo actualmente, pero si quieres puedo recomendarte dónde mirarlo. Si algo cambia en tu situación, escríbeme sin problema.»</p></blockquote><p>Por qué funciona: descarta sin cerrar la puerta, ofrece valor aunque no haya venta y protege la percepción de marca.</p><p>Si quieres scripts más específicos por canal, los <a href=\"/blog/scripts-responder-dm-instagram/\">scripts para responder DMs en Instagram por intención</a> incluyen versiones adaptadas a las distintas situaciones que se dan en esa plataforma.</p><h2>Errores comunes (y cómo corregirlos en una frase)</h2><ol><li><strong>Abrir con el nombre de la empresa</strong> — «Hola, soy [Negocio].» Nadie necesita que le recuerdes dónde escribió. Empieza por lo que le importa a él.</li><li><strong>Pedir más de un dato en el primer mensaje</strong> — Si pides tres cosas a la vez, el cliente responde cero. Elige la pregunta más decisiva.</li><li><strong>Usar lenguaje de formulario</strong> — «Por favor, indique el servicio de su interés» convierte menos que «¿Qué tienes en mente?» aunque digan lo mismo.</li><li><strong>No explicar para qué sirve cada pregunta</strong> — Sin microcopy, preguntar sobre presupuesto suena a filtro económico. Con microcopy, suena a eficiencia.</li><li><strong>Terminar con «cuando quieras»</strong> — Es la forma más rápida de que el cliente no haga nada. Cierra siempre con una acción o una pregunta directa.</li><li><strong>Flujos de más de 4 pasos antes de llegar al chat real</strong> — Cada paso adicional pierde un porcentaje de la gente. Si el flujo completo tiene más de cuatro interacciones antes de la conversación real, simplifica.</li><li><strong>No dejar salida humana en servicios de ticket alto</strong> — En servicios personales por encima de cierto importe, el cliente quiere saber que hay una persona detrás. Una línea lo soluciona.</li></ol><p>Vale la pena revisar también el artículo sobre <a href=\"/blog/los-chatbots-espantan-clientes/\">si los chatbots espantan clientes y cómo evitarlo en negocios de servicios</a>, donde se desarrollan los patrones concretos que hacen que un flujo automático pierda confianza.</p><h2>Cuándo el mensaje automático no es la solución</h2><p>Un mensaje automático bien escrito ayuda cuando hay un patrón repetible: la misma intención, los mismos datos mínimos, el mismo siguiente paso. Cuando eso no existe, el mensaje automático genera más fricción que la que resuelve.</p><ul><li>Si cada consulta es radicalmente distinta (servicio 100% a medida, sin patrón), el flujo automático no puede anticipar nada útil.</li><li>Si la venta requiere una conversación de descubrimiento larga desde el primer mensaje, el automático corta ese proceso antes de empezar.</li><li>Si el volumen es muy bajo (una o dos consultas al día), el beneficio de automatizar no justifica el tiempo de montarlo bien.</li></ul><p>En esos casos, lo más eficiente es un primer mensaje manual bien escrito con las mismas reglas de microcopy que aplican a los automáticos: reconocimiento, explicación y un paso claro.</p><p>Si quieres implementar este tipo de flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan los datos mínimos del cliente antes de que respondas manualmente, con un enlace único que funciona desde Instagram, WhatsApp o Google. El cliente llega a tu chat con la información ya recogida, sin que tú hayas tenido que hacer el ida y vuelta. No es para todos los casos: si tu volumen es bajo o tu proceso de venta necesita conversación larga desde el primer mensaje, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántos mensajes automáticos son demasiados antes de llegar a hablar con una persona?",
+        "answer": "Más de cuatro pasos antes de la conversación real suele matar la conversión. Si necesitas más de cuatro interacciones para recoger los datos mínimos, el flujo está pidiendo demasiado o las preguntas son demasiado largas."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde algo que el flujo automático no contempla?",
+        "answer": "Ten preparado un mensaje de redirección simple: «Entendido, esto lo gestiono yo directamente. Te escribo en [tiempo].» No intentes cubrir todos los casos con automatización; cubre los más frecuentes y deja salida humana para el resto."
+      },
+      {
+        "question": "¿Es mejor un tono formal o informal en los mensajes automáticos?",
+        "answer": "El tono debe ser el mismo que usarías si respondieras tú a mano. Si normalmente tuteas y usas frases cortas, el automático también. El problema no es el tono formal o informal, es cuando el automático suena distinto al humano."
+      },
+      {
+        "question": "¿Cómo pregunto el presupuesto sin que el cliente sienta que lo estoy filtrando?",
+        "answer": "Explica por qué lo preguntas antes de preguntar. «Para no mandarte opciones que no encajan, ¿tienes un rango orientativo?» convierte mucho mejor que «¿Cuál es tu presupuesto?» a secas."
+      },
+      {
+        "question": "¿Debería poner el precio en el mensaje automático o esperar a la conversación?",
+        "answer": "Un rango condicionado funciona mejor que precio fijo o que no decir nada. «El precio varía entre X y Y según [variable concreta]» filtra sin espantar y reduce el ping-pong posterior."
+      },
+      {
+        "question": "¿Cuándo tiene sentido añadir una salida humana en el flujo?",
+        "answer": "Siempre que el ticket medio del servicio sea alto o que el cliente necesite confianza antes de avanzar. Una línea del tipo «si prefieres contármelo directamente, responde aquí» no reduce conversión: en servicios personales, la sube."
+      },
+      {
+        "question": "¿Los mensajes automáticos funcionan igual en Instagram que en WhatsApp?",
+        "answer": "El wording aplica igual, pero el contexto es distinto. En Instagram el cliente suele estar en modo descubrimiento; en WhatsApp ya tiene intención más concreta. El primer mensaje en Instagram puede ser más abierto; en WhatsApp conviene ir más directo al paso siguiente."
+      },
+      {
+        "question": "¿Qué hago si me da la sensación de que el flujo automático está bajando mi conversión?",
+        "answer": "Revisa cuánta gente entra al flujo y cuánta llega al chat final. Si hay una caída grande en un paso concreto, ese mensaje está pidiendo demasiado o no explica por qué. Simplifica ese paso primero antes de cambiar todo el flujo."
+      }
+    ]
+  },
+  {
     "slug": "plantillas-respuestas-rapidas-whatsapp-business",
     "title": "Plantillas de respuestas rápidas en WhatsApp Business (que no suenan robot)",
     "description": "Scripts listos para usar en WhatsApp Business que recogen información, gestionan expectativas y avanzan la conversación sin sonar automatizados ni fríos.",
