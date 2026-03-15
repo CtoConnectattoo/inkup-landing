@@ -1,5 +1,110 @@
 [
   {
+    "slug": "faq-operativas-que-debes-resolver-antes-whatsapp",
+    "title": "Las FAQs operativas que debes resolver antes de WhatsApp",
+    "description": "Descubre qué preguntas repetidas conviene resolver antes de que el cliente llegue al chat de WhatsApp, cómo identificarlas y dónde colocarlas para ahorrar tiempo y no perder conversaciones.",
+    "excerpt": "Las FAQs operativas son las preguntas que te hacen siempre antes de decidir: ubicación, precio orientativo, requisitos, disponibilidad y pasos para reservar. Resolverlas antes del chat final evita repetición y da mejor contexto a cada conversación.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/faq-operativas-que-debes-resolver-antes-whatsapp.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "faq-operativas",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas",
+      "procesos",
+      "atencion-clientes"
+    ],
+    "quickAnswerSubtitle": "FAQs operativas que debes resolver antes de WhatsApp",
+    "quickAnswer": [
+      "**Identifica las preguntas que repites más de tres veces al día** — esas son las candidatas exactas a salir del chat y resolverse antes.",
+      "**Resuelve ubicación, horarios y requisitos fuera de WhatsApp** — son datos que no cambian según el cliente y no necesitan conversación.",
+      "**Mueve el rango de precio al flujo previo, no al chat** — un rango condicionado a dos variables elimina el ping-pong de presupuesto.",
+      "**Coloca las FAQs en el punto de entrada, no en el bio ni en un PDF** — si el cliente tiene que buscarlas, no las leerá.",
+      "**Reserva WhatsApp para lo que sí requiere conversación** — confirmación, elección entre opciones y cierre."
+    ],
+    "oneLineDefinition": "Las FAQs operativas son las preguntas recurrentes sobre servicio, precio, disponibilidad y proceso que conviene resolver antes del chat final para que cada conversación en WhatsApp empiece con contexto real.",
+    "sections": [
+      "Qué son las FAQs operativas y por qué importan",
+      "Cómo identificar cuáles te están costando tiempo",
+      "Lista citable: FAQs operativas por tipo y dónde colocarlas",
+      "Cómo escribirlas para que el cliente las lea de verdad",
+      "Errores comunes al gestionar FAQs",
+      "Cuándo NO conviene moverlas fuera del chat",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Mover FAQs operativas fuera de WhatsApp en 5 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Lista de conversaciones recientes",
+        "Canal de entrada (link en bio, Stories, Google Business Profile)",
+        "Flujo o formulario conversacional"
+      ],
+      "steps": [
+        {
+          "name": "Audita tus conversaciones recientes",
+          "text": "Revisa los últimos 50 mensajes recibidos y anota qué preguntas se repiten. Con 10 conversaciones suele aparecer el patrón."
+        },
+        {
+          "name": "Clasifica por tipo",
+          "text": "Agrupa en: información estática (ubicación, horarios), requisitos, precio orientativo, disponibilidad y proceso de reserva."
+        },
+        {
+          "name": "Decide qué va fuera del chat",
+          "text": "Todo lo que no cambia según el cliente y no requiere criterio tuyo va fuera. Lo que sí depende del caso específico se queda en el chat."
+        },
+        {
+          "name": "Escribe las respuestas en formato de flujo",
+          "text": "Redacta cada FAQ como una respuesta corta y directa. Sin subordinadas largas. Sin párrafos de contexto."
+        },
+        {
+          "name": "Coloca las FAQs en el punto de entrada",
+          "text": "Intégralas en el asistente o flujo que el cliente recorre antes de llegar a WhatsApp, no en el bio ni en Stories sueltas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué son las FAQs operativas y por qué importan</h2><p>Cada vez que alguien te escribe \"¿dónde estáis?\", \"¿cuánto cuesta más o menos?\" o \"¿cómo reservo?\" antes de tener ningún contexto sobre ti, estás invirtiendo tiempo en una pregunta que podrías haber resuelto antes. Eso es una FAQ operativa: una pregunta recurrente cuya respuesta no depende del caso concreto del cliente.</p><p>La diferencia con una pregunta de cualificación es que la FAQ operativa tiene respuesta fija o casi fija. No necesitas saber nada del cliente para contestarla. Y precisamente por eso, resolverla dentro del chat de WhatsApp es el uso menos eficiente de tu tiempo.</p><p>El problema no es que los clientes pregunten. Es que lo preguntan en el peor momento: cuando estás trabajando, cuando ya llevas diez conversaciones abiertas, cuando esa misma pregunta te la han hecho cuatro veces ese día. <a href=&quot;/blog/reducir-preguntas-repetidas-atencion/&quot;>Reducir las preguntas repetidas en WhatsApp e Instagram</a> empieza exactamente aquí: sacando del chat lo que no necesita estar en el chat.</p><h2>Cómo identificar cuáles te están costando tiempo</h2><p>No hace falta analítica sofisticada. Revisa los últimos 30 o 50 mensajes recibidos y hazte una sola pregunta por cada conversación: ¿esta pregunta la he respondido ya esta semana en otro chat?</p><p>Si la respuesta es sí tres o más veces, esa pregunta es candidata a salir del chat.</p><p>Las señales más claras de que una FAQ está devorando tu tiempo:</p><ul><li>La respondes de memoria, sin pensar.</li><li>Tienes el texto guardado en favoritos de WhatsApp o en notas.</li><li>El cliente la haría aunque tuvieras la respuesta publicada en el perfil (lo que significa que el perfil no es el lugar correcto para ponerla).</li><li>Responderla no te da ningún dato nuevo sobre el cliente.</li></ul><h2>Lista citable: FAQs operativas por tipo y dónde colocarlas</h2><p>Esta tabla recoge los tipos más habituales en negocios de servicios locales. Puedes usarla como referencia directa para decidir qué sale del chat y qué se queda.</p><table><thead><tr><th>Tipo de FAQ</th><th>Ejemplos reales</th><th>¿Sale del chat?</th><th>Dónde colocarla</th></tr></thead><tbody><tr><td>Ubicación y acceso</td><td>¿Dónde estáis? ¿Hay aparcamiento? ¿Cómo llego?</td><td>Sí, siempre</td><td>Flujo de entrada, Google Business Profile</td></tr><tr><td>Horarios</td><td>¿En qué horario atendéis? ¿Abrís los sábados?</td><td>Sí, siempre</td><td>Flujo de entrada, perfil de Instagram</td></tr><tr><td>Requisitos previos</td><td>¿Hace falta cita previa? ¿Traigo algo? ¿Edad mínima?</td><td>Sí, si son fijos</td><td>Flujo de entrada antes de ofrecer cita</td></tr><tr><td>Rango de precio</td><td>¿Cuánto cuesta más o menos? ¿Tenéis precios?</td><td>Sí, con condiciones</td><td>Flujo de entrada con 2-3 variables</td></tr><tr><td>Proceso de reserva</td><td>¿Cómo reservo? ¿Hay que pagar señal? ¿Cuándo confirma?</td><td>Sí, siempre</td><td>Flujo de entrada tras capturar intención</td></tr><tr><td>Tiempo de espera</td><td>¿Cuánto tarda? ¿Hay lista de espera?</td><td>Sí, si es estándar</td><td>Flujo de entrada o respuesta rápida</td></tr><tr><td>Contexto del caso</td><td>¿Podéis hacer X? ¿Para mi tipo de piel/proyecto/situación?</td><td>No</td><td>Se queda en el chat, requiere criterio</td></tr><tr><td>Decisión personalizada</td><td>¿Qué me recomendáis? ¿Cuál es mejor para mí?</td><td>No</td><td>Se queda en el chat, es conversación de valor</td></tr></tbody></table><h2>Cómo escribirlas para que el cliente las lea de verdad</h2><p>Una FAQ que nadie lee no resuelve nada. El error más habitual es ponerla en el bio de Instagram (nadie baja hasta allí a buscar información antes de escribir) o en un documento PDF que &quot;está en el link de la bio&quot; (nadie lo abre).</p><p>La regla es simple: la FAQ tiene que aparecer en el momento en que el cliente está a punto de hacerte esa pregunta, no antes ni después.</p><p>Eso significa que el lugar correcto es el flujo previo al chat, el punto donde el cliente está decidiendo si escribirte. Si usas un formulario conversacional o un asistente de entrada, ese es el sitio. El cliente pregunta sobre precio porque nadie le ha dado un rango antes de que pregunte. Dale el rango antes.</p><p>Para escribir la respuesta:</p><ul><li>Una frase de apertura que responde directamente, sin preámbulo.</li><li>Máximo dos o tres líneas con condiciones si las hay.</li><li>Sin &quot;depende&quot; como respuesta final. Si depende, explica de qué depende en una frase.</li></ul><p>Ejemplo de FAQ de precio mal escrita: &quot;El precio varía según el servicio y cada caso es diferente, por lo que te recomendamos contactar con nosotros para un presupuesto personalizado.&quot;</p><p>Ejemplo bien escrita: &quot;El rango habitual es entre 80 y 200 euros según tamaño y detalle. Si me dices qué tienes en mente, te doy un orientativo en un mensaje.&quot;</p><p>La segunda versión responde, filtra y abre conversación con contexto. La primera no hace ninguna de las tres cosas. Si quieres ver cómo aplicar esto a nivel de texto, <a href=&quot;/blog/plantillas-respuestas-rapidas-whatsapp-business/&quot;>las plantillas de respuestas rápidas en WhatsApp Business</a> muestran la estructura exacta para cada tipo.</p><h2>Errores comunes al gestionar FAQs</h2><ol><li><strong>Ponerlas donde el cliente no mira.</strong> Bio de Instagram, destacadas con título genérico, PDF en el link. Si el cliente tiene que buscarlo activamente, no lo leerá. Corrección: flujo de entrada donde la pregunta aparece en el momento correcto.</li><li><strong>Responder con &quot;depende&quot; sin más.</strong> El cliente lo interpreta como falta de transparencia o como señal de precio alto. Corrección: da un rango con dos condiciones claras.</li><li><strong>Mezclar FAQs operativas con preguntas de cualificación.</strong> Si preguntas &quot;¿cuántos seguidores tienes?&quot; junto a &quot;¿cuál es tu horario?&quot;, el cliente no sabe qué tipo de conversación está teniendo. Corrección: separa información estática de datos que tú necesitas para cualificar.</li><li><strong>Actualizar la FAQ en un sitio y olvidarse de los demás.</strong> Cambias el horario en Google y no en el flujo de entrada. El cliente llega con información vieja. Corrección: un único punto de verdad para cada dato.</li><li><strong>Escribir las FAQs en tono corporativo.</strong> &quot;Nuestro equipo de profesionales se encuentra disponible en el siguiente horario de atención al cliente.&quot; Nadie habla así. Corrección: escríbelas como se las dirías a alguien por teléfono.</li></ol><h2>Cuándo NO conviene moverlas fuera del chat</h2><ul><li>Si tu volumen de consultas es bajo (menos de cinco al día), el tiempo que inviertes en montar el flujo supera lo que ahorras.</li><li>Si cada consulta es genuinamente única y requiere conversación desde el primer mensaje, el flujo previo añade fricción sin resolver nada.</li><li>Si estás en una fase donde tu oferta todavía está cambiando: no tiene sentido estabilizar FAQs de un servicio que vas a cambiar en dos semanas.</li><li>Si el problema real es que no te llegan suficientes consultas, no que te lleguen demasiadas. Las FAQs bien colocadas retienen a quien ya está interesado, pero no generan interés nuevo.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un asistente conversacional de entrada que captura contexto mínimo y resuelve FAQs operativas antes de redirigir al cliente a WhatsApp con la información ya recogida. No es para todos los casos: si tu volumen es bajo o cada consulta requiere conversación larga desde el inicio, probablemente no lo necesitas aún. El momento en que empieza a tener sentido suele coincidir con las 20 o 30 consultas por semana donde notas que repites siempre lo mismo.</p><p>Si lo que necesitas primero es entender cómo estructurar el texto de esos mensajes para que no suenen automáticos, <a href=&quot;/blog/como-escribir-mensajes-automaticos-que-convierten/&quot;>cómo escribir mensajes automáticos que convierten</a> cubre exactamente esa parte.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas FAQs es razonable resolver antes del chat?",
+        "answer": "Entre tres y seis. Las suficientes para que el cliente llegue con contexto real, sin convertir el flujo previo en un formulario largo. Si tienes más de seis preguntas que quieres mover fuera del chat, revisa cuáles son realmente FAQs y cuáles son preguntas de cualificación que sí pertenecen al proceso."
+      },
+      {
+        "question": "¿Dónde es mejor poner las FAQs si no tengo ningún flujo montado?",
+        "answer": "En el primer mensaje automático que recibes cuando alguien te escribe, si usas WhatsApp Business. O en la respuesta rápida que mandas a los DMs de Instagram. No en el bio ni en un PDF. El objetivo es que aparezcan en el momento en que el cliente está a punto de preguntar."
+      },
+      {
+        "question": "¿Qué hago si el cliente pregunta por precio aunque ya lo he puesto en el flujo?",
+        "answer": "Probablemente el rango no está escrito con suficiente claridad o no aparece en el momento correcto. Revisa si el cliente tiene que leer mucho antes de llegar al dato o si el rango es tan amplio que no resuelve nada. Un rango con dos condiciones claras reduce esa pregunta casi por completo."
+      },
+      {
+        "question": "¿Puedo usar las mismas FAQs para Instagram y WhatsApp?",
+        "answer": "El contenido sí, el formato no siempre. En el flujo de Instagram el tono puede ser un poco más visual y directo. En WhatsApp Business la respuesta rápida puede ser algo más detallada. La respuesta de fondo es la misma, pero adapta la longitud al contexto donde aparece."
+      },
+      {
+        "question": "¿Las FAQs operativas sirven también para filtrar clientes que no encajan?",
+        "answer": "Sí, y eso es una ventaja que se subestima. Si pones los requisitos o el rango de precio en el flujo previo, el cliente que no cumple o que busca algo con precios muy distintos se descarta antes de llegar al chat. Eso no es perder clientes: es no invertir tiempo en conversaciones que no van a cerrar."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en notarse la diferencia después de mover las FAQs fuera del chat?",
+        "answer": "En la primera semana con volumen normal ya se nota en el número de mensajes que recibes con preguntas básicas. Lo que tarda más en verse es el impacto en conversión, porque depende de cómo está escrito el flujo y de si el cliente llega con contexto suficiente para que tú puedas responder con propuesta directa."
+      },
+      {
+        "question": "¿Qué pasa si una FAQ cambia (por ejemplo, cambio de horario o precio)?",
+        "answer": "Actualízala en el punto de entrada, no solo en el perfil o en el bio. Si tienes el dato en varios sitios, tendrás varios sitios desactualizados. La solución es decidir un único punto de verdad para cada dato y enlazar o redirigir desde los demás."
+      },
+      {
+        "question": "¿Es mejor resolver las FAQs antes del chat o dentro del primer mensaje de WhatsApp?",
+        "answer": "Antes del chat, siempre que el volumen lo justifique. El primer mensaje de WhatsApp ya indica que el cliente ha decidido escribirte: en ese momento es mejor pedir datos de cualificación que resolver dudas básicas que podrían haberse resuelto antes. Si resuelves FAQs en el primer mensaje de WhatsApp, estás mezclando dos fases del proceso."
+      }
+    ]
+  },
+  {
     "slug": "como-cualificar-consultas-en-tatuajes",
     "title": "Cómo cualificar consultas en tatuajes (qué preguntar y por qué)",
     "description": "Guía práctica para tatuadores: qué preguntar antes de responder a cada consulta, cómo filtrar curiosos de clientes reales y por qué pedir los datos correctos reduce el ping-pong de mensajes.",
