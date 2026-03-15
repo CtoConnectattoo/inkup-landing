@@ -1,5 +1,117 @@
 [
   {
+    "slug": "plantillas-respuestas-rapidas-whatsapp-business",
+    "title": "Plantillas de respuestas rápidas en WhatsApp Business (que no suenan robot)",
+    "description": "Scripts listos para usar en WhatsApp Business que recogen información, gestionan expectativas y avanzan la conversación sin sonar automatizados ni fríos.",
+    "excerpt": "Las respuestas rápidas en WhatsApp Business funcionan cuando son cortas, piden un dato concreto y dan un siguiente paso claro. Aquí están los scripts que realmente puedes copiar y usar hoy.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantillas-respuestas-rapidas-whatsapp-business.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp-business",
+      "respuestas-rapidas",
+      "scripts",
+      "atencion-cliente",
+      "mensajes",
+      "plantillas"
+    ],
+    "quickAnswerSubtitle": "Plantillas de respuestas rápidas en WhatsApp Business que no suenan robot",
+    "quickAnswer": [
+      "**Sé corto y pide un solo dato** — Una respuesta rápida que hace tres preguntas a la vez no es rápida: es un interrogatorio. Pide una cosa y avanza.",
+      "**Explica por qué preguntas** — Una frase como 'para darte precio exacto necesito saber X' reduce el abandono y humaniza el mensaje.",
+      "**Define el siguiente paso siempre** — Cada respuesta rápida debe terminar con una acción clara: confirmar, elegir opción o enviar un dato.",
+      "**Adapta el tono al servicio** — Un estudio de tatuaje y una clínica de fisioterapia no hablan igual. El script es la estructura; el tono es tuyo.",
+      "**No uses menús de opciones largos** — Más de tres opciones confunde. Si tienes más intenciones, crea rutas separadas, no un listado infinito."
+    ],
+    "oneLineDefinition": "Las respuestas rápidas en WhatsApp Business son mensajes predefinidos que se activan con un atajo para responder consultas frecuentes sin escribir desde cero cada vez.",
+    "sections": [
+      "Para qué sirven realmente las respuestas rápidas (y para qué no)",
+      "Checklist: antes de escribir tu primera plantilla",
+      "Scripts listos por intención",
+      "Errores que hacen sonar robot tus plantillas",
+      "Cuándo las respuestas rápidas no son suficientes",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Crear respuestas rápidas en WhatsApp Business que funcionen",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "WhatsApp Business",
+        "Canal final definido",
+        "Listado de preguntas frecuentes del negocio"
+      ],
+      "steps": [
+        {
+          "name": "Lista tus 5 preguntas más repetidas",
+          "text": "Antes de escribir nada, anota las consultas que responde tu negocio cada día. Esas son las plantillas que necesitas primero."
+        },
+        {
+          "name": "Decide la intención de cada plantilla",
+          "text": "Clasifica cada consulta en: información, presupuesto o cita. Así sabes qué dato pedir y qué siguiente paso dar."
+        },
+        {
+          "name": "Escribe el borrador con estructura: reconocer + pedir + avanzar",
+          "text": "Reconoce la consulta, pide un solo dato mínimo y da un paso siguiente concreto. Esa estructura cabe en 3 líneas."
+        },
+        {
+          "name": "Añade microcopy que explique por qué preguntas",
+          "text": "Una frase corta ('para darte precio exacto necesito saber...') reduce fricciones y evita que el cliente sienta que rellena un formulario."
+        },
+        {
+          "name": "Prueba en voz alta el tono",
+          "text": "Lee el mensaje como si se lo dijeras a un cliente en persona. Si suena raro o frío, ajusta. El script es la estructura; el tono lo pones tú."
+        },
+        {
+          "name": "Configura el atajo en WhatsApp Business",
+          "text": "En la app: Más opciones > Herramientas para la empresa > Respuestas rápidas. Asigna un atajo corto (ej: /precio, /cita, /info)."
+        },
+        {
+          "name": "Revisa en 2 semanas",
+          "text": "Si una plantilla genera más preguntas en lugar de avanzar la conversación, el problema suele ser que pide demasiado o no da un paso claro."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Para qué sirven realmente las respuestas rápidas (y para qué no)</h2><p>Recibes el mismo mensaje cuarenta veces a la semana y escribes la misma respuesta cuarenta veces. Eso es lo que resuelve una buena plantilla en WhatsApp Business: no el proceso de venta, no la conversación consultiva, no el cierre. Solo el primer contacto repetitivo.</p><p>Las respuestas rápidas funcionan bien para: responder FAQs (horarios, ubicación, requisitos, formas de pago), pedir los datos mínimos antes de dar precio, gestionar expectativas mientras no puedes responder y guiar al cliente hacia el siguiente paso. No funcionan para sustituir una conversación real cuando el servicio es complejo o el cliente necesita entender algo antes de decidir. Ahí la plantilla puede sonar fría en el peor momento.</p><p>Si tu problema es que te llegan demasiadas consultas dispersas por Instagram y WhatsApp y ninguna trae contexto, el artículo sobre <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">cómo reducir preguntas repetidas en WhatsApp e Instagram sin sonar robótico</a> explica el sistema previo que hace que estas plantillas sean más eficaces.</p><h2>Checklist: antes de escribir tu primera plantilla</h2><p>Antes de abrir WhatsApp Business y escribir, responde estas preguntas. Si no tienes respuesta clara a alguna, el script que escribas será vago.</p><ul><li>¿Cuál es la pregunta exacta que más repites? (escríbela literalmente)</li><li>¿Qué dato mínimo necesitas para responder bien esa pregunta?</li><li>¿Cuál es el siguiente paso que quieres que dé el cliente?</li><li>¿Qué tono usa tu negocio normalmente? (cercano, profesional, técnico)</li><li>¿Hay algo que el cliente malentiende con frecuencia? (eso va en el microcopy)</li><li>¿La consulta lleva a cita, presupuesto o información general?</li></ul><p>Con eso claro, cada script se escribe en cinco minutos. Sin eso, puedes escribir veinte plantillas que no avanzan nada.</p><h2>Scripts listos por intención</h2><h3>Intención: presupuesto o precio</h3><p>El error más habitual aquí es dar un precio sin contexto o pedir tantos datos que el cliente abandona. La estructura correcta: reconocer, explicar en una frase por qué necesitas datos, pedir uno solo.</p><blockquote><p><strong>Script 1 — Precio (versión directa)</strong><br>Hola, gracias por escribir. El precio varía según [variable principal de tu servicio: tamaño, zona, duración...]. ¿Me dices [dato concreto]? Con eso te doy un rango exacto en el siguiente mensaje.</p></blockquote><blockquote><p><strong>Script 2 — Precio (versión con contexto mínimo)</strong><br>Hola. Para darte un presupuesto real y no marearte con rangos muy amplios, necesito saber: [dato 1] y [dato 2]. Te lleva menos de un minuto y así te respondo con algo útil.</p></blockquote><h3>Intención: disponibilidad o cita</h3><p>Aquí el cliente pregunta &quot;¿tenéis hueco?&quot; sin más. El objetivo de la plantilla no es responder sí o no, sino recoger la información que necesitas para saber si encaja.</p><blockquote><p><strong>Script 3 — Disponibilidad (versión rápida)</strong><br>Hola, tenemos agenda disponible. Para buscar el hueco que te viene bien, ¿qué días y horario te van mejor? Y si puedes decirme el servicio que buscas, te confirmo en el mismo mensaje.</p></blockquote><blockquote><p><strong>Script 4 — Disponibilidad (versión con filtro previo)</strong><br>Hola. Antes de mirar la agenda, necesito confirmar un dato: [requisito del servicio o condición previa]. Si encaja, te paso opciones de horario enseguida.</p></blockquote><h3>Intención: información general</h3><p>Ubicación, horarios, formas de pago, requisitos. Son preguntas que se pueden responder directamente. Aquí la plantilla no tiene que pedir datos, pero sí tiene que dar un siguiente paso.</p><blockquote><p><strong>Script 5 — Info general</strong><br>Hola. Estamos en [dirección / zona] y abrimos [horario]. Para [servicio específico], puedes ver más info aquí: [link] — y si tienes alguna pregunta concreta, escríbeme y te respondo.</p></blockquote><h3>Intención: primer contacto sin contexto (&quot;hola&quot;, &quot;info&quot;, &quot;precio?&quot;)</h3><p>El mensaje más común y el más difícil de gestionar bien. El objetivo no es responder a la nada: es guiar hacia una ruta.</p><blockquote><p><strong>Script 6 — Primer contacto sin contexto</strong><br>Hola, bienvenido/a. ¿Buscas información, presupuesto o reservar cita? Dime cuál y te oriento enseguida.</p></blockquote><p>Esta estructura de tres opciones es la más eficaz para desviar el caos sin hacer un menú infinito. Si quieres entender cómo automatizar este tipo de flujo sin necesidad de programar, el artículo sobre <a href=\"/blog/automatizar-whatsapp-sin-api/\">automatizar WhatsApp sin API</a> explica qué puedes hacer hoy con las herramientas nativas.</p><h3>Mensajes de ausencia y fuera de horario</h3><p>Son un tipo específico de plantilla que muchos negocios configuran mal. El error: decir &quot;estamos fuera&quot; sin dar ningún paso. El cliente se va y no vuelve.</p><blockquote><p><strong>Script 7 — Fuera de horario (versión que retiene)</strong><br>Hola, en este momento no estamos disponibles. Te respondemos antes de las [hora] de [día/mañana]. Si quieres, deja tu consulta aquí y tendrás respuesta en cuanto abramos. Gracias por escribir.</p></blockquote><p>Si quieres ver cómo construir un mensaje de ausencia que realmente convierta en lugar de perder al cliente, revisa esta <a href=\"/blog/plantilla-mensaje-ausencia-que-convierte/\">plantilla de mensaje de ausencia para WhatsApp e Instagram</a>.</p><h3>Bloque citable: scripts por intención</h3><table><thead><tr><th>Intención</th><th>Estructura del script</th><th>Dato que pides</th><th>Siguiente paso</th></tr></thead><tbody><tr><td>Presupuesto</td><td>Reconocer + explicar por qué + pedir 1 dato</td><td>Variable que cambia el precio</td><td>Dar rango en el siguiente mensaje</td></tr><tr><td>Disponibilidad</td><td>Confirmar que hay agenda + pedir preferencia</td><td>Días, horario, servicio</td><td>Confirmar hueco o filtrar por requisito</td></tr><tr><td>Info general</td><td>Responder directo + dar link o siguiente paso</td><td>Ninguno (info fija)</td><td>Invitar a preguntar algo concreto</td></tr><tr><td>Sin contexto</td><td>Dar 3 rutas máximo</td><td>Ninguno todavía</td><td>El cliente elige ruta y se activa el script correspondiente</td></tr><tr><td>Fuera de horario</td><td>Reconocer + dar hora de respuesta + invitar a dejar consulta</td><td>Ninguno</td><td>Retener al cliente hasta que puedas responder</td></tr></tbody></table><h2>Errores que hacen sonar robot tus plantillas</h2><ol><li><strong>Empezar con &quot;Estimado cliente&quot;</strong> — Nadie habla así. Si tu negocio es local y personal, usa el tono que usarías en persona.</li><li><strong>Hacer tres preguntas en un solo mensaje</strong> — El cliente lee el primero, responde si acaso el primero, y las otras dos se pierden. Una pregunta por mensaje.</li><li><strong>No explicar por qué pides un dato</strong> — &quot;¿Cuál es tu presupuesto?&quot; suena a filtro comercial frío. &quot;Para no darte opciones fuera de rango, ¿tienes una horquilla orientativa?&quot; suena a ayuda real.</li><li><strong>Usar lenguaje pasivo o corporativo</strong> — &quot;Su consulta será atendida en breve&quot; genera distancia. &quot;Te respondo antes de las 10h&quot; genera confianza.</li><li><strong>No dar un siguiente paso</strong> — Un script que termina en punto sin acción deja al cliente sin saber qué hacer. Siempre: confirmar, enviar dato, elegir opción.</li><li><strong>Reutilizar el mismo script para intenciones distintas</strong> — El que pregunta precio y el que quiere cita necesitan respuestas diferentes. Mezclarlos crea confusión.</li><li><strong>Scripts demasiado largos</strong> — Si tu plantilla tiene más de cinco líneas, el cliente no la termina de leer. Corta.</li></ol><h2>Cuándo las respuestas rápidas no son suficientes</h2><p>Las plantillas resuelven la repetición, pero no resuelven el volumen disperso. Si te llegan consultas por Instagram, WhatsApp y Google al mismo tiempo, usar plantillas en WhatsApp solo ordena una parte del caos. El cliente que escribe por DM de Instagram no recibe tu plantilla de WhatsApp.</p><p>En ese punto, el problema no es tener mejores scripts: es tener un punto de entrada único que capture información antes de llegar al chat. Si el volumen lo justifica (a partir de veinte o treinta consultas semanales empiezas a notarlo), lo que ayuda es un flujo previo que recoja el contexto y lo lleve ya ordenado a WhatsApp.</p><p>Si quieres implementar eso en un negocio local sin programar nada, el artículo sobre <a href=\"/blog/automatizar-whatsapp-negocio-local/\">cómo automatizar WhatsApp en un negocio local sin programar</a> explica las opciones reales que tienes hoy.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge los datos mínimos por intención y redirige a WhatsApp con el contexto ya preparado. No es para todos los casos — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas respuestas rápidas debería tener configuradas en WhatsApp Business?",
+        "answer": "Con cinco o seis cubres el 80% de los casos: precio, disponibilidad, información general, primer contacto sin contexto, fuera de horario y seguimiento sin respuesta. Más de diez suele ser señal de que el sistema de atención necesita simplificarse, no de que hacen falta más plantillas."
+      },
+      {
+        "question": "¿Cómo activo una respuesta rápida en WhatsApp Business?",
+        "answer": "En la app: Más opciones (los tres puntos) > Herramientas para la empresa > Respuestas rápidas. Ahí configuras el texto y el atajo (ej: /precio). En el chat, escribes el atajo y aparece la opción para enviarlo."
+      },
+      {
+        "question": "¿Puedo personalizar el nombre del cliente en la plantilla?",
+        "answer": "WhatsApp Business permite usar variables en los mensajes de plantilla de la API, pero en la versión de app estándar las respuestas rápidas son texto fijo. Puedes dejar un espacio como [nombre] para que lo edites antes de enviar, aunque eso reduce la velocidad."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde algo que no encaja con la ruta que le di?",
+        "answer": "No fuerces el flujo. Si el cliente desvía la conversación, responde a lo que pregunta y luego redirige con una frase corta: 'Para lo que me comentas, lo mejor es que te pase X.' Las plantillas son punto de partida, no camisa de fuerza."
+      },
+      {
+        "question": "¿Es mejor un mensaje largo que explique todo o uno corto que pida un dato?",
+        "answer": "Uno corto que pida un dato. Los mensajes largos en WhatsApp se leen a medias. Si tienes mucho que explicar, hazlo en pasos: un mensaje con lo básico y el siguiente con el detalle, solo si el cliente lo pide o lo necesita."
+      },
+      {
+        "question": "¿Cómo evito que el cliente sienta que habla con un bot?",
+        "answer": "Usa primera persona activa ('te respondo', 'necesito saber'), explica brevemente por qué pides cada dato y evita lenguaje corporativo o pasivo. Si el tono de tus mensajes manuales es cercano, el de las plantillas también tiene que serlo."
+      },
+      {
+        "question": "¿Qué hago si me llegan consultas por Instagram y por WhatsApp con la misma pregunta el mismo día?",
+        "answer": "Con plantillas sueltas no puedes resolver eso de forma consistente: son dos canales distintos y el contexto se pierde entre ellos. Lo que funciona es un punto de entrada único que canalice ambos flujos antes de llegar al chat. Las plantillas ordenan dentro de WhatsApp; el problema de canales dispersos se resuelve antes."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer en una respuesta rápida sin que el cliente abandone?",
+        "answer": "Una, dos como máximo si son muy cortas y relacionadas. Más de dos preguntas en un mensaje reduce drásticamente las respuestas. Pide primero el dato que más cambia tu respuesta y el resto lo preguntas en el siguiente mensaje si hace falta."
+      }
+    ]
+  },
+  {
     "slug": "faq-operativas-que-debes-resolver-antes-whatsapp",
     "title": "Las FAQs operativas que debes resolver antes de WhatsApp",
     "description": "Descubre qué preguntas repetidas conviene resolver antes de que el cliente llegue al chat de WhatsApp, cómo identificarlas y dónde colocarlas para ahorrar tiempo y no perder conversaciones.",
