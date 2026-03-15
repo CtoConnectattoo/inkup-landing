@@ -1,5 +1,109 @@
 [
   {
+    "slug": "como-responder-a-tenes-hueco",
+    "title": "Cómo responder a '¿Tenéis hueco?' sin 20 mensajes",
+    "description": "Aprende a responder a consultas de disponibilidad en WhatsApp e Instagram recogiendo los datos mínimos desde el primer mensaje para confirmar o descartar sin ping-pong.",
+    "excerpt": "Responder a '¿Tenéis hueco?' sin 20 mensajes requiere pedir tres datos antes de abrir la agenda: servicio exacto, fecha preferida y flexibilidad. Con eso confirmas o propones en un solo intercambio.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-responder-a-tenes-hueco.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-15",
+    "readingTime": "7 min",
+    "tags": [
+      "agenda",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas",
+      "disponibilidad",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Responder a '¿Tenéis hueco?' sin ping-pong",
+    "quickAnswer": [
+      "**Pide servicio, fecha y flexibilidad antes de abrir la agenda** — son los tres datos que determinan si hay hueco real o no.",
+      "**No respondas con 'para qué fecha' por separado** — agrupa las preguntas en un solo mensaje para cortar el ping-pong desde el inicio.",
+      "**Prepara tres respuestas tipo según disponibilidad** — hueco confirmado, hueco condicional y sin hueco pero con alternativa.",
+      "**Define un horario de respuesta visible** — reduce la presión de contestar al instante y educa al cliente sobre cuándo esperar respuesta.",
+      "**Si hay volumen, centraliza la entrada antes del chat** — quien llega con los datos ya dados tarda un mensaje en confirmarse o descartarse."
+    ],
+    "oneLineDefinition": "Responder a '¿Tenéis hueco?' sin 20 mensajes es capturar los datos mínimos (servicio, fecha, flexibilidad) en el primer intercambio para confirmar disponibilidad o proponer alternativa sin ping-pong.",
+    "sections": [
+      "Por qué esta consulta se convierte en 20 mensajes",
+      "Los tres datos que cortan el ping-pong",
+      "Checklist y scripts listos para usar",
+      "Errores que alargan la conversación",
+      "Cuándo este sistema no aplica",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Responder a disponibilidad en 1-2 intercambios",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Respuestas rápidas de WhatsApp Business",
+        "Link de entrada único",
+        "Script de primer mensaje"
+      ],
+      "steps": [
+        {
+          "name": "Define qué datos necesitas antes de mirar la agenda",
+          "text": "Servicio exacto, fecha preferida y flexibilidad de fechas. Sin esto no puedes confirmar nada útil."
+        },
+        {
+          "name": "Escribe un primer mensaje que agrupe las tres preguntas",
+          "text": "Un solo mensaje con las tres preguntas elimina tres rondas de ping-pong."
+        },
+        {
+          "name": "Prepara tres respuestas tipo",
+          "text": "Hueco confirmado, hueco condicional (hay algo cerca de esa fecha) y sin hueco con alternativa (lista de espera o siguiente disponible)."
+        },
+        {
+          "name": "Guarda los scripts como respuestas rápidas en WhatsApp Business",
+          "text": "Accedes con / + palabra clave y reduces tiempo de respuesta a segundos."
+        },
+        {
+          "name": "Define qué haces si el cliente no responde en 48 horas",
+          "text": "Un recordatorio breve y si no contesta, cierre amable. No persigas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué esta consulta se convierte en 20 mensajes</h2><p>Alguien te escribe 'Tenéis hueco?' o 'Para cuándo podría ser?' y tú respondes '¿Para qué servicio?' — y ahí empieza. Servicio, fecha, duración, zona, requisitos, precio, confirmación. Diez mensajes después sigues sin saber si esa persona va a venir o no. Mientras tanto, has interrumpido lo que estabas haciendo cuatro veces.</p><p>El problema no es la pregunta del cliente. Es que la respuesta por defecto abre una negociación en lugar de cerrar la información mínima de una sola vez. <a href=\"/blog/agendar-citas-sin-mensajes/\">Agendar citas sin intercambiar 20 mensajes</a> se consigue con un cambio pequeño: pedir los tres datos que necesitas antes de abrir la agenda, en un solo mensaje.</p><h2>Los tres datos que cortan el ping-pong</h2><p>Antes de saber si tienes hueco para alguien, necesitas exactamente tres cosas. No más.</p><ul><li><strong>Servicio exacto</strong> — no todos los servicios duran lo mismo ni encajan en los mismos huecos. Un 'sesión de tatuaje' puede ser 1 hora o 4.</li><li><strong>Fecha preferida (o rango)</strong> — sin esto no puedes mirar nada concreto.</li><li><strong>Flexibilidad</strong> — si la fecha es fija, la opción es sí o no. Si hay margen, puedes proponer alternativa. Es el dato que más acelera el cierre.</li></ul><p>Si tu servicio requiere datos adicionales (zona del cuerpo, número de personas, duración del tratamiento), añade uno. Solo uno más. Cada pregunta extra reduce la tasa de respuesta.</p><p>Observación contraintuitiva: la mayoría de los negocios cree que necesita más información antes de confirmar. En realidad, necesita menos. Los datos que no cambian si hay hueco o no son datos que puedes pedir después de confirmar, no antes.</p><h2>Checklist y scripts listos para usar</h2><h3>Checklist: datos mínimos antes de confirmar disponibilidad</h3><ol><li>Servicio exacto (y duración aproximada si varía mucho)</li><li>Fecha preferida o rango de fechas</li><li>Flexibilidad (sí/no/cuánto margen)</li><li>Nombre de contacto (para guardar en agenda)</li><li>Teléfono o canal de confirmación (si no viene ya por WhatsApp)</li></ol><h3>Script 1 — Primer mensaje (agrupa todo)</h3><blockquote><p>&quot;¡Hola! Para mirarte disponibilidad necesito tres datos rápidos: ¿qué servicio buscas?, ¿para qué fecha aproximada?, ¿tienes flexibilidad de días o es fecha fija? Con eso te confirmo en un mensaje.&quot;</p></blockquote><h3>Script 2 — Hueco confirmado</h3><blockquote><p>&quot;Perfecto, tengo hueco el [día] a las [hora]. ¿Te viene bien? Si confirmas te apunto y te mando los detalles.&quot;</p></blockquote><h3>Script 3 — Hueco condicional (cerca de la fecha pedida)</h3><blockquote><p>&quot;Para el [día exacto] no tengo, pero sí tengo el [día alternativo] a las [hora]. ¿Te encaja? Si hay otro rango que te venga mejor, dímelo y miro.&quot;</p></blockquote><h3>Script 4 — Sin hueco, con alternativa</h3><blockquote><p>&quot;Ahora mismo no tengo disponibilidad para esa fecha. Si quieres te apunto en lista de espera y te aviso cuando salga algo — suele ser rápido. ¿Te interesa?&quot;</p></blockquote><p>Guarda estos cuatro scripts como respuestas rápidas en WhatsApp Business (ajuste rápido: Configuración → Herramientas para la empresa → Respuestas rápidas). Accedes con una barra y una palabra clave y reduces el tiempo de respuesta a segundos, no minutos.</p><p>Si recibes consultas de disponibilidad también por Instagram, el flujo más limpio es derivar al mismo punto de entrada. <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">Cómo reducir preguntas repetidas en WhatsApp e Instagram sin sonar robótico</a> explica cómo hacer esa transición sin fricción.</p><h2>Errores que alargan la conversación</h2><ol><li><strong>Responder 'para qué fecha' sola</strong> — abre el ping-pong. Corrección: agrupa las tres preguntas en un mensaje.</li><li><strong>Dar disponibilidad sin confirmar el servicio</strong> — luego resulta que ese hueco no es suficiente para lo que pide. Corrección: primero el servicio, luego la agenda.</li><li><strong>No preguntar flexibilidad</strong> — si no tienes hueco en la fecha exacta y no sabes si hay margen, no puedes proponer alternativa. Corrección: es la tercera pregunta del script.</li><li><strong>Confirmar sin nombre ni contacto</strong> — el hueco queda 'reservado mentalmente' pero no en ningún sitio. Corrección: cierre siempre incluye nombre y canal.</li><li><strong>Responder a horas sueltas sin ventana definida</strong> — genera expectativa de respuesta inmediata. Corrección: ventana de respuesta visible en bio o mensaje de bienvenida.</li><li><strong>Dejar el 'sin hueco' sin alternativa</strong> — el cliente se va. Corrección: lista de espera o siguiente disponible siempre. Es fácil de implementar y retiene interés real.</li></ol><p>Si los mensajes de disponibilidad se mezclan con los de presupuesto y los de información general, antes de trabajar en los scripts conviene separar las rutas. <a href=\"/blog/agenda-manual-vs-semi-automatizada/\">Agenda manual vs semi-automatizada</a> explica cuándo tiene sentido estructurar cada tipo de consulta por separado.</p><h2>Cuándo este sistema no aplica</h2><ul><li>Si tu servicio es completamente variable en duración y no hay patrones — cada hueco es una negociación única y el script genérico no funciona.</li><li>Si tienes muy pocas consultas (1-3 al día) y el ping-pong no te cuesta tiempo real — el sistema ayuda, pero no es urgente.</li><li>Si tu proceso de venta requiere una conversación larga antes de hablar de disponibilidad — en ese caso, la disponibilidad llega después de una consulta previa, no antes.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan servicio, fecha y flexibilidad antes de que la conversación llegue a tu WhatsApp, para que tú solo tengas que confirmar o proponer alternativa. No es para todos los casos — si tu volumen de consultas de disponibilidad es bajo o cada cita requiere una conversación de discovery larga, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer en el primer mensaje sin que el cliente se vaya?",
+        "answer": "Tres es el límite práctico. Servicio, fecha y flexibilidad. Si añades más, la tasa de respuesta baja. Los datos adicionales los pides después de confirmar que hay hueco."
+      },
+      {
+        "question": "¿Qué hago si el cliente dice 'cualquier día' cuando le pregunto la fecha?",
+        "answer": "Propón tú dos opciones concretas: 'Tengo el martes a las 11 o el jueves a las 17, ¿cuál te viene mejor?' Cuando el cliente no filtra, el trabajo de filtrar es tuyo. Dar opciones cierra más rápido que pedir preferencia abierta."
+      },
+      {
+        "question": "¿Y si el cliente pregunta precio antes de confirmar disponibilidad?",
+        "answer": "Responde con un rango breve y devuelve al flujo: 'El precio depende del servicio concreto, oscila entre X y Y. Para confirmarte disponibilidad necesito saber para qué fecha y qué servicio exacto buscas.' No bloquees la conversación por el precio."
+      },
+      {
+        "question": "¿Cómo manejo la lista de espera sin que se convierta en otro caos?",
+        "answer": "Un registro simple basta: nombre, servicio, rango de fechas disponibles y canal de contacto. Cuando salga un hueco, contactas por orden. No necesitas ninguna herramienta especial para empezar."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde tras el primer mensaje?",
+        "answer": "Un recordatorio a las 24-48 horas y si no contesta, cierre amable. El que va en serio responde. No persigas."
+      },
+      {
+        "question": "¿Tiene sentido poner la disponibilidad en Stories para evitar mensajes?",
+        "answer": "Sí, como complemento. Publicar huecos disponibles en Stories o en la bio reduce consultas de disponibilidad genérica. Pero los que tienen una necesidad específica van a escribir igualmente, así que el script sigue siendo necesario."
+      },
+      {
+        "question": "¿Qué diferencia hay entre confirmar disponibilidad y agendar?",
+        "answer": "Confirmar disponibilidad es decir 'hay hueco'. Agendar es reservarlo con nombre, fecha, hora y siguiente paso (señal, confirmación, recordatorio). No son el mismo paso y mezclarlos en un solo mensaje puede generar confusión."
+      },
+      {
+        "question": "¿Cómo respondo si me escriben por Instagram preguntando disponibilidad?",
+        "answer": "Responde con el script de primer mensaje y añade el link de tu punto de entrada si tienes uno. El objetivo es que la confirmación final ocurra en WhatsApp, donde puedes guardar el contacto y seguir con contexto."
+      }
+    ]
+  },
+  {
     "slug": "como-responder-a-hola-info",
     "title": "Cómo responder a 'Hola' / 'Info' sin perder tiempo (y sin parecer seco)",
     "description": "Guía práctica con scripts y checklist para convertir mensajes vacíos como 'Hola' o 'Info' en conversaciones útiles, sin perder tiempo ni sonar frío.",
