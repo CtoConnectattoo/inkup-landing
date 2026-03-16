@@ -1,5 +1,101 @@
 [
   {
+    "slug": "como-organizar-agenda-si-eres-solo-una-persona",
+    "title": "Cómo organizar tu agenda si eres solo una persona (sin herramientas complejas)",
+    "description": "Sistema mínimo para gestionar tu agenda y los mensajes de clientes cuando trabajas solo: franjas disponibles, reglas de cambio, datos previos y un flujo que reduce interrupciones sin complicarte.",
+    "excerpt": "Organizar la agenda cuando eres una persona sola no requiere software complejo: requiere franjas fijas, reglas de cambio claras y datos mínimos antes de confirmar cualquier cita.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-organizar-agenda-si-eres-solo-una-persona.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "agenda",
+      "autonomo",
+      "gestion-consultas",
+      "organizacion",
+      "whatsapp",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Organizar la agenda cuando trabajas solo sin herramientas complejas",
+    "quickAnswer": [
+      "**Define franjas disponibles de verdad** — no disponibilidad infinita, sino huecos reales que puedes ofrecer sin improvisar cada vez.",
+      "**Establece una regla de cambio** — cuántas horas de antelación aceptas modificaciones y qué pasa si no se cumple; sin esa regla, el caos manda.",
+      "**Pide datos mínimos antes de confirmar** — servicio, fecha aproximada y contacto; sin eso, confirmar es un error a ciegas.",
+      "**Separa el tiempo de atención del tiempo de trabajo** — responder mensajes en cualquier momento destruye los dos."
+    ],
+    "oneLineDefinition": "Organizar la agenda cuando eres una persona sola es definir franjas disponibles reales, reglas de cambio y un flujo de datos mínimos previo a la confirmación, para que cada cita que entra sea viable antes de que la aceptes.",
+    "sections": [
+      "El problema real cuando gestionas la agenda tú solo",
+      "SOP de 3 pasos: el sistema mínimo viable",
+      "Checklist de implementación",
+      "Scripts para pedir datos y confirmar sin mensajes de ida y vuelta",
+      "Errores comunes y cómo corregirlos",
+      "Cuándo este sistema no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Organizar la agenda como autónomo en 3 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Documento o nota con franjas disponibles",
+        "Regla de cambio escrita",
+        "Mensaje de confirmación con datos mínimos"
+      ],
+      "steps": [
+        {
+          "name": "Define las franjas disponibles reales",
+          "text": "Decide qué días y horas puedes ofrecer sin improvisar. Escríbelo en un sitio que puedas consultar y compartir."
+        },
+        {
+          "name": "Establece la regla de cambio",
+          "text": "Decide cuántas horas de antelación aceptas modificaciones y qué ocurre si el cliente no avisa. Ponla por escrito antes de confirmar citas."
+        },
+        {
+          "name": "Recoge datos mínimos antes de confirmar",
+          "text": "Servicio exacto, fecha aproximada y contacto. Solo eso. Confirma después, no antes de tenerlos."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real cuando gestionas la agenda tú solo</h2><p>Cuando trabajas solo, la agenda no falla por falta de organización: falla porque confirmas citas sin tener la información necesaria, porque aceptas cambios sin reglas y porque respondes mensajes mientras trabajas. El resultado es el mismo siempre: huecos vacíos que no debían estarlo, huecos llenos que no podías cubrir y una sensación constante de que la agenda te controla a ti.</p><p>El problema no es el volumen. Con 10 citas semanales ya puedes tener caos si no hay un proceso mínimo. Y el proceso mínimo no necesita herramientas complejas: necesita tres decisiones que la mayoría nunca toma de forma explícita.</p><p>Si además recibes las consultas por WhatsApp e Instagram, el caos se multiplica. Antes de entrar en cómo organizar la agenda, conviene leer <a href=\"/blog/gestion-consultas-clientes/\">cómo gestionar consultas de clientes cuando te escriben por WhatsApp e Instagram</a>, porque la agenda y los mensajes son el mismo problema visto desde dos ángulos distintos.</p><h2>SOP de 3 pasos: el sistema mínimo viable</h2><p>Un SOP (procedimiento operativo estándar) no tiene que ser un documento de 20 páginas. Para una persona sola, con tres decisiones escritas tienes suficiente para reducir el 80% del caos.</p><h3>Paso 1: Define las franjas disponibles reales (no la disponibilidad ideal)</h3><p>La trampa más común es ofrecer disponibilidad infinita o dependiente del momento: &quot;dime cuándo y veo si puedo&quot;. Eso convierte cada cita en una negociación nueva. En cambio, si tienes franjas fijas que puedes ofrecer sin pensar, el proceso se vuelve predecible.</p><p>Cómo hacerlo: escribe en un sitio accesible (una nota, un documento compartido, lo que uses) los días y horas que puedes ofrecer esta semana y la próxima. No los que te gustaría: los reales. Incluye el tiempo que necesitas entre citas. Esa lista es lo único que ofreces. Si no encaja, propones lo más cercano disponible o lista de espera.</p><p>Lo contraintuitivo aquí: reducir la disponibilidad que ofreces activamente suele aumentar el porcentaje de citas que se confirman, porque el cliente toma una decisión concreta en vez de posponer indefinidamente.</p><h3>Paso 2: Establece la regla de cambio (por escrito, antes de necesitarla)</h3><p>Sin una regla de cambio explícita, cada cancelación o modificación es una negociación emocional. Con la regla escrita, es un proceso. La regla incluye: cuántas horas de antelación aceptas modificaciones, qué pasa si no se cumple (señal, sesión perdida, reubicación sin prioridad) y cómo se comunica el cambio.</p><p>No hace falta que sea rígida, pero sí que exista. La forma más sencilla de comunicarla es incluirla en el mensaje de confirmación, no cuando ya ha surgido el conflicto.</p><h3>Paso 3: Recoge datos mínimos antes de confirmar (nunca después)</h3><p>Confirmar una cita sin tener el servicio exacto, la fecha aproximada y el contacto es un error con consecuencias. O acabas preguntando después (más mensajes), o asumes información que puede estar equivocada (huecos mal asignados, preparación incorrecta).</p><p>Los datos mínimos que cambian la decisión antes de confirmar: servicio exacto, fecha aproximada con alguna flexibilidad, y un contacto válido. Solo eso. Si necesitas más para tu servicio específico, consulta la guía sobre <a href=\"/blog/datos-minimos-para-agendar-cita/\">datos mínimos para agendar una cita sin ida y vuelta</a>.</p><h2>Checklist de implementación</h2><ul><li>Escribe las franjas disponibles reales para esta semana y la próxima.</li><li>Define el tiempo mínimo entre citas (para preparación, desplazamiento o descanso).</li><li>Redacta la regla de cambio en una frase: &quot;Acepto cambios con X horas de antelación; pasado ese plazo, [consecuencia].&quot;</li><li>Crea un mensaje de confirmación que incluya: resumen del servicio, fecha y hora confirmadas, la regla de cambio y cómo contactar si hay problema.</li><li>Define los datos mínimos que pides antes de confirmar (servicio, fecha aproximada, contacto).</li><li>Elige una franja diaria para responder mensajes (no durante el trabajo operativo).</li><li>Decide qué pasa con las consultas fuera de horario: ¿respuestas automáticas, espera hasta mañana, otra cosa?</li></ul><h2>Scripts para pedir datos y confirmar sin mensajes de ida y vuelta</h2><p>El problema no es que el proceso exista: es que cuando llega un mensaje, la inercia es responder inmediatamente con lo que sea. Estos scripts reducen los mensajes de ida y vuelta a uno o dos, sin sonar frío.</p><h3>Script 1: primer mensaje para pedir datos mínimos</h3><blockquote><p>&quot;Hola, gracias por escribir. Para gestionar tu cita necesito tres datos rápidos: qué servicio buscas exactamente, qué fechas te vienen bien (con algo de margen) y tu nombre completo. Con eso te confirmo en cuanto revise agenda.&quot;</p></blockquote><h3>Script 2: confirmación con regla de cambio incluida</h3><blockquote><p>&quot;Perfecto, te confirmo cita para [servicio] el [día] a las [hora]. Si necesitas cambiar o cancelar, avisa con al menos [X horas/días] de antelación para poder reasignar el hueco. Hasta entonces, cualquier duda por aquí.&quot;</p></blockquote><h3>Script 3: respuesta fuera de franja de atención</h3><blockquote><p>&quot;Hola, he recibido tu mensaje. Reviso consultas de agenda [franja horaria]. Te respondo entonces con disponibilidad. Si es urgente, indícamelo y lo miro antes.&quot;</p></blockquote><p>Para el salto de Instagram a WhatsApp sin perder el hilo, el proceso se simplifica mucho si tienes un punto de entrada único que ya recoge los datos antes de que llegues a la conversación. Esto conecta directamente con el sistema descrito en <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a>.</p><h2>Errores comunes y cómo corregirlos</h2><ol><li><strong>Confirmar sin datos mínimos</strong> — consecuencia: preguntas después, huecos mal asignados. Corrección: no confirmas hasta tener servicio, fecha aproximada y contacto.</li><li><strong>Ofrecer disponibilidad abierta</strong> — consecuencia: cada cita es una negociación nueva, el cliente pospone. Corrección: ofrece dos o tres opciones concretas, no &quot;dime cuándo&quot;.</li><li><strong>No tener regla de cambio escrita</strong> — consecuencia: cada cancelación es un conflicto. Corrección: escríbela antes de necesitarla e inclúyela en la confirmación.</li><li><strong>Responder mensajes durante el trabajo operativo</strong> — consecuencia: interrupciones constantes, peor calidad de trabajo y de respuesta. Corrección: franja diaria de atención fija, aunque sea de 30 minutos.</li><li><strong>Usar la confirmación como primer mensaje</strong> — consecuencia: confirmas una cita que puede no encajar después. Corrección: separar &quot;recibo datos&quot; de &quot;confirmo cita&quot; en dos pasos distintos.</li><li><strong>No guardar las franjas disponibles en ningún sitio</strong> — consecuencia: improvisa cada vez, se equivoca, se solapa. Corrección: documento mínimo con disponibilidad actualizada cada semana.</li></ol><h2>Cuándo este sistema no es suficiente</h2><p>Este sistema funciona bien cuando el volumen es manejable (hasta 20-25 consultas semanales), el tipo de servicio es repetible y las franjas son relativamente estables. Hay situaciones donde se queda corto:</p><ul><li>Si recibes más de 20-30 consultas por semana y la repetición de preguntas es alta, necesitas un flujo que filtre antes de que lleguen a ti. El proceso manual tiene un techo.</li><li>Si cada servicio requiere preparación diferente y el dato que necesitas antes de confirmar varía mucho, un script genérico no es suficiente: necesitas rutas por tipo de servicio.</li><li>Si trabajas en picos (fines de semana, temporadas) y entre semana casi no hay consultas, la franja diaria puede no adaptarse bien. Tendrás que ajustar la frecuencia de revisión.</li></ul><p>Si tu problema ya supera la agenda individual y tiene que ver con el proceso completo de atención desde el primer mensaje, el siguiente paso es leer <a href=\"/blog/como-crear-proceso-atencion-para-autonomo/\">cómo crear un proceso de atención al cliente si eres autónomo sin tiempo</a>.</p><p>Cuando el volumen ya genera caos real (llegan preguntas repetidas, se mezclan canales, se pierden datos antes de llegar a WhatsApp), tiene sentido valorar una capa previa que recoja la información antes de que llegue a tu conversación. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único con un asistente conversacional que capta los datos mínimos (servicio, fecha, contacto) antes de redirigir al cliente a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas citas a la semana justifican montar un sistema de agenda?",
+        "answer": "Desde la primera cita que confirmaste sin datos suficientes o que generó un conflicto por cambio de última hora. El sistema mínimo (franjas, regla de cambio, datos previos) no es complejo y ahorra tiempo desde el inicio, independientemente del volumen."
+      },
+      {
+        "question": "¿Cómo evito que me pidan cita a cualquier hora y por cualquier canal?",
+        "answer": "Define un canal principal para gestionar citas y comunícalo en todos los puntos de contacto. Añade un mensaje de respuesta fuera de franja que explique cuándo revisas agenda. La mayoría de clientes respeta un proceso claro si se lo explicas."
+      },
+      {
+        "question": "¿Qué hago si el cliente me pide hueco y no tengo disponibilidad?",
+        "answer": "Ofrece la opción más cercana que tengas o una lista de espera con fecha estimada. No improvises fuera de tus franjas reales: comprometerte con un hueco que no tienes genera más problemas que decir que no hay disponibilidad hasta tal fecha."
+      },
+      {
+        "question": "¿Cómo comunico la política de cancelación sin sonar borde?",
+        "answer": "Inclúyela en el mensaje de confirmación, no cuando ya ha surgido el problema. Una frase concisa ('cualquier cambio con 24h de antelación para poder reasignar') en el momento de confirmar es neutra. Decirla cuando ya hay conflicto suena defensivo."
+      },
+      {
+        "question": "¿Necesito una herramienta de calendario o puedo hacerlo con lo que ya tengo?",
+        "answer": "Con una nota actualizada semanalmente con franjas disponibles y un documento con la regla de cambio ya tienes el núcleo. El calendario digital ayuda si tienes varios servicios o si compartes disponibilidad con alguien, pero no es obligatorio para empezar."
+      },
+      {
+        "question": "¿Cómo gestiono los mensajes de agenda cuando estoy trabajando y no puedo mirar el móvil?",
+        "answer": "Activa un mensaje automático que indique cuándo revisas (ejemplo: 'Reviso agenda entre las 13h y las 14h. Te respondo entonces'). Eso gestiona la expectativa sin que tengas que responder en tiempo real."
+      },
+      {
+        "question": "¿Qué pasa si el cliente insiste en una fecha que no tengo disponible?",
+        "answer": "Ofrece lista de espera con fecha concreta o la alternativa más cercana. Si insiste en algo que no tienes, esa cita no era viable de todas formas. Forzar un hueco inexistente genera más fricción después."
+      },
+      {
+        "question": "¿Es normal tardar en responder confirmaciones de cita cuando trabajas solo?",
+        "answer": "Sí, y el cliente lo acepta si hay un proceso visible. Lo que no acepta es silencio indefinido o ambigüedad. Una respuesta en la franja de atención del día siguiente con confirmación clara es mejor que una respuesta inmediata sin datos completos."
+      }
+    ]
+  },
+  {
     "slug": "que-preguntar-antes-de-dar-hueco",
     "title": "Qué preguntar antes de dar hueco (para no equivocarte)",
     "description": "Antes de ofrecer disponibilidad, necesitas saber si ese hueco realmente encaja con lo que el cliente pide. Aquí están las preguntas mínimas que evitan reservas mal dimensionadas, cancelaciones y tiempo perdido.",
