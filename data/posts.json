@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-usar-stories-para-llevar-al-link",
+    "title": "Cómo usar Stories para llevar al link y filtrar consultas",
+    "description": "Aprende a diseñar Stories de Instagram que llevan al link correcto y filtran las consultas antes de que lleguen a tu bandeja de mensajes. Sin trucos, sin menús infinitos.",
+    "excerpt": "Las Stories son el punto de entrada más infravalorado de Instagram. Usadas bien, no solo generan tráfico al link: preseleccionan qué tipo de consulta llega y con qué información.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-usar-stories-para-llevar-al-link.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "stories",
+      "link-en-bio",
+      "consultas",
+      "captacion",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Usar Stories para llevar al link y filtrar consultas en Instagram",
+    "quickAnswer": [
+      "**Una Story bien diseñada pre-cualifica** — antes de que el cliente llegue al link, ya ha decidido qué tipo de consulta tiene. Eso reduce el caos en el chat.",
+      "**El CTA de la Story debe ser específico** — no pongas 'link en bio'. Di qué encontrará allí: 'pide cita aquí', 'calcula tu precio aquí', 'reserva hueco aquí'.",
+      "**Una Story por intención, no una Story para todo** — si mezclas cita, precio e info en la misma Story, el clic llega sin contexto y pierdes el filtrado.",
+      "**La frecuencia importa más que el diseño** — una Story de texto plano publicada tres veces por semana convierte más que una pieza visual publicada una vez al mes.",
+      "**El link al que llevas debe cerrar el ciclo** — si la Story promete 'presupuesto rápido' y el link abre un formulario genérico, el filtrado se rompe ahí."
+    ],
+    "oneLineDefinition": "Usar Stories para llevar al link es diseñar cada pieza de contenido efímero de Instagram con una intención de consulta concreta, para que quien hace clic llegue con contexto al punto de entrada donde dejas sus datos antes de pasar a WhatsApp.",
+    "sections": [
+      "Qué problema resuelve una Story bien dirigida",
+      "Cómo diseñar una Story que filtra por intención",
+      "Checklist Stories + CTA",
+      "Scripts de texto para Stories (copia y adapta)",
+      "Errores que rompen el filtrado",
+      "Cuándo NO usar Stories como canal de entrada principal",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Diseñar una Story que filtra consultas en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Instagram Stories",
+        "Link de atención (bio o asistente conversacional)",
+        "Sticker de enlace"
+      ],
+      "steps": [
+        {
+          "name": "Define la intención de esa Story",
+          "text": "Decide si es para cita, presupuesto o información. Una Story, una intención."
+        },
+        {
+          "name": "Escribe el CTA específico",
+          "text": "Sustituye 'link en bio' por algo concreto: 'pide cita aquí', 'consulta disponibilidad', 'calcula tu precio'."
+        },
+        {
+          "name": "Añade el sticker de enlace con texto ancla",
+          "text": "No dejes el sticker en blanco. El texto del sticker refuerza el CTA: 'reservar', 'ver precio', 'solicitar cita'."
+        },
+        {
+          "name": "Comprueba que el link destino cierra el ciclo",
+          "text": "Si la Story dice 'presupuesto rápido', el link debe abrir un flujo que pregunte por el servicio, no una página de inicio genérica."
+        },
+        {
+          "name": "Publica con regularidad, no solo cuando tienes hueco",
+          "text": "Las Stories que generan consultas constantes se publican al menos 3 veces por semana con una intención clara cada vez."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué problema resuelve una Story bien dirigida</h2><p>Tienes Stories activas, pones el típico 'link en bio' o el sticker de enlace y la gente o no hace clic o llega al WhatsApp con un 'hola' sin más contexto. El problema no es que Instagram no funcione. Es que la Story no ha hecho su trabajo antes de que el cliente llegue a ti.</p><p>Una Story sin intención de consulta definida es un anuncio sin llamada a la acción real. Genera visibilidad, pero no filtra. Y si no filtra, el caos de mensajes genéricos sigue igual aunque tengas miles de seguidores.</p><p>El objetivo de usar Stories para llevar al link no es solo conseguir clics. Es conseguir clics de personas que ya saben qué quieren y llegan con ese contexto al punto de entrada. Eso es lo que convierte una consulta en algo gestionable.</p><h2>Cómo diseñar una Story que filtra por intención</h2><h3>Paso 1: Decide la intención antes de diseñar</h3><p>Antes de abrir la cámara o el editor, responde: ¿qué tipo de consulta quiero recibir con esta Story? Las tres intenciones que cubre casi cualquier negocio de servicios son cita o disponibilidad, presupuesto o precio, e información sobre el servicio. Una Story por intención. Si intentas cubrir las tres a la vez, el mensaje se diluye y quien hace clic no sabe qué esperar al otro lado.</p><h3>Paso 2: Construye el CTA alrededor de lo que recibe, no de lo que haces tú</h3><p>La diferencia entre 'link en bio' y 'consulta disponibilidad para esta semana' es la diferencia entre un clic genérico y un clic con intención. El CTA tiene que describir el resultado inmediato que obtiene quien hace clic, no la acción que te estás pidiendo a ti mismo.</p><p>Ejemplos concretos por sector:</p><ul><li>Tatuadora: 'Mira huecos de marzo' / 'Pide presupuesto para tu diseño' / 'Consulta mis requisitos antes de escribirme'</li><li>Estética: 'Reserva tu sesión de depilación' / 'Consulta precio de tratamiento facial' / 'Ve qué incluye el bono mensual'</li><li>Fotógrafo: 'Consulta disponibilidad para tu fecha' / 'Pide presupuesto de boda o eventos' / 'Mira qué necesito saber antes de responder'</li><li>Coach o formador: 'Solicita sesión de diagnóstico' / 'Consulta si mi programa encaja con lo que necesitas'</li></ul><h3>Paso 3: El sticker de enlace no es decoración</h3><p>El texto del sticker es el último filtro antes del clic. Si lo dejas en blanco o pones 'ver más', pierdes la oportunidad de reforzar la intención. Usa el mismo verbo del CTA: 'reservar', 'consultar precio', 'pedir cita', 'solicitar presupuesto'. Que no haya duda de qué pasa al hacer clic.</p><h3>Paso 4: El link destino tiene que cerrar el ciclo</h3><p>Este es el punto donde falla la mayoría. La Story promete una cosa y el link lleva a otra. Si la Story dice 'pide presupuesto para tu diseño', el link tiene que abrir un flujo que pregunte por el servicio, el estilo, la zona y la fecha, no la página de inicio de tu web ni un WhatsApp en blanco. Si el destino no recoge esa intención, el filtrado que hizo la Story se pierde al segundo.</p><p>Puedes ver cómo estructurar ese punto de entrada en el artículo sobre <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente: cómo convertirlo en un sistema (no en un menú)</a>.</p><h2>Checklist Stories + CTA</h2><ul><li>La Story tiene una sola intención de consulta definida (cita, precio o info).</li><li>El texto de la Story describe lo que recibe el usuario, no lo que haces tú.</li><li>El sticker de enlace tiene texto ancla con el mismo verbo del CTA.</li><li>El link destino está alineado con la intención de esa Story concreta.</li><li>El destino del link recoge datos mínimos antes de redirigir a WhatsApp.</li><li>La Story no mezcla más de una intención ni más de un CTA.</li><li>Publicas Stories con intención de consulta al menos 3 veces por semana.</li><li>Las Stories de producto o proceso incluyen un CTA de consulta al final, no al principio.</li></ul><h2>Scripts de texto para Stories (copia y adapta)</h2><h3>Script 1 — Story de disponibilidad (cita o hueco)</h3><blockquote><p>Quedan 3 huecos esta semana.<br>Si quieres uno, dime cuándo puedes y qué servicio buscas.<br>[ sticker: Consultar disponibilidad ]</p></blockquote><h3>Script 2 — Story de presupuesto</h3><blockquote><p>¿Cuánto cuesta [servicio]?<br>Depende de 3 cosas. Cuéntamelas y te digo una cifra real en menos de 24h.<br>[ sticker: Pedir presupuesto ]</p></blockquote><h3>Script 3 — Story educativa con CTA al final</h3><blockquote><p>Esto es lo que necesito saber antes de darte precio:<br>— Qué zona / servicio exacto<br>— Cuándo lo necesitas<br>— Si tienes referencias o referencias previas<br>Con eso te respondo en un mensaje, no en diez.<br>[ sticker: Empezar aquí ]</p></blockquote><h3>Script 4 — Story de filtrado de requisitos</h3><blockquote><p>Antes de escribirme, comprueba si encajamos.<br>Hay un par de preguntas que me ayudan a responderte bien.<br>[ sticker: Ver si encajamos ]</p></blockquote><p>Este último formato es especialmente útil si recibes muchas consultas de personas que no cumplen requisitos mínimos o que solo miran precio sin intención real. Para entender cómo conectar este flujo con una respuesta automática inicial, puedes leer sobre <a href=\"/blog/auto-respuesta-instagram-que-convierte/\">auto-respuesta en Instagram que convierte (y no espanta)</a>.</p><h2>Errores que rompen el filtrado</h2><ol><li><strong>CTA genérico ('link en bio', 'más info aquí')</strong> — No dice qué encontrará el usuario. Consecuencia: clics sin intención, consultas sin contexto. Corrección: CTA con verbo de acción y resultado concreto.</li><li><strong>Una sola Story para todas las intenciones</strong> — 'Citas, precios e info, todo en el link de bio' no filtra nada. Consecuencia: el filtrado lo tienes que hacer tú a mano luego. Corrección: una Story por intención, publicadas en días distintos.</li><li><strong>Link que lleva a WhatsApp en blanco</strong> — El cliente hace clic, se abre WhatsApp sin contexto y escribe 'hola'. Consecuencia: vuelves al punto de partida. Corrección: el link debe llevar a un flujo que recoja datos mínimos antes de redirigir al chat.</li><li><strong>Sticker de enlace sin texto ancla</strong> — El sticker aparece con el texto por defecto o en blanco. Consecuencia: fricción innecesaria, el usuario no sabe si vale la pena hacer clic. Corrección: personaliza siempre el texto del sticker.</li><li><strong>Stories solo cuando tienes tiempo libre</strong> — Una Story al mes no construye un canal de entrada. Consecuencia: flujo de consultas irregular e impredecible. Corrección: planifica al menos 3 Stories con intención de consulta por semana, aunque sean de texto plano.</li><li><strong>No testear que el link funciona antes de publicar</strong> — Parece obvio. Ocurre con frecuencia. Consecuencia: Stories activas que llevan a una página rota o a un flujo mal configurado. Corrección: haz clic tú mismo desde el móvil antes de publicar.</li></ol><h2>Cuándo NO usar Stories como canal de entrada principal</h2><ul><li>Si tu servicio tiene un proceso de venta largo y cada caso es completamente distinto, una Story que filtra por intención puede cortar demasiado pronto conversaciones que necesitan arrancar con una llamada o reunión.</li><li>Si tu audiencia en Instagram es pequeña y el volumen de consultas entrantes es bajo, el problema no es el filtrado sino la captación. En ese caso, el sistema de filtrado puede esperar.</li><li>Si el tipo de cliente que te convierte no está en Instagram (algunos sectores B2B, clientes de edad avanzada, segmentos que llegan por recomendación directa), optimizar Stories no es prioritario.</li></ul><p>Dicho esto, para la mayoría de negocios de servicios locales con presencia activa en Instagram, las Stories son el canal de distribución más directo hacia el link porque tienen menos competencia que el feed y permiten CTAs directos con sticker de enlace.</p><h2>Cómo encaja todo esto en un flujo real</h2><p>El recorrido que funciona es: Story con intención clara → clic en sticker → link que recoge datos mínimos según la intención → redirección a WhatsApp con contexto. No es complicado. Lo que lo rompe es cualquier punto donde se pierde la intención que inició el recorrido.</p><p>Para ver cómo conectar la Story con el flujo completo de DM a WhatsApp, el artículo sobre <a href=\"/blog/flujo-dm-link-whatsapp/\">flujo DM → link → WhatsApp: el sistema más simple para ordenar consultas</a> lo explica paso a paso. Y si quieres entender cómo automatizar la parte de mensajes sin perder el tono, puedes consultar también <a href=\"/blog/automatizar-mensajes-instagram-negocio/\">cómo automatizar mensajes en Instagram para un negocio local (sin espantar clientes)</a>.</p><p>Cuando el volumen de consultas justifica estructurar esto sin montarlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link único con un asistente que recoge los datos mínimos según la intención y redirige a WhatsApp con el contexto ya capturado. No es para todos los casos: si tu volumen es bajo o cada consulta requiere una conversación larga desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas Stories por semana necesito publicar para que el sistema funcione?",
+        "answer": "No hay un número mágico, pero con menos de 3 Stories por semana el flujo de consultas es demasiado irregular para notar un patrón. Lo importante no es la frecuencia exacta sino que cada Story tenga una intención de consulta definida, no que rellenes por publicar."
+      },
+      {
+        "question": "¿El sticker de enlace funciona para cualquier cuenta o necesito un mínimo de seguidores?",
+        "answer": "El sticker de enlace está disponible para todas las cuentas de Instagram desde hace tiempo, sin mínimo de seguidores. Si no lo ves, comprueba que tienes la aplicación actualizada y que el perfil está configurado como cuenta de creador o empresa."
+      },
+      {
+        "question": "¿Qué hago si la gente ve las Stories pero no hace clic?",
+        "answer": "El problema casi siempre está en el CTA. Si el sticker dice 'ver más' o 'link en bio', no hay razón clara para hacer clic. Prueba a cambiar el texto del CTA a algo concreto ('pedir cita', 'consultar precio') y coloca el sticker en la primera mitad de la Story, no al final."
+      },
+      {
+        "question": "¿Mejor llevar desde la Story directamente a WhatsApp o a un formulario previo?",
+        "answer": "Depende del tipo de consulta. Si llevas directo a WhatsApp sin que el usuario haya dado ningún dato, llegarás con el contexto en blanco. Un paso intermedio que recoja 3 o 4 datos mínimos hace que la conversación de WhatsApp empiece con mucho más contexto y sea más corta."
+      },
+      {
+        "question": "¿Puedo usar la misma Story para cita y para presupuesto a la vez?",
+        "answer": "Puedes, pero pierdes el filtrado. Si mezclas dos intenciones en una Story, quien hace clic no sabe qué va a encontrar y el link destino no puede estar optimizado para las dos cosas a la vez. Es mejor publicarlas por separado aunque sea con un día de diferencia."
+      },
+      {
+        "question": "¿Funciona también para servicios con precio fijo, no solo para los que tienen precio variable?",
+        "answer": "Sí. Incluso con precio fijo, hay datos que necesitas antes de confirmar disponibilidad: fecha, tipo exacto de servicio, condiciones o requisitos previos. La Story puede filtrar por disponibilidad o por idoneidad, no solo por precio."
+      },
+      {
+        "question": "¿Qué hago si alguien hace clic, rellena el formulario y luego me escribe igual por DM?",
+        "answer": "Ocurre, especialmente al principio. Responde siempre desde la información que ya tienes del formulario y redirige: 'Ya tengo tus datos del link, te respondo por aquí con todo.' Con el tiempo, el patrón de que el link es el canal útil se asienta."
+      },
+      {
+        "question": "¿Vale la pena hacer Stories de texto plano o solo las visuales generan clics?",
+        "answer": "Las Stories de texto plano que explican algo concreto (un requisito, un precio, una condición) suelen convertir igual o mejor que las visuales porque el mensaje es más directo. El diseño ayuda a retener la atención, pero no compensa un CTA vago."
+      }
+    ]
+  },
+  {
     "slug": "como-reducir-opciones-en-link-en-bio",
     "title": "Cuántas opciones poner en tu link en bio (regla práctica)",
     "description": "Si tu link en bio tiene más de tres opciones, probablemente estás perdiendo conversiones sin saberlo. Aprende cuántas rutas poner, cómo nombrarlas y por qué menos opciones convierten mejor en negocios de servicios.",
