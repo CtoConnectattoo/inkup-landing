@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-separar-consultas-info-vs-cita",
+    "title": "Cómo separar consultas de \"info\" vs \"cita\" para no perder tiempo",
+    "description": "Aprende a diseñar dos rutas distintas para consultas de información y solicitudes de cita: datos diferentes, respuestas diferentes, sin conversaciones eternas.",
+    "excerpt": "Separar \"info\" de \"cita\" es crear dos rutas con preguntas distintas: una para resolver dudas en un mensaje, otra para agendar con contexto. Sin esa separación, cada consulta se convierte en una conversación larga que no lleva a ningún sitio.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-separar-consultas-info-vs-cita.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "gestion-consultas",
+      "rutas-intencion",
+      "citas",
+      "whatsapp",
+      "instagram",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Separar consultas de info vs cita en servicios",
+    "quickAnswer": [
+      "**Cada intención necesita datos distintos** — quien busca información necesita contexto para que tu respuesta sea útil; quien quiere cita necesita fecha, servicio y disponibilidad antes de avanzar.",
+      "**No mezcles las dos rutas en el mismo chat** — si tratas igual a quien pregunta \"¿cuánto cuesta?\" y a quien dice \"quiero reservar\", alargas innecesariamente ambas conversaciones.",
+      "**La ruta info cierra en un mensaje** — si tienes los datos mínimos (qué servicio, para quién, contexto básico), puedes responder o derivar sin ir y venir.",
+      "**La ruta cita cierra con una acción concreta** — fecha propuesta, confirmación o enlace de reserva. Sin ese cierre, la conversación queda abierta indefinidamente.",
+      "**El primer mensaje del cliente no determina la ruta** — \"hola\" o \"info\" no te dice nada; una pregunta de cualificación inicial sí."
+    ],
+    "oneLineDefinition": "Separar consultas de \"info\" y \"cita\" es diseñar dos flujos con preguntas y cierres distintos para que cada conversación avance hacia una acción concreta sin intercambiar mensajes innecesarios.",
+    "sections": [
+      "Por qué mezclar info y cita destruye tu tiempo",
+      "Las dos rutas: qué datos pide cada una",
+      "Checklist de implementación",
+      "Scripts para cada ruta",
+      "Errores comunes al separar intenciones",
+      "Cuándo esta separación no tiene sentido",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Separar consultas de info vs cita en 5 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Primer mensaje de cualificación",
+        "Preguntas mínimas por ruta",
+        "Canal de cierre definido"
+      ],
+      "steps": [
+        {
+          "name": "Identifica qué intención tiene cada consulta",
+          "text": "Clasifica tus últimos 20 mensajes: ¿buscaban información o querían reservar? Verás el patrón en 10 minutos."
+        },
+        {
+          "name": "Define los datos mínimos para la ruta info",
+          "text": "Qué servicio, para quién y contexto básico. Con eso puedes responder en un mensaje o descartar."
+        },
+        {
+          "name": "Define los datos mínimos para la ruta cita",
+          "text": "Servicio exacto, fecha aproximada y cualquier requisito previo. Sin esto no puedes agendar nada concreto."
+        },
+        {
+          "name": "Crea un primer mensaje que bifurque la conversación",
+          "text": "Una sola pregunta inicial que lleve al cliente a elegir ruta: info, cita o presupuesto."
+        },
+        {
+          "name": "Define el cierre de cada ruta",
+          "text": "Info cierra con respuesta completa en un mensaje. Cita cierra con fecha confirmada o enlace de reserva."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué mezclar info y cita destruye tu tiempo</h2><p>Recibes un \"info\" por Instagram y no sabes si quiere saber el precio, si tiene una duda técnica o si está a punto de reservar. Preguntas. Te responde con otra pregunta. Tú vuelves a preguntar. Diez mensajes después ni tú ni el cliente habéis avanzado nada.</p><p>El problema no es que la gente pregunte mal. Es que sin rutas separadas, cualquier mensaje entrante se convierte en una conversación abierta donde tú llevas el peso de cualificar, informar y agendar al mismo tiempo. Eso agota y no escala.</p><p>Quien busca información necesita una respuesta clara y rápida. Quien quiere cita necesita que le confirmes disponibilidad y le des un paso concreto. Son dos acciones distintas, con datos distintos y cierres distintos. Si las mezclas, ninguna funciona bien.</p><p>Lo contraintuitivo: separar en dos rutas no complica el proceso para el cliente, lo simplifica. Porque en lugar de recibir preguntas genéricas, recibe exactamente lo que necesita para avanzar.</p><h2>Las dos rutas: qué datos pide cada una</h2><p>Antes de diseñar nada, tienes que tener claro qué necesitas saber en cada caso para poder responder o agendar sin volver a preguntar.</p><h3>Ruta info: lo que necesitas para responder en un mensaje</h3><p>Para resolver una duda de información, normalmente necesitas:</p><ul><li>Qué servicio o tema concreto le interesa.</li><li>Para quién es (si hay requisitos que dependen del perfil).</li><li>Contexto mínimo que cambia la respuesta (zona, fecha orientativa, situación actual).</li></ul><p>Con eso puedes responder con precisión o, si no encaja, descartarlo sin alargar la conversación. Sin esos datos, cualquier respuesta genérica genera más preguntas.</p><h3>Ruta cita: lo que necesitas para agendar sin ir y venir</h3><p>Para agendar, el mínimo es distinto:</p><ul><li>Servicio exacto (no &quot;algo de estética&quot;, sino cuál).</li><li>Fecha aproximada o rango de disponibilidad.</li><li>Cualquier requisito previo que condicione si puedes o no atenderle (tipo de piel, estado del tatuaje, historial, etc.).</li><li>Datos de contacto para confirmar.</li></ul><p>Sin fecha no hay agenda. Sin servicio exacto no sabes cuánto tiempo reservar. Si no cumple requisitos, agendar es un error. <a href=&quot;/blog/agendar-citas-sin-mensajes/&quot;>Agendar citas sin intercambiar 20 mensajes depende exactamente de esto</a>: tener esos datos antes de abrir el calendario.</p><h3>Tabla: intención — datos — salida</h3><table><thead><tr><th>Intención</th><th>Datos mínimos</th><th>Salida esperada</th><th>Qué pasa si no los tienes</th></tr></thead><tbody><tr><td>Info</td><td>Servicio, contexto básico, para quién</td><td>Respuesta completa en 1 mensaje</td><td>Respuesta genérica que genera más preguntas</td></tr><tr><td>Cita</td><td>Servicio exacto, fecha, requisitos previos, contacto</td><td>Fecha confirmada o enlace de reserva</td><td>Conversación abierta sin cierre posible</td></tr></tbody></table><h2>Checklist de implementación</h2><p>Puedes montar esto en menos de una hora si tienes claro qué servicios ofreces y cuáles son tus preguntas habituales.</p><ol><li>Revisa tus últimas 20 conversaciones y clasifícalas: info o cita.</li><li>Anota los datos que pediste en cada caso y cuáles eran realmente necesarios.</li><li>Escribe los datos mínimos para la ruta info (máximo 3).</li><li>Escribe los datos mínimos para la ruta cita (máximo 4-5).</li><li>Diseña un primer mensaje que pregunte la intención sin sonar a interrogatorio.</li><li>Crea una respuesta tipo para info que incluya la pregunta de cualificación.</li><li>Crea una respuesta tipo para cita que pida los datos necesarios en un solo mensaje.</li><li>Define el cierre de cada ruta: qué mensaje envías cuando tienes todo.</li><li>Prueba con los próximos 10 mensajes reales y ajusta lo que no funcione.</li></ol><p>Si usas un <a href=&quot;/blog/link-en-bio-para-reservas-vs-presupuestos/&quot;>link en bio para separar reservas y presupuestos desde el principio</a>, puedes hacer que el cliente elija ruta antes incluso de escribirte, lo que elimina el paso de cualificación inicial.</p><h2>Scripts para cada ruta</h2><h3>Script 1: primer mensaje de cualificación (para DM o WhatsApp)</h3><blockquote><p>&quot;¡Hola! Para ayudarte mejor: ¿tienes una duda concreta sobre el servicio o quieres pedir cita? Dime cuál y te respondo rápido.&quot;</p></blockquote><p>Funciona porque no es un menú de opciones, es una pregunta directa. La mayoría responde en menos de dos opciones.</p><h3>Script 2: ruta info — pedir datos mínimos</h3><blockquote><p>&quot;Cuéntame un poco más: ¿qué servicio te interesa y para cuándo lo estarías buscando? Con eso te doy la información exacta que necesitas.&quot;</p></blockquote><p>No pides diez datos. Solo los que cambian tu respuesta. Si no cambían nada, no los pides.</p><h3>Script 3: ruta info — cierre en un mensaje</h3><blockquote><p>&quot;El servicio X tiene [precio/condición/requisito]. Si te encaja y quieres agenda, dímelo y miramos disponibilidad. Si tienes alguna duda más, pregunta.&quot;</p></blockquote><p>La clave: ofreces el siguiente paso natural (cita) sin presionar. El que va en serio lo pide solo.</p><h3>Script 4: ruta cita — pedir datos para agendar</h3><blockquote><p>&quot;Para mirarte hueco necesito saber: qué servicio exacto buscas, para cuándo aproximadamente y si tienes alguna condición previa que deba conocer. Con eso compruebo disponibilidad.&quot;</p></blockquote><p>Esto elimina el &quot;¿tenéis para la semana que viene?&quot; sin fecha, sin servicio y sin nada. Esa pregunta, sin contexto, no se puede responder.</p><h3>Script 5: ruta cita — cierre con fecha o enlace</h3><blockquote><p>&quot;Tengo disponibilidad el [día] a las [hora] o el [día] a las [hora]. ¿Cuál te viene mejor? Te confirmo en cuanto elijas.&quot;</p></blockquote><p>Dos opciones, no diez. Elige y cierra. Si ninguna sirve, propones una alternativa o lista de espera.</p><h2>Errores comunes al separar intenciones</h2><ol><li><strong>Crear un menú con demasiadas opciones</strong> — Si el primer mensaje tiene cinco rutas, nadie elige. Dos o tres máximo. Corrección: info, cita, presupuesto. Todo lo demás entra en una de esas tres.</li><li><strong>Pedir los mismos datos en ambas rutas</strong> — Si tratas igual una consulta de información y una solicitud de cita, no has separado nada. Corrección: lista de datos distinta para cada ruta.</li><li><strong>No definir el cierre de la ruta info</strong> — Muchas conversaciones de info se quedan abiertas porque no hay un mensaje final que dé por resuelta la duda. Corrección: último mensaje con resumen y puerta abierta para cita.</li><li><strong>Confundir &quot;presupuesto&quot; con &quot;info&quot;</strong> — Pedir precio no es lo mismo que pedir información técnica. El presupuesto necesita sus propios datos (servicio, complejidad, zona). Si lo metes en info, las respuestas son vagas. Corrección: tercera ruta para presupuesto si tu servicio tiene precio variable.</li><li><strong>Usar el mismo script para WhatsApp e Instagram DM</strong> — El tono y la extensión que funciona en un canal puede resultar excesivo o frío en el otro. Corrección: mismo contenido, microcopy adaptado al canal.</li></ol><h2>Cuándo esta separación no tiene sentido</h2><ul><li>Si recibes menos de cinco consultas al día y cada una es distinta, montar rutas formales probablemente no vale el tiempo.</li><li>Si tu servicio requiere una conversación exploratoria larga antes de poder clasificar la intención, el filtrado previo puede espantar al cliente antes de empezar.</li><li>Si vendes un solo servicio con precio fijo y sin requisitos, la distinción info/cita se aplana: casi todo es cita directa.</li></ul><p>En esos casos, un primer mensaje bien escrito que pida los datos mínimos es suficiente sin necesidad de rutas formales.</p><p>Cuando el volumen crece y el caos aparece, <a href=&quot;/blog/flujo-dm-link-whatsapp/&quot;>el flujo DM — link — WhatsApp</a> permite implementar estas rutas sin tener que gestionar la bifurcación manualmente en cada conversación.</p><h2>Cómo encaja una herramienta en este proceso</h2><p>Cuando tienes volumen suficiente como para que separar intenciones a mano sea lento, la solución es que el cliente elija ruta antes de escribirte. Eso requiere un punto de entrada único que haga las preguntas mínimas por ruta y redirija al chat final con el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link con asistente conversacional que capta la intención del cliente (info, cita, presupuesto), recoge los datos mínimos de cada ruta y redirige a WhatsApp con el contexto listo. No es para todos los casos — si tu volumen es bajo o cada consulta es única desde el principio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cómo sé si alguien busca info o quiere cita si solo me escribe \"hola\"?",
+        "answer": "No lo sabes, y no tienes que adivinarlo. Un primer mensaje que pregunte directamente la intención («¿tienes una duda o quieres pedir cita?») te da la respuesta en un paso. La mayoría contesta en pocas palabras."
+      },
+      {
+        "question": "¿Qué hago si alguien empieza pidiendo info y luego quiere cita en la misma conversación?",
+        "answer": "Es lo normal y no pasa nada. Cuando detectas que quiere agendar, cambias al script de cita y pides los datos que te faltan. Lo importante es no mezclar las preguntas de ambas rutas desde el principio."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para la ruta cita?",
+        "answer": "Más de cinco en un solo mensaje es mucho. Pide solo lo que necesitas para abrir el calendario: servicio, fecha aproximada y cualquier requisito que condicione si puedes atenderle."
+      },
+      {
+        "question": "¿Tengo que tener una tercera ruta para presupuesto o entra en info?",
+        "answer": "Depende de si tu precio varía. Si el precio es fijo y no cambia según el cliente, entra en info. Si varía según servicio, zona, complejidad o tiempo, merece ruta propia porque los datos que necesitas son distintos."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde a las preguntas de cualificación?",
+        "answer": "Después de dos intentos sin respuesta, cierre amable y guardado. El que va en serio responde. Perseguir a quien no contesta consume tiempo sin resultado."
+      },
+      {
+        "question": "¿Funciona esto igual en Instagram DM que en WhatsApp?",
+        "answer": "La lógica es la misma, pero el tono y la extensión se adaptan. En Instagram el mensaje puede ser más corto y directo. En WhatsApp puedes ir un poco más al detalle. El contenido de las preguntas no cambia."
+      },
+      {
+        "question": "¿Cómo cierro la conversación de info sin que quede abierta para siempre?",
+        "answer": "Último mensaje con resumen de la información dada y una puerta clara para el siguiente paso: «Si quieres cita, dímelo y miramos disponibilidad». Con eso queda cerrada sin cortar el flujo."
+      },
+      {
+        "question": "¿Puedo usar el mismo script si trabajo solo o debo adaptarlo si somos varios?",
+        "answer": "Si sois varios, el script compartido es más importante, no menos. Un documento con los dos scripts por ruta evita que cada persona responda distinto y que el cliente reciba mensajes inconsistentes según quién conteste."
+      }
+    ]
+  },
+  {
     "slug": "como-gestionar-cambios-cancelaciones",
     "title": "Cómo gestionar cambios y cancelaciones sin caos (plantilla + reglas)",
     "description": "Protocolo práctico para gestionar cambios y cancelaciones de cita en negocios de servicios: reglas de plazo, plantilla de reprogramación y scripts para cerrar en 1–2 mensajes sin perder tiempo.",
