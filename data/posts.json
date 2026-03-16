@@ -1,5 +1,106 @@
 [
   {
+    "slug": "ejemplos-flujos-faq-por-sector",
+    "title": "Ejemplos de flujos de FAQs por sector (tatuaje, estética, clínica)",
+    "description": "Ejemplos reales de flujos de FAQs para negocios de tatuaje, estética y clínica: qué preguntas van primero, cómo ordenarlas y qué responder antes de pasar al chat.",
+    "excerpt": "Un flujo de FAQs no es un menú genérico. Es una secuencia específica por sector: primero resuelve lo que siempre preguntan, luego pide los datos que cambian tu respuesta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/ejemplos-flujos-faq-por-sector.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "8 min",
+    "tags": [
+      "flujos-faq",
+      "atencion-clientes",
+      "tatuaje",
+      "estetica",
+      "clinica",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Flujos de FAQs por sector: tatuaje, estética y clínica",
+    "quickAnswer": [
+      "**Primero responde, luego pide** — Resuelve la duda más repetida antes de solicitar datos. El cliente que ya tiene respuesta a lo básico está más dispuesto a dar información.",
+      "**Cada sector tiene sus preguntas críticas** — En tatuaje es el tamaño y zona; en estética el tipo de piel y tratamiento anterior; en clínica el motivo de consulta y si es primera vez.",
+      "**Tres pasos máximo antes del chat** — FAQ breve, pregunta de cualificación, redirección a WhatsApp con contexto. Más pasos aumentan el abandono.",
+      "**El flujo filtra, no interroga** — Si el cliente siente que le están poniendo trabas, se va. El tono y el orden importan tanto como las preguntas en sí."
+    ],
+    "oneLineDefinition": "Un flujo de FAQs por sector es una secuencia ordenada de respuestas y preguntas mínimas adaptada al tipo de negocio, diseñada para resolver dudas recurrentes y capturar datos clave antes de pasar a la conversación directa.",
+    "sections": [
+      "Por qué el flujo de FAQs cambia según el sector",
+      "Estructura base de un flujo de FAQs (3 capas)",
+      "Ejemplo de flujo: estudio de tatuaje",
+      "Ejemplo de flujo: centro de estética",
+      "Ejemplo de flujo: clínica o consulta médica",
+      "Tabla comparativa por sector",
+      "Errores frecuentes al montar estos flujos",
+      "Cuándo este enfoque no aplica"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Montar un flujo de FAQs por sector en 4 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Lista de preguntas repetidas del último mes",
+        "Canal final definido (WhatsApp)",
+        "Plantilla de mensaje de bienvenida"
+      ],
+      "steps": [
+        {
+          "name": "Identifica las 5 preguntas más repetidas de tu sector",
+          "text": "Revisa los últimos 30 días de mensajes. Apunta las que aparecen más de 3 veces. Esas van en la capa de FAQs."
+        },
+        {
+          "name": "Define los 3 datos mínimos que cambian tu respuesta",
+          "text": "Para tatuaje: zona y tamaño. Para estética: tipo de tratamiento y piel. Para clínica: motivo y si es primera visita. Solo esos, nada más."
+        },
+        {
+          "name": "Diseña la secuencia: FAQ primero, pregunta después",
+          "text": "Responde lo básico, luego pide el dato mínimo, luego redirige. No al revés."
+        },
+        {
+          "name": "Añade microcopy que explique por qué preguntas",
+          "text": "Una frase como 'para darte fecha disponible necesito saber la zona aproximada' reduce el abandono más que cualquier diseño."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el flujo de FAQs cambia según el sector</h2><p>Te llegan mensajes que siempre preguntan lo mismo, pero lo que preguntan depende de tu negocio. Un estudio de tatuaje recibe 'cuánto cuesta un tattoo en el antebrazo'. Una clínica recibe '¿tenéis visita sin seguro?'. Un centro de estética recibe '¿el láser duele?'. Si montas un flujo genérico, das respuestas que no encajan y pierdes al cliente antes de empezar.</p><p>El flujo de FAQs no es un menú de opciones. Es una secuencia pensada: primero resuelves lo que siempre preguntan, luego capturas lo mínimo que necesitas para dar una respuesta útil, y solo entonces redireccionas a la conversación real. <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">Reducir preguntas repetidas sin sonar robótico</a> depende precisamente de que el flujo esté calibrado para tu sector, no copiado de otro.</p><h2>Estructura base de un flujo de FAQs (3 capas)</h2><p>Independientemente del sector, la estructura que funciona tiene siempre tres capas:</p><ol><li><strong>Capa FAQ</strong>: responde las 3-5 preguntas más repetidas con respuestas cortas y cerradas. Nada de párrafos largos.</li><li><strong>Capa de cualificación</strong>: pide los 2-3 datos que cambian lo que vas a responder. Con microcopy que explica por qué los pides.</li><li><strong>Capa de redirección</strong>: envía al cliente a WhatsApp (u otro canal final) con el contexto ya recogido. Un mensaje preformateado que resume lo que respondió.</li></ol><p>Esta estructura es la misma para todos los sectores. Lo que cambia es el contenido de cada capa.</p><h2>Ejemplo de flujo: estudio de tatuaje</h2><h3>Capa FAQ (lo que siempre preguntan)</h3><ul><li><strong>¿Cuánto cuesta un tatuaje?</strong> — Los precios dependen del tamaño, zona y complejidad del diseño. El mínimo de sesión es [X euros]. Para darte precio exacto necesito ver el diseño o referencia.</li><li><strong>¿Hacéis diseños propios o traéis el diseño?</strong> — Hacemos diseño propio incluido en el presupuesto. Si traes referencia, la adaptamos.</li><li><strong>¿Cuánto tiempo de antelación hay que reservar?</strong> — La lista de espera actual es de aproximadamente [X semanas]. Si tienes fechas flexibles, suele haber huecos antes.</li><li><strong>¿Qué pasa si es mi primer tatuaje?</strong> — En la cita previa resolvemos dudas sobre cuidados, sensaciones y zonas recomendadas para empezar.</li></ul><h3>Capa de cualificación</h3><p>Después de las FAQs, el flujo pregunta:</p><blockquote><p>&quot;Para preparar tu presupuesto necesito tres datos rápidos: zona del cuerpo, tamaño aproximado (pequeño/medio/grande) y si tienes referencia o quieres diseño desde cero.&quot;</p></blockquote><h3>Capa de redirección</h3><p>El cliente llega a WhatsApp con un mensaje preformateado del tipo: &quot;Hola, me interesa un tatuaje en [zona], tamaño [X], con diseño [propio/referencia]. ¿Podéis darme presupuesto?&quot;</p><p>Tú recibes contexto. No empiezas desde cero.</p><h2>Ejemplo de flujo: centro de estética</h2><h3>Capa FAQ (lo que siempre preguntan)</h3><ul><li><strong>¿El láser de depilación duele?</strong> — Hay una sensación de calor y pequeño impacto. La mayoría lo describe como tolerable. Depende de la zona y el tipo de piel.</li><li><strong>¿Cuántas sesiones necesito?</strong> — Entre 6 y 10 de media, dependiendo de la zona y el vello. En la primera valoración hacemos estimación personalizada.</li><li><strong>¿Puedo venir si tengo la piel bronceada?</strong> — No recomendamos el tratamiento con piel bronceada o post-exposición solar reciente. Hay que esperar al menos 4 semanas.</li><li><strong>¿Hacéis valoración gratuita?</strong> — Sí. La primera visita es una valoración sin coste donde evaluamos tu caso y te damos el plan de sesiones.</li></ul><h3>Capa de cualificación</h3><blockquote><p>&quot;Para orientarte mejor sobre sesiones y precio, necesito saber: zona o zonas que te interesan, tipo de piel (clara/morena/oscura) y si has hecho antes algún tratamiento de depilación láser.&quot;</p></blockquote><h3>Capa de redirección</h3><p>El cliente llega a WhatsApp indicando zona, tipo de piel y si es primera vez. La persona que atiende ya sabe si el caso encaja o necesita derivar antes de dedicar tiempo a la conversación.</p><p>Si quieres ver cómo estructurar las preguntas de cualificación para distintos servicios, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">las plantillas por sector y servicio</a> dan ejemplos concretos con los datos que realmente cambian la decisión.</p><h2>Ejemplo de flujo: clínica o consulta médica</h2><h3>Capa FAQ (lo que siempre preguntan)</h3><ul><li><strong>¿Trabajáis con seguro médico?</strong> — Trabajamos con [X aseguradoras] y también con pago privado. Puedes consultar tu cobertura antes de venir.</li><li><strong>¿Cuánto tarda una primera visita?</strong> — Entre 30 y 45 minutos, dependiendo del motivo de consulta.</li><li><strong>¿Hay que pedir cita o se puede ir sin ella?</strong> — Solo con cita previa. No atendemos sin cita salvo urgencias.</li><li><strong>¿Qué debo traer a la primera visita?</strong> — DNI, tarjeta sanitaria o de seguro, y cualquier informe o analítica reciente relacionada con el motivo de consulta.</li></ul><h3>Capa de cualificación</h3><blockquote><p>&quot;Para buscarte la cita más adecuada necesito saber: especialidad o motivo de consulta, si es primera visita o seguimiento, y si tienes seguro o prefieres privado.&quot;</p></blockquote><h3>Capa de redirección</h3><p>El cliente llega a WhatsApp con motivo de consulta, tipo de visita y cobertura ya indicados. El administrativo no tiene que hacer tres rondas de preguntas antes de buscar hueco en la agenda.</p><h2>Tabla comparativa por sector</h2><table><thead><tr><th>Sector</th><th>FAQ más repetida</th><th>Datos mínimos de cualificación</th><th>Lo que cambia en la respuesta</th></tr></thead><tbody><tr><td>Tatuaje</td><td>¿Cuánto cuesta?</td><td>Zona, tamaño, diseño propio/referencia</td><td>Presupuesto y disponibilidad de artista</td></tr><tr><td>Estética</td><td>¿Cuántas sesiones necesito?</td><td>Zona, tipo de piel, tratamiento previo</td><td>Plan de sesiones y precio estimado</td></tr><tr><td>Clínica</td><td>¿Trabajáis con mi seguro?</td><td>Especialidad, tipo de visita, cobertura</td><td>Agenda disponible y profesional asignado</td></tr></tbody></table><h2>Errores frecuentes al montar estos flujos</h2><ol><li><strong>Poner la pregunta de cualificación antes de la FAQ</strong> — El cliente no ha recibido nada todavía y ya le estás pidiendo datos. Resultado: abandono. Solución: FAQ primero, siempre.</li><li><strong>Usar lenguaje técnico en la capa de FAQ</strong> — En estética, &quot;fototipo cutáneo&quot; no lo entiende la mayoría. &quot;Tipo de piel (clara/morena/oscura)&quot; sí. Adapta el vocabulario al cliente, no al sector.</li><li><strong>Hacer la capa de cualificación demasiado larga</strong> — Más de 3 preguntas en esta fase multiplica el abandono. Si necesitas más datos, pídelos en la conversación de WhatsApp.</li><li><strong>No explicar por qué preguntas</strong> — &quot;¿Tienes la piel bronceada?&quot; sin contexto suena a interrogatorio. &quot;El láser no se aplica con piel bronceada, por eso lo pregunto&quot; genera confianza.</li><li><strong>No tener respuesta para el 'no encaja'</strong> — Si el cliente no cumple requisitos (bronceado reciente, fuera de cobertura, etc.), el flujo debe tener una salida amable: &quot;en este momento no podemos ayudarte porque X, pero cuando Y puedes volver a escribirnos&quot;.</li><li><strong>Copiar el flujo de otro sector sin adaptarlo</strong> — Lo que funciona en tatuaje (zona + tamaño) no aplica en clínica. Los datos mínimos son distintos porque la decisión que habilitan es distinta.</li></ol><h2>Cuándo este enfoque no aplica</h2><ul><li>Cuando cada consulta es genuinamente distinta y no hay patrón de preguntas repetidas. En ese caso, el flujo estructurado añade fricción sin valor.</li><li>Cuando el servicio requiere una conversación exploratoria larga desde el primer contacto (coaching, asesoría compleja, tratamientos muy personalizados). El flujo puede capturar datos básicos, pero no puede sustituir el discovery inicial.</li><li>Cuando el volumen de consultas es muy bajo (menos de 5-10 al día). Con ese volumen, el tiempo de montar y mantener el flujo supera el tiempo que ahorras.</li></ul><p>Si quieres implementar este tipo de flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link con asistente conversacional que lanza las FAQs del sector, recoge los datos mínimos de cualificación y redirige a WhatsApp con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o cada consulta requiere exploración humana profunda desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas debo incluir en la capa de FAQs?",
+        "answer": "Entre 3 y 5 es lo que funciona. Menos de 3 no resuelve las dudas más comunes; más de 5 alarga el flujo y el cliente pierde el hilo antes de llegar a la cualificación."
+      },
+      {
+        "question": "¿Qué pasa si el cliente tiene una duda que no está en las FAQs?",
+        "answer": "Al final del bloque de FAQs puedes añadir una opción de 'otra pregunta' que redireccione directamente a WhatsApp. No intentes anticipar todo; cubre el 80% y deja salida para el resto."
+      },
+      {
+        "question": "¿Cómo sé qué preguntas son las más repetidas en mi sector?",
+        "answer": "Revisa los últimos 30 días de mensajes de WhatsApp e Instagram y apunta las que aparecen más de 3 veces. No necesitas análisis sofisticado: el patrón se ve rápido con ese ejercicio."
+      },
+      {
+        "question": "¿El flujo tiene que ser igual para todos los servicios del centro?",
+        "answer": "No. Si ofreces varios servicios con preguntas y requisitos distintos (depilación láser, tratamiento facial, masajes), cada servicio puede tener su propia capa de cualificación. La FAQ general puede ser compartida."
+      },
+      {
+        "question": "¿Qué hago si el cliente no cumple los requisitos que pido en la cualificación?",
+        "answer": "El flujo debe tener una salida amable y clara: explica por qué no encaja en este momento y, si aplica, cuándo o cómo podría volver. Dejarlo sin respuesta es peor que el rechazo."
+      },
+      {
+        "question": "¿Puedo usar el mismo flujo en Instagram y en WhatsApp?",
+        "answer": "La estructura sí, el punto de entrada no. En Instagram el flujo empieza desde el DM o el link en bio; en WhatsApp desde el mensaje de bienvenida automático. El contenido de FAQs y cualificación puede ser el mismo."
+      },
+      {
+        "question": "¿Cuántos datos mínimos son demasiados en la capa de cualificación?",
+        "answer": "Más de 3 preguntas en esa capa aumenta el abandono de forma notable. Si necesitas más información, recoge los 3 datos críticos en el flujo y pide el resto en la conversación de WhatsApp."
+      },
+      {
+        "question": "¿El flujo de FAQs sustituye la conversación humana?",
+        "answer": "No. Ordena la entrada y elimina las rondas de preguntas básicas, pero la conversación de cierre sigue siendo tuya. El flujo te lleva al punto de partir con contexto; lo que haces desde ahí depende de ti."
+      }
+    ]
+  },
+  {
     "slug": "como-mantener-tono-humano-en-automatizacion",
     "title": "Cómo mantener tono humano cuando automatizas la atención",
     "description": "Automatizar la atención no tiene que sonar a robot. Aprende a mantener tono humano en tus mensajes automáticos para que el cliente sienta que hay una persona detrás, aunque el flujo sea estructurado.",
