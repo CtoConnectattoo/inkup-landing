@@ -1,5 +1,110 @@
 [
   {
+    "slug": "texto-boton-whatsapp-que-convierte",
+    "title": "Texto del botón de WhatsApp que convierte (y el que te hace perder leads)",
+    "description": "El texto del botón de WhatsApp determina si el cliente pulsa o cierra la página. Aprende qué microcopy convierte por intención (cita, presupuesto, info) y qué frases genéricas te hacen perder leads cualificados.",
+    "excerpt": "El botón de WhatsApp no convierte por estar visible: convierte por lo que dice. Un texto genérico como 'Enviar' o 'Contactar' no promete nada. Aprende a escribir el CTA por intención para que el cliente pulse y llegue con contexto.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/texto-boton-whatsapp-que-convierte.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "microcopy",
+      "conversion",
+      "cta",
+      "atencion-clientes",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Texto del botón de WhatsApp que convierte",
+    "quickAnswer": [
+      "**Promete el siguiente paso concreto** — 'Reservar cita', 'Pedir presupuesto' o 'Consultar disponibilidad' convierte más que 'Enviar' o 'Contactar'.",
+      "**Adapta el texto a la intención** — Un cliente que quiere precio necesita un botón distinto al que quiere agendar. Usar el mismo para todo pierde la mitad.",
+      "**Evita el imperativo genérico** — 'Escribir', 'Contactar' y 'Enviar' no dicen qué va a pasar después. El cliente no pulsa lo que no entiende.",
+      "**Añade microcopy de contexto cuando haya fricción** — Una frase debajo del botón ('Te respondo en menos de 24 h') reduce la duda de si merece la pena escribir.",
+      "**Prueba una variante por intención** — Si tienes tres rutas (info, presupuesto, cita), cada una merece su propio CTA, no uno genérico para todas."
+    ],
+    "oneLineDefinition": "El texto del botón de WhatsApp es el microcopy del CTA final que indica al cliente qué va a pasar si pulsa: cuando promete una acción concreta por intención, la conversión sube; cuando es genérico, el cliente duda y cierra.",
+    "sections": [
+      "Por qué el texto del botón importa más que su color",
+      "Qué hace que un CTA de WhatsApp no convierta",
+      "Checklist de microcopy por intención",
+      "Scripts de botón listos para copiar",
+      "Errores comunes y cómo corregirlos",
+      "Cuándo el botón no es el problema real",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Escribir el texto del botón de WhatsApp por intención",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Canal final (WhatsApp)",
+        "Rutas por intención definidas",
+        "Microcopy adaptado por servicio"
+      ],
+      "steps": [
+        {
+          "name": "Identifica la intención dominante del punto de entrada",
+          "text": "Antes de escribir el botón, define qué quiere el cliente en ese momento: reservar, pedir presupuesto o resolver una duda. Un CTA solo funciona si apunta a una sola intención."
+        },
+        {
+          "name": "Escribe la acción + el resultado en menos de 5 palabras",
+          "text": "Formato: verbo + resultado concreto. Ejemplos: 'Reservar mi cita', 'Pedir presupuesto', 'Consultar disponibilidad'."
+        },
+        {
+          "name": "Añade microcopy de soporte si hay fricción",
+          "text": "Una línea debajo del botón resuelve la duda de si merece la pena pulsar. Ejemplo: 'Te respondo hoy mismo' o 'Sin compromiso, solo confirmamos datos'."
+        },
+        {
+          "name": "Crea variantes por intención si tienes varias rutas",
+          "text": "Si tu link en bio o página tiene tres rutas (info, presupuesto, cita), cada una necesita su propio botón con texto específico."
+        },
+        {
+          "name": "Revisa que el texto del botón y el mensaje de WhatsApp que llega sean coherentes",
+          "text": "Si el botón dice 'Reservar cita' pero el mensaje preformateado llega diciendo 'Hola, quiero información', hay una ruptura que baja la confianza."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el texto del botón importa más que su color</h2><p>Tienes el botón de WhatsApp en la bio, en la web, en el link de la story. Está bien visible, el color contrasta, la posición es correcta. Y aun así, la gente llega a WhatsApp con mensajes vacíos del tipo 'hola' o simplemente no pulsa. El problema casi nunca es visual: es lo que dice.</p><p>El texto del botón es una promesa. Si dice 'Enviar', promete un formulario aburrido. Si dice 'Contactar', no promete nada concreto. Si dice 'Reservar mi cita', el cliente sabe exactamente qué va a pasar y qué va a obtener. Esa diferencia es la que determina si pulsa o cierra.</p><p>Hay un detalle contraintuitivo que muchos pasan por alto: el cliente no teme pulsar el botón, teme llegar a una conversación para la que no está listo. Un texto que promete el siguiente paso específico elimina esa fricción antes de que aparezca.</p><h2>Qué hace que un CTA de WhatsApp no convierta</h2><p>Antes de hablar de qué escribir, conviene entender por qué los textos habituales no funcionan. Los patrones que más se repiten en negocios de servicios locales son estos:</p><ul><li><strong>Imperativo genérico sin resultado</strong>: 'Escríbenos', 'Contactar', 'Enviar mensaje'. No dicen qué va a pasar ni qué va a obtener el cliente.</li><li><strong>Texto que no coincide con la intención del momento</strong>: El cliente está mirando la página de precios y el botón dice 'Reserva'. Está listo para preguntar precio, no para reservar aún.</li><li><strong>Ausencia de microcopy de soporte</strong>: El botón está solo, sin contexto. El cliente no sabe si le van a responder hoy, si tiene que rellenar algo, si hay compromiso.</li><li><strong>Un solo botón para tres intenciones distintas</strong>: Información, presupuesto y cita mezclados en el mismo 'Escríbenos'. El cliente que quiere solo precio no entiende que ese botón es para él.</li></ul><p>Si quieres revisar cómo está estructurado tu punto de entrada antes de llegar al botón, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">este artículo sobre el link en bio como sistema de atención</a> cubre el flujo completo.</p><h2>Checklist de microcopy por intención</h2><p>El texto del botón de WhatsApp convierte más cuando promete el siguiente paso concreto (reservar, presupuesto, confirmar hueco) y no un genérico 'Enviar'. Aquí tienes el criterio por intención:</p><table><thead><tr><th>Intención del cliente</th><th>Texto que no convierte</th><th>Texto que convierte</th><th>Microcopy de soporte opcional</th></tr></thead><tbody><tr><td>Reservar cita</td><td>Escríbenos / Contactar</td><td>Reservar mi cita</td><td>Te confirmo hueco hoy mismo</td></tr><tr><td>Pedir presupuesto</td><td>Enviar / Más info</td><td>Pedir presupuesto</td><td>Te respondo con precio en menos de 24 h</td></tr><tr><td>Consultar disponibilidad</td><td>Hablar con nosotros</td><td>Ver si tengo hueco</td><td>Sin compromiso, solo comprobamos fechas</td></tr><tr><td>Resolver una duda concreta</td><td>Contactar / Info</td><td>Preguntar sobre [servicio]</td><td>Respondo todas las dudas antes de decidir</td></tr><tr><td>Primer contacto general</td><td>Escríbeme</td><td>Cuéntame qué necesitas</td><td>Te oriento en 1 mensaje</td></tr></tbody></table><p>Checklist rápida antes de publicar cualquier botón:</p><ol><li>¿El texto incluye un verbo de acción concreto?</li><li>¿Promete un resultado o un siguiente paso claro?</li><li>¿Coincide con la intención del cliente en ese punto del recorrido?</li><li>¿Hay microcopy de soporte si la fricción es alta (precio, primer contacto)?</li><li>¿El mensaje preformateado que llega a WhatsApp es coherente con lo que prometió el botón?</li></ol><h2>Scripts de botón listos para copiar</h2><p>Los siguientes textos están escritos para negocios de servicios locales (tatuadores, centros de estética, fotógrafos, coaches, fisioterapeutas). Copia el que encaje con tu intención y ajusta el nombre del servicio.</p><h3>Para reservar cita</h3><blockquote><p>Reservar mi cita<br><em>Te confirmo disponibilidad hoy mismo</em></p></blockquote><blockquote><p>Quiero mi cita<br><em>Sin formularios, en 1 mensaje</em></p></blockquote><h3>Para pedir presupuesto</h3><blockquote><p>Pedir presupuesto<br><em>Te respondo con precio orientativo en menos de 24 h</em></p></blockquote><blockquote><p>¿Cuánto cuesta? Pregúntame<br><em>Te doy precio real según lo que necesitas</em></p></blockquote><h3>Para consultar disponibilidad</h3><blockquote><p>Ver si tengo hueco<br><em>Compruebo fecha sin compromiso</em></p></blockquote><blockquote><p>Consultar disponibilidad<br><em>Dime la fecha y te confirmo</em></p></blockquote><h3>Para primer contacto (cuando hay dudas previas)</h3><blockquote><p>Cuéntame qué necesitas<br><em>Te oriento antes de decidir</em></p></blockquote><blockquote><p>Hablar sobre [nombre del servicio]<br><em>Resuelvo tus dudas antes de reservar</em></p></blockquote><p>Una nota sobre el mensaje preformateado: si tu botón abre WhatsApp con un mensaje automático, ese texto debe continuar la promesa del botón. Si el botón dice 'Reservar mi cita' y el mensaje preformateado dice 'Hola', hay una ruptura. El cliente esperaba un proceso claro y llega a una pantalla en blanco. Para entender cómo enlazar el botón con el flujo previo, <a href=\"/blog/link-en-bio-que-convierte-a-whatsapp/\">esta checklist sobre el link en bio que convierte a WhatsApp</a> cubre la coherencia entre entrada y salida.</p><h2>Errores comunes y cómo corregirlos</h2><ol><li><strong>Botón genérico para todas las páginas</strong> — El mismo 'Contáctanos' en la home, en la página de servicios y en el blog. Cada punto de entrada tiene una intención distinta; el botón debe reflejarla. Corrección: crea variantes por página o por intención.</li><li><strong>Texto demasiado largo</strong> — 'Haz clic aquí para enviarnos un mensaje y te responderemos lo antes posible' no es un CTA, es un párrafo. Corrección: máximo 4-5 palabras en el botón; el contexto va en el microcopy de soporte debajo.</li><li><strong>Microcopy que añade fricción en lugar de reducirla</strong> — 'Rellena el formulario para que podamos gestionar tu solicitud' genera más dudas de las que resuelve. Corrección: el microcopy debe reducir el esfuerzo percibido, no describirlo.</li><li><strong>No tener en cuenta el momento del recorrido</strong> — Un botón de 'Reservar ahora' en una página donde el cliente aún no conoce el precio genera rechazo. Corrección: mapea en qué fase está el cliente y ajusta la acción del botón a lo que puede hacer en ese momento.</li><li><strong>Mensaje preformateado incoherente con el botón</strong> — El botón promete una acción y el mensaje que llega a WhatsApp no tiene nada que ver. Corrección: el texto preformateado debe continuar la promesa del botón y llevar ya algún dato de contexto si el flujo previo lo ha recogido.</li><li><strong>Ignorar la fricción de precio en el primer contacto</strong> — Si el cliente sospecha que preguntar precio implica compromiso, no pulsa. Corrección: microcopy explícito: 'Sin compromiso' o 'Solo orientativo'.</li></ol><p>Si el problema es más profundo (el cliente no sabe por qué le pides datos antes de responder), <a href=\"/blog/como-explicar-por-que-pides-datos/\">este artículo sobre cómo explicar por qué pides datos</a> da el microcopy exacto para cada situación.</p><h2>Cuándo el botón no es el problema real</h2><p>Antes de reescribir el CTA, comprueba que el problema no está en otro sitio:</p><ul><li>Si nadie llega al botón, el problema es visibilidad o tráfico, no microcopy.</li><li>Si el cliente pulsa pero no envía nada o manda solo 'hola', el problema puede estar en el mensaje preformateado o en la falta de contexto previo al botón.</li><li>Si el cliente escribe pero no cierra, el cuello de botella está en la cualificación, no en el CTA. En ese caso, <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">este artículo sobre cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> es el paso siguiente.</li><li>Si tienes volumen bajo (menos de 10 consultas al día), optimizar el texto del botón da mejoras marginales. Primero resuelve la captación.</li></ul><p>Si quieres implementar todo esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: recogen la intención del cliente antes de que llegue a WhatsApp, capturan los datos mínimos y redirigen con contexto para que el mensaje que recibes ya tenga información útil. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas palabras debería tener el texto del botón de WhatsApp?",
+        "answer": "Entre 2 y 5 palabras. El botón promete la acción; el microcopy de soporte debajo del botón añade contexto si hace falta. Más de 5 palabras en el botón empieza a parecer instrucción, no invitación."
+      },
+      {
+        "question": "¿Debería usar 'tú' o 'yo' en el texto del botón?",
+        "answer": "Los textos en primera persona del cliente ('Reservar mi cita', 'Pedir mi presupuesto') suelen convertir mejor que los imperativos en segunda persona ('Reserva tu cita'). El cliente se identifica con la acción como propia."
+      },
+      {
+        "question": "¿Qué pasa si tengo tres servicios distintos con intenciones distintas?",
+        "answer": "Cada servicio o cada ruta debería tener su propio botón con texto específico. Un botón genérico para tres intenciones distintas no apunta a ninguna bien. Si usas un link en bio con rutas, cada ruta puede tener su CTA."
+      },
+      {
+        "question": "¿El mensaje preformateado de WhatsApp tiene que coincidir con el texto del botón?",
+        "answer": "Sí. Si el botón dice 'Reservar mi cita' y el mensaje llega como 'Hola', hay una ruptura. El cliente esperaba un proceso y llega a una pantalla vacía. El mensaje preformateado debe continuar lo que prometió el botón."
+      },
+      {
+        "question": "¿Funciona añadir urgencia al texto del botón ('Últimas plazas', 'Solo hoy')?",
+        "answer": "Funciona si es real. Si no lo es, genera desconfianza a largo plazo. En servicios locales donde el cliente te conoce por Instagram, la credibilidad pesa más que el FOMO artificial."
+      },
+      {
+        "question": "¿Qué microcopy de soporte reduce mejor el miedo al compromiso en el primer contacto?",
+        "answer": "Frases como 'Sin compromiso', 'Solo comprobamos fechas' o 'Te oriento antes de decidir' eliminan la sospecha de que pulsar el botón implica obligación. Son especialmente útiles cuando el servicio tiene precio alto o el cliente aún está comparando."
+      },
+      {
+        "question": "¿Cómo sé si el texto del botón está fallando o es otro elemento el problema?",
+        "answer": "Si hay tráfico pero nadie pulsa, el texto o la visibilidad del botón son el problema. Si pulsan pero no envían nada o mandan solo 'hola', el fallo está en el mensaje preformateado o en la falta de contexto previo. Si escriben pero no cierran, el problema está en la cualificación posterior."
+      },
+      {
+        "question": "¿Debería tener un botón de WhatsApp en cada página o solo en una?",
+        "answer": "Depende de la intención de cada página. Una página de servicios con descripción de precios puede tener 'Pedir presupuesto'; una página de proceso o portfolio puede tener 'Consultar disponibilidad'. Usar el mismo en todas pierde la especificidad que convierte."
+      }
+    ]
+  },
+  {
     "slug": "como-explicar-por-que-pides-datos",
     "title": "Cómo explicar por qué pides datos (para que no abandonen)",
     "description": "Cuando pides datos sin explicar para qué sirven, la gente abandona. Aprende a escribir microcopy honesto que reduce fricción, genera confianza y mantiene al cliente dentro del flujo.",
