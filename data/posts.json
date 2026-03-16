@@ -1,5 +1,114 @@
 [
   {
+    "slug": "link-en-bio-para-reservas-vs-presupuestos",
+    "title": "Link en bio para reservas vs presupuestos: separa intenciones",
+    "description": "Si tu link en bio lleva a todos los contactos al mismo sitio, estás mezclando personas que quieren reservar con personas que quieren precio. Aprende a separar esas dos rutas para pedir datos distintos y cerrar más rápido.",
+    "excerpt": "Un link en bio que no separa reservas de presupuestos mezcla intenciones distintas en un mismo flujo. Cada ruta necesita datos diferentes, un cierre diferente y un tiempo de respuesta diferente.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/link-en-bio-para-reservas-vs-presupuestos.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "link-en-bio",
+      "reservas",
+      "presupuestos",
+      "instagram",
+      "gestion-consultas",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Separar reservas y presupuestos en tu link en bio",
+    "quickAnswer": [
+      "**Separa desde el primer clic** — quien quiere reservar necesita fecha y servicio; quien quiere presupuesto necesita contexto y condiciones. Preguntar lo mismo a los dos genera fricción en ambos.",
+      "**Cada intención pide datos distintos** — una reserva necesita disponibilidad, el servicio exacto y datos de contacto; un presupuesto necesita el proyecto, el plazo y el rango de inversión.",
+      "**El cierre también es diferente** — una reserva cierra con confirmación de hueco; un presupuesto cierra con una propuesta. Tratar los dos igual alarga la conversación innecesariamente.",
+      "**Más rutas no siempre es mejor** — con dos rutas claras (reserva / presupuesto) reduces abandono y llegas a WhatsApp con la información que necesitas para responder en un solo mensaje."
+    ],
+    "oneLineDefinition": "Separar reservas y presupuestos en el link en bio significa crear dos rutas distintas desde el primer punto de contacto, cada una con sus propias preguntas mínimas y su propio cierre, para no perder tiempo ni contexto.",
+    "sections": [
+      "Por qué mezclar reservas y presupuestos en el mismo flujo te cuesta clientes",
+      "Las dos intenciones que casi siempre coexisten en tu link en bio",
+      "Qué datos necesita cada ruta (y cuáles sobran)",
+      "Cómo montar las dos rutas: checklist de implementación",
+      "Scripts listos para cada intención",
+      "Errores comunes al separar rutas",
+      "Cuándo NO separar (casos reales)",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Separar reservas y presupuestos en el link en bio",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Link único compartible",
+        "Formulario conversacional o asistente",
+        "WhatsApp como canal de cierre"
+      ],
+      "steps": [
+        {
+          "name": "Define las dos intenciones principales",
+          "text": "Identifica si tu negocio recibe principalmente solicitudes de reserva, de presupuesto o ambas. Si ambas, son rutas separadas."
+        },
+        {
+          "name": "Lista los datos mínimos por ruta",
+          "text": "Para reserva: servicio, fecha/disponibilidad, datos de contacto. Para presupuesto: descripción del proyecto, plazo, condiciones relevantes."
+        },
+        {
+          "name": "Crea el primer paso de cada ruta",
+          "text": "Una pregunta de entrada que separe la intención: '¿Quieres reservar una cita o pedir un presupuesto?'"
+        },
+        {
+          "name": "Diseña el flujo de preguntas por ruta",
+          "text": "Máximo 3-4 preguntas por ruta. Solo las que cambian tu respuesta."
+        },
+        {
+          "name": "Establece la salida de cada ruta",
+          "text": "Reserva sale a WhatsApp con fecha y servicio. Presupuesto sale con descripción y contexto. En ningún caso llegan vacíos."
+        },
+        {
+          "name": "Coloca el link en todos los puntos de entrada",
+          "text": "Bio de Instagram, Stories fijadas, botón de contacto del perfil, Google Business Profile si aplica."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué mezclar reservas y presupuestos en el mismo flujo te cuesta clientes</h2><p>Quien quiere reservar ya tomó una decisión: sabe qué quiere y necesita hueco. Quien pide presupuesto todavía está evaluando: necesita saber si puedes y cuánto cuesta. Son momentos distintos, con urgencias distintas y datos distintos. Si los mandas al mismo sitio con las mismas preguntas, ocurren dos cosas: el que quiere reservar siente que le interrogas demasiado, y el que pide presupuesto no da suficiente contexto para que le respondas bien.</p><p>El resultado es el mismo en los dos casos: más mensajes de ida y vuelta, más tiempo perdido y más clientes que desaparecen antes de cerrar. Si quieres entender cómo afecta esto al conjunto de tu atención entrante, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">aquí tienes cómo convertir el link en bio en un sistema real</a>, no en un menú de enlaces genéricos.</p><h2>Las dos intenciones que casi siempre coexisten en tu link en bio</h2><p>En negocios de servicios (tatuadores, fotógrafos, coaches, estética, entrenadores personales), el 80% de los mensajes entrantes cae en una de estas dos categorías:</p><ul><li><strong>Reserva o cita</strong>: el cliente ya sabe lo que quiere, necesita saber si tienes hueco y cómo confirmarlo.</li><li><strong>Presupuesto o información</strong>: el cliente está valorando si encajas, qué cobras y bajo qué condiciones.</li></ul><p>Hay una tercera categoría menor (dudas genéricas, preguntas de ubicación, horarios) que conviene resolver antes de llegar al formulario, con un bloque de FAQs en el propio flujo o en el perfil. Pero esas dos intenciones principales necesitan rutas separadas desde el primer momento.</p><h2>Qué datos necesita cada ruta (y cuáles sobran)</h2><h3>Ruta reserva: lo que cambia si lo tienes o no</h3><table><thead><tr><th>Dato</th><th>Por qué lo necesitas</th><th>Qué decides con él</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>La duración y disponibilidad varían por servicio</td><td>Si tienes hueco real o no</td></tr><tr><td>Fecha preferida o flexibilidad</td><td>Para proponer hueco sin ir y venir</td><td>Qué opciones ofrecer</td></tr><tr><td>Nombre y contacto</td><td>Para confirmar y enviar recordatorio</td><td>A quién asignar el hueco</td></tr><tr><td>Algún requisito previo (si aplica)</td><td>Algunos servicios necesitan consulta previa o condición de salud</td><td>Si puede reservar directamente o necesita paso previo</td></tr></tbody></table><p>Lo que <strong>no necesitas</strong> en la ruta de reserva: descripción larga del proyecto, referencias visuales (salvo que sea imprescindible para la cita), presupuesto orientativo.</p><h3>Ruta presupuesto: lo que cambia si lo tienes o no</h3><table><thead><tr><th>Dato</th><th>Por qué lo necesitas</th><th>Qué decides con él</th></tr></thead><tbody><tr><td>Descripción del proyecto o servicio</td><td>Sin contexto no puedes dar precio real</td><td>Si encaja con lo que ofreces</td></tr><tr><td>Plazo o urgencia</td><td>Afecta disponibilidad y precio en algunos servicios</td><td>Si puedes asumirlo o no</td></tr><tr><td>Referencias o condiciones relevantes</td><td>Reduce malentendidos en el presupuesto</td><td>Qué alcance incluir</td></tr><tr><td>Rango de inversión (si filtra)</td><td>Evita presupuestos que no van a ningún sitio</td><td>Si vale la pena profundizar</td></tr><tr><td>Contacto</td><td>Para enviar la propuesta</td><td>A quién responder</td></tr></tbody></table><p>Lo que <strong>no necesitas</strong> en la ruta de presupuesto: fecha exacta (es demasiado pronto), nombre completo y apellidos (genera fricción antes de tiempo).</p><h2>Cómo montar las dos rutas: checklist de implementación</h2><p>Este proceso funciona tanto si lo construyes manualmente como si usas un asistente o formulario conversacional. La lógica es la misma:</p><ol><li>Define la pregunta de entrada única: &quot;¿Qué buscas?&quot; con dos opciones claras (Reservar / Presupuesto).</li><li>Para la ruta de reserva: pregunta servicio exacto → fecha o flexibilidad → nombre y contacto → requisito previo si aplica.</li><li>Para la ruta de presupuesto: pregunta descripción del proyecto → plazo → referencias o condiciones → rango de inversión si filtra → contacto.</li><li>Añade un bloque de FAQs al inicio del flujo para absorber preguntas de horario, ubicación y condiciones generales. Así no llegan esas dudas al chat.</li><li>Define la salida de cada ruta: ambas deben llegar a WhatsApp (o email) con los datos ya recogidos, no con un &quot;hola, me interesa&quot;.</li><li>Pon el link en todos los puntos de entrada: bio de Instagram, Stories fijadas, botón de contacto del perfil de negocio, respuesta automática de DM si la usas.</li></ol><p>Si ya gestionas citas y quieres profundizar en cómo reducir los mensajes de ida y vuelta antes de confirmar hueco, <a href=\"/blog/agendar-citas-sin-mensajes/\">este artículo explica cómo filtrar antes de agendar</a>.</p><h2>Scripts listos para cada intención</h2><h3>Script de entrada (primer mensaje del flujo)</h3><blockquote><p>&quot;Hola, gracias por escribir. Para ayudarte rápido: ¿buscas reservar una cita o pedir un presupuesto para un proyecto? Elige una opción y te hago las preguntas justas para responderte en un solo mensaje.&quot;</p></blockquote><h3>Script ruta reserva (mensaje de cierre hacia WhatsApp)</h3><blockquote><p>&quot;Perfecto. Tengo tus datos: [servicio] el [fecha preferida]. Te escribo por WhatsApp en [plazo] para confirmarte disponibilidad y el siguiente paso.&quot;</p></blockquote><h3>Script ruta presupuesto (mensaje de cierre hacia WhatsApp)</h3><blockquote><p>&quot;Genial, ya tengo el contexto del proyecto. Te envío un presupuesto detallado por WhatsApp en [plazo]. Si tienes referencias visuales, puedes adjuntarlas ahí directamente.&quot;</p></blockquote><h3>Microcopy para reducir fricción al pedir datos</h3><blockquote><p>&quot;Te hago 3 o 4 preguntas para no marearte con mensajes. Así te respondo con algo concreto desde el primer momento.&quot;</p></blockquote><h2>Errores comunes al separar rutas</h2><ol><li><strong>Poner demasiadas opciones en la pregunta de entrada</strong>: si ofreces 5 rutas desde el inicio (reserva, presupuesto, info, duda rápida, otro), el cliente no sabe qué elegir y abandona. Dos opciones principales más FAQs es suficiente.</li><li><strong>Hacer las mismas preguntas en las dos rutas</strong>: si tanto reserva como presupuesto piden descripción larga del proyecto, has duplicado el trabajo sin separar nada.</li><li><strong>No definir la salida</strong>: si ambas rutas terminan en &quot;te contactamos pronto&quot; sin datos concretos, el flujo no ha servido para nada. La salida debe incluir el contexto recogido.</li><li><strong>Pedir el rango de inversión demasiado pronto en la ruta de reserva</strong>: en una reserva el precio suele estar fijo o en tarifa; pedirlo genera desconfianza innecesaria.</li><li><strong>No actualizar el flujo cuando cambia la oferta</strong>: si añades un servicio nuevo y no lo incluyes en la ruta de reserva, siguen llegando consultas sin contexto para ese servicio.</li></ol><h2>Cuándo NO separar (casos reales)</h2><p>Separar rutas tiene sentido cuando hay volumen suficiente y una distinción clara entre reserva y presupuesto. Hay casos donde no vale la pena:</p><ul><li>Si todos tus servicios tienen precio fijo y reserva directa, no necesitas ruta de presupuesto: solo necesitas una ruta de reserva bien construida.</li><li>Si cada trabajo es completamente distinto y no hay patrón (por ejemplo, proyectos de consultoría estratégica de largo alcance), la separación mecánica no ayuda tanto como una conversación inicial abierta.</li><li>Si tu volumen es bajo (menos de 10 consultas a la semana), el beneficio de montar dos rutas no compensa el tiempo de implementación. Con un primer mensaje bien redactado es suficiente.</li></ul><p>Para saber si tu volumen y tipo de consultas justifican <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtrar y cualificar antes de responder por WhatsApp</a>, ese artículo te da los criterios concretos.</p><h2>Si quieres implementar esto sin construirlo desde cero</h2><p>Lo que describe este artículo (un punto de entrada único con dos rutas, preguntas mínimas por intención y salida a WhatsApp con contexto) es exactamente lo que hace falta antes de que llegue el primer mensaje manual. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la intención desde el link en bio, hacen las preguntas mínimas por ruta y redirigen a WhatsApp con el contexto ya recogido. No es para todos los casos: si tu volumen es bajo o tus proyectos son suficientemente únicos como para necesitar una conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Y si el cliente no sabe si quiere reservar o pedir presupuesto?",
+        "answer": "Es más habitual de lo que parece, sobre todo en servicios con precio variable. Añade una tercera opción del tipo 'no lo tengo claro' que derive a un mini flujo de preguntas de orientación antes de elegir ruta. Así no le dejas bloqueado en el primer paso."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas en cada ruta?",
+        "answer": "Más de 5 preguntas en un flujo de primer contacto generan abandono. Para reserva, con 3-4 es suficiente. Para presupuesto, con 4-5 tienes contexto para responder bien. Si necesitas más datos, pídelos en la conversación de WhatsApp, no en el flujo de entrada."
+      },
+      {
+        "question": "¿Dónde pongo el link si no tengo web?",
+        "answer": "Bio de Instagram, Stories fijadas y Google Business Profile son los tres puntos de mayor tráfico para negocios de servicios locales. Sin web funciona perfectamente si el link está en esos tres lugares."
+      },
+      {
+        "question": "¿Qué hago si la persona elige la ruta de reserva pero en realidad quería presupuesto?",
+        "answer": "Al final del flujo de reserva, antes de enviar los datos a WhatsApp, añade una pregunta de confirmación: '¿Tienes claro el precio o quieres que te detalle el coste primero?' Así redirige sin fricciones."
+      },
+      {
+        "question": "¿Tiene sentido pedir el rango de inversión en la ruta de presupuesto?",
+        "answer": "Solo si filtra de verdad, es decir, si hay proyectos por debajo de un mínimo que no puedes asumir. En ese caso, pedirlo ahorra tiempo a los dos. Si tu precio mínimo es bajo o variable, esta pregunta genera más rechazo que utilidad."
+      },
+      {
+        "question": "¿Cómo evito que el flujo suene a formulario frío?",
+        "answer": "Microcopy. Una frase antes de las preguntas ('te hago 3 preguntas para responderte con algo concreto') cambia la percepción completamente. El tono cercano no está reñido con el proceso estructurado."
+      },
+      {
+        "question": "¿Qué pasa si alguien me escribe directamente por DM en lugar de usar el link?",
+        "answer": "Responde con el link como primer paso: 'Hola, para ayudarte bien pásate por aquí un momento, son 3 preguntas rápidas y así te respondo con todo el contexto.' La mayoría completa el flujo si se lo explicas así."
+      },
+      {
+        "question": "¿Necesito herramienta de pago para separar estas dos rutas?",
+        "answer": "No necesariamente. Puedes hacerlo con un formulario gratuito sencillo o incluso con un mensaje de respuesta automática bien redactado que guíe por intención. La herramienta importa menos que la lógica de rutas."
+      }
+    ]
+  },
+  {
     "slug": "como-usar-stories-para-llevar-al-link",
     "title": "Cómo usar Stories para llevar al link y filtrar consultas",
     "description": "Aprende a diseñar Stories de Instagram que llevan al link correcto y filtran las consultas antes de que lleguen a tu bandeja de mensajes. Sin trucos, sin menús infinitos.",
