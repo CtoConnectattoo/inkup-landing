@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-responder-a-tienes-cita-hoy",
+    "title": "Cómo responder a '¿Tenéis cita hoy?' sin perder tiempo (script + reglas)",
+    "description": "Script concreto y tres reglas para responder a '¿Tenéis cita hoy?' capturando fecha, franja y flexibilidad en un solo mensaje, sin conversaciones largas ni ping-pong.",
+    "excerpt": "Responder a '¿Tenéis cita hoy?' sin datos es apostar a ciegas. Con un script de una sola vuelta que capture servicio, franja y flexibilidad, confirmas o propones alternativa sin perder tiempo ni cliente.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-responder-a-tienes-cita-hoy.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "citas",
+      "whatsapp",
+      "instagram",
+      "atencion-clientes",
+      "scripts",
+      "agenda"
+    ],
+    "quickAnswerSubtitle": "Cómo responder a '¿Tenéis cita hoy?' sin perder tiempo",
+    "quickAnswer": [
+      "**Pide los tres datos que cambian tu respuesta** — servicio exacto, franja horaria y si tiene flexibilidad de día; sin eso no puedes confirmar nada.",
+      "**Responde en una sola vuelta** — tu primer mensaje ya debe incluir la pregunta de disponibilidad y la alternativa más cercana si no hay hueco hoy.",
+      "**No confirmes sin saber qué servicio es** — 'cita hoy' puede ser una sesión de 20 minutos o de tres horas; el tiempo que bloqueas importa.",
+      "**Cierra con dos opciones, no con una pregunta abierta** — 'puedo a las 17h o mañana a las 10h, ¿cuál te viene mejor?' convierte más que 'dime cuándo puedes'."
+    ],
+    "oneLineDefinition": "Responder a '¿Tenéis cita hoy?' es capturar en un solo mensaje el servicio, la franja y la flexibilidad del cliente para confirmar o proponer alternativa sin conversaciones largas.",
+    "sections": [
+      "Por qué esta pregunta consume más tiempo del que parece",
+      "Los tres datos que necesitas antes de responder",
+      "Script principal: una vuelta, sin ping-pong",
+      "Variantes por tono y canal",
+      "Reglas de decisión: confirmar, proponer o descartar",
+      "Errores comunes al responder disponibilidad",
+      "Cuándo este script no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Responder a '¿Tenéis cita hoy?' en una vuelta",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "Script de primera respuesta",
+        "Reglas de decisión por disponibilidad",
+        "Respuestas rápidas de WhatsApp Business"
+      ],
+      "steps": [
+        {
+          "name": "Identifica el servicio",
+          "text": "Antes de mirar la agenda, confirma qué servicio pide. No es lo mismo un retoque de 20 minutos que una sesión nueva de dos horas."
+        },
+        {
+          "name": "Pregunta franja y flexibilidad en el mismo mensaje",
+          "text": "No hagas dos preguntas en dos mensajes separados. Un solo mensaje: '¿Qué servicio necesitas, para qué franja y tienes flexibilidad de día si hoy no hay?'"
+        },
+        {
+          "name": "Aplica la regla de decisión",
+          "text": "Con esos tres datos: confirma si hay hueco, propone la alternativa más cercana si no lo hay, o descarta amablemente si no encaja en la agenda próxima."
+        },
+        {
+          "name": "Cierra con dos opciones concretas",
+          "text": "No dejes la pelota en el aire con una pregunta abierta. Da dos huecos reales y pide elección."
+        },
+        {
+          "name": "Guarda el script como respuesta rápida",
+          "text": "En WhatsApp Business puedes guardar el script bajo una palabra clave (ej: /cita) para enviarlo en dos toques sin reescribir."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué esta pregunta consume más tiempo del que parece</h2><p>'¿Tenéis cita hoy?' parece la consulta más sencilla del día. En realidad es una de las que más conversaciones largas genera si no tienes un protocolo claro. El cliente no dice qué servicio quiere, a qué hora puede, ni si acepta otro día. Tú miras la agenda, contestas que sí o que no, el cliente pregunta para cuándo, tú propones, el cliente dice que a esa hora no puede, y así hasta cinco mensajes para algo que debería resolverse en uno.</p><p>El problema no es la pregunta en sí. Es que respondes sin datos. Y sin datos, cualquier respuesta abre otro turno de ping-pong. <a href=\"/blog/datos-minimos-para-agendar-cita/\">Los datos mínimos para agendar una cita sin ida y vuelta</a> son siempre los mismos: servicio, franja y flexibilidad. Si los capturas en el primer intercambio, el resto va solo.</p><h2>Los tres datos que necesitas antes de responder</h2><p>No son cinco ni diez. Son tres, y los tres cambian lo que vas a decir:</p><ul><li><strong>Servicio exacto</strong> — porque el tiempo que ocupa en tu agenda varía enormemente. Una cita de media hora y una de tres horas no son intercambiables.</li><li><strong>Franja horaria preferida</strong> — mañana, tarde o indiferente. Con esto ya puedes mirar en la zona correcta de tu agenda en lugar de buscar a ciegas.</li><li><strong>Flexibilidad de día</strong> — si no hay hoy, ¿acepta mañana o pasado? Saberlo antes te permite proponer alternativa en el mismo mensaje en lugar de esperar confirmación.</li></ul><p>Sin estos tres datos, tu respuesta siempre va a abrir otro turno. Con ellos, puedes cerrar en uno.</p><h2>Script principal: una vuelta, sin ping-pong</h2><p>Este script funciona tanto en WhatsApp como en DM de Instagram. La lógica es la misma: un mensaje tuyo que recoge los tres datos y ya anticipa la alternativa si no hay hueco hoy.</p><h3>Script base (tono neutro-cercano)</h3><blockquote><p>Hola, para mirarlo ahora mismo necesito saber: ¿qué servicio es, para qué franja del día lo buscas (mañana / tarde) y, si hoy no hay hueco, ¿tienes flexibilidad para mañana o pasado? Con eso te confirmo en seguida.</p></blockquote><p>Ese mensaje hace tres cosas a la vez: pide lo que necesitas, explica por qué lo pides (para mirarlo ahora mismo) y ya adelanta que si no hay hoy va a haber alternativa. El cliente no siente que le interrogas; siente que estás gestionando.</p><h3>Variante corta (cuando ya hay confianza o es cliente recurrente)</h3><blockquote><p>Dime servicio y franja (mañana o tarde), y si aceptas otro día si hoy está lleno. Te miro y te digo.</p></blockquote><h3>Variante si hay hueco confirmado</h3><blockquote><p>Sí, tengo a las [hora] para [servicio]. ¿Te viene? Si prefieres otra hora, dime cuál y lo veo.</p></blockquote><h3>Variante si no hay hueco hoy pero sí mañana</h3><blockquote><p>Hoy estoy completo, pero mañana tengo a las [hora A] o a las [hora B]. ¿Cuál te viene mejor?</p></blockquote><p>Observa que en ningún caso terminas con una pregunta abierta del tipo &quot;¿cuándo puedes tú?&quot;. Siempre ofreces dos opciones concretas. Eso reduce el número de mensajes a la mitad.</p><h2>Variantes por tono y canal</h2><h3>Instagram DM (primer contacto, tono más informal)</h3><blockquote><p>¡Hola! Para buscarte algo concreto: ¿qué servicio necesitas y para mañana o tarde? Y si hoy no hay, ¿vale otro día esta semana? Te digo ahora.</p></blockquote><h3>WhatsApp Business (respuesta rápida guardada)</h3><p>Guarda el script base con la palabra clave <em>/cita</em>. Cuando alguien escribe '¿tenéis cita hoy?', escribes <em>/cita</em> y WhatsApp Business autocompleta el mensaje. Lo envías en dos toques sin reescribir nada. Si quieres ir más lejos con la organización de esas consultas, <a href=\"/blog/como-responder-a-tenes-hueco/\">este artículo sobre cómo responder a '¿Tenéis hueco?' sin 20 mensajes</a> cubre la misma lógica aplicada a disponibilidad general.</p><h2>Reglas de decisión: confirmar, proponer o descartar</h2><p>El script recoge los datos. Las reglas te dicen qué hacer con ellos.</p><table><thead><tr><th>Situación</th><th>Acción</th><th>Mensaje tipo</th></tr></thead><tbody><tr><td>Hay hueco hoy + franja coincide</td><td>Confirmar</td><td>&quot;Sí, a las [hora]. ¿Te viene?&quot;</td></tr><tr><td>No hay hoy, cliente acepta otro día</td><td>Proponer dos opciones concretas</td><td>&quot;Mañana a las [hora A] o [hora B]. ¿Cuál?&quot;</td></tr><tr><td>No hay hoy, cliente solo quiere hoy</td><td>Cierre amable + lista de espera</td><td>&quot;Hoy estoy completo. Si surge cancelación te aviso, ¿te apunto?&quot;</td></tr><tr><td>No dice qué servicio es</td><td>No mirar agenda aún, pedir dato</td><td>Script base: pide servicio antes de responder nada</td></tr><tr><td>Servicio muy largo, agenda sin hueco la semana</td><td>Dar fecha real más próxima</td><td>&quot;Para [servicio] lo más cercano que tengo es [fecha]. ¿Lo reservamos?&quot;</td></tr></tbody></table><p>La regla que más tiempo ahorra es la última fila de la segunda columna: no mires la agenda hasta saber qué servicio piden. Si miras y luego preguntas, ya has perdido un turno.</p><h2>Errores comunes al responder disponibilidad</h2><ol><li><strong>Responder &quot;sí hay&quot; sin preguntar el servicio</strong> — el cliente llega y el tiempo bloqueado no coincide. Genera tensión y reprogramaciones.</li><li><strong>Preguntar franja y día en dos mensajes separados</strong> — duplicas el número de intercambios sin necesidad.</li><li><strong>Terminar con pregunta abierta</strong> — &quot;dime cuándo puedes&quot; deja la carga al cliente y alarga la conversación. Ofrece opciones concretas.</li><li><strong>No anticipar la alternativa</strong> — si dices solo &quot;hoy no hay&quot; sin proponer nada, el cliente se va a buscar en otro sitio.</li><li><strong>Confirmar sin dar dirección o instrucciones</strong> — el cierre debe incluir qué hacer a continuación: llegar a tal hora, traer tal cosa, confirmar con un mensaje.</li><li><strong>Usar el mismo script para servicios muy distintos</strong> — si tienes servicios con tiempos muy dispares (15 minutos vs 2 horas), el script de disponibilidad necesita ramificarse por tipo. Para esto, <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a> explica cómo estructurar esas rutas por servicio antes de llegar al chat.</li></ol><h2>Cuándo este script no es suficiente</h2><p>Este script resuelve el caso más común: consulta de disponibilidad inmediata con cliente que ya sabe lo que quiere. No es la solución para todo:</p><ul><li>Si recibes más de 20 o 30 consultas de disponibilidad al día, un script manual empieza a ser insuficiente. El volumen exige un punto de entrada estructurado que capture los datos antes de que llegue el mensaje a tu chat.</li><li>Si tu servicio requiere valoración previa (condiciones de la piel, tipo de proyecto, historial), la disponibilidad es el segundo paso, no el primero. Primero cualifica, luego agenda.</li><li>Si el problema no es disponibilidad sino que te preguntan lo mismo desde Instagram y WhatsApp a la vez, el script no resuelve el caos de canales: resuelve la respuesta, pero la entrada sigue desordenada. Para ese caso, <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">reducir preguntas repetidas en WhatsApp e Instagram sin sonar robótico</a> cubre cómo ordenar la entrada antes del chat.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un asistente conversacional que captura servicio, franja y flexibilidad antes de redirigir al cliente a WhatsApp con esa información ya estructurada. No es para todos los casos — si tu volumen es bajo o tu proceso de agenda requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Qué hago si el cliente escribe solo '¿hay cita hoy?' sin ningún dato más?",
+        "answer": "Usa el script base: pide servicio, franja y flexibilidad en un solo mensaje antes de mirar la agenda. No respondas 'sí' o 'no' sin esos datos o abrirás otro turno de preguntas."
+      },
+      {
+        "question": "¿Cuántas opciones de hora debo ofrecer si no hay hueco hoy?",
+        "answer": "Dos opciones concretas es suficiente. Más de dos complica la elección y alarga la conversación. Si ninguna de las dos le viene, ya te lo dice y buscas una tercera."
+      },
+      {
+        "question": "¿Cómo guardo este script en WhatsApp Business para no escribirlo cada vez?",
+        "answer": "Ve a Configuración > Herramientas para la empresa > Respuestas rápidas. Crea una nueva con el texto del script y asígnale una palabra clave (ej: /cita). Cuando la necesites, escribe /cita en el chat y autocompleta."
+      },
+      {
+        "question": "¿Y si el cliente insiste en que necesita cita hoy pero no tengo hueco?",
+        "answer": "Cierre amable y lista de espera: 'Hoy estoy completo. Si surge una cancelación te aviso, ¿te apunto?' Así no pierdes el contacto sin prometer lo que no puedes cumplir."
+      },
+      {
+        "question": "¿Debo usar el mismo script en Instagram DM y en WhatsApp?",
+        "answer": "La lógica es la misma, pero el tono puede ser más informal en DM de Instagram si es primer contacto. En WhatsApp, especialmente con clientes recurrentes, puedes ir más directo."
+      },
+      {
+        "question": "¿Qué pasa si no me dicen el servicio y confirmo disponibilidad de todas formas?",
+        "answer": "Riesgo real: el cliente llega y el tiempo que necesita no encaja con el hueco que reservaste. Genera tensión, reprogramaciones y a veces cancelaciones. No mires la agenda hasta saber qué servicio es."
+      },
+      {
+        "question": "¿Cada cuánto debo actualizar el script si cambia mi disponibilidad habitual?",
+        "answer": "El script no necesita cambiar con la disponibilidad; recoge datos, no huecos concretos. Solo actualiza si cambian los servicios que ofreces o los horarios generales de atención."
+      },
+      {
+        "question": "¿Funciona igual si soy tatuador, esteticista o coach?",
+        "answer": "Sí, la lógica es la misma porque el problema es el mismo: necesitas servicio, franja y flexibilidad antes de responder. Solo cambia el nombre del servicio en el script."
+      }
+    ]
+  },
+  {
     "slug": "datos-minimos-para-agendar-cita",
     "title": "Datos mínimos para agendar una cita sin ida y vuelta (checklist)",
     "description": "Qué información pedir antes de confirmar disponibilidad para agendar en 1–2 respuestas, sin preguntar en 20 mensajes ni pedir datos que no cambian nada.",
