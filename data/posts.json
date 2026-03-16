@@ -1,5 +1,111 @@
 [
   {
+    "slug": "linktree-vs-link-para-filtrar-consultas",
+    "title": "Linktree vs link para filtrar consultas: cuál funciona mejor en servicios",
+    "description": "Si usas Linktree en tu bio para recibir consultas, estás mandando clientes a un menú que no filtra ni cualifica. Aprende la diferencia entre un link de navegación y un link de atención, y cuál funciona mejor según tu situación.",
+    "excerpt": "Linktree organiza destinos, no conversaciones. Si tu problema es que te llegan consultas sin contexto, necesitas un link que filtre por intención y recoja datos mínimos antes del chat, no uno que redirija a cinco páginas.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/linktree-vs-link-para-filtrar-consultas.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "link-en-bio",
+      "filtrar-consultas",
+      "instagram",
+      "whatsapp",
+      "gestion-consultas",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "Linktree vs link para filtrar consultas en servicios",
+    "quickAnswer": [
+      "**Linktree es un menú de destinos, no un filtro** — te manda tráfico a varios sitios pero no cualifica quién te escribe ni por qué.",
+      "**Un link de atención filtra antes de llegar al chat** — hace preguntas concretas por intención (cita, presupuesto, info) y recoge datos mínimos antes de redirigir.",
+      "**Si tu problema es 'me escriben sin contexto'**, Linktree no lo resuelve; un link conversacional sí.",
+      "**Si tu problema es 'quiero que me encuentren'**, Linktree o cualquier página de destinos funciona perfectamente para eso.",
+      "**La regla práctica**: un link de navegación organiza destinos; un link de atención organiza conversaciones."
+    ],
+    "oneLineDefinition": "Un link para filtrar consultas no es un menú de enlaces, sino un punto de entrada conversacional que cualifica la intención del cliente y recoge datos mínimos antes de redirigirle al chat final.",
+    "sections": [
+      "El problema que Linktree no resuelve",
+      "Qué hace cada tipo de link (y para qué sirve)",
+      "Tabla comparativa: Linktree vs link de atención",
+      "Cuándo usar cada uno (o los dos)",
+      "Cómo montar un link de atención sin construirlo desde cero",
+      "Errores comunes",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Convertir tu link en bio en un filtro de consultas",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Link único compartible",
+        "Rutas por intención",
+        "Preguntas mínimas por servicio",
+        "Canal final (WhatsApp)"
+      ],
+      "steps": [
+        {
+          "name": "Define la intención dominante de tu bio",
+          "text": "Decide si el objetivo principal es que te encuentren (navegación) o que te contacten con contexto (atención). Eso determina qué tipo de link necesitas."
+        },
+        {
+          "name": "Reduce a 3 rutas máximas",
+          "text": "Cita, presupuesto e información general. Más rutas aumentan el abandono sin mejorar la conversión."
+        },
+        {
+          "name": "Define 3-5 preguntas mínimas por ruta",
+          "text": "Solo las que cambian lo que harás: servicio exacto, fecha aproximada, contexto/objetivo y datos de contacto."
+        },
+        {
+          "name": "Configura la salida al canal final",
+          "text": "El link debe redirigir a WhatsApp (u otro canal) con el contexto ya recogido, no arrancar la conversación desde cero."
+        },
+        {
+          "name": "Sustituye el link de tu bio",
+          "text": "Cambia el Linktree (o el enlace directo a WhatsApp) por el link de atención en tu bio, stories y Google Business Profile."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema que Linktree no resuelve</h2><p>Tienes Linktree en la bio. Alguien entra, ve cinco botones (web, WhatsApp, reservas, portfolio, TikTok), pulsa WhatsApp y te escribe: \"Hola, precio?\"</p><p>Linktree hizo su trabajo. El problema es que su trabajo no es el que tú necesitas: no filtró, no preguntó nada, no te dio contexto. Solo movió a alguien de Instagram a WhatsApp. Lo que pase después depende de ti.</p><p>Ese es el punto de partida de esta comparación. No se trata de si Linktree es bueno o malo, sino de para qué está diseñado y para qué no lo está.</p><h2>Qué hace cada tipo de link (y para qué sirve)</h2><h3>Linktree (y herramientas similares): link de navegación</h3><p>Su función es organizar destinos. Te da una página ligera con varios botones que llevan a URLs distintas. Es útil cuando el objetivo es que alguien pueda encontrar lo que busca entre varias opciones: tu web, tu tienda, tus redes, tu podcast.</p><p>Lo que no hace: no sabe por qué viene el visitante, no le hace preguntas, no filtra intenciones, no recoge datos antes de redirigir. Es un menú, no un proceso.</p><h3>Link de atención: link conversacional</h3><p>Su función es cualificar antes de redirigir. Funciona como un asistente ligero: le pregunta al visitante qué busca (cita, presupuesto, información), recoge 3-5 datos mínimos según la ruta y luego le lleva al canal final, normalmente WhatsApp, con ese contexto ya incluido.</p><p>Lo que no hace: no es tu web, no te posiciona en Google, no organiza múltiples destinos. Su único objetivo es que la conversación que empiece en WhatsApp ya tenga información útil.</p><p>Si quieres entender mejor cómo funciona este enfoque, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">aquí se explica cómo convertir el link en bio en un sistema de atención real</a>, no solo en un menú de accesos directos.</p><h2>Tabla comparativa: Linktree vs link de atención</h2><table><thead><tr><th>Criterio</th><th>Linktree (navegación)</th><th>Link de atención (filtro)</th></tr></thead><tbody><tr><td>Objetivo principal</td><td>Organizar destinos</td><td>Cualificar consultas</td></tr><tr><td>Recoge datos del cliente</td><td>No</td><td>Sí (intención + contexto mínimo)</td></tr><tr><td>Filtra por tipo de consulta</td><td>No</td><td>Sí (cita / presupuesto / info)</td></tr><tr><td>Reduce mensajes sin contexto</td><td>No</td><td>Sí</td></tr><tr><td>Útil para SEO / encontrabilidad</td><td>Sí (indirectamente)</td><td>No es su función</td></tr><tr><td>Complejidad de montaje</td><td>Muy baja</td><td>Baja-media (depende de la herramienta)</td></tr><tr><td>Encaja si recibes 20+ consultas/mes</td><td>No resuelve el caos</td><td>Sí, ese es su punto de valor</td></tr><tr><td>Encaja si quieres organizar tus canales</td><td>Sí</td><td>No es necesario</td></tr></tbody></table><p><strong>Regla práctica:</strong> Si tu queja es &quot;me escriben sin contexto&quot; o &quot;siempre preguntan lo mismo&quot;, Linktree no cambia eso. Si tu queja es &quot;no encuentran mis canales&quot;, Linktree lo resuelve bien.</p><h2>Cuándo usar cada uno (o los dos)</h2><h3>Usa Linktree (o similar) cuando</h3><ul><li>Tu objetivo es visibilidad y encontrabilidad, no filtrar consultas.</li><li>Tienes distintos canales o productos y quieres que el visitante elija.</li><li>El volumen de consultas es bajo y no hay un patrón de preguntas repetibles.</li><li>Cada conversación que recibes es distinta y no se puede estandarizar.</li></ul><h3>Usa un link de atención cuando</h3><ul><li>Recibes consultas por Instagram y WhatsApp con las mismas preguntas una y otra vez.</li><li>Quieres que el cliente llegue a WhatsApp con datos ya recogidos (servicio, fecha, contexto).</li><li>Tienes 20 o más consultas al mes y sientes que gestionarlas te quita tiempo real de trabajo.</li><li>Quieres separar citas de presupuestos de información general, sin que todo acabe en el mismo chat sin estructura.</li></ul><h3>¿Puedes usar los dos?</h3><p>Sí, pero con lógica. En ese caso, el Linktree (o página de bio) tiene un botón principal tipo &quot;Reservar / Consultar&quot; que lleva al link de atención, y el resto de botones llevan a destinos informativos. El link de atención no compite con Linktree: lo complementa en la ruta de contacto.</p><p>Para entender cómo estructurar ese flujo desde cero, <a href=\"/blog/centralizar-consultas-con-link-en-bio/\">este artículo explica cómo centralizar consultas usando el link en bio sin depender de Linktree</a>.</p><h2>Cómo montar un link de atención sin construirlo desde cero</h2><p>La versión manual implica crear un formulario conversacional (Typeform, Tally o similar), configurar rutas por intención, conectar la salida a WhatsApp con mensaje preformateado y poner ese link en tu bio. Es posible, pero requiere tiempo y mantenimiento.</p><p>Si quieres ver cómo quedaría el flujo completo antes de decidir si lo montas tú o usas algo ya construido, <a href=\"/blog/unico-link-para-todos-tus-canales/\">aquí se explica cómo montar bien un único link para todos tus canales</a>.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link plug-and-play que abre un asistente conversacional, recoge la información del cliente por intención (cita, presupuesto, info) y redirige a WhatsApp con el contexto ya incluido. No es para todos los casos: si tu volumen es bajo o cada consulta que recibes es completamente distinta, probablemente no lo necesitas aún.</p><h2>Errores comunes</h2><ol><li><strong>Poner el link de WhatsApp directo en la bio sin filtro.</strong> El cliente llega al chat sin contexto. Tú empiezas preguntando desde cero. No es mejor que Linktree, es peor porque ni siquiera organiza opciones.</li><li><strong>Crear un &quot;Linktree de servicios&quot; esperando que filtre.</strong> Tener un botón por servicio no es un filtro: sigue sin pedirle datos al cliente antes de redirigirle.</li><li><strong>Montar un formulario con 10 preguntas.</strong> La fricción baja la conversión. Más de 5-6 preguntas en un flujo de entrada espanta. Pide solo lo que cambia lo que harás.</li><li><strong>No explicar por qué preguntas.</strong> Una frase de microcopy (&quot;te hago 3 preguntas para darte un precio realista&quot;) reduce el abandono más que cualquier diseño.</li><li><strong>Usar el mismo link para todo.</strong> Si mezclas en un link &quot;reservar cita&quot; con &quot;pedir factura&quot; y &quot;colaboraciones&quot;, el flujo no puede ser limpio. Define la intención dominante del link y construye para esa.</li></ol><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Puedo usar Linktree y un link de atención al mismo tiempo?",
+        "answer": "Sí. Pon en tu Linktree un botón principal que lleve al link de atención (para consultas y reservas) y el resto de botones para destinos informativos como tu web o portfolio. Son capas distintas con funciones distintas."
+      },
+      {
+        "question": "¿No es suficiente con poner el WhatsApp directo en la bio?",
+        "answer": "Para volumen bajo, puede bastar. Para 20+ consultas al mes con preguntas repetidas, no: el cliente llega al chat sin contexto y tú tienes que empezar a preguntar desde cero en cada conversación."
+      },
+      {
+        "question": "¿Cuántas preguntas debería tener el link de atención para no espantar?",
+        "answer": "Entre 3 y 5 preguntas por ruta. Solo las que cambian tu respuesta: servicio exacto, fecha aproximada, contexto y contacto. Si un dato no cambia lo que harás, no lo pidas en este paso."
+      },
+      {
+        "question": "¿Qué pasa si mi servicio tiene muchas variantes y no encaja en 3 rutas?",
+        "answer": "Agrupa por intención, no por servicio. Cita, presupuesto e información cubren casi todos los casos en servicios locales. Dentro de cada ruta puedes preguntar el tipo de servicio específico."
+      },
+      {
+        "question": "¿Me vale con Typeform o Tally para montar esto sin herramienta específica?",
+        "answer": "Sí, si tienes tiempo de configurarlo y mantenerlo. La limitación es que la salida a WhatsApp con mensaje preformateado requiere algo de montaje extra. Es viable pero no es plug-and-play."
+      },
+      {
+        "question": "¿El link de atención afecta al SEO de mi perfil de Instagram?",
+        "answer": "No de forma directa. Instagram no indexa los links de bio en Google. El impacto SEO relevante está en tu web y en Google Business Profile, no en el link de Instagram."
+      },
+      {
+        "question": "¿Qué hago si me siguen escribiendo por DM aunque tenga el link en bio?",
+        "answer": "Es normal al principio. Responde al DM con un mensaje corto que lleve al link: 'Para darte toda la info bien, pásate por el link de mi bio, te lleva directo.' Con el tiempo, si lo comunicas en stories y posts, el patrón cambia."
+      },
+      {
+        "question": "¿Un link de atención funciona también desde Google Business Profile?",
+        "answer": "Sí. Puedes poner el link de atención en el botón de reserva o en la sección de web de tu perfil de Google. El cliente que llega desde Google también puede cualificarse antes de llegar al chat."
+      }
+    ]
+  },
+  {
     "slug": "link-en-bio-que-convierte-a-whatsapp",
     "title": "Link en bio que convierte a WhatsApp: checklist completa",
     "description": "Si tu link en bio lleva a una página con diez opciones o a un WhatsApp sin contexto, estás perdiendo consultas. Checklist completa para que el link filtre, cualifique y lleve al cliente con datos mínimos.",
