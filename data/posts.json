@@ -1,5 +1,109 @@
 [
   {
+    "slug": "como-explicar-por-que-pides-datos",
+    "title": "Cómo explicar por qué pides datos (para que no abandonen)",
+    "description": "Cuando pides datos sin explicar para qué sirven, la gente abandona. Aprende a escribir microcopy honesto que reduce fricción, genera confianza y mantiene al cliente dentro del flujo.",
+    "excerpt": "Explicar por qué pides cada dato convierte el formulario o flujo en una conversación con sentido, no en un interrogatorio. Con una frase por pregunta reduces el abandono sin sacrificar la información que necesitas.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-explicar-por-que-pides-datos.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "formularios",
+      "microcopy",
+      "cualificacion",
+      "conversion",
+      "whatsapp",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Cómo explicar por qué pides datos sin que abandonen el flujo",
+    "quickAnswer": [
+      "**Explica el beneficio para el cliente, no el tuyo** — En lugar de \"¿cuál es tu presupuesto?\", escribe \"Para no mandarte opciones que no encajan, ¿tienes un rango orientativo?\".",
+      "**Una frase es suficiente** — No necesitas un párrafo de justificación. Una línea antes o después de la pregunta elimina la mayor parte de la fricción.",
+      "**Anuncia el tiempo que lleva** — \"Te hago 3 preguntas, menos de un minuto\" baja la resistencia antes de que empiece.",
+      "**Si una pregunta es opcional, dilo** — Marcar algo como opcional hace que lo obligatorio parezca más razonable.",
+      "**Evita preguntas sin salida obvia** — Si el cliente no sabe cómo responder, abandona. Añade ejemplos o rangos dentro del enunciado."
+    ],
+    "oneLineDefinition": "Explicar por qué pides datos es añadir una frase de contexto junto a cada pregunta para que el cliente entienda el beneficio de responder, en lugar de sentir que le sometes a un interrogatorio.",
+    "sections": [
+      "Por qué abandonan (y no es por las preguntas en sí)",
+      "Microcopy: qué es y cómo funciona en un flujo de consultas",
+      "Checklist: cómo escribir cada pregunta para que no abandonen",
+      "Scripts listos para copiar y adaptar",
+      "Errores que disparan el abandono (y cómo corregirlos)",
+      "Cuándo NO aplicar este sistema",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo añadir microcopy a tus preguntas en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Lista de preguntas actuales del flujo",
+        "Canal de entrada (formulario, DM o asistente)"
+      ],
+      "steps": [
+        {
+          "name": "Lista tus preguntas actuales",
+          "text": "Anota todas las preguntas que haces antes de responder: zona, fecha, tipo de servicio, presupuesto, contacto."
+        },
+        {
+          "name": "Identifica cuál genera más abandonos o silencios",
+          "text": "Si hay una pregunta donde la gente para o no responde, empieza por ahí."
+        },
+        {
+          "name": "Escribe el beneficio real de responder",
+          "text": "Para cada pregunta, respóndete: ¿qué le ahorras al cliente si te da este dato? Usa esa respuesta como microcopy."
+        },
+        {
+          "name": "Añade el tiempo estimado al inicio del flujo",
+          "text": "Una frase al principio ('3 preguntas, menos de un minuto') reduce la resistencia antes de empezar."
+        },
+        {
+          "name": "Prueba con tono cercano y mide silencios",
+          "text": "Cambia una pregunta a la vez y observa si hay menos abandonos o respuestas incompletas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué abandonan (y no es por las preguntas en sí)</h2><p>Te preguntan por tu servicio, les mandas un formulario o empiezas a pedir datos y de repente, silencio. No es que la pregunta sea mala. Es que no saben para qué sirve la respuesta. Y cuando alguien no entiende por qué se le pide algo, lo más fácil es no contestar.</p><p>Esto ocurre constantemente en flujos de consultas para negocios de servicios: tatuadores, fotógrafos, coaches, centros de estética. Preguntas razonables, redactadas como si fueran un formulario del banco. El cliente percibe burocracia, no conversación, y abandona antes de llegar al dato que tú necesitas para responder bien.</p><p>La solución no es quitar preguntas (quitar lo que cualifica es peor). Es explicar brevemente por qué preguntas cada cosa, con una frase, justo donde toca.</p><h2>Microcopy: qué es y cómo funciona en un flujo de consultas</h2><p>Microcopy es el texto pequeño que acompaña una acción: la línea debajo de un campo, la frase que precede a una pregunta, el paréntesis que explica un término. En un formulario o asistente conversacional, es lo que convierte \"¿Cuál es tu presupuesto?\" en \"Para no mandarte opciones que no encajan contigo, ¿tienes un rango orientativo?\".</p><p>El cambio es mínimo en palabras. El efecto en confianza no lo es. Cuando explicas el motivo antes de pedir el dato, el cliente deja de sentir que le vas a usar la información en su contra y empieza a entender que responder le conviene a él.</p><p>Si estás construyendo un flujo de entrada desde Instagram o WhatsApp, este principio aplica también al primer mensaje que mandas. Puedes ver cómo organizarlo en <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a>.</p><h2>Checklist: cómo escribir cada pregunta para que no abandonen</h2><p>Antes de publicar cualquier flujo o formulario de consultas, revisa cada pregunta con esta lista:</p><ol><li><strong>¿Está el beneficio para el cliente visible antes de la pregunta?</strong> Si no, añade una frase que lo deje claro.</li><li><strong>¿Sabes cuánto tarda en responder todo?</strong> Si no se lo dices al inicio, lo imaginan como más largo de lo que es. Añade \"3 preguntas, menos de 1 minuto\" al comienzo.</li><li><strong>¿Alguna pregunta puede parecer intrusiva?</strong> Presupuesto, zona geográfica, datos personales. Explica en una línea para qué usas ese dato y qué no harás con él.</li><li><strong>¿Hay preguntas opcionales sin marcar como tal?</strong> Si algo es opcional, dilo. Hace que lo obligatorio parezca más razonable.</li><li><strong>¿El enunciado asume que saben responder?</strong> Si la pregunta es abierta y no hay ejemplos o rangos, mucha gente se queda en blanco. Añade una respuesta de ejemplo entre paréntesis.</li><li><strong>¿Pides más de un dato por pregunta?</strong> Cada pregunta debe pedir una sola cosa. Si pides zona y disponibilidad a la vez, sepáralas.</li><li><strong>¿El tono es coherente con cómo hablas en redes?</strong> Si tu Instagram es cercano y el flujo suena a contrato, hay disonancia. Ajusta el tono.</li><li><strong>¿Hay preguntas que solo sirven para ti, sin beneficio para el cliente?</strong> Quítalas o explica muy bien para qué las usas. Si no puedes justificarla, probablemente no la necesitas aún.</li></ol><h2>Scripts listos para copiar y adaptar</h2><p>Estos son ejemplos reales de cómo reescribir preguntas habituales con microcopy que reduce el abandono.</p><h3>Script 1: Anuncio inicial del flujo</h3><blockquote><p>\"Hola, para responderte bien y sin dar vueltas, te hago 3 preguntas rápidas. Menos de un minuto. Vamos.\"</p></blockquote><p>Por qué funciona: elimina la incertidumbre sobre la duración y encuadra el flujo como un servicio, no un trámite.</p><h3>Script 2: Pregunta sobre presupuesto</h3><blockquote><p>\"Para no perderte el tiempo con opciones que no encajan, ¿tienes un rango orientativo en mente? (No tienes que ser exacto, un aproximado ya ayuda.)\"</p></blockquote><p>Por qué funciona: justifica la pregunta en términos del cliente, no del negocio, y quita la presión de dar una cifra exacta.</p><h3>Script 3: Pregunta sobre zona o disponibilidad</h3><blockquote><p>\"¿Tienes preferencia de zona o fechas? Te pregunto para saber si tengo algo que encaje antes de responder.\"</p></blockquote><p>Por qué funciona: el \"antes de responder\" indica que esto acelera el proceso, no lo complica.</p><h3>Script 4: Solicitud de contacto (teléfono o email)</h3><blockquote><p>\"Por último, ¿a qué número o correo te respondo? Solo lo uso para mandarte la respuesta, nada más.\"</p></blockquote><p>Por qué funciona: la aclaración \"nada más\" es microcopy de privacidad implícita. Reduce la fricción en el momento de mayor sensibilidad.</p><h3>Script 5: Pregunta sobre el servicio concreto</h3><blockquote><p>\"¿Qué tipo de servicio te interesa? (Por ejemplo: sesión individual, bono de 5, regalo para otra persona.) Así te doy el precio correcto a la primera.\"</p></blockquote><p>Por qué funciona: los ejemplos dentro del paréntesis guían sin forzar y el beneficio final es claro.</p><p>Si usas un link único como punto de entrada desde tu bio o perfil, este microcopy también aplica al texto que rodea ese enlace. Puedes ver cómo construirlo en <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente: cómo convertirlo en un sistema</a>.</p><h2>Errores que disparan el abandono (y cómo corregirlos)</h2><ul><li><strong>Preguntar sin contexto</strong> — \"¿Cuál es tu presupuesto?\" suena a negociación. Corrección: añade el motivo antes de la pregunta.</li><li><strong>No anunciar la duración</strong> — Si no saben cuánto dura, asumen que es largo. Corrección: \"3 preguntas, menos de 1 minuto\" al inicio.</li><li><strong>Mezclar preguntas obligatorias y opcionales sin distinción</strong> — El cliente no sabe qué puede saltarse y qué no. Corrección: marca lo opcional como \"(opcional)\" explícitamente.</li><li><strong>Tono frío en un contexto cercano</strong> — Si en Instagram hablas de tú, el formulario no puede sonar a DNI. Corrección: ajusta el tono a cómo hablas en el resto de canales.</li><li><strong>Pedir dato sensible sin explicación</strong> — Teléfono, email o presupuesto sin contexto generan desconfianza. Corrección: una línea de para qué usas ese dato y qué no harás con él.</li><li><strong>Preguntas sin ejemplo de respuesta</strong> — Si el campo es abierto y la pregunta es vaga, la gente no sabe cómo responder y para. Corrección: añade entre paréntesis un ejemplo o un rango orientativo.</li><li><strong>Demasiadas preguntas seguidas sin respiración</strong> — Un bloque de ocho preguntas sin contexto abruma. Corrección: máximo 4-5 preguntas con microcopy en cada una, o separa en pasos cortos.</li></ul><h2>Cuándo NO aplicar este sistema</h2><ul><li>Si tu volumen de consultas es muy bajo (2-3 al día), el flujo estructurado puede ser innecesario. Con ese volumen, una respuesta manual bien escrita suele bastar.</li><li>Si cada consulta es completamente diferente y no hay patrón repetible, el microcopy estandarizado no encaja. Tu proceso es consultivo desde el primer mensaje.</li><li>Si tu proceso de venta requiere conversación larga y descubrimiento profundo desde el inicio, un formulario previo puede generar fricción donde no debe haberla.</li></ul><p>Si quieres implementar este tipo de flujo sin construirlo desde cero, herramientas como <a href=\"/blog/link-en-bio-para-google-business-profile/\">Inkup</a> hacen exactamente esto: capturan la información mínima con un asistente conversacional antes de redirigir al cliente a WhatsApp con el contexto ya recogido. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas palabras de microcopy son suficientes por pregunta?",
+        "answer": "Una frase suele bastar. El objetivo es justificar la pregunta en términos del cliente, no escribir un párrafo. Más de dos líneas de contexto por pregunta empieza a pesar."
+      },
+      {
+        "question": "¿Dónde pongo el microcopy: antes o después de la pregunta?",
+        "answer": "Si es para motivar a responder, antes. Si es para aclarar cómo responder (ejemplos, rangos), después o entre paréntesis dentro del enunciado."
+      },
+      {
+        "question": "¿Qué hago si la gente sigue abandonando aunque explique el motivo?",
+        "answer": "Revisa si estás pidiendo demasiados datos o si hay una pregunta que genera desconfianza. Quita una pregunta a la vez y observa en cuál cae el abandono. Normalmente es la del presupuesto o la del contacto."
+      },
+      {
+        "question": "¿El microcopy de privacidad ('solo uso esto para responderte') tiene efecto real?",
+        "answer": "Sí, especialmente en preguntas de contacto. Una línea de 'nada más' o 'solo para responderte' reduce la fricción en el momento de mayor sensibilidad sin necesidad de una política de privacidad extensa."
+      },
+      {
+        "question": "¿Puedo usar el mismo microcopy en WhatsApp y en un formulario?",
+        "answer": "El tono puede ser el mismo, pero el formato cambia. En WhatsApp va directo en el mensaje. En un formulario va como texto de ayuda debajo del campo. Adapta el microcopy al canal, no lo copies tal cual."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas aunque tenga buen microcopy?",
+        "answer": "Más de 5-6 preguntas en un flujo inicial suelen generar abandono, aunque estén bien justificadas. Si necesitas más datos, recoge los imprescindibles primero y pide el resto cuando el cliente ya está enganchado."
+      },
+      {
+        "question": "¿Qué hago si el cliente llega a WhatsApp sin haber respondido todas las preguntas?",
+        "answer": "Pide solo los datos que faltan y que cambian tu respuesta. No repitas las que ya respondió. Si llegó a WhatsApp, ya tiene intención; no lo hagas empezar de cero."
+      },
+      {
+        "question": "¿Funciona el microcopy igual para todos los sectores?",
+        "answer": "El principio es el mismo: explica el beneficio para el cliente. El tono varía. Un tatuador puede ser más informal; un coach de empresa, más directo. Adapta las palabras, no el principio."
+      }
+    ]
+  },
+  {
     "slug": "link-en-bio-para-google-business-profile",
     "title": "Cómo usar el mismo link para Instagram y Google (sin duplicar esfuerzos)",
     "description": "Aprende a usar un único link de atención desde Instagram y Google Business Profile para recibir consultas ordenadas, sin duplicar sistemas ni perder contexto según el canal de origen.",
