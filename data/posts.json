@@ -1,5 +1,112 @@
 [
   {
+    "slug": "como-reducir-opciones-en-link-en-bio",
+    "title": "Cuántas opciones poner en tu link en bio (regla práctica)",
+    "description": "Si tu link en bio tiene más de tres opciones, probablemente estás perdiendo conversiones sin saberlo. Aprende cuántas rutas poner, cómo nombrarlas y por qué menos opciones convierten mejor en negocios de servicios.",
+    "excerpt": "Más opciones en tu link en bio no es mejor. La regla práctica para negocios de servicios es 2-3 rutas por intención: cita, presupuesto e información. Todo lo demás genera parálisis y abandono.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-reducir-opciones-en-link-en-bio.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-16",
+    "readingTime": "6 min",
+    "tags": [
+      "link-en-bio",
+      "conversion",
+      "instagram",
+      "atencion-al-cliente",
+      "procesos",
+      "friccion"
+    ],
+    "quickAnswerSubtitle": "Cuántas opciones poner en tu link en bio",
+    "quickAnswer": [
+      "**Máximo 3 rutas** — Cita, presupuesto e información cubren el 90% de las intenciones reales en servicios. Más opciones generan parálisis y abandono.",
+      "**Nombra por lo que quiere el cliente, no por lo que ofreces** — 'Quiero reservar cita' convierte más que 'Reservas'. El cliente reconoce su intención, no tu categoría interna.",
+      "**Una pregunta mínima por ruta** — Antes de redirigir a WhatsApp, pide el dato que cambia tu respuesta. Solo uno. Más preguntas en este punto reducen conversión.",
+      "**Quita los enlaces informativos del flujo principal** — Horarios, ubicación y precios pueden vivir en el perfil o en la propia conversación. No necesitan botón propio en el link."
+    ],
+    "oneLineDefinition": "El número óptimo de opciones en un link en bio para negocios de servicios es 2-3 rutas por intención (cita, presupuesto, información), porque más opciones generan parálisis de decisión y reducen la tasa de contacto.",
+    "sections": [
+      "El problema real: más opciones no es más claridad",
+      "La regla 2-3: por qué funciona en servicios",
+      "Cómo nombrar cada opción (y qué evitar)",
+      "Qué hacer con el resto de opciones que no caben",
+      "Errores comunes al diseñar el link",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Reducir y organizar las opciones de tu link en bio",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Link en bio existente",
+        "Lista de intenciones frecuentes de tus clientes",
+        "Canal final (WhatsApp u otro)"
+      ],
+      "steps": [
+        {
+          "name": "Lista todas tus opciones actuales",
+          "text": "Escribe en papel o en un doc todo lo que tienes ahora en el link. Sin filtrar todavía."
+        },
+        {
+          "name": "Agrupa por intención real del cliente",
+          "text": "Clasifica cada opción en: quiere cita, quiere precio o quiere información. Si no encaja en ninguna, es candidata a eliminar."
+        },
+        {
+          "name": "Reduce a 3 rutas máximo",
+          "text": "Deja solo una opción por intención. Si tienes dos botones de cita (uno para cada servicio), fusiónalos: el cliente elige el servicio dentro del flujo, no antes."
+        },
+        {
+          "name": "Renombra cada botón desde la perspectiva del cliente",
+          "text": "Usa frases como 'Quiero reservar cita' o 'Pedir presupuesto'. Evita categorías internas como 'Servicios' o 'Tarifas'."
+        },
+        {
+          "name": "Define la pregunta mínima de cada ruta",
+          "text": "Antes de redirigir a WhatsApp, decide qué dato necesitas de cada ruta. Una pregunta por ruta, no más."
+        },
+        {
+          "name": "Mueve la información estática fuera del flujo",
+          "text": "Horarios, ubicación y precios generales van en el perfil de Instagram, en Google Business Profile o en la conversación. No necesitan botón propio."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: más opciones no es más claridad</h2><p>Tienes el link en bio con siete botones. Uno para cada servicio, uno para precios, uno para ubicación, uno para 'contactar'. El cliente entra, ve el menú, no sabe por dónde empezar y cierra. Tú no te enteras porque nadie te escribe que se fue: simplemente no llega el mensaje.</p><p>Este es el coste invisible de tener demasiadas opciones: no genera error ni queja. Solo silencio. Y tú lo interpretas como que el cliente no estaba interesado, cuando en realidad no supo qué tocar primero.</p><p>La paradoja aquí es contraintuitiva: cuantas más opciones ofreces, menos elige el cliente. En psicología del comportamiento esto tiene nombre (parálisis por análisis), pero en la práctica se traduce en algo más simple: si el cliente tiene que pensar qué botón le corresponde, ya has perdido parte de la atención que tenías.</p><h2>La regla 2-3: por qué funciona en servicios</h2><p>En negocios de servicios (estética, tatuajes, fotografía, coaching, fisioterapia), el 90% de las personas que llegan a tu link tienen una de estas tres intenciones:</p><ul><li>Quieren reservar o saber si hay hueco.</li><li>Quieren saber cuánto cuesta.</li><li>Quieren información antes de decidir (qué haces, cómo trabajas, requisitos).</li></ul><p>Eso es todo. El resto de botones que sueles ver (galería, web, blog, tienda, canal de YouTube) responden a intenciones tuyas, no del cliente que llega desde Instagram con una duda concreta.</p><p>La regla práctica es: <strong>2 rutas si tu servicio es homogéneo, 3 si tienes variabilidad real entre cita y presupuesto</strong>. Por encima de 3, cada opción adicional reduce la tasa de clic en el conjunto, no la aumenta.</p><p>Si quieres profundizar en cómo estructurar ese link para que lleve al cliente hasta WhatsApp con contexto, <a href=&quot;/blog/link-en-bio-que-convierte-a-whatsapp/&quot;>esta checklist sobre link en bio que convierte a WhatsApp</a> detalla cada paso del flujo.</p><h2>Cómo nombrar cada opción (y qué evitar)</h2><p>El nombre del botón determina si el cliente se reconoce en él. Hay una diferencia enorme entre escribir desde tu lógica interna y escribir desde la intención del cliente.</p><table><thead><tr><th>Versión interna (evitar)</th><th>Versión desde el cliente (usar)</th></tr></thead><tbody><tr><td>Reservas</td><td>Quiero reservar cita</td></tr><tr><td>Tarifas / Precios</td><td>¿Cuánto cuesta?</td></tr><tr><td>Servicios</td><td>Ver qué ofrezco</td></tr><tr><td>Contactar</td><td>Hablar con nosotros</td></tr><tr><td>Más información</td><td>Tengo una duda antes de decidir</td></tr></tbody></table><p>El cliente que llega desde una story no está buscando tu estructura organizativa. Está buscando reconocer su situación en lo que lee. Si el botón dice exactamente lo que él quiere hacer, lo pulsa. Si tiene que interpretar, duda.</p><h2>Qué hacer con el resto de opciones que no caben</h2><p>Aquí está la segunda resistencia habitual: &quot;pero es que también necesito que vean mi galería / web / tienda&quot;. Probablemente no tanto como crees, y en cualquier caso ese no es el trabajo del link en bio en el contexto de atención.</p><p>Las opciones que no son parte del flujo de contacto tienen mejores lugares donde vivir:</p><ul><li><strong>Horarios y ubicación</strong>: en el perfil de Instagram (campo de contacto) y en Google Business Profile. No necesitan botón.</li><li><strong>Precios generales</strong>: en la propia conversación, cuando el cliente pregunta. O en una historia destacada. No en el link principal si ya tienes un botón de presupuesto.</li><li><strong>Galería o portfolio</strong>: tu feed de Instagram ya es tu galería. Si el cliente llegó desde ahí, ya lo vio.</li><li><strong>Web o tienda</strong>: solo incluye si la web es el destino real de la conversión (venta directa). Si es solo informativa, no compita con el flujo de contacto.</li></ul><p>El link en bio para atención no es un índice de todo lo que haces. Es una puerta con dos o tres caminos claros. <a href=&quot;/blog/link-en-bio-para-atencion-clientes/&quot;>Entender la diferencia entre un link como menú y un link como sistema</a> cambia cómo lo configuras desde el inicio.</p><h2>Una pregunta mínima por ruta (y no más)</h2><p>Una vez que el cliente elige su ruta (cita, presupuesto, información), el flujo puede pedir un dato antes de redirigir a WhatsApp. Este es el momento donde muchos negocios se exceden.</p><p>La regla aquí es la misma que en el link: <strong>una pregunta que cambie lo que responderás</strong>. No un formulario. No tres pasos. Una.</p><ul><li>Ruta de cita: ¿Para qué fecha aproximada buscas hueco? (Esto te dice si hay viabilidad antes de abrir WhatsApp.)</li><li>Ruta de presupuesto: ¿Qué servicio concreto te interesa? (Sin esto, no puedes dar ningún rango.)</li><li>Ruta de información: ¿Sobre qué tienes dudas? (Opcional; a veces con la ruta ya tienes suficiente para responder.)</li></ul><p>Si te preguntas dónde está el límite real entre una pregunta útil y demasiadas, <a href=&quot;/blog/cuantas-preguntas-pedir-cliente/&quot;>este artículo sobre cuántas preguntas son demasiadas</a> da la regla con criterio y ejemplos por sector.</p><h2>Errores comunes al diseñar el link</h2><ol><li><strong>Un botón por servicio en lugar de uno por intención.</strong> Si ofreces cinco servicios, no pongas cinco botones. El cliente elige el servicio dentro del flujo, después de elegir la intención (cita o presupuesto). Antes es demasiado pronto.</li><li><strong>Incluir un botón de &quot;Contactar&quot; genérico junto a los específicos.</strong> Si ya tienes &quot;Reservar cita&quot; y &quot;Pedir presupuesto&quot;, el botón de &quot;Contactar&quot; es ruido. El cliente que no encaja en ninguna ruta puede usar cualquiera de las dos o escribir directamente por DM.</li><li><strong>Botones con nombres que el cliente no usa.</strong> &quot;Tarifas&quot;, &quot;Servicios&quot;, &quot;Atención al cliente&quot; son categorías internas. Prueba a leerlos como si fueras el cliente llegando por primera vez.</li><li><strong>Poner el link en bio solo en la bio.</strong> Si el flujo está bien diseñado, ponlo también en stories, en posts con llamada a la acción y en el botón de contacto del perfil. El link trabaja según el tráfico que le mandes.</li><li><strong>Cambiar las opciones cada semana.</strong> Si modificas el link cada vez que lanzas algo nuevo, el cliente que regresa no reconoce la estructura. Las rutas principales son estables; los lanzamientos pueden ser una historia o un post, no un botón permanente.</li></ol><h2>El bloque citable: regla 2-3 rutas con ejemplos por sector</h2><table><thead><tr><th>Sector</th><th>Ruta 1</th><th>Ruta 2</th><th>Ruta 3 (si aplica)</th></tr></thead><tbody><tr><td>Tatuaje</td><td>Quiero pedir cita</td><td>¿Cuánto cuesta un tatuaje?</td><td>Tengo una duda antes de decidir</td></tr><tr><td>Estética / belleza</td><td>Reservar tratamiento</td><td>Ver precios</td><td>— (2 suelen bastar)</td></tr><tr><td>Fotografía</td><td>Quiero contratar sesión</td><td>Pedir presupuesto</td><td>Ver qué tipo de sesiones hago</td></tr><tr><td>Coaching / consultoría</td><td>Reservar sesión de diagnóstico</td><td>¿Cómo trabajas?</td><td>— (la info va dentro del flujo)</td></tr><tr><td>Fisioterapia / salud</td><td>Pedir cita</td><td>¿Qué problemas tratáis?</td><td>— (horarios van en perfil)</td></tr></tbody></table><p>Si tu caso no encaja exactamente en ninguno: agrupa tus consultas habituales de los últimos 30 días y clasifícalas en las tres intenciones. La distribución te dice cuántos botones necesitas.</p><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que recoge la intención del cliente, hace una pregunta mínima por ruta y redirige a WhatsApp con el contexto ya capturado. No es para todos los casos: si tu volumen es bajo (menos de 20-30 consultas) o cada cliente requiere una conversación exploratoria larga desde el primer mensaje, probablemente no lo necesitas todavía.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas opciones debería tener mi link en bio si ofrezco cinco servicios distintos?",
+        "answer": "Sigue poniendo 2-3 botones, pero por intención: cita, presupuesto e información. El cliente elige el servicio concreto dentro del flujo, no antes. Un botón por servicio multiplica las opciones sin añadir claridad."
+      },
+      {
+        "question": "¿Pongo el precio en el link o espero a que pregunten?",
+        "answer": "Si tu precio varía según el proyecto, no pongas cifra en el botón: usa una ruta de presupuesto con una pregunta mínima (servicio concreto) antes de redirigir. Si tienes tarifa fija, puedes incluirla en el propio perfil o historia destacada, fuera del flujo de contacto."
+      },
+      {
+        "question": "¿Qué pasa si el cliente no sabe qué ruta elegir?",
+        "answer": "Si el cliente duda entre rutas, el problema suele ser el nombre del botón, no el número de opciones. Revisa si los nombres están escritos desde la intención del cliente o desde tu estructura interna."
+      },
+      {
+        "question": "¿Debería incluir un botón para ver mi portfolio o galería?",
+        "answer": "No en el flujo principal de atención. Tu feed de Instagram ya funciona como galería. Si el cliente llegó desde ahí, ya la vio. El link en bio en este contexto es para convertir intención en contacto, no para mostrar más trabajo."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer dentro de cada ruta antes de que el cliente abandone?",
+        "answer": "Una pregunta que cambie lo que responderás. Dos si son muy cortas y el servicio lo justifica. A partir de tres preguntas antes de llegar a WhatsApp, la tasa de abandono sube de forma visible."
+      },
+      {
+        "question": "¿El link en bio es suficiente o también necesito el botón de contacto del perfil?",
+        "answer": "Ambos pueden coexistir, pero deben apuntar al mismo destino o flujo. Si el botón de contacto va directo a WhatsApp y el link tiene un flujo con pregunta previa, elige uno como principal y úsalo de forma consistente en tus llamadas a la acción."
+      },
+      {
+        "question": "¿Qué hago si recibo consultas por DM aunque tenga link en bio?",
+        "answer": "Es normal y no desaparece del todo. Puedes responder al DM con una frase corta que lleve al link: 'Para darte info rápido, entra aquí y elige lo que buscas: [link]'. No intentes resolver todo por DM si el flujo ya existe."
+      },
+      {
+        "question": "¿Cada cuánto debería revisar si las opciones del link siguen siendo las correctas?",
+        "answer": "Cada 2-3 meses o cuando notes que un botón recibe muy poco tráfico. Si tienes datos (clics por ruta), la revisión es objetiva. Si no, clasifica las últimas 30 consultas entrantes y comprueba si las rutas actuales las cubren."
+      }
+    ]
+  },
+  {
     "slug": "flujo-dm-link-whatsapp",
     "title": "Flujo DM → link → WhatsApp: el sistema más simple para ordenar consultas",
     "description": "Aprende a construir el flujo más simple para ordenar consultas: responde el DM con un enlace, captura datos mínimos y abre WhatsApp con contexto listo. Sin CRM, sin automatización compleja.",
