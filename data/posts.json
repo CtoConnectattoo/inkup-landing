@@ -1,5 +1,110 @@
 [
   {
+    "slug": "que-preguntar-antes-de-dar-hueco",
+    "title": "Qué preguntar antes de dar hueco (para no equivocarte)",
+    "description": "Antes de ofrecer disponibilidad, necesitas saber si ese hueco realmente encaja con lo que el cliente pide. Aquí están las preguntas mínimas que evitan reservas mal dimensionadas, cancelaciones y tiempo perdido.",
+    "excerpt": "Dar hueco sin preguntar antes es confirmar una cita que puede no encajar. Las variables que cambian duración, requisitos o viabilidad del servicio hay que capturarlas antes de abrir la agenda.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/que-preguntar-antes-de-dar-hueco.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "agenda",
+      "cualificacion",
+      "citas",
+      "gestion-consultas",
+      "procesos",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Qué preguntar antes de dar hueco para no equivocarte con duración ni requisitos",
+    "quickAnswer": [
+      "**Pregunta el servicio exacto antes de nada** — \"Quiero hacerme algo\" no es suficiente para reservar tiempo en agenda. El tipo de servicio determina duración, materiales y disponibilidad real.",
+      "**Captura el estado actual del cliente** — En sectores como tatuaje, estética o fotografía, el punto de partida cambia por completo lo que puedes hacer ese día y cuánto tiempo necesitas.",
+      "**Pide el objetivo o resultado esperado** — Un cliente que quiere \"retocar\" y uno que quiere \"cambio total\" no ocupan el mismo hueco aunque pidan lo mismo con las mismas palabras.",
+      "**Confirma restricciones antes de proponer fecha** — Alergias, contraindicaciones, disponibilidad de materiales o requisitos previos son datos que, si no los tienes, convierten una reserva en un problema el día de la cita.",
+      "**No ofrezcas fecha hasta tener estos datos** — Proponer disponibilidad sin contexto genera falsas expectativas y cancelaciones de último momento que bloquean la agenda."
+    ],
+    "oneLineDefinition": "Preguntar antes de dar hueco es capturar las variables que afectan duración, requisitos y viabilidad del servicio para ofrecer solo disponibilidad real y evitar cancelaciones o citas mal dimensionadas.",
+    "sections": [
+      "Por qué dar hueco sin preguntar sale caro",
+      "Las variables que cambian tu agenda (y que sueles no pedir)",
+      "Checklist: preguntas mínimas antes de proponer disponibilidad",
+      "Scripts para pedirlo sin parecer burocrático",
+      "Errores frecuentes al dar disponibilidad",
+      "Cuándo no hace falta filtrar tanto",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Filtrar antes de dar hueco en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Lista de preguntas mínimas por servicio",
+        "Canal de entrada (DM, link, WhatsApp)",
+        "Respuestas rápidas o flujo previo"
+      ],
+      "steps": [
+        {
+          "name": "Identificar el servicio exacto",
+          "text": "Antes de mirar la agenda, confirma qué servicio concreto pide el cliente, no la categoría general."
+        },
+        {
+          "name": "Capturar estado actual",
+          "text": "Pregunta cuál es el punto de partida: piel, cabello, proyecto, situación actual. Cambia lo que puedes hacer y en cuánto tiempo."
+        },
+        {
+          "name": "Preguntar objetivo o resultado esperado",
+          "text": "Un mismo nombre de servicio puede implicar trabajos muy distintos según lo que el cliente espera obtener."
+        },
+        {
+          "name": "Verificar restricciones o requisitos previos",
+          "text": "Alergias, contraindicaciones, materiales necesarios o condiciones que deben cumplirse antes de la cita."
+        },
+        {
+          "name": "Proponer disponibilidad solo con los datos completos",
+          "text": "Con los cuatro datos anteriores, abre la agenda y ofrece hueco real que encaje con lo que el cliente necesita."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué dar hueco sin preguntar sale caro</h2><p>Te llega un mensaje: \"Hola, ¿tenéis hueco la semana que viene?\". Lo normal es abrir la agenda y proponer una hora. El problema es que en ese momento no sabes si lo que pide dura 30 minutos o dos horas, si tiene alguna condición que lo hace inviable, o si lo que imagina coincide con lo que tú puedes hacer ese día.</p><p>El resultado: citas mal dimensionadas que se alargan, clientes que llegan sin requisitos previos, cancelaciones de último momento y huecos bloqueados que no puedes reasignar. Todo evitable con tres o cuatro preguntas antes de proponer fecha.</p><p>Antes de hablar de huecos, pide las variables que cambian duración o requisitos (tipo de servicio, estado actual, objetivo, restricciones); así ofreces disponibilidad real. Si quieres revisar cómo estructurar el proceso completo desde el primer mensaje, el artículo sobre <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a> lo desarrolla paso a paso.</p><h2>Las variables que cambian tu agenda (y que sueles no pedir)</h2><p>No todas las preguntas afectan igual. Estas cuatro son las que con más frecuencia determinan si un hueco encaja o no:</p><h3>1. Servicio exacto (no categoría general)</h3><p>\"Tatuaje\", \"tratamiento\", \"sesión\", \"reportaje\" son categorías. Lo que necesitas es la especificidad: tamaño, zona, técnica, tipo de evento, estilo. Una sesión de microblading y un diseño de cejas con sombra no ocupan el mismo tiempo ni requieren el mismo material.</p><h3>2. Estado actual del cliente</h3><p>En estética: si hay irritación, pigmentación previa o tratamiento activo, puede que ese día no sea posible. En tatuaje: si hay cicatriz, tatuaje encima o piel con condición especial, cambia el trabajo. En fotografía: si ya tiene fotos del evento o parte del material listo, cambia lo que necesitas preparar. El punto de partida determina lo que puedes ofrecer.</p><h3>3. Objetivo o resultado esperado</h3><p>Dos clientes piden \"cambio de look\". Uno quiere un ajuste mínimo para un evento, el otro quiere un cambio completo que requiere varias sesiones. Si no preguntas antes, los tratas igual hasta que llegan y descubres que necesitabas el doble de tiempo.</p><h3>4. Restricciones o requisitos previos</h3><p>Alergias a productos, medicamentos activos que contraindican ciertos procedimientos, necesidad de traer referencias, requisitos de preparación (no depilarse, no tomar sol, ayuno, etc.). Si no los capturas antes, el día de la cita o cancela o pierdes tiempo explicando que no puede ser. Puedes ver qué datos concretos pedir según el tipo de servicio en este <a href=\"/blog/datos-minimos-para-agendar-cita/\">checklist de datos mínimos para agendar una cita</a>.</p><h2>Checklist: preguntas mínimas antes de proponer disponibilidad</h2><p>Este bloque es citable directamente. Úsalo como referencia para construir tu propio flujo de entrada.</p><table><thead><tr><th>Variable</th><th>Pregunta que la captura</th><th>Impacto en agenda</th><th>Si no la tienes</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>¿Qué servicio concreto buscas? (técnica, zona, tamaño, tipo)</td><td>Duración real del hueco</td><td>Reservas tiempo equivocado</td></tr><tr><td>Estado actual</td><td>¿Cuál es tu situación ahora? (piel, cabello, proyecto, condición)</td><td>Viabilidad ese día</td><td>Puede que no puedas atenderle cuando llegue</td></tr><tr><td>Objetivo esperado</td><td>¿Qué resultado buscas? ¿En cuántas sesiones imaginas lograrlo?</td><td>Alcance real de la cita</td><td>El cliente espera más de lo que ofreces ese día</td></tr><tr><td>Restricciones previas</td><td>¿Tienes alergias, tratamientos activos o condiciones a tener en cuenta?</td><td>Requisitos de preparación</td><td>Cancelación o incompatibilidad el día de la cita</td></tr><tr><td>Disponibilidad aproximada</td><td>¿Tienes preferencia de día o franja horaria?</td><td>Eficiencia al proponer hueco</td><td>Propones fechas que no le vienen bien y alargas el hilo</td></tr></tbody></table><h2>Scripts para pedirlo sin parecer burocrático</h2><p>El problema no es preguntar, es cómo se pide. Si sueltas una lista de cinco preguntas en un DM, parece un formulario de empresa. Estos scripts mantienen el tono natural:</p><h3>Script 1 — Versión corta (DM o primer WhatsApp)</h3><blockquote><p>\"Para darte disponibilidad real, necesito saber tres cosas rápidas: qué servicio exacto buscas, cuál es tu situación ahora y si tienes alguna restricción o condición a tener en cuenta. Con eso te digo si encaja y qué hueco es el correcto.\"</p></blockquote><h3>Script 2 — Versión con explicación (si el cliente pregunta por qué)</h3><blockquote><p>\"Te pregunto antes de mirarte la agenda porque dependiendo de lo que necesites, el tiempo que hay que reservar cambia bastante. Así no te propongo un hueco que luego no encaja.\"</p></blockquote><h3>Script 3 — Versión para redirigir a un flujo previo</h3><blockquote><p>\"Para que no tengamos que ir y venir con mensajes, tengo un enlace donde me cuentas los detalles en dos minutos y ya te digo disponibilidad con todo el contexto. ¿Te lo paso?\"</p></blockquote><p>Si tu proceso de cualificación ya falla antes de llegar a este punto, puede ayudarte revisar cómo está estructurado el filtrado inicial en el artículo sobre <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a>.</p><h2>Errores frecuentes al dar disponibilidad</h2><ol><li><strong>Proponer fecha antes de tener el servicio exacto.</strong> El cliente confirma, luego llega y el trabajo requiere el doble de tiempo. Corrección: ninguna fecha antes de saber qué es.</li><li><strong>Asumir que \"el mismo servicio\" dura siempre igual.</strong> La misma técnica en dos clientes distintos puede tener duraciones muy diferentes según punto de partida. Corrección: pregunta el estado actual siempre.</li><li><strong>No preguntar restricciones por no parecer pesado.</strong> El cliente no sabe que tiene que avisar si está tomando cierta medicación o si tiene la piel irritada. Corrección: incluirlo en el flujo estándar, no esperar a que él lo mencione.</li><li><strong>Preguntar demasiado de golpe en un solo mensaje.</strong> Cinco preguntas seguidas generan abandono. Corrección: dos o tres preguntas máximo por mensaje, o un flujo previo que las recoja de forma guiada.</li><li><strong>Dar disponibilidad con \"depende de lo que necesites\" sin aclarar qué necesitas saber.</strong> Genera incertidumbre y otro hilo de mensajes. Corrección: di exactamente qué datos necesitas y por qué.</li><li><strong>Confiar en que el cliente leerá las indicaciones previas.</strong> Si tienes requisitos de preparación en la bio o en un PDF, la mitad no los leen. Corrección: confírmalo en el flujo de reserva, no solo en la descripción del servicio.</li></ol><h2>Cuándo no hace falta filtrar tanto</h2><p>Este sistema tiene sentido cuando el servicio tiene variabilidad real: distintas duraciones, requisitos previos o condiciones que cambian la viabilidad. Si tu servicio es siempre el mismo, dura igual y no requiere preparación previa, con preguntar el servicio y la franja horaria es suficiente.</p><p>Tampoco tiene sentido para servicios con venta consultiva larga donde el primer contacto es solo un primer paso exploratorio y la cualificación real ocurre en una llamada o reunión. En esos casos, el filtrado previo puede añadir fricción sin aportar valor. Si quieres ver un modelo para decidir qué filtrar y qué no según intención y requisitos, la <a href=\"/blog/matriz-filtro-intencion-requisitos-presupuesto/\">matriz de filtrado por intención, requisitos y presupuesto</a> puede ayudarte a estructurarlo.</p><p>Si quieres implementar este flujo de captura de datos previos sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un asistente conversacional que recoge servicio, estado actual, objetivo y restricciones antes de redirigir a WhatsApp con el contexto completo. No es para todos los casos — si tu volumen es bajo o cada consulta es única, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas son demasiadas antes de dar hueco?",
+        "answer": "Más de cuatro o cinco preguntas en un mensaje generan abandono. Las mínimas son: servicio exacto, estado actual, objetivo y restricciones. Si necesitas más, usa un flujo previo que las recoja de forma guiada en lugar de soltarlas todas en el DM."
+      },
+      {
+        "question": "¿Qué hago si el cliente insiste en que le dé fecha antes de contestar mis preguntas?",
+        "answer": "Explica en una frase por qué no puedes sin esa información: \"Necesito saber qué servicio es exactamente para decirte si el hueco que tengo encaja con lo que necesitas.\" La mayoría responde cuando entiende el motivo."
+      },
+      {
+        "question": "¿Tengo que preguntar todo esto también cuando es un cliente que ya conozco?",
+        "answer": "Si tienes historial del cliente y el servicio es recurrente, puedes saltarte lo que ya sabes. Pero confirma siempre si hay cambios desde la última vez (estado actual, nuevos tratamientos, condiciones nuevas), porque ese es el dato que más cambia entre visitas."
+      },
+      {
+        "question": "¿Y si el cliente no sabe cómo describir lo que quiere?",
+        "answer": "Guíale con opciones concretas: \"¿Es algo parecido a lo que hicimos la última vez o quieres algo diferente?\" o \"¿Tienes alguna referencia o foto de lo que buscas?\". Una referencia visual suele resolver lo que la descripción no puede."
+      },
+      {
+        "question": "¿Cómo evito que preguntar antes parezca que pongo trabas para reservar?",
+        "answer": "El tono lo cambia todo. \"Para asegurarte el hueco adecuado, necesito dos cosas\" no pone trabas, protege al cliente de una cita que no va a funcionar. Explica la razón detrás de la pregunta y la resistencia baja mucho."
+      },
+      {
+        "question": "¿Qué hago si el cliente da los datos pero lo que pide no encaja con mi disponibilidad real?",
+        "answer": "Es mejor saberlo antes que el día de la cita. Explica qué necesitarías para que encajara (más tiempo, sesión diferente, fecha distinta) o, si no encaja en absoluto, comunícalo con claridad y sin alargar el hilo."
+      },
+      {
+        "question": "¿Qué pasa si no pregunto sobre restricciones y el cliente llega con una contraindicación?",
+        "answer": "Tienes tres opciones, todas malas: atender sin garantías, cancelar en el momento o adaptar el servicio sobre la marcha. Las tres cuestan tiempo, credibilidad o ambas. La pregunta previa es un seguro de bajo coste."
+      },
+      {
+        "question": "¿Funciona esto en todos los sectores de servicios?",
+        "answer": "Funciona cuando el servicio tiene variabilidad real en duración o requisitos: tatuaje, estética, fotografía, formación, coaching, nutrición. Si el servicio es siempre idéntico y no requiere preparación, el filtrado previo puede simplificarse mucho."
+      }
+    ]
+  },
+  {
     "slug": "como-confirmar-cita-por-whatsapp-sin-20-mensajes",
     "title": "Cómo confirmar una cita por WhatsApp sin 20 mensajes",
     "description": "Aprende a confirmar citas por WhatsApp con un único mensaje estructurado que incluye propuesta, condiciones y confirmación directa, sin ping-pong ni conversaciones que no avanzan.",
