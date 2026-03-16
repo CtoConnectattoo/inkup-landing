@@ -1,5 +1,109 @@
 [
   {
+    "slug": "datos-minimos-para-agendar-cita",
+    "title": "Datos mínimos para agendar una cita sin ida y vuelta (checklist)",
+    "description": "Qué información pedir antes de confirmar disponibilidad para agendar en 1–2 respuestas, sin preguntar en 20 mensajes ni pedir datos que no cambian nada.",
+    "excerpt": "Para agendar sin ida y vuelta necesitas cinco datos: servicio exacto, fecha preferida, flexibilidad horaria, duración aproximada y contacto. Con eso puedes confirmar o redirigir en una respuesta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/datos-minimos-para-agendar-cita.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-16",
+    "readingTime": "7 min",
+    "tags": [
+      "agendar-citas",
+      "cualificar-consultas",
+      "whatsapp",
+      "procesos",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Datos mínimos para agendar una cita sin mensajes de ida y vuelta",
+    "quickAnswer": [
+      "**Pide el servicio exacto** — sin saber qué quiere el cliente, no puedes asignar tiempo ni profesional.",
+      "**Pregunta fecha preferida y flexibilidad** — sin las dos, no sabes si hay hueco real o solo disponibilidad genérica.",
+      "**Confirma la duración aproximada** — servicios de distinta duración no son intercambiables en agenda.",
+      "**Recoge el contacto antes de confirmar** — un nombre y número te evitan perder la reserva si el chat se interrumpe.",
+      "**No pidas nada más en este paso** — historial clínico, referencias, preferencias estéticas: todo eso va después de confirmar hueco."
+    ],
+    "oneLineDefinition": "Los datos mínimos para agendar son la información estrictamente necesaria para confirmar disponibilidad en 1–2 respuestas: servicio, fecha, flexibilidad, duración y contacto.",
+    "sections": [
+      "El problema: pides demasiado o demasiado poco",
+      "Los cinco datos que siempre necesitas antes de confirmar",
+      "Checklist: dato, por qué lo pides y qué decisión habilita",
+      "Scripts listos para pedir esta información",
+      "Errores más comunes al recoger datos para agendar",
+      "Cuándo NO usar este checklist",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Agendar una cita con datos mínimos en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business",
+        "Respuestas rápidas",
+        "Agenda o calendario"
+      ],
+      "steps": [
+        {
+          "name": "Define los cinco datos imprescindibles",
+          "text": "Servicio exacto, fecha preferida, flexibilidad horaria, duración aproximada y contacto. Nada más en este paso."
+        },
+        {
+          "name": "Crea un mensaje de recogida en bloque",
+          "text": "Agrupa las preguntas en un solo mensaje para que el cliente responda de una vez, no en cinco mensajes separados."
+        },
+        {
+          "name": "Revisa la respuesta antes de confirmar",
+          "text": "Con los cinco datos completos, consulta la agenda y confirma en 1 respuesta o propón alternativa."
+        },
+        {
+          "name": "Confirma con resumen y siguiente paso",
+          "text": "Repite fecha, hora y servicio en la confirmación para evitar malentendidos."
+        },
+        {
+          "name": "Guarda el contexto",
+          "text": "Anota los datos en tu agenda o sistema antes de cerrar el chat para no tener que preguntar de nuevo."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema: pides demasiado o demasiado poco</h2><p>Hay dos errores opuestos que alargan el proceso de agenda hasta los 20 mensajes. El primero es pedir datos de más: historial completo, referencias, preferencias detalladas, intolerancias, antes de saber siquiera si tienes hueco esa semana. El segundo es confirmar antes de tener lo mínimo y descubrir después que el cliente quería otra cosa, otro día o un servicio diferente.</p><p>El resultado es el mismo: conversaciones que duran días para cerrar algo que debería resolverse en dos respuestas. Si quieres entender por qué esto también afecta a cuánto tardas en responder, <a href=\"/blog/agendar-citas-sin-mensajes/\">este artículo sobre cómo agendar sin intercambiar 20 mensajes</a> lo explica paso a paso.</p><p>La solución no es pedir más ni pedir menos. Es pedir exactamente lo que cambia tu decisión de confirmar o no.</p><h2>Los cinco datos que siempre necesitas antes de confirmar</h2><p>Estos cinco datos funcionan para casi cualquier servicio con cita: estética, fisioterapia, tatuaje, fotografía, coaching, consultoría presencial. Si alguno no aplica a tu servicio, elimínalo; pero antes de eliminarlo, pregúntate si realmente no cambia tu decisión.</p><h3>1. Servicio exacto</h3><p>No el área, el servicio concreto. &quot;Limpieza facial&quot; y &quot;limpieza facial con extracción&quot; no son el mismo hueco en agenda. &quot;Tatuaje pequeño&quot; puede ser 30 minutos o 3 horas. Sin saber qué exactamente, cualquier disponibilidad que ofrezcas puede ser incorrecta.</p><h3>2. Fecha preferida</h3><p>Una fecha o rango de fechas. Sin esto, ofreces disponibilidad genérica que luego no encaja y vuelves a empezar.</p><h3>3. Flexibilidad horaria</h3><p>Si solo puede a una hora concreta, eso cambia completamente lo que puedes ofrecerle. Pregunta si tiene preferencia de mañana o tarde, o si tiene restricciones de horario. Este dato evita proponer tres opciones que el cliente va a rechazar.</p><h3>4. Duración aproximada del servicio</h3><p>En servicios con tiempos variables (tatuaje por sesión, sesión de fotos, masaje con extensiones), necesitas una estimación antes de asignar hueco. Si el cliente no lo sabe, tú puedes estimarlo con el servicio exacto; pero necesitas el servicio exacto para hacerlo.</p><h3>5. Nombre y contacto</h3><p>Un nombre y un número (o email si es tu canal de cierre). Sin esto, si el chat se interrumpe o necesitas enviar confirmación, has perdido la reserva. Pídelo antes de confirmar, no después.</p><h2>Checklist: dato, por qué lo pides y qué decisión habilita</h2><table><thead><tr><th>Dato</th><th>Por qué lo pides</th><th>Qué decisión habilita</th><th>Riesgo si no lo tienes</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>La duración y los recursos varían por servicio</td><td>Asignar tiempo y profesional correctos</td><td>Confirmas un hueco que no encaja</td></tr><tr><td>Fecha preferida</td><td>Sin fecha, cualquier disponibilidad es abstracta</td><td>Consultar agenda real</td><td>Das opciones que no sirven</td></tr><tr><td>Flexibilidad horaria</td><td>Define si puedes encajarlo o no</td><td>Reducir a 1–2 opciones reales</td><td>Propones 3 franjas que rechaza</td></tr><tr><td>Duración aproximada</td><td>Servicios variables no caben en hueco estándar</td><td>Asignar bloque correcto</td><td>Solapas citas o dejas huecos muertos</td></tr><tr><td>Nombre y contacto</td><td>Para confirmar y recuperar si el chat se corta</td><td>Cerrar la reserva</td><td>Pierdes la cita si no hay seguimiento</td></tr></tbody></table><p>Este bloque funciona como snippet independiente: si alguien te pregunta qué datos pedir para agendar, puedes compartir esta tabla directamente.</p><h2>Scripts listos para pedir esta información</h2><p>El error más habitual no es no saber qué preguntar, sino preguntarlo en cinco mensajes separados. El cliente responde el primero, tú envías el segundo, él responde al día siguiente, y la conversación se diluye. La solución es agrupar en un solo bloque.</p><h3>Script 1 — Versión directa (tono neutro)</h3><blockquote><p>&quot;Para buscarte hueco, necesito 5 datos rápidos:<br>1. ¿Qué servicio exacto buscas?<br>2. ¿Qué fecha o semana te viene mejor?<br>3. ¿Tienes preferencia de mañana o tarde, o alguna restricción de horario?<br>4. ¿Tienes idea de cuánto tiempo necesitas (o lo calculo yo según el servicio)?<br>5. Tu nombre y un número de contacto para confirmarte.<br>Con eso te confirmo en cuanto lo revise.&quot;</p></blockquote><h3>Script 2 — Versión con microcopy (explica por qué preguntas)</h3><blockquote><p>&quot;Para confirmarte algo real y no perdernos en mensajes, necesito solo esto:<br>— Servicio exacto (la duración varía bastante según el tipo)<br>— Fecha que te viene bien y si tienes flexibilidad horaria<br>— Tu nombre y contacto<br>Con eso reviso agenda y te digo en el día.&quot;</p></blockquote><h3>Script 3 — Versión para responder a &quot;¿tenéis hueco esta semana?&quot;</h3><blockquote><p>&quot;Sí, tenemos huecos esta semana. Para confirmarte uno concreto: ¿qué servicio necesitas y qué días y horarios te vienen mejor? Dime también tu nombre y te escribo con las opciones.&quot;</p></blockquote><p>Si recibes muchas consultas del tipo &quot;¿tenéis cita hoy?&quot;, <a href=\"/blog/como-responder-a-tienes-cita-hoy/\">aquí tienes un script específico con reglas para esa situación</a>.</p><h2>Errores más comunes al recoger datos para agendar</h2><ol><li><strong>Pedir datos que no cambian nada todavía.</strong> Historial médico, alergias, referencias de diseño: son datos para antes de la cita, no para confirmar el hueco. Pedirlos antes añade fricción sin añadir utilidad.</li><li><strong>Preguntar uno a uno.</strong> Cada mensaje separado es una oportunidad para que el cliente no responda. Agrupa siempre en un bloque.</li><li><strong>No pedir flexibilidad horaria.</strong> Propones tres opciones, el cliente rechaza las tres porque solo puede a una hora que no has preguntado. Habría bastado con una pregunta.</li><li><strong>Confirmar sin contacto.</strong> &quot;Quedamos el martes a las 11&quot; sin nombre ni número. Si el chat se cierra, no tienes forma de recuperar la reserva.</li><li><strong>Asumir la duración.</strong> Especialmente en servicios como tatuaje o fotografía, la duración varía. Si no confirmas, puedes dejar a alguien esperando o solapar con otra cita.</li><li><strong>No resumir al confirmar.</strong> Confirmar sin repetir fecha, hora y servicio genera malentendidos. El cliente recuerda &quot;el martes&quot;, tú tienes &quot;el martes a las 10 con depilación láser zona grande&quot;. Sin resumen, cualquiera de los dos puede equivocarse.</li></ol><h2>Cuándo NO usar este checklist</h2><p>Este esquema funciona cuando el proceso de agenda es relativamente estándar y hay cierto volumen de consultas repetidas. Hay tres situaciones donde no aplica directamente:</p><ul><li>Si tu servicio requiere una consulta inicial larga antes de poder siquiera estimar duración o viabilidad, el checklist de cinco datos no basta. Necesitas una consulta previa, no una agenda directa.</li><li>Si cada cita es radicalmente diferente y no puedes estimar duración ni precio sin una conversación profunda, forzar el modelo de datos mínimos puede generar citas mal dimensionadas.</li><li>Si tu volumen es muy bajo (1–3 citas por semana), el proceso informal puede funcionar igual de bien sin ningún sistema. No vale la pena sistematizar lo que ya funciona a mano.</li></ul><p>Si tu caso es el primero o el segundo, lo que necesitas primero es <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtrar y cualificar antes de agendar</a>, no un checklist de cita.</p><p>Y si no tienes claro si tu volumen ya justifica estructurar el proceso de agenda, <a href=\"/blog/agenda-manual-vs-semi-automatizada/\">este artículo sobre agenda manual frente a semi-automatizada</a> te ayuda a decidir según tu situación real.</p><h2>El siguiente paso sin construirlo desde cero</h2><p>Si recibes consultas por Instagram y WhatsApp y el problema es que siempre tienes que preguntar lo mismo antes de confirmar una cita, lo que realmente necesitas es que esa información llegue antes de que empiece el chat manual. No después.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un asistente conversacional que recoge los datos del cliente antes de redirigirle a WhatsApp, de forma que tú recibes el contexto listo para responder en una sola vez. No es para todos los casos: si tu volumen es bajo o cada cita requiere una conversación larga de discovery desde el principio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas son demasiadas para confirmar una cita?",
+        "answer": "Más de cinco suele ser demasiado en este paso. Si necesitas más datos, algunos pertenecen al momento previo a la cita, no a la confirmación del hueco. Cinco preguntas agrupadas en un mensaje no generan fricción; cinco mensajes separados sí."
+      },
+      {
+        "question": "¿Qué hago si el cliente no me da el servicio exacto y solo dice 'algo de estética'?",
+        "answer": "Devuelve una pregunta concreta: '¿Es facial, corporal o depilación?' No ofrezcas disponibilidad hasta tener respuesta. Confirmar antes de saber qué servicio es generar un hueco que puede no encajar."
+      },
+      {
+        "question": "¿Tengo que pedir el contacto si ya me escribe por WhatsApp?",
+        "answer": "Sí, si hay riesgo de perder el hilo. El nombre al menos. Si la conversación se interrumpe y solo tienes un número sin nombre ni contexto, es muy difícil recuperar la reserva sin parecer intrusivo."
+      },
+      {
+        "question": "¿Y si el cliente no sabe cuánto tiempo necesita para su servicio?",
+        "answer": "Si tienes el servicio exacto, puedes estimarlo tú. La pregunta de duración es para servicios con alta variabilidad (tatuaje por sesión, fotografía). Si tu servicio tiene duración fija, elimina esa pregunta del checklist."
+      },
+      {
+        "question": "¿Puedo hacer estas preguntas antes de revisar la agenda o primero miro si tengo hueco?",
+        "answer": "Primero pide los datos, luego miras la agenda. Si miras disponibilidad sin saber el servicio ni la fecha preferida, estás consultando algo que puede no servir. Los datos primero, la agenda después."
+      },
+      {
+        "question": "¿Qué pasa si el cliente responde solo a dos de las cinco preguntas?",
+        "answer": "Pide los que faltan en un solo mensaje de seguimiento, no uno a uno. 'Para poder confirmarte, me falta la fecha y el horario aproximado.' Si tras dos intentos no responde, cierre amable. El cliente que va en serio responde."
+      },
+      {
+        "question": "¿Cómo confirmo sin que suene robótico?",
+        "answer": "Resume los datos en la confirmación: 'Perfecto, te apunto el martes 4 a las 11 para limpieza facial. Si necesitas cambiar algo, avísame con antelación.' Directo, con contexto y con un siguiente paso claro."
+      },
+      {
+        "question": "¿Este proceso funciona igual para citas de alto ticket que para servicios rápidos?",
+        "answer": "Para servicios de alto ticket normalmente hay una consulta previa antes de la cita. En ese caso, lo que estás agendando primero es la consulta, no el servicio. El checklist de cinco datos aplica igual, pero el servicio que describes es 'consulta inicial'."
+      }
+    ]
+  },
+  {
     "slug": "como-reducir-abandono-en-link-en-bio",
     "title": "Cómo reducir el abandono en tu link en bio (sin pedir menos datos)",
     "description": "El abandono en tu link en bio no siempre viene de pedir demasiados datos. Viene de pedir datos sin explicar por qué, sin mostrar avance y en el orden equivocado. Aprende a corregirlo sin sacrificar la información que necesitas.",
