@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificar-por-instagram",
+    "title": "Plantilla para cualificar desde Instagram sin hacerlo en DMs",
+    "description": "Cómo mover la cualificación fuera del DM de Instagram: plantilla mínima, scripts de transición y microcopy para que el cliente llegue a WhatsApp con la información ya recogida.",
+    "excerpt": "El DM de Instagram es una puerta, no un formulario. Aquí la plantilla para mover la cualificación a un punto único y llegar al cierre con contexto.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificar-por-instagram.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "instagram",
+      "cualificacion",
+      "gestion-consultas",
+      "whatsapp",
+      "plantilla",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Cómo cualificar desde Instagram sin eternizarte en DMs",
+    "quickAnswer": [
+      "**El DM es la puerta, no el formulario** — usa el primer mensaje para redirigir al cliente a un punto de cualificación, no para empezar a preguntar en hilo.",
+      "**Envía un link con contexto** — un formulario conversacional o flujo con 3-5 preguntas recoge la información antes de que abras WhatsApp.",
+      "**El script de transición importa** — cómo redactas el mensaje que pide el dato extra determina si el cliente hace clic o desaparece.",
+      "**Cualifica por intención antes de dar precio** — pide servicio, fecha y contexto mínimo antes de dar ninguna cifra.",
+      "**Standariza el cierre** — el objetivo es que la conversación en WhatsApp empiece con los datos ya en tu mano, no que los recojas allí."
+    ],
+    "oneLineDefinition": "Cualificar desde Instagram sin hacerlo en DMs significa usar el primer contacto como puerta de entrada y redirigir al cliente a un punto único que recoge servicio, fecha y contexto antes de abrir la conversación final en WhatsApp.",
+    "sections": [
+      "Por qué el DM de Instagram no sirve para cualificar",
+      "El modelo correcto: puerta vs formulario",
+      "Plantilla mínima de transición DM→link",
+      "Plantilla completa según intención",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy para no espantar al cliente",
+      "Scripts listos para copiar",
+      "Errores comunes al cualificar en DM",
+      "Cuándo NO necesitas este sistema",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Mover la cualificación fuera del DM en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Script de transición DM",
+        "Punto de cualificación único (link, flujo o formulario)",
+        "Mensaje de cierre en WhatsApp"
+      ],
+      "steps": [
+        {
+          "name": "Escribe tu script de transición",
+          "text": "Un mensaje corto en DM que reconoce la consulta y pide al cliente que pulse un link o responda 2-3 datos mínimos antes de continuar."
+        },
+        {
+          "name": "Define las preguntas mínimas",
+          "text": "Servicio exacto, fecha o urgencia, contexto en una frase. Solo lo que cambia tu respuesta."
+        },
+        {
+          "name": "Estandariza la llegada a WhatsApp",
+          "text": "El primer mensaje en WhatsApp es un resumen del contexto recogido más la propuesta de siguiente paso. No empiezas desde cero."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el DM de Instagram no sirve para cualificar</h2><p>Abres el lunes con 34 mensajes sin leer. Doce dicen \"precio\", ocho dicen \"info\", tres dicen \"hola\". No sabes quién es quién ni qué quiere cada uno. Empiezas a responder y en el mensaje cuatro ya estás repitiendo lo mismo que escribiste hace diez minutos en otra conversación.</p><p>El problema no es el volumen. El problema es que el DM de Instagram no está diseñado para recoger información estructurada. Está diseñado para conversación informal y rápida. Pedirle a alguien que te dé siete datos relevantes en hilo de mensajes directos es lo mismo que intentar hacer una entrevista de trabajo por SMS.</p><p>Lo que ocurre en la práctica: preguntas, el cliente responde a medias, tú preguntas de nuevo, el cliente se distrae, el hilo se pierde entre notificaciones de otros y tres días después nadie recuerda dónde estaba la conversación. El lead bueno se va no porque no quisiera el servicio, sino porque el proceso le resultó lento.</p><p>La observación que casi ningún artículo menciona: la mayoría de las conversaciones de Instagram que nunca cierran no fracasan por precio ni por falta de interés. Fracasan porque no hubo un momento claro de transición entre \"curioseo\" y \"conversación con intención\". El DM mantiene a todo el mundo en modo curioseo indefinidamente.</p><h2>El modelo correcto: puerta vs formulario</h2><p>Instagram funciona mejor como puerta, no como formulario.</p><p>Eso significa que el DM tiene una función específica: reconocer que el cliente llegó y moverle al siguiente punto del proceso. Nada más. El DM no es donde recoges datos. Es donde creas el primer momento de confianza y diriges al cliente al sitio donde sí los recoges.</p><p>El modelo tiene tres momentos:</p><ul><li><strong>Entrada</strong> — el cliente escribe en DM (o llega por el link de la bio).</li><li><strong>Cualificación</strong> — el cliente completa un punto único (flujo, formulario o script corto) con los datos mínimos.</li><li><strong>Cierre</strong> — la conversación en WhatsApp empieza con el contexto ya en tu mano.</li></ul><p>El punto dos es donde la mayoría de negocios no tiene nada. Responden directamente en DM, recopilan datos desordenados durante diez mensajes y llegan a WhatsApp sin contexto. O no llegan, porque el cliente se aburrió.</p><p>Para entender bien qué preguntas tienen sentido en ese punto de cualificación, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas de preguntas por sector y servicio</a> que puedes adaptar directamente.</p><h2>Plantilla mínima de transición DM→link</h2><p>Esta es la plantilla para el primer mensaje que envías en respuesta a cualquier DM entrante. No importa si el mensaje original era \"precio\", \"info\" o \"hola\". La respuesta es la misma estructura.</p><h3>Versión neutra</h3><blockquote><p>\"Hola, gracias por escribir. Para ayudarte bien y darte respuesta rápida, necesito 3 datos rápidos. Te lleva menos de un minuto: [link]\"</p></blockquote><h3>Versión directa (si el mensaje era \"precio\" o \"presupuesto\")</h3><blockquote><p>\"Para darte un precio que tenga sentido (no un número al aire), necesito saber qué exactamente, para cuándo y un poco de contexto. Lo recojo aquí en 1 minuto: [link]\"</p></blockquote><h3>Versión para bio y stories (texto del link)</h3><blockquote><p>\"Reserva o consulta — cuéntame qué necesitas y te respondo rápido.\"</p></blockquote><p>Lo que hace que estos scripts funcionen no es la cortesía. Es que dan una razón para hacer clic. \"Para darte un precio que tenga sentido\" es mejor que \"rellena este formulario\" porque convierte el clic en un beneficio para el cliente, no en una tarea.</p><h2>Plantilla completa según intención</h2><p>Una vez el cliente llega al punto de cualificación, las preguntas cambian según lo que busca. Hay tres rutas que cubren el 90% de los casos en negocios de servicios.</p><h3>Ruta A — Quiere cita o hueco</h3><ol><li>¿Qué servicio necesitas exactamente?</li><li>¿Para cuándo? (fecha preferida o rango)</li><li>¿Tienes flexibilidad de horario? (mañana / tarde / cualquiera)</li><li>Nombre y WhatsApp para confirmar.</li></ol><p><strong>Cierre en WhatsApp:</strong></p><blockquote><p>\"Hola [nombre], vi que buscas [servicio] para [fecha]. Tengo hueco el [X] a las [Y]. ¿Te viene bien?\"</p></blockquote><h3>Ruta B — Quiere presupuesto o precio</h3><ol><li>¿Qué servicio o trabajo necesitas?</li><li>Cuéntame en una frase qué quieres conseguir.</li><li>¿Para cuándo lo necesitas?</li><li>¿Tienes alguna referencia o ejemplo? (si aplica)</li><li>Nombre y WhatsApp.</li></ol><p><strong>Cierre en WhatsApp:</strong></p><blockquote><p>\"Hola [nombre], con lo que me cuentas el rango suele estar entre [X] y [Y] dependiendo de [variable]. Si te cuadra, te propongo siguiente paso.\"</p></blockquote><h3>Ruta C — Quiere información general</h3><ol><li>¿Qué información necesitas exactamente? (ubicación / proceso / tiempos / requisitos)</li><li>¿Estás pensando en reservar o solo informándote?</li><li>Si quieres que te avise de disponibilidad: nombre y WhatsApp.</li></ol><p><strong>Cierre en WhatsApp (si el cliente quería más):</strong></p><blockquote><p>\"Hola [nombre], te cuento lo principal en tres líneas y si quieres te dejo el siguiente paso para reservar.\"</p></blockquote><p>La ventaja de separar rutas no es la automatización. Es que te obliga a pensar qué necesitas saber en cada caso y evita que apliques la misma batería de preguntas a alguien que solo quería saber el horario.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Intención real, tipo de trabajo</td><td>Si encaja / a qué ruta va</td></tr><tr><td>¿Para cuándo? (fecha o rango)</td><td>Urgencia, viabilidad</td><td>Si hay hueco o propones alternativa</td></tr><tr><td>Contexto en una frase</td><td>Objetivo del cliente</td><td>Rango de precio orientativo, próximo paso</td></tr><tr><td>Referencia o ejemplo</td><td>Alineación de expectativas</td><td>Estimación más fiable, ahorra correcciones</td></tr><tr><td>Flexibilidad de horario o fecha</td><td>Margen de maniobra en agenda</td><td>Qué opciones ofreces sin perder la venta</td></tr><tr><td>Canal preferido de contacto</td><td>Reduce fricción</td><td>Cómo cierras rápido</td></tr><tr><td>Nombre y WhatsApp</td><td>Trazabilidad</td><td>Seguimiento sin depender de Instagram</td></tr></tbody></table><p>Cada pregunta que no cambia ninguna de estas decisiones es una pregunta que no deberías hacer en el primer contacto. Guárdalas para cuando el cliente ya está dentro.</p><h2>Microcopy para no espantar al cliente</h2><p>El microcopy es el texto que acompaña al link o al formulario. Es lo que decide si el cliente hace clic o cierra la ventana. La mayoría de negocios ignora esto y pone textos genéricos que suenan a burocracia.</p><h3>Texto del botón o link</h3><ul><li>\"Cuéntame qué necesitas\" — funciona para la mayoría de servicios.</li><li>\"Ver disponibilidad\" — funciona si el cliente quiere cita.</li><li>\"Pedir presupuesto\" — funciona si el servicio tiene precio variable.</li><li>\"Empezar aquí\" — funciona como alternativa neutral.</li></ul><h3>Texto introductorio del flujo o formulario</h3><blockquote><p>\"Te hago 3 preguntas para darte una respuesta concreta. Menos de un minuto.\"</p></blockquote><blockquote><p>\"Para no hacerte esperar con una respuesta genérica, necesito saber esto antes.\"</p></blockquote><h3>Texto cuando el cliente pregunta precio antes de dar datos</h3><blockquote><p>\"El precio depende de [variable 1] y [variable 2]. Dime qué necesitas exactamente y te doy un rango real, no un número que luego no cuadra.\"</p></blockquote><p>La observación que se omite casi siempre: el microcopy no tiene que sonar corporativo ni cálido en exceso. Tiene que sonar como lo diría una persona que sabe lo que hace y respeta el tiempo del cliente. Ese tono convierte mejor que cualquier emoji o fórmula de cortesía.</p><h2>Scripts listos para copiar</h2><p>Estos scripts son para responder directamente en DM cuando el cliente ya está en la conversación y quieres moverle al punto de cualificación.</p><h3>Script 1 — Respuesta al primer mensaje (cualquier intención)</h3><blockquote><p>\"Hola. Para ayudarte bien y no hacerte esperar con una respuesta genérica, te hago 3 preguntas rápidas aquí: [link]. Menos de un minuto y te respondo con algo concreto.\"</p></blockquote><h3>Script 2 — Cuando preguntan precio sin datos</h3><blockquote><p>\"El precio varía según el trabajo. Para darte un número que tenga sentido, necesito saber qué buscas exactamente. Te recojo los datos aquí: [link]\"</p></blockquote><h3>Script 3 — Cuando preguntan disponibilidad</h3><blockquote><p>\"Para mirarte hueco, necesito saber qué servicio y para cuándo. Dímelo aquí y te confirmo en cuanto pueda: [link]\"</p></blockquote><h3>Script 4 — Cuando el cliente insiste en DM sin dar datos</h3><blockquote><p>\"Entiendo. Lo que pasa es que sin saber [servicio / fecha / contexto] no puedo darte una respuesta útil. Si me lo dices, te respondo rápido.\"</p></blockquote><p>Para profundizar en cómo gestionar este tipo de conversaciones con volumen alto, <a href=\"/blog/como-cualificar-consultas-por-instagram/\">aquí tienes una guía específica sobre cómo cualificar consultas por Instagram sin eternizarte</a>.</p><h2>Errores comunes al cualificar en DM</h2><ol><li><strong>Responder precio antes de tener datos</strong> — Das un número sin contexto, el cliente lo toma como precio fijo y la conversación se complica desde el primer mensaje.</li><li><strong>Preguntar demasiado en DM</strong> — Más de dos preguntas en hilo de Instagram y la respuesta cae. El DM no está optimizado para formularios.</li><li><strong>No tener link en bio activo</strong> — Si el cliente llega a tu bio antes de escribir y no encuentra dónde hacer clic, escribe al DM sin contexto. El link previene la consulta caótica.</li><li><strong>Usar el mismo script para todas las intenciones</strong> — Quien pregunta precio y quien quiere cita necesitan respuestas distintas. Un script genérico suena a que no has leído su mensaje.</li><li><strong>No cerrar el bucle en WhatsApp</strong> — Mueves al cliente al link, recoge los datos, y luego el primer mensaje de WhatsApp vuelve a empezar desde cero. El punto del sistema es llegar a WhatsApp con el contexto ya escrito.</li><li><strong>Poner el link solo en bio</strong> — Si solo está en bio, solo llega quien va expresamente a buscarla. Ponlo también en stories y en la respuesta a preguntas frecuentes en destacados.</li></ol><h2>Cuándo NO necesitas este sistema</h2><p>Este sistema tiene sentido si recibes suficiente volumen como para que el caos sea real. Si recibes menos de diez consultas a la semana, responder en DM de forma manual es perfectamente viable y añadir un flujo de cualificación solo añade fricción sin beneficio.</p><p>Tampoco tiene sentido si cada consulta es completamente distinta y no hay patrón de preguntas repetibles. En ese caso, el primer contacto tiene que ser conversacional desde el inicio y un flujo estructurado va a resultar rígido.</p><p>Y si tu problema real es que no te escriben, este sistema no lo resuelve. La cualificación solo funciona cuando hay consultas que gestionar. Si el problema es captación, primero hay que resolver eso.</p><p>Si ya tienes el volumen pero tu proceso de cualificación todavía depende de ti recordarlo cada vez, puede tener sentido automatizar parte de ese primer contacto. <a href=\"/blog/automatizar-mensajes-instagram-negocio/\">Aquí hay una guía sobre cómo automatizar mensajes en Instagram para negocios locales sin resultar impersonal</a>, con los límites claros de cuándo funciona y cuándo no.</p><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan la entrada desde Instagram y WhatsApp en un link único con un asistente que recoge los datos mínimos antes de redirigir al cliente a WhatsApp con el contexto ya preparado. No es para todos los casos — si tu volumen es bajo o cada consulta requiere discovery humano desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo cualificar directamente en el DM de Instagram sin mandar a ningún link?",
+        "answer": "Puedes, pero es lento y desordenado. El DM no guarda historial limpio, las notificaciones se mezclan y si tienes volumen, perderás hilos. Funciona a partir de 3-4 preguntas si el cliente ya está caliente. Por encima de eso, redirige."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Responde en el canal donde llegó primero y redirige el segundo al mismo hilo. No dupliques la conversación. Un punto de entrada único evita que esto ocurra de base."
+      },
+      {
+        "question": "¿Cuántos mensajes puedo pedir en DM antes de que el cliente se vaya?",
+        "answer": "Uno o dos. El DM sirve para reconocer que llegaste y pedir un solo dato o redirigir a un link. Más de dos preguntas en DM y la tasa de respuesta cae."
+      },
+      {
+        "question": "¿El link de cualificación tiene que ser una landing o vale un formulario de Google?",
+        "answer": "Vale cualquier cosa que recoja los datos mínimos y sea rápida de rellenar en móvil. Un formulario de Google funciona si el cliente lo ve y no le parece burocrático. El problema suele ser el tono del formulario, no la herramienta."
+      },
+      {
+        "question": "¿Qué pasa si el cliente no hace clic en el link y sigue preguntando en DM?",
+        "answer": "Responde una vez más con el mismo script de transición. Si insiste sin dar datos, ese cliente probablemente no convertirá. No merece más ciclos de atención que uno de los leads que sí siguió el proceso."
+      },
+      {
+        "question": "¿La bio de Instagram es el único sitio donde poner el link?",
+        "answer": "No. También en stories con sticker de enlace, en la respuesta a preguntas frecuentes en destacados y en los primeros comentarios de posts con alta interacción. Cuantos más puntos de entrada al mismo link, más consistente el flujo."
+      },
+      {
+        "question": "¿Funciona esto para servicios con precio muy variable?",
+        "answer": "Especialmente para esos. Cuando el precio depende de varios factores, el DM sin datos es una trampa: das un rango sin contexto y el cliente lo toma como precio fijo. Con la plantilla mínima, das rango con condiciones claras."
+      },
+      {
+        "question": "¿Cuándo tiene sentido responder precio directamente en DM sin pedir más datos?",
+        "answer": "Cuando tienes un servicio de precio fijo y sin variabilidad, y el precio no te descalifica frente a la competencia. En ese caso, dar precio en DM puede ser la respuesta más eficiente."
+      }
+    ]
+  },
+  {
     "slug": "como-medir-si-tu-automatizacion-en-instagram-funciona",
     "title": "Cómo medir si tu automatización en Instagram funciona (KPIs simples)",
     "description": "Aprende qué métricas mirar para saber si tus DMs automáticos, tu link y tu paso a WhatsApp están convirtiendo, o si solo dan sensación de orden sin resultados.",
