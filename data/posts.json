@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-servicios-domicilio",
+    "title": "Plantilla para servicios a domicilio",
+    "description": "Preguntas exactas para no hacer desplazamientos inútiles. Plantilla mínima y completa para confirmar ubicación, tipo de servicio y viabilidad antes de salir.",
+    "excerpt": "Antes de subir al coche, necesitas confirmar tres cosas: que el servicio encaja, que la zona es viable y que el cliente está listo. Aquí la plantilla para hacerlo en menos de dos minutos.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-servicios-domicilio.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "servicios-domicilio",
+      "plantilla",
+      "cualificacion",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Confirma estos datos antes de aceptar un servicio a domicilio",
+    "quickAnswer": [
+      "**Dirección exacta y zona** — No vale un barrio. Necesitas saber si la desplazamiento es viable antes de decir que sí.",
+      "**Tipo de servicio concreto** — Lo que el cliente llama 'arreglo rápido' puede ser dos horas de trabajo. Pide descripción, no etiqueta.",
+      "**Disponibilidad de acceso** — Ascensor, parking, planta, si hay que cargar material. Cambia el tiempo y el precio.",
+      "**Fecha y franja horaria** — Mañana y tarde no son lo mismo si tienes agenda ajustada. Pide rango, no solo día.",
+      "**Señal de compromiso** — Nombre y teléfono reales. Sin esto no hay reserva, solo intención vaga.",
+      "**Requisitos especiales del encargo** — Materiales que aporta el cliente, condiciones del espacio, restricciones. Evita sorpresas en el sitio."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para servicios a domicilio debe confirmar, antes del desplazamiento: dirección exacta, tipo de servicio real, condiciones de acceso, franja horaria y datos de contacto verificables.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para servicios a domicilio",
+      "Plantilla mínima (antes de confirmar)",
+      "Plantilla completa (cuando el servicio tiene alta variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de servicio a domicilio",
+      "Errores que cuestan un desplazamiento",
+      "Implementación sin herramientas complejas",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar un servicio a domicilio antes de confirmar",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 6 preguntas",
+        "Canal de entrada (Instagram DM o WhatsApp)",
+        "Mensaje de cierre con resumen"
+      ],
+      "steps": [
+        {
+          "name": "Recoge dirección y condiciones de acceso",
+          "text": "Pide calle, número y datos de acceso (planta, ascensor, parking). Sin esto no puedes evaluar viabilidad ni tiempo real."
+        },
+        {
+          "name": "Confirma el servicio concreto",
+          "text": "Pide descripción en una frase, no categoría. 'Fontanería' no te dice nada. 'Cambiar grifo cocina' sí."
+        },
+        {
+          "name": "Cierra con fecha, franja y datos de contacto",
+          "text": "Propón dos opciones de franja para reducir ida y vuelta. Pide nombre y teléfono antes de bloquear agenda."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te pasa alguna de estas cosas con regularidad:</p><ul><li>Llegas a un domicilio y el trabajo es el doble de lo que describieron.</li><li>Aceptas una cita y luego descubres que no hay parking, no hay ascensor o la dirección estaba mal.</li><li>Pierdes una mañana porque el cliente no estaba o cambió el servicio en el último momento.</li><li>Recibes mensajes tipo 'necesito que vengas' sin fecha, sin dirección y sin descripción del problema.</li><li>Tienes <a href=\"/blog/centralizar-consultas-instagram-whatsapp/\">consultas entrando por Instagram y WhatsApp</a> y no hay forma de ordenarlas antes de responder.</li></ul><p>No la uses si solo recibes dos o tres consultas a domicilio por semana y tienes tiempo de llamar a cada cliente. En ese caso, una llamada de cinco minutos hace el mismo trabajo sin fricción.</p><h2>Regla madre para servicios a domicilio</h2><blockquote><p><strong>No confirmes desplazamiento sin confirmar tres cosas: dónde, qué y cuándo.</strong><br>Cualquier variable que falte puede anular la viabilidad del servicio. La dirección sin fecha no vale. La fecha sin descripción tampoco.</p></blockquote><p>Lo que diferencia un servicio a domicilio de cualquier otro es que el coste del error no es solo tiempo: es tiempo más gasolina más agenda bloqueada para ese hueco. El coste de un desplazamiento inútil es desproporcionado respecto al coste de pedir un dato antes.</p><h2>Plantilla mínima (antes de confirmar)</h2><p>Esta versión recoge lo imprescindible. Si el cliente no responde esto, no hay nada que confirmar.</p><ol><li><strong>¿Qué servicio necesitas exactamente?</strong> (descripción en una frase, no categoría)</li><li><strong>¿Cuál es la dirección?</strong> (calle, número, ciudad — no vale barrio ni zona)</li><li><strong>¿Hay ascensor? ¿Necesito aparcar?</strong> (o el equivalente para tu tipo de servicio: acceso a finca, código de portal, espacio de trabajo)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha + franja: mañana, tarde)</li><li><strong>Tu nombre y teléfono</strong> (para confirmar y enviar recordatorio)</li></ol><blockquote><p>Con estas cinco preguntas puedes decidir si aceptas, presupuestar con criterio y bloquear agenda sin riesgo.</p></blockquote><h2>Plantilla completa (cuando el servicio tiene alta variabilidad)</h2><p>Añade estas preguntas cuando el trabajo puede variar mucho según las condiciones del espacio o del encargo:</p><ul><li><strong>¿Tienes foto del estado actual?</strong> (para reformas, reparaciones, tratamientos estéticos, montajes)</li><li><strong>¿Hay materiales que pones tú o lo traigo todo yo?</strong></li><li><strong>¿Cuánto tiempo llevas con el problema / cuándo lo necesitas resuelto?</strong> (urgencia real)</li><li><strong>¿Hay restricciones de horario en el edificio o la comunidad?</strong> (obras, ruido, acceso)</li><li><strong>¿Alguien estará en el domicilio durante el servicio?</strong></li><li><strong>¿Presupuesto orientativo?</strong> (solo si en tu sector filtra de verdad; si no lo sabes sin ver, no lo pidas aún)</li></ul><p>No uses la plantilla completa desde el primer mensaje. La mínima es la puerta. La completa es para cuando el cliente ya respondió y el servicio justifica más detalle.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Alcance real del trabajo</td><td>Si encaja con lo que ofreces y cuánto tiempo lleva</td></tr><tr><td>¿Cuál es la dirección exacta?</td><td>Viabilidad de desplazamiento</td><td>Si puedes ir, a qué coste y en qué franja</td></tr><tr><td>¿Hay ascensor / condiciones de acceso?</td><td>Tiempo y esfuerzo real</td><td>Si el precio cambia o necesitas material extra</td></tr><tr><td>¿Para cuándo? (fecha + franja)</td><td>Compatibilidad con tu agenda</td><td>Si puedes confirmar o proponer alternativa</td></tr><tr><td>Foto del espacio o del problema</td><td>Contexto visual sin desplazarte</td><td>Si el presupuesto es viable antes de salir</td></tr><tr><td>¿Materiales incluidos o no?</td><td>Coste total del servicio</td><td>Si el presupuesto que das es completo</td></tr><tr><td>Nombre y teléfono</td><td>Compromiso real del cliente</td><td>Si tiene sentido bloquear agenda o esperar confirmación</td></tr></tbody></table><p>Esta tabla también funciona como base para construir un flujo de <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">preguntas de filtrado por sector</a>: cada fila es una pregunta que va antes de que abras el calendario.</p><h2>Microcopy listo para copiar</h2><p>El problema no es preguntar. El problema es preguntar sin explicar para qué. Estos mensajes reducen la resistencia del cliente.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>&quot;Para confirmarte disponibilidad necesito tres datos rápidos. Te respondo hoy mismo.&quot;</p></blockquote><h3>Cuando preguntan precio sin dar nada</h3><blockquote><p>&quot;El coste depende de la zona y del trabajo concreto. Dime: (1) qué necesitas, (2) dirección, (3) para cuándo. Con eso te doy número real, no estimación al aire.&quot;</p></blockquote><h3>Cuando falta la dirección</h3><blockquote><p>&quot;Para mirarte hueco y decirte si llego, necesito la dirección exacta. ¿Me la mandas?&quot;</p></blockquote><h3>Mensaje de cierre con confirmación</h3><blockquote><p>&quot;Perfecto. Confirmo cita el [día] entre [franja] en [dirección]. Te mando recordatorio el día antes. Si algo cambia, avísame con antelación.&quot;</p></blockquote><h3>Tono más cercano (para servicios de confianza, clientes recurrentes)</h3><blockquote><p>&quot;¡Genial! Para no hacer viaje en balde, dime dónde y qué necesitas exactamente. Así te confirmo si tengo hueco esa semana.&quot;</p></blockquote><h2>Variantes por tipo de servicio a domicilio</h2><p>La plantilla base no cambia. Cambia la pregunta variable según el sector.</p><h3>Limpieza y hogar</h3><ul><li>Variable clave: <strong>metros cuadrados + número de habitaciones + estado del espacio</strong></li></ul><blockquote><p>&quot;¿Cuántos metros tiene el piso? ¿Cuántas habitaciones? ¿Limpieza de mantenimiento o fondo?&quot;</p></blockquote><h3>Reformas y reparaciones</h3><ul><li>Variable clave: <strong>descripción del problema + foto + antigüedad del inmueble</strong></li></ul><blockquote><p>&quot;¿Qué hay que arreglar exactamente? Mándame foto si puedes. ¿El edificio es antiguo o reciente?&quot;</p></blockquote><h3>Estética y belleza a domicilio</h3><ul><li>Variable clave: <strong>tratamiento + zona del cuerpo + condiciones de la piel o contraindicaciones básicas</strong></li></ul><blockquote><p>&quot;¿Qué tratamiento buscas? ¿Tienes alguna condición de piel que deba saber antes de ir?&quot;</p></blockquote><h3>Clases particulares o formación en domicilio</h3><ul><li>Variable clave: <strong>nivel + objetivo + disponibilidad semanal</strong></li></ul><blockquote><p>&quot;¿Para qué nivel es? ¿Cuántas horas a la semana quieres? ¿Tienes espacio para trabajar cómodos?&quot;</p></blockquote><h3>Cuidado de personas o mascotas</h3><ul><li>Variable clave: <strong>perfil de la persona o animal + rutinas + requisitos especiales</strong></li></ul><blockquote><p>&quot;¿Para quién es el servicio? ¿Hay alguna necesidad especial que deba saber antes de la primera visita?&quot;</p></blockquote><h2>Errores que cuestan un desplazamiento</h2><ol><li><strong>Confirmar sin dirección</strong><br>→ Consecuencia: llegas y la zona no es viable o la distancia no cuadra con el precio.<br>→ Corrección: bloquea el calendario solo cuando tienes dirección real.</li><li><strong>Fiarte de la descripción vaga del cliente</strong><br>→ Consecuencia: 'un arreglito' se convierte en obra de medio día.<br>→ Corrección: pide descripción en una frase más foto si hay variabilidad visual.</li><li><strong>No preguntar condiciones de acceso</strong><br>→ Consecuencia: quinto sin ascensor, sin parking, con material pesado.<br>→ Corrección: dos preguntas fijas para todo servicio: ascensor y parking o acceso.</li><li><strong>Dar precio antes de tener dirección y descripción</strong><br>→ Consecuencia: el cliente usa ese precio como tope aunque el trabajo sea el doble.<br>→ Corrección: primero datos, luego rango. Nunca al revés.</li><li><strong>No confirmar quién estará en el domicilio</strong><br>→ Consecuencia: llegas y no hay nadie. Tiempo y dinero perdidos.<br>→ Corrección: pregunta explícitamente si habrá alguien o si necesitas acceso especial.</li><li><strong>Aceptar 'cualquier hora del día' sin acotar</strong><br>→ Consecuencia: el cliente espera que llegues a las 8 y tú habías entendido la tarde.<br>→ Corrección: propón dos franjas concretas y pide que elija una.</li></ol><h2>Implementación sin herramientas complejas</h2><p>Si recibes consultas por varios canales a la vez, el primer problema no es la plantilla: es que las consultas llegan dispersas y no tienes forma de procesarlas con orden. <a href=\"/blog/centralizar-consultas-google-business-profile/\">Las consultas de Google Business Profile</a>, los DMs de Instagram y los mensajes de WhatsApp no llegan en el mismo sitio ni con el mismo contexto.</p><h3>Paso 1: define tu punto de entrada único</h3><p>Decide dónde ocurre la cualificación. El DM de Instagram o el primer WhatsApp son la puerta. No son el lugar donde recoges todos los datos. Si tienes volumen, manda al cliente a un link o a WhatsApp con un mensaje de entrada estructurado.</p><h3>Paso 2: estandariza el mensaje de entrada</h3><p>Copia el microcopy de entrada de esta plantilla y ponlo como respuesta guardada en WhatsApp o como respuesta automática en Instagram. El objetivo es que el cliente sepa desde el primer mensaje qué necesitas antes de confirmar.</p><h3>Paso 3: cierra con resumen y siguiente paso</h3><p>Una vez tienes los datos, el mensaje de cierre tiene tres partes: resumen de lo que entendiste, propuesta concreta (fecha, hora, precio orientativo) y siguiente paso claro (confirma sí o no, paga señal, espera confirmación tuya).</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan la entrada desde Instagram, WhatsApp y otros canales en un link con un asistente conversacional que recoge los datos antes de que respondas manualmente, y te redirige la conversación a WhatsApp con el contexto ya preparado. No es para todos los casos — si recibes pocas consultas a domicilio o cada servicio es completamente diferente al anterior, probablemente no lo necesitas aún.</p><h2>FAQs</h2>",
+    "faq": [
+      {
+        "question": "¿Qué hago si el cliente no me da la dirección hasta que confirmo precio?",
+        "answer": "No confirmes precio sin dirección. Explícalo así: 'El coste depende de la zona y el acceso, no puedo darte número sin eso.' La mayoría entiende. El que no entiende suele ser el cliente que luego pone pegas en todo."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer por WhatsApp sin que se vaya?",
+        "answer": "Tres o cuatro si van seguidas en el mismo mensaje, listadas con números. Más de cinco preguntas sueltas en mensajes separados generan abandono. Agrúpalas en un bloque con introducción corta."
+      },
+      {
+        "question": "¿Pido foto del espacio o del problema antes de ir?",
+        "answer": "Sí, siempre que el servicio tenga variabilidad visual alta (reformas, reparaciones, montajes, tratamientos estéticos a domicilio). Una foto te ahorra una visita o te cambia el presupuesto antes de salir."
+      },
+      {
+        "question": "¿Qué hago si el cliente dice 'es cerca' pero no da dirección?",
+        "answer": "No te muevas. 'Cerca' es relativo y no aparece en tu factura de gasolina ni en tu agenda. Responde: 'Para confirmarte disponibilidad necesito la dirección exacta. ¿Me la mandas?'"
+      },
+      {
+        "question": "¿Pregunto por presupuesto orientativo o no?",
+        "answer": "En servicios a domicilio, el presupuesto depende de la visita en muchos casos. En lugar de pedir rango económico, filtra por tipo de trabajo y zona. Si el desplazamiento es gratis pero la hora no, acláralo antes, no después."
+      },
+      {
+        "question": "¿Cómo manejo las consultas que llegan por Instagram cuando ya tengo el flujo en WhatsApp?",
+        "answer": "Usa el DM de Instagram como puerta, no como lugar de cualificación. Responde con un mensaje corto y manda al cliente a WhatsApp con un link directo. Qualificar dentro del DM alarga el proceso innecesariamente."
+      },
+      {
+        "question": "¿Sirve esta plantilla si hago servicios a domicilio y también en local?",
+        "answer": "Sí, pero separa los flujos desde el primer mensaje. Pregunta primero si quiere servicio en tu local o a domicilio. A partir de esa respuesta, la plantilla cambia: la de domicilio pide dirección y acceso; la de local pide franja y disponibilidad."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde solo una parte de las preguntas?",
+        "answer": "Responde a lo que te dio y pide solo lo que falta, en un único mensaje. No repitas todo el bloque. Si falta la dirección, pregunta solo eso. El cliente ya sabe que hay más pasos."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-formacion",
     "title": "Plantilla de cualificación para formación y cursos",
     "description": "Preguntas exactas para separar interesados reales de curiosos en negocios de formación y cursos. Plantilla mínima, versión completa, microcopy listo y tabla citable por intención.",
