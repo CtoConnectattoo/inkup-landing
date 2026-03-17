@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-coaching",
+    "title": "Plantilla de cualificación para coaching y mentoría",
+    "description": "Preguntas exactas para separar curiosos de clientes en coaching y mentoría. Plantilla mínima, versión completa, microcopy listo y tabla de decisión por intención.",
+    "excerpt": "Una plantilla de cualificación para coaching debe validar objetivo real y disposición antes de agendar. Aquí las preguntas mínimas, la versión completa y el microcopy para no sonar robótico.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-coaching.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "coaching",
+      "mentoria",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Preguntas mínimas para separar curiosos de clientes en coaching",
+    "quickAnswer": [
+      "**Objetivo concreto** — Qué quiere conseguir, no en qué área trabaja. Sin objetivo claro no hay conversación útil.",
+      "**Situación actual** — De dónde parte. Sin esto no puedes calibrar si tu programa encaja ni en qué plazo.",
+      "**Disposición real** — Si está buscando información o ya tomó la decisión de trabajar con alguien. Filtra el 40% de los curiosos sin fricción.",
+      "**Disponibilidad y formato** — Sesiones individuales, grupo, online, presencial. Evita malentendidos de proceso antes de agendar.",
+      "**Inversión orientativa** — No para filtrar por dinero, sino para no hacer una llamada con alguien cuyo presupuesto no cubre ni la sesión de diagnóstico.",
+      "**Datos de contacto y canal preferido** — Para cerrar en el sitio correcto, no rebotar entre DM, WhatsApp y email."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para coaching debe capturar objetivo real, situación de partida y disposición de compra antes de agendar cualquier llamada, para no invertir tiempo en conversaciones que no van a ningún lado.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que la mayoría ignora en coaching",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para programas de alto ticket o larga duración)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Variantes por intención: 3 rutas",
+      "Errores típicos en coaching al cualificar",
+      "El siguiente paso si el volumen te supera"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en coaching en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Definición de objetivo mínimo aceptable",
+        "Canal de entrada principal (Instagram DM o WhatsApp)",
+        "Mensaje de transición hacia llamada de diagnóstico"
+      ],
+      "steps": [
+        {
+          "name": "Define tu criterio de encaje",
+          "text": "Antes de crear preguntas, decide qué respuestas te hacen decir sí o no: objetivo alcanzable con tu método, disposición real de avanzar, presupuesto mínimo que cubre el programa."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM o WhatsApp como puerta. Si recibes más de 20 consultas semanales, un link con flujo estructurado ahorra el 80% de los mensajes previos a la llamada."
+        },
+        {
+          "name": "Estandariza el cierre hacia la llamada",
+          "text": "Si la persona pasa el filtro, el siguiente paso es siempre el mismo: propuesta de horario + confirmación. No dejes ese momento a la improvisación."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como 'me interesa tu coaching', 'quiero saber más sobre tu mentoría' o 'cuánto cuesta una sesión' sin ningún dato más. Si terminas escribiendo 20 mensajes para llegar a una llamada que no va a ningún lado, o si agendas llamadas de diagnóstico y la mitad son con personas que no tienen ni objetivo claro ni disposición real, esta plantilla es para ti.</p><p>No la uses si recibes menos de 5 consultas a la semana y respondes sin estrés. Tampoco si tu proceso de venta es 100% por referidos donde ya llegas con contexto previo.</p><h2>La regla que la mayoría ignora en coaching</h2><p>La mayoría de coaches cualifica por interés declarado. Error. El interés no cuesta nada. Lo que filtra de verdad es la <strong>disposición real de moverse</strong>: si la persona ya tomó la decisión de trabajar con alguien o solo está recopilando información para dentro de seis meses.</p><p>Un cliente que dice 'me encanta tu enfoque' pero no tiene objetivo definido ni fecha concreta para empezar es un curioso bien intencionado, no un cliente. Preguntarle por disposición antes de agendar no es agresivo: es respetar el tiempo de los dos. Puedes ver más sobre cómo estructurar este filtro en <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cómo filtrar y cualificar consultas antes de responder por WhatsApp</a>.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para máxima conversión con mínima fricción. Si alguien abandona aquí, normalmente no era el momento para esa persona.</p><ol><li><strong>¿Qué quieres conseguir exactamente?</strong> (no 'en qué área', sino objetivo concreto)</li><li><strong>¿Cuál es tu situación actual respecto a ese objetivo?</strong> (de dónde partes)</li><li><strong>¿Estás buscando información o ya decidiste trabajar con alguien este mes?</strong> (disposición)</li><li><strong>¿Tienes preferencia de formato?</strong> Individual / grupo / online / presencial</li><li><strong>Nombre + WhatsApp o email para continuar</strong></li></ol><blockquote><p>Con estas 5 preguntas sabes si hay objetivo real, desde dónde parte, si está lista para avanzar, qué formato cubre tu oferta y cómo contactarla. Es suficiente para decidir si agendar o no.</p></blockquote><h2>Plantilla completa (para programas de alto ticket o larga duración)</h2><p>Úsala cuando el lead ya respondió a la mínima o cuando tu programa tiene 3 meses o más y un error de encaje cuesta caro para los dos.</p><p>Añade a la mínima:</p><ul><li><strong>Objetivo en plazo concreto:</strong> ¿Qué quieres haber conseguido en 3 / 6 / 12 meses?</li><li><strong>Intentos previos:</strong> ¿Has trabajado ya este objetivo con otro coach o formación? ¿Qué pasó?</li><li><strong>Disponibilidad:</strong> ¿Cuántas horas a la semana puedes dedicar? ¿Hay fechas o periodos problemáticos?</li><li><strong>Inversión orientativa:</strong> Pregunta indirecta si no quieres ser directo — '¿Tienes presupuesto reservado para esto o estás en fase de exploración?'</li><li><strong>Criterio de éxito propio:</strong> ¿Cómo sabrás que el proceso ha funcionado?</li></ul><p>Para <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">ver cómo adaptar estas preguntas según otros sectores de servicios</a>, la lógica es la misma: pide solo lo que cambia tu decisión de agendar o no.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué quieres conseguir exactamente?</td><td>Objetivo real vs. idea difusa</td><td>Si encaja con tu método / programa</td></tr><tr><td>¿Cuál es tu situación actual?</td><td>Punto de partida concreto</td><td>Si el nivel o contexto encaja</td></tr><tr><td>¿Buscas info o ya decidiste avanzar?</td><td>Disposición real de compra</td><td>Si agendar ahora o nutrir primero</td></tr><tr><td>¿Has trabajado esto antes?</td><td>Experiencia previa y bloqueos</td><td>Si necesitas un enfoque distinto</td></tr><tr><td>¿Formato preferido?</td><td>Individual / grupo / online</td><td>Qué programa ofrecer</td></tr><tr><td>¿Disponibilidad semanal?</td><td>Si puede cumplir el ritmo del programa</td><td>Si hay encaje real de agenda</td></tr><tr><td>Inversión orientativa</td><td>Si el presupuesto cubre el programa</td><td>Si tiene sentido seguir o redirigir</td></tr><tr><td>Datos de contacto</td><td>Canal para cerrar</td><td>Cómo y cuándo contactar</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que mata conversiones no es preguntar. Es preguntar sin explicar por qué. Estos mensajes reducen la fricción antes de lanzar la plantilla.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>«Para ver si puedo ayudarte de verdad y no perderte el tiempo con una llamada que no va a ningún lado, te hago 4 preguntas rápidas (2 minutos).»</p></blockquote><h3>Mensaje cuando preguntan precio directamente</h3><blockquote><p>«El precio depende del programa y del punto de partida. Para darte una respuesta útil (no un número al aire), dime: ¿qué quieres conseguir y en qué plazo? Con eso te digo si encaja y qué costaría.»</p></blockquote><h3>Mensaje para separar mentoría puntual de programa largo</h3><blockquote><p>«¿Buscas algo puntual (una sesión o acompañamiento corto) o un proceso de varios meses? Tengo opciones distintas y quiero llevarte a la correcta desde el principio.»</p></blockquote><h3>Mensaje de cierre si el lead pasa el filtro</h3><blockquote><p>«Con lo que me cuentas, creo que tiene sentido que hablemos. Te propongo una llamada de 20 minutos sin compromiso para ver el encaje. ¿Te viene bien el martes o el jueves por la tarde?»</p></blockquote><h2>Variantes por intención: 3 rutas</h2><p>No todos los mensajes entrantes tienen la misma intención. Identificarla desde el primer mensaje te ahorra 10 mensajes de ida y vuelta.</p><h3>Ruta A — «Quiero empezar un proceso / programa»</h3><ol><li>Objetivo concreto + plazo</li><li>Situación actual</li><li>Disposición (ahora o explorando)</li><li>Formato preferido</li><li>Datos de contacto</li></ol><p><strong>Cierre:</strong> «Perfecto. Con esto veo que hay encaje. Te propongo llamada de 20 minutos para concretar. ¿Cuándo te va bien?»</p><h3>Ruta B — «Cuánto cuesta / precio»</h3><ol><li>Qué programa o formato busca</li><li>Objetivo (para dar precio con contexto, no número suelto)</li><li>Disposición de inversión</li><li>Contacto</li></ol><p><strong>Cierre:</strong> «Con lo que me dices, el rango está entre X y Y según el formato. Si te cuadra, hablamos y lo concreto.»</p><h3>Ruta C — «Solo quiero información»</h3><ol><li>Qué información exacta busca (proceso, resultados, formato, precio)</li><li>Si está considerando trabajar con alguien o solo leyendo</li><li>Contacto si quiere seguimiento</li></ol><p><strong>Cierre:</strong> «Te lo resumo en 3 líneas. Si en algún momento quieres ver si encaja contigo, avísame.» No insistas. El que vuelve con intención real, vuelve.</p><h2>Errores típicos en coaching al cualificar</h2><ol><li><strong>Mandar el dossier completo antes de preguntar nada</strong><br>Consecuencia: la persona lee, dice 'muy interesante' y desaparece. No sabes si era cliente o curioso.<br>Corrección: una pregunta sobre el objetivo antes de mandar cualquier material.</li><li><strong>Agendar llamada con quien no tiene objetivo definido</strong><br>Consecuencia: 45 minutos para llegar a 'necesito pensarlo más'.<br>Corrección: si no puede responder '¿qué quieres conseguir en concreto?' en 2 líneas, no está listo para la llamada.</li><li><strong>No preguntar por disposición de inversión</strong><br>Consecuencia: llamada perfecta, encaje total, y en el cierre sale que no tenía presupuesto para el programa.<br>Corrección: pregunta indirecta antes de agendar: '¿tienes presupuesto reservado para esto o estás en fase de exploración?'</li><li><strong>Responder con párrafos de contexto cuando preguntan precio</strong><br>Consecuencia: el mensaje se percibe como evasivo y genera desconfianza.<br>Corrección: reconoce la pregunta, pide 2 datos y da un rango concreto en el siguiente mensaje.</li><li><strong>No distinguir mentoría puntual de programa largo desde el inicio</strong><br>Consecuencia: dedicas tiempo a presentar un programa de 6 meses a alguien que solo quería una sesión de 60 euros.<br>Corrección: pregunta de formato en los primeros 2 mensajes.</li><li><strong>Usar la misma plantilla para todos los servicios</strong><br>Consecuencia: preguntas irrelevantes que confunden o generan abandono.<br>Corrección: versión mínima universal + 1-2 preguntas variables según el servicio concreto.</li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si el problema no es saber qué preguntar, sino conseguir que siempre se pregunte lo mismo sin depender de tu energía o memoria, la plantilla se convierte en un flujo: rutas por intención, preguntas mínimas y salida a WhatsApp con el contexto ya recogido.</p><p>Si quieres saber si tiene sentido implementarlo en tu caso o si tu volumen aún no lo justifica, puedes leer <a href=\"/blog/para-quien-no-es-inkup/\">para quién no es Inkup</a> antes de decidir. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que recoge objetivo, disposición y datos antes de redirigir a WhatsApp con el contexto preparado. No es para todos los casos — si recibes menos de 20 consultas semanales o tu venta requiere discovery profundo desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que la persona se vaya?",
+        "answer": "Con 3 a 5 preguntas bien elegidas tienes lo suficiente para decidir si vale la pena agendar. Más de 7 preguntas antes de la llamada generan abandono, especialmente si la persona llegó por Instagram. Empieza con la mínima y amplía solo si el lead responde."
+      },
+      {
+        "question": "¿Pido presupuesto antes de la llamada o durante?",
+        "answer": "Antes, si tu programa tiene un precio mínimo claro y no quieres agendar con alguien que no puede cubrir ni la sesión inicial. Durante, si usas la llamada de diagnóstico como parte del proceso de venta. En coaching de alto ticket, filtrarlo antes te ahorra entre 30 y 60 minutos por semana."
+      },
+      {
+        "question": "Me escriben 'quiero información sobre tu coaching', ¿cómo respondo sin sonar frío?",
+        "answer": "Devuelve una pregunta concreta, no un catálogo de servicios. Algo como: '¿Qué te gustaría conseguir en los próximos 3 meses?' Eso abre la conversación real y filtra al mismo tiempo. El que responde con algo específico es lead. El que desaparece era curiosidad."
+      },
+      {
+        "question": "¿Qué hago si alguien me dice que tiene presupuesto limitado pero el objetivo me parece real?",
+        "answer": "Depende de si tienes una versión de entrada (sesión suelta, grupo, recurso) que encaje con ese presupuesto. Si no la tienes, ser claro sobre el precio desde el inicio te ahorra una llamada de 45 minutos para llegar al mismo punto."
+      },
+      {
+        "question": "¿La cualificación me hace perder clientes que podrían haber dicho sí con una llamada?",
+        "answer": "Sí, algunos. Pero el coste de agendar 10 llamadas para cerrar 2 es mucho mayor que perder 1 o 2 leads que no querían responder 3 preguntas. En coaching, el cliente que no pasa el filtro inicial rara vez termina el programa."
+      },
+      {
+        "question": "¿Cómo separo al que quiere mentoría puntual del que quiere programa largo?",
+        "answer": "Con una pregunta directa sobre formato en el flujo inicial: '¿Buscas algo puntual (1 sesión o acompañamiento corto) o un proceso de varios meses?' Esa respuesta te dirige a la ruta correcta antes de invertir tiempo en explicar todo el programa."
+      },
+      {
+        "question": "¿Esta plantilla sirve para grupos o masterminds?",
+        "answer": "Sí, con una variante: añade una pregunta sobre experiencia previa en formatos de grupo y sobre disponibilidad de fechas fijas. Los grupos requieren compromiso de calendario, y eso filtra sólo desde el inicio."
+      },
+      {
+        "question": "¿Qué hago si me escribe alguien que ya fue cliente?",
+        "answer": "Omite la cualificación básica y ve directo al contexto actual: qué ha cambiado, qué quiere ahora, qué formato tiene sentido. No hagas repetir lo que ya sabes."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-fotografia",
     "title": "Plantilla de cualificación para fotografía y vídeo",
     "description": "Preguntas exactas para cualificar clientes de fotografía y vídeo antes de preparar presupuesto. Versión mínima, completa y microcopy listo para copiar según tipo de encargo.",
