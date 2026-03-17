@@ -1,5 +1,113 @@
 [
   {
+    "slug": "respuestas-rapidas-whatsapp-setup",
+    "title": "Respuestas rápidas en WhatsApp Business: setup en 15 minutos (plantillas)",
+    "description": "Configura respuestas rápidas en WhatsApp Business con plantillas que piden un dato y dan un siguiente paso. Setup paso a paso, errores comunes y 10 plantillas listas para copiar.",
+    "excerpt": "Las respuestas rápidas en WhatsApp Business son atajos de texto que se activan con una barra y una palabra clave. Bien configuradas, evitan que repitas lo mismo 20 veces al día sin sonar robot.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/respuestas-rapidas-whatsapp-setup.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp-business",
+      "respuestas-rapidas",
+      "plantillas",
+      "atencion-clientes",
+      "procesos",
+      "automatizacion"
+    ],
+    "quickAnswerSubtitle": "Respuestas rápidas en WhatsApp Business: setup y plantillas",
+    "quickAnswer": [
+      "**Activa las respuestas rápidas desde Ajustes** — En WhatsApp Business: Ajustes > Herramientas para la empresa > Respuestas rápidas. Puedes crear hasta 50.",
+      "**Cada plantilla pide un dato o da un siguiente paso** — No uses párrafos largos ni menús. Una frase, un dato, una acción.",
+      "**Usa atajos cortos y descriptivos** — /precio, /cita, /horarios, /info. Cuanto más predecible, más rápido los usas bajo presión.",
+      "**Crea al menos una plantilla por intención** — Info, presupuesto y cita. Con tres bien escritas ya reduces el 80% de la repetición.",
+      "**Revisa cada mes** — Las respuestas rápidas se quedan obsoletas si cambias precios, horarios o servicios. Un mensaje desactualizado genera más caos que no tener ninguno."
+    ],
+    "oneLineDefinition": "Las respuestas rápidas en WhatsApp Business son plantillas de texto predefinidas que se activan con un atajo de teclado para responder consultas repetidas sin escribir desde cero cada vez.",
+    "sections": [
+      "Qué son las respuestas rápidas y para qué sirven realmente",
+      "Setup paso a paso (15 minutos)",
+      "10 plantillas listas para copiar",
+      "Errores que hacen que no funcionen",
+      "Cuándo las respuestas rápidas no son suficientes",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Configurar respuestas rápidas en WhatsApp Business",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "WhatsApp Business (móvil o escritorio)",
+        "Lista de preguntas repetidas del último mes",
+        "Canal final definido (WhatsApp, cita, link)"
+      ],
+      "steps": [
+        {
+          "name": "Abrir la sección de respuestas rápidas",
+          "text": "En WhatsApp Business: Ajustes > Herramientas para la empresa > Respuestas rápidas."
+        },
+        {
+          "name": "Listar las 5 preguntas que más repites",
+          "text": "Precio, horarios, ubicación, disponibilidad, cómo reservar. Solo esas cinco ya justifican el setup."
+        },
+        {
+          "name": "Escribir la plantilla con una acción clara",
+          "text": "Una frase que responde + un siguiente paso. Sin párrafos, sin menús, sin listas largas."
+        },
+        {
+          "name": "Asignar un atajo corto y predecible",
+          "text": "/precio, /cita, /horarios, /info, /ubicacion. Una sola palabra, sin acentos."
+        },
+        {
+          "name": "Guardar y probar en una conversación real",
+          "text": "Escribe / en el campo de texto y comprueba que aparece el atajo. Envíatelo a ti mismo antes de usarlo con clientes."
+        },
+        {
+          "name": "Repetir para cada intención (máximo 10 en el arranque)",
+          "text": "No crees 40 plantillas el primer día. Empieza con las que más repites y añade según necesidad."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué son las respuestas rápidas y para qué sirven realmente</h2><p>Cada día escribes las mismas frases: precio, horarios, cómo reservar, ubicación, qué incluye el servicio. Las respuestas rápidas en WhatsApp Business son atajos que guardan esas frases y las insertan con escribir /atajo. No son bots, no responden solos: las envías tú, pero sin teclear desde cero.</p><p>La diferencia práctica: una respuesta que tardas 45 segundos en escribir pasa a costar 3 segundos. Multiplicado por 15 consultas al día, recuperas entre 30 y 40 minutos que ahora mismo estás regalando.</p><p>Lo que no hacen: no filtran al cliente antes de que llegue a ti, no cualifican la intención y no reducen el volumen de mensajes. Para eso necesitas un paso previo, pero sobre eso hablamos al final.</p><h2>Setup paso a paso (15 minutos)</h2><p>Antes de abrir la app, haz esto: abre el historial de WhatsApp de los últimos 15 días y anota las 5 preguntas que más has repetido. Esa lista es tu plantilla de arranque. Sin ella, el setup se convierte en inventar frases que nadie te ha preguntado.</p><ol><li><strong>Abre WhatsApp Business</strong> y ve a Ajustes > Herramientas para la empresa > Respuestas rápidas.</li><li><strong>Pulsa el botón de añadir</strong> (el símbolo + en la esquina).</li><li><strong>Escribe el mensaje</strong> en el campo &quot;Mensaje&quot;. Una frase que responde + un siguiente paso concreto. Sin listas, sin párrafos.</li><li><strong>Define el atajo</strong> en el campo &quot;Atajo&quot;. Una sola palabra sin acentos: /precio, /cita, /horarios, /info, /ubicacion.</li><li><strong>Guarda y repite</strong> para cada pregunta de tu lista.</li><li><strong>Prueba en una conversación</strong>: escribe / en el campo de texto y comprueba que aparecen los atajos.</li></ol><p>Tiempo real si tienes la lista preparada: entre 10 y 15 minutos para las primeras 5 plantillas.</p><p>Si quieres entender cómo encaja esto en un sistema más amplio, <a href=\"/blog/automatizar-whatsapp-negocio-local/\">este artículo sobre automatización de WhatsApp para negocios locales</a> explica qué puedes hacer sin programar ni contratar a nadie.</p><h2>10 plantillas listas para copiar</h2><p>Estas plantillas siguen el mismo patrón: responden una pregunta frecuente y dan un siguiente paso. Adapta los datos a tu negocio antes de guardarlas.</p><h3>Bloque citable: plantillas + atajos</h3><table><thead><tr><th>Atajo</th><th>Mensaje</th><th>Para qué sirve</th></tr></thead><tbody><tr><td>/precio</td><td>El precio depende del servicio y el tiempo. Para darte un número concreto necesito saber qué tienes en mente. ¿Me cuentas?</td><td>Evitar dar cifra sin contexto</td></tr><tr><td>/info</td><td>Cuéntame qué estás buscando y te doy toda la info en un mensaje.</td><td>Convertir &quot;hola/info&quot; en conversación útil</td></tr><tr><td>/cita</td><td>Para ver disponibilidad necesito saber: servicio, fecha aproximada y si tienes flexibilidad. ¿Me lo dices?</td><td>Arrancar cualificación para agenda</td></tr><tr><td>/horarios</td><td>Trabajamos de lunes a viernes de [hora] a [hora] y sábados de [hora] a [hora]. Para citas fuera de ese horario, escríbeme y lo vemos.</td><td>Evitar la pregunta de horario repetida</td></tr><tr><td>/ubicacion</td><td>Estamos en [dirección]. Si prefieres, aquí tienes el mapa: [link Google Maps]. Hay aparcamiento en [referencia].</td><td>Eliminar la pregunta de ubicación</td></tr><tr><td>/espera</td><td>He recibido tu mensaje. Te respondo antes de [hora/día]. Si es urgente, indícamelo.</td><td>Gestionar expectativas fuera de horario</td></tr><tr><td>/requisitos</td><td>Para este servicio necesitas: [condición 1], [condición 2]. ¿Los cumples?</td><td>Filtrar antes de invertir tiempo</td></tr><tr><td>/presupuesto</td><td>Para hacer un presupuesto ajustado necesito 3 datos: qué servicio, para cuándo y si tienes algún ejemplo o referencia. ¿Me los pasas?</td><td>Estructurar la recogida de datos mínimos</td></tr><tr><td>/noencaja</td><td>Gracias por escribir. En este caso no soy la persona más indicada para lo que necesitas porque [razón breve]. Si cambia algo, escríbeme.</td><td>Descartar sin quemar el contacto</td></tr><tr><td>/siguiente</td><td>Perfecto, con eso tengo lo que necesito. El siguiente paso es [acción concreta]. ¿Te va bien?</td><td>Cerrar con una acción clara</td></tr></tbody></table><p>Para profundizar en el tono y la redacción de estas plantillas, <a href=\"/blog/plantillas-respuestas-rapidas-whatsapp-business/\">aquí tienes plantillas de respuestas rápidas escritas para no sonar robot</a>, con variantes por sector.</p><h2>Errores que hacen que no funcionen</h2><ol><li><strong>Plantillas como párrafos</strong> — Si el mensaje tiene más de 3 líneas, el cliente no lo lee entero. Resultado: te vuelven a preguntar lo mismo. Corrección: una idea por plantilla, un siguiente paso.</li><li><strong>Atajos imposibles de recordar</strong> — /respuestarapidahorarios no funciona bajo presión. Corrección: máximo una palabra, sin acentos, predecible.</li><li><strong>Dar precio sin pedir contexto</strong> — La plantilla /precio que directamente da una cifra genera malentendidos. Corrección: el mensaje pide un dato antes de comprometerte con un número.</li><li><strong>Plantillas desactualizadas</strong> — Cambias precios en octubre y la plantilla sigue con los de enero. Corrección: revisa cada mes o cada vez que cambie algo que afecte a las respuestas.</li><li><strong>Crear 30 atajos el primer día</strong> — No los usarás todos y los importantes quedarán enterrados. Corrección: empieza con 5, añade según necesidad real.</li><li><strong>No adaptar el tono</strong> — Copiar la plantilla exacta sin ajustar el lenguaje al tuyo. Si tratas de tú en Instagram, no pongas &quot;estimado cliente&quot; en WhatsApp. Corrección: relee cada plantilla en voz alta antes de guardarla.</li></ol><h2>Cuándo las respuestas rápidas no son suficientes</h2><p>Las respuestas rápidas resuelven la repetición dentro de la conversación. No resuelven el desorden antes de que el cliente llegue a ti.</p><p>Si el problema es que recibes mensajes por Instagram, WhatsApp y Google al mismo tiempo, sin información mínima y mezclados entre sí, las respuestas rápidas ayudan pero no ordenan la entrada. Lo que necesitas en ese caso es un paso previo que capture la intención y los datos mínimos antes del chat.</p><p>Sobre cómo reducir las preguntas repetidas desde el origen, <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">este artículo explica cómo hacerlo sin sonar robótico</a> tanto en WhatsApp como en Instagram.</p><p>Si quieres implementar ese paso previo sin construirlo desde cero, herramientas como Inkup hacen exactamente eso: un link único que recoge la intención, los datos mínimos y redirige a WhatsApp con el contexto ya preparado, para que no tengas que volver a preguntar lo básico. No es para todos los casos: si recibes menos de 20 consultas semanales o tu proceso de venta requiere conversación larga desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas respuestas rápidas debería crear al principio?",
+        "answer": "Empieza con 5: las preguntas que más repites en los últimos 15 días. Con 5 bien escritas cubres el 80% de la repetición. Añade más según las necesites, no por tener una lista larga."
+      },
+      {
+        "question": "¿Puedo usar respuestas rápidas en WhatsApp Business desde el ordenador?",
+        "answer": "Sí. WhatsApp Business Web y la app de escritorio permiten usar los atajos exactamente igual: escribe / en el campo de texto y aparecen las opciones."
+      },
+      {
+        "question": "¿Cómo evito que mis plantillas suenen frías o automáticas?",
+        "answer": "Relee cada plantilla en voz alta antes de guardarla. Si no la dirías así en una conversación normal, reescríbela. El tono debe ser el mismo que usas cuando escribes sin prisa."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde algo que no encaja con mi siguiente plantilla?",
+        "answer": "Las respuestas rápidas son un punto de partida, no un script rígido. Si la conversación toma otro camino, respondes normal. El atajo te ahorra el arranque, no te obliga a seguir un flujo."
+      },
+      {
+        "question": "¿Con qué frecuencia debería revisar mis plantillas?",
+        "answer": "Una vez al mes o cada vez que cambies precios, horarios o servicios. Una plantilla desactualizada genera más confusión que no tener ninguna."
+      },
+      {
+        "question": "¿Las respuestas rápidas sirven para filtrar clientes que no encajan?",
+        "answer": "Parcialmente. Puedes crear una plantilla /requisitos que filtra por condiciones básicas antes de invertir tiempo. Pero si el volumen es alto y el desorden viene de múltiples canales, necesitas un paso previo a la conversación de WhatsApp."
+      },
+      {
+        "question": "¿Puedo tener respuestas rápidas distintas para servicios distintos?",
+        "answer": "Sí, pero mantén los atajos descriptivos: /precioboda, /precioretratos si eres fotógrafo, por ejemplo. Más de 15 atajos empieza a ser difícil de gestionar bajo presión."
+      },
+      {
+        "question": "¿Qué diferencia hay entre un mensaje de bienvenida y una respuesta rápida?",
+        "answer": "El mensaje de bienvenida se envía automáticamente cuando alguien escribe por primera vez. Las respuestas rápidas las envías tú manualmente con un atajo. Son herramientas complementarias, no lo mismo."
+      }
+    ]
+  },
+  {
     "slug": "automatizar-whatsapp-sin-api",
     "title": "Automatizar WhatsApp sin API: qué puedes hacer hoy (sin programar)",
     "description": "Descubre qué puedes automatizar en WhatsApp Business sin tocar código ni contratar desarrolladores: respuestas rápidas, mensajes de bienvenida, flujos externos y filtrado previo.",
