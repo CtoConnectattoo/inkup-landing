@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-belleza",
+    "title": "Plantilla de cualificación para belleza",
+    "description": "Preguntas exactas para filtrar y cualificar clientes en centros de estética, peluquerías y salones de belleza. Plantilla mínima + completa + microcopy listo para copiar.",
+    "excerpt": "Una plantilla de cualificación para belleza debe pedir solo lo que cambia tu agenda: tratamiento, zona, duración y fecha. Aquí la versión mínima, la completa y el microcopy para no sonar robótica.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-belleza.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "estetica",
+      "belleza",
+      "plantilla",
+      "cualificacion",
+      "agenda",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Datos mínimos para cualificar en belleza",
+    "quickAnswer": [
+      "**Tratamiento exacto** — No es lo mismo manicura que semipermanente; cambia el tiempo reservado y el precio.",
+      "**Zona o área del cuerpo** — Depilación de cuántas zonas, extensiones de qué largo, tratamiento facial o corporal.",
+      "**Duración estimada** — Algunos clientes llegan con expectativas que no encajan en el hueco disponible.",
+      "**Fecha y franja horaria** — Imprescindible para evitar dobles reservas y gestionar la agenda sin llamadas extra.",
+      "**Condiciones relevantes** — Alergias, embarazo, tratamientos previos; solo los que cambian tu decisión clínica o estética.",
+      "**Datos de contacto** — Nombre y teléfono para confirmar y recordar la cita sin depender de Instagram."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para belleza debe capturar tratamiento exacto, zona, duración estimada, fecha y condiciones relevantes antes de confirmar ningún hueco en la agenda.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla de oro antes de empezar",
+      "Plantilla mínima (5 datos)",
+      "Plantilla completa (para servicios con alta variabilidad)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy listo para copiar",
+      "Rutas por intención: cita, presupuesto e información",
+      "Errores típicos al cualificar en belleza",
+      "El siguiente paso si el volumen te supera"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en belleza",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Canal de entrada (DM o WhatsApp)",
+        "Plantilla mínima de 5 preguntas",
+        "Mensaje de cierre con propuesta de hueco"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Identifica los 4-5 datos que cambian tu respuesta: tratamiento, zona, duración, fecha y una condición relevante según tu especialidad."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta de entrada. WhatsApp para cerrar. Si tienes más de 20 consultas semanales, un link con flujo previo ahorra la mitad del tiempo."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con el hueco propuesto, el precio orientativo si aplica y el siguiente paso concreto: confirmar o elegir alternativa."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como <em>tenéis hueco</em>, <em>cuánto cuesta</em> o <em>hola info</em> sin ningún dato más. También si terminas confirmando citas con 15 mensajes de ida y vuelta que podrían ser tres. O si alguna vez has reservado un hueco de 45 minutos para un servicio que luego resultó necesitar hora y media.</p><p>No la uses todavía si recibes menos de cinco consultas semanales y tienes tiempo de responder con calma cada una. Con ese volumen, la conversación directa funciona bien.</p><h2>La regla de oro antes de empezar</h2><blockquote><p><strong>Pregunta solo lo que cambia tu agenda o tu protocolo.</strong><br>Si la respuesta no afecta el hueco que vas a ofrecer, el tiempo que reservas o el tratamiento que aplicas, no lo preguntes al principio.</p></blockquote><p>En belleza esto se traduce en cuatro variables concretas: qué tratamiento, en qué zona, para cuándo y si hay alguna condición que cambia el procedimiento. Todo lo demás puede esperar a la cita o a que el lead ya esté dentro.</p><h2>Plantilla mínima (5 datos)</h2><p>Esta versión está pensada para no perder conversiones. Si alguien abandona aquí, normalmente no era una clienta con intención real de reservar.</p><ol><li><strong>¿Qué tratamiento quieres exactamente?</strong> (manicura gel, extensiones, depilación láser, limpieza facial…)</li><li><strong>¿En qué zona?</strong> (media pierna, pierna completa, rostro, manos…)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha y si tienes preferencia de mañana o tarde)</li><li><strong>¿Tienes alguna condición que deba saber antes?</strong> (alergias a productos, embarazo, tratamiento médico activo — solo si aplica a tu especialidad)</li><li><strong>Nombre y número de teléfono</strong> para confirmar y enviarte el recordatorio.</li></ol><p>Con estos cinco datos puedes proponer hueco, dar un precio orientativo y confirmar. Sin ellos, estás negociando a ciegas.</p><h2>Plantilla completa (para servicios con alta variabilidad)</h2><p>Úsala cuando el tratamiento tiene muchas variantes de precio o duración, cuando la clienta ya respondió la mínima y quieres afinar, o cuando un error de agenda te cuesta dinero real.</p><p>Añade a la mínima:</p><ul><li>Resultado esperado: qué quiere conseguir con el tratamiento (si es relevante para el diagnóstico)</li><li>Tratamientos previos del mismo tipo y cuándo fue el último</li><li>Franjas horarias disponibles con mayor detalle (días concretos de la semana)</li><li>Si viene sola o con alguien más que también quiera cita (útil para gestionar bloque de tiempo)</li><li>Cómo conoció el negocio (si lo usas para seguimiento de canal)</li></ul><p>Esta versión completa no es para el primer mensaje. Es para cuando ya sabes que la clienta tiene intención real y necesitas ajustar sin cometer errores.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué tratamiento exactamente?</td><td>Tipo de servicio e intención real</td><td>Si tienes hueco adecuado y qué duración reservar</td></tr><tr><td>¿En qué zona?</td><td>Alcance del trabajo</td><td>Tiempo real necesario y precio orientativo</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y viabilidad</td><td>Qué huecos ofrecer o si derivar a lista de espera</td></tr><tr><td>¿Alguna condición relevante?</td><td>Protocolo a aplicar o contraindicación</td><td>Si puedes hacer el tratamiento o necesitas adaptar</td></tr><tr><td>¿Resultado esperado?</td><td>Alineación de expectativas</td><td>Si lo que pide es viable con tu método</td></tr><tr><td>Nombre y teléfono</td><td>Trazabilidad del lead</td><td>Confirmación, recordatorio y seguimiento</td></tr></tbody></table><blockquote><p>En belleza debes confirmar tratamiento, duración y fecha para evitar errores de agenda. Esos tres datos son el núcleo. Todo lo demás es contexto adicional.</p></blockquote><h2>Microcopy listo para copiar</h2><p>Lo que hace que la clienta abandone no es que preguntes: es que preguntas sin explicar por qué. Estas frases resuelven eso.</p><h3>Mensaje de entrada (primer contacto en DM o WhatsApp)</h3><blockquote><p>«Hola, gracias por escribir. Para buscarte el hueco adecuado y darte precio real, necesito tres datos rápidos. ¿Me dices qué tratamiento, en qué zona y para cuándo aproximadamente?»</p></blockquote><h3>Cuando preguntan solo precio</h3><blockquote><p>«El precio varía según el tratamiento y la zona. Dime qué quieres exactamente y te doy el coste real, sin sorpresas.»</p></blockquote><h3>Cuando preguntan solo disponibilidad</h3><blockquote><p>«Tengo huecos esta semana. Para reservarte el correcto necesito saber qué tratamiento y cuánto suele durarte, si ya lo has hecho antes.»</p></blockquote><h3>Mensaje de cierre con propuesta</h3><blockquote><p>«Perfecto. Con lo que me dices, el tratamiento dura aproximadamente X y el precio es Y. Tengo hueco el [día] a las [hora] o el [día] a las [hora]. ¿Cuál te viene mejor?»</p></blockquote><h2>Rutas por intención: cita, presupuesto e información</h2><p>La mayoría de mensajes en belleza entran por una de estas tres puertas. Identifica cuál es y aplica la ruta correspondiente. <a href=&quot;/blog/agendar-citas-sin-mensajes/&quot;>Agendar citas sin intercambiar 20 mensajes empieza exactamente aquí</a>: en separar la intención antes de responder.</p><h3>Ruta A — «Quiero cita / ¿tenéis hueco?»</h3><ol><li>Tratamiento exacto</li><li>Zona</li><li>Fecha preferida y si tiene flexibilidad de franja</li><li>Condición relevante si aplica</li><li>Nombre y teléfono</li></ol><p>Cierre: «Tengo [opción 1] o [opción 2]. ¿Cuál te va mejor?»</p><h3>Ruta B — «¿Cuánto cuesta?»</h3><ol><li>Tratamiento exacto</li><li>Zona</li><li>Si lo ha hecho antes y cuándo (afecta al tiempo y en algunos tratamientos al precio)</li></ol><p>Cierre: «Con eso, el precio está entre X y Y. Si quieres reservar, dime para cuándo y te busco hueco.»</p><h3>Ruta C — «Info» o mensaje vago</h3><ol><li>Una sola pregunta de vuelta: «¿Qué tratamiento te interesa?»</li><li>Con esa respuesta ya sabes a qué ruta deriva.</li></ol><p>No respondas con un catálogo de servicios. Una pregunta devuelta filtra mejor que diez líneas de información.</p><h2>Errores típicos al cualificar en belleza</h2><p>Lo que hace la mayoría de artículos sobre este tema es listar errores genéricos. Los de abajo son los que ocurren específicamente en belleza y cuestan citas reales.</p><ol><li><strong>Confirmar hueco sin saber la duración real del tratamiento.</strong> La clienta dice «manicura» y tú reservas 45 minutos; llega y quiere semipermanente con nail art. Solución: pregunta siempre el tratamiento exacto, no la categoría general.</li><li><strong>No preguntar si ha hecho el tratamiento antes.</strong> En depilación láser o tratamientos químicos, el historial cambia el tiempo de sesión y el protocolo. Ignorarlo genera errores que luego son difíciles de gestionar.</li><li><strong>Dar precio antes de saber la zona.</strong> Depilación de axilas y depilación de piernas completas no tienen el mismo precio. Dar cifra antes de zona genera malentendidos que rozan lo conflictivo.</li><li><strong>Preguntar todo de golpe en un solo mensaje.</strong> Cinco preguntas seguidas sin estructura parecen un formulario de seguro médico. Empieza con una o dos y avanza según responde.</li><li><strong>No pedir teléfono hasta el final.</strong> Esto es un error habitual: si la clienta desaparece a mitad de la conversación de Instagram, no tienes forma de recuperarla. Pide el número cuando el interés ya está confirmado, pero antes de cerrar.</li></ol><p>Si quieres ver cómo se aplica esto en otros sectores, <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>aquí hay plantillas por sector y servicio con la misma lógica</a>.</p><h2>El siguiente paso si el volumen te supera</h2><p>Si tu problema no es saber qué preguntar sino conseguir que siempre se pregunte lo mismo sin depender de tu energía, la plantilla se convierte en un flujo: rutas por intención, preguntas mínimas y salida directa a WhatsApp con el contexto ya recogido.</p><p>Puedes montarlo a mano con mensajes guardados y disciplina. Funciona si el volumen es manejable. <a href=&quot;/blog/como-cualificar-consultas-en-estetica/&quot;>Aquí tienes una guía específica para cualificar consultas en estética</a> con la versión mínima y la avanzada según tu situación.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan los datos de la clienta antes de que llegue a tu WhatsApp, filtran por intención y te entregan la conversación con el contexto ya preparado. No es para todos los casos — si recibes pocas consultas o cada una es completamente distinta, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Le pido a la clienta que me diga si está embarazada antes de la cita?",
+        "answer": "Sí, pero solo en los tratamientos donde cambia el protocolo o directamente no puedes aplicarlo. No lo preguntes en todos los casos; úsalo como filtro específico, no como formulario médico."
+      },
+      {
+        "question": "¿Qué hago si me escribe 'tenéis hueco para mañana' sin decir qué quiere?",
+        "answer": "Devuelve una sola pregunta: qué tratamiento. Con eso ya sabes si el hueco que tienes encaja. No preguntes todo a la vez o la conversación se alarga sin necesidad."
+      },
+      {
+        "question": "¿Pido presupuesto orientativo antes de dar precio?",
+        "answer": "En belleza no suele hacer falta. El filtro útil es el tratamiento exacto y la zona, no el presupuesto. Da un rango cuando tengas esos datos, no antes."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para confirmar una cita?",
+        "answer": "Más de cinco antes de proponer hueco es excesivo. Empieza con tratamiento, zona, fecha y condición relevante. El resto se puede completar en la propia cita si es necesario."
+      },
+      {
+        "question": "¿La cualificación funciona igual por Instagram DM que por WhatsApp?",
+        "answer": "No. El DM sirve como puerta: una pregunta, redirige. WhatsApp es donde cierras con la plantilla completa. Mezclarlos hace que las conversaciones se dispersen y se olviden leads."
+      },
+      {
+        "question": "¿Qué hago si la clienta me manda foto de referencia antes de dar ningún dato?",
+        "answer": "Bien recibida. La foto te da contexto visual, pero igual necesitas zona, fecha y condición si aplica. No sustituye la cualificación, la complementa."
+      },
+      {
+        "question": "¿Tengo que pedir consentimiento antes de guardar los datos de contacto?",
+        "answer": "Sí. Una línea al final de la conversación basta: indicar que guardas su número para gestionar la cita y los recordatorios. No necesitas formulario legal si es uso estrictamente interno."
+      },
+      {
+        "question": "¿Y si me pregunta precio antes de decirme qué tratamiento quiere?",
+        "answer": "No des cifra suelta. Responde con una sola pregunta: qué tratamiento y en qué zona. Con eso das un rango real, no un número que luego genera malentendidos."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-reformas",
     "title": "Plantilla de cualificación para reformas",
     "description": "Preguntas exactas para filtrar proyectos de reforma antes de hacer la visita. Plantilla mínima, versión completa y microcopy listo para copiar en WhatsApp e Instagram.",
