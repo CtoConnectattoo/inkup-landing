@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-pedir-fecha-preferida",
+    "title": "Plantilla para pedir fecha preferida sin bloquear la agenda",
+    "description": "Plantilla lista para pedir fecha y disponibilidad a un cliente sin generar malentendidos ni bloquear huecos que luego no se confirman. Versión mínima, completa y microcopy por tono.",
+    "excerpt": "Pedir fecha no es preguntar '¿cuándo quieres?'. Es recoger intención, flexibilidad y contexto suficiente para que tu respuesta valga. Aquí la plantilla lista para copiar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-pedir-fecha-preferida.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "agenda",
+      "citas",
+      "whatsapp",
+      "plantilla",
+      "gestion-consultas",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Pedir fecha preferida sin errores de disponibilidad",
+    "quickAnswer": [
+      "**Fecha preferida + flexibilidad** — No preguntes solo cuándo quieren; pregunta también si tienen alternativa. Sin eso, un 'no hay hueco' cierra la conversación.",
+      "**Franja horaria concreta** — Mañana o tarde no es suficiente si tu agenda tiene tramos. Pide horario orientativo para evitar propuestas que no encajan.",
+      "**Urgencia real** — Saber si la fecha es fija o flexible cambia completamente cómo gestionas el hueco y qué ofreces primero.",
+      "**Duración o tipo de servicio primero** — Sin saber qué servicio es, no puedes saber cuánto tiempo necesitas. La fecha sin duración no reserva nada.",
+      "**Canal de confirmación** — Define desde el inicio si confirmas por WhatsApp, llamada o enlace. Evita que el cliente asuma que 'hablar' ya es reservar."
+    ],
+    "oneLineDefinition": "Para pedir fecha preferida sin bloquear la agenda, recoge siempre: servicio exacto, fecha preferida, flexibilidad de día y hora, urgencia y canal de confirmación — en ese orden y antes de proponer ningún hueco.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "El error que bloquea la agenda sin reserva real",
+      "Plantilla mínima (3 preguntas)",
+      "Plantilla completa (cuando necesitas más precisión)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de servicio",
+      "Errores frecuentes al pedir fecha (y cómo corregirlos)",
+      "El siguiente paso si el volumen te supera",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Pedir fecha preferida sin bloquear la agenda en 3 pasos",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "Plantilla mínima",
+        "Microcopy de entrada",
+        "Regla de confirmación explícita"
+      ],
+      "steps": [
+        {
+          "name": "Recoge servicio + fecha + flexibilidad",
+          "text": "Antes de proponer hueco, necesitas saber qué servicio es, qué fecha prefiere el cliente y si esa fecha es fija o negociable."
+        },
+        {
+          "name": "Propón hueco solo cuando tienes los datos",
+          "text": "No abras la agenda hasta tener al menos: servicio, fecha orientativa y franja. Sin eso, cualquier propuesta puede caer mal."
+        },
+        {
+          "name": "Confirma por escrito y define el canal",
+          "text": "Cierra siempre con un mensaje que diga qué está reservado, cuándo y cómo se confirma. Sin eso, el cliente puede creer que ya tiene cita cuando tú no has bloqueado nada."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si reconoces alguno de estos escenarios:</p><ul><li>El cliente dice 'quiero cita' y tú preguntas '¿cuándo?' y empieza un intercambio de cinco mensajes que no llega a nada concreto.</li><li>Bloqueas un hueco provisional, el cliente desaparece y tres días después ese hueco sigue muerto.</li><li>Propones una hora, el cliente dice que no puede, propones otra y así durante días.</li><li>No sabes si la fecha que te piden es fija o negociable y tienes miedo de decir que no hay hueco cuando igual sí hay uno cercano.</li></ul><p>No la uses si recibes menos de tres o cuatro consultas de cita por semana. Con ese volumen, un mensaje manual adaptado al caso es suficiente.</p><h2>El error que bloquea la agenda sin reserva real</h2><p>El problema no suele ser la herramienta ni el canal. Es preguntar '¿cuándo quieres?' sin pedir flexibilidad.</p><p>Sin flexibilidad, cualquier 'no hay hueco ese día' cierra la conversación. El cliente interpreta el rechazo como falta de disponibilidad general y muchas veces no vuelve a preguntar. Tú pierdes una venta que con una fecha alternativa se habría cerrado.</p><p>Lo que contraintuitivamente no hace casi nadie: preguntar la alternativa en el mismo mensaje en que pide la fecha preferida. No hace falta esperar a que haya conflicto. Si recoges las dos opciones desde el inicio, cualquier respuesta tuya ya tiene salida.</p><p>Si quieres entender mejor qué datos son imprescindibles antes de proponer hueco, el artículo sobre <a href=\"/blog/datos-minimos-para-agendar-cita/\">datos mínimos para agendar una cita sin ida y vuelta</a> lo explica con checklist incluido.</p><h2>Plantilla mínima (3 preguntas)</h2><p>Para máxima conversión y mínima fricción. Si el cliente abandona aquí, probablemente no era una consulta activa.</p><blockquote><p><strong>Para reservarte hueco, necesito tres datos rápidos:</strong><br>1. ¿Qué servicio necesitas exactamente?<br>2. ¿Qué fecha te va mejor?<br>3. ¿Tienes algún otro día que también te sirva, por si ese está ocupado?</p></blockquote><p>Con eso puedes revisar la agenda y proponer directamente. Sin vuelta atrás innecesaria.</p><h3>Variante con franja horaria</h3><blockquote><p><strong>Para buscarte hueco:</strong><br>1. ¿Qué servicio es?<br>2. ¿Qué día prefieres y tienes alternativa?<br>3. ¿Mañana o tarde?</p></blockquote><h2>Plantilla completa (cuando necesitas más precisión)</h2><p>Úsala cuando el servicio tiene duración variable, precio según franja o requisitos que afectan directamente a la disponibilidad.</p><ol><li><strong>Servicio exacto</strong> — Qué quiere hacer y si tiene variantes (duración, modalidad, etc.)</li><li><strong>Fecha preferida</strong> — Día concreto o rango orientativo.</li><li><strong>Alternativa</strong> — Si esa fecha no está disponible, qué otro día le vendría bien.</li><li><strong>Franja horaria</strong> — Mañana, tarde o rango de horas si es relevante.</li><li><strong>Urgencia</strong> — ¿Es fecha fija (evento, viaje) o flexible?</li><li><strong>Duración aproximada</strong> — Solo si varía (1 hora, media sesión, jornada completa).</li><li><strong>Datos de contacto</strong> — Nombre y WhatsApp para la confirmación.</li></ol><blockquote><p>Si el servicio es siempre la misma duración, elimina el punto 6. No preguntes lo que ya sabes.</p></blockquote><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Duración necesaria + tipo de hueco</td><td>Si puedes atenderlo y cuánto tiempo reservar</td></tr><tr><td>¿Qué fecha prefieres?</td><td>Punto de partida para revisar agenda</td><td>Si hay hueco o hay que ir a alternativa</td></tr><tr><td>¿Tienes otro día que también te venga bien?</td><td>Alternativa sin nuevo ciclo de mensajes</td><td>Propuesta directa sin vuelta atrás</td></tr><tr><td>¿Mañana o tarde?</td><td>Franja para cruzar con disponibilidad real</td><td>Propuesta de hora concreta</td></tr><tr><td>¿La fecha es fija o flexible?</td><td>Urgencia real + prioridad en agenda</td><td>Si priorizar ese hueco o mantener lista de espera</td></tr><tr><td>¿Cuánto tiempo aproximado necesitas?</td><td>Duración para bloquear hueco correcto</td><td>Evitar infra o suprarreservar tiempo</td></tr><tr><td>Nombre y WhatsApp</td><td>Identificación para confirmar</td><td>Cierre formal de la reserva</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que hace que un cliente abandone no es que le pidas datos. Es que no entiende para qué los pides o siente que son demasiados. Estos mensajes resuelven eso.</p><h3>Mensaje de entrada (cuando dicen 'quiero cita' o '¿tenéis hueco?')</h3><blockquote><p>\"Perfecto. Para buscarte el mejor hueco, dime rápido: ¿qué servicio es, qué día te va mejor y tienes alternativa por si ese está cogido?\"</p></blockquote><h3>Mensaje cuando la fecha preferida no está disponible (y tienes la alternativa)</h3><blockquote><p>\"Ese día estoy completa, pero me dijiste que también te venía bien [día alternativo]. Tengo hueco a [hora]. ¿Te confirmo?\"</p></blockquote><h3>Mensaje cuando la fecha está disponible</h3><blockquote><p>\"Tengo hueco el [fecha] a las [hora]. ¿Lo reservo a tu nombre? Dime sí y te lo bloqueo.\"</p></blockquote><h3>Mensaje de confirmación final</h3><blockquote><p>\"Apuntado: [servicio] el [fecha] a las [hora]. Te escribo [X días antes] para confirmar. Si necesitas cambiar algo, avísame con antelación.\"</p></blockquote><p>Este último mensaje es el que más gente olvida enviar. Sin él, el cliente no sabe si tiene cita o solo una conversación abierta.</p><h2>Variantes por tipo de servicio</h2><p>No cambies toda la plantilla. Cambia solo las variables que son específicas del sector.</p><h3>Tatuaje o piercing</h3><p>Variable extra: zona + tamaño orientativo + referencias. Sin eso no sabes cuánto tiempo reservar.</p><blockquote><p>\"¿Qué quieres hacerte, en qué zona y tienes alguna referencia? Con eso te digo si lo hacemos en una sesión o más, y miramos hueco.\"</p></blockquote><h3>Estética o belleza</h3><p>Variable extra: tipo de tratamiento + zona. El tiempo varía mucho según el servicio concreto.</p><blockquote><p>\"¿Qué tratamiento y en qué zona? Así te digo exactamente cuánto dura y qué hueco te busco.\"</p></blockquote><h3>Fotografía o vídeo</h3><p>Variable extra: tipo de sesión + localizacion + si hay fecha fija (evento).</p><blockquote><p>\"¿Qué tipo de sesión es y tienes fecha fija o es flexible? Si hay evento concreto, esa fecha tiene prioridad.\"</p></blockquote><h3>Formación presencial o mentoría</h3><p>Variable extra: modalidad (individual/grupo) + disponibilidad semanal si es proceso de varias sesiones.</p><blockquote><p>\"¿Es sesión única o proceso? ¿Puedes los [días concretos]? Con eso te propongo horario.\"</p></blockquote><p>Si quieres ver cómo adaptar estas preguntas a más sectores, la guía sobre <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes por sector</a> tiene variantes desarrolladas para cada uno.</p><h2>Errores frecuentes al pedir fecha (y cómo corregirlos)</h2><ol><li><strong>Preguntar fecha sin preguntar servicio primero</strong><br>Sin saber qué servicio es, no sabes cuánto tiempo necesitas. Propones un hueco y luego resulta que no cabe. Solución: servicio siempre antes que fecha.</li><li><strong>No pedir alternativa en el primer mensaje</strong><br>Si el día preferido no está libre, tienes que abrir otro ciclo de mensajes. Solución: pide la alternativa desde el inicio, aunque no la necesites siempre.</li><li><strong>Bloquear agenda sin confirmación explícita</strong><br>El cliente puede entender que 'hablar del día' ya es reservar. Solución: no bloquees sin un 'sí, lo reservo' claro del cliente.</li><li><strong>No distinguir urgencia real de preferencia</strong><br>Una boda o un viaje tienen fecha inamovible. Un corte de pelo no. Si no preguntas, tratas todo igual. Solución: una pregunta directa sobre si la fecha es fija o flexible.</li><li><strong>Confirmar por DM y luego gestionar por WhatsApp sin avisar</strong><br>El cliente no sabe en qué canal está la reserva. Solución: define el canal de confirmación en el mismo mensaje de cierre.</li><li><strong>Dar hueco sin decir cuánto dura</strong><br>El cliente llega y la sesión dura el doble de lo esperado. Solución: cuando confirmes el hueco, incluye la duración estimada.</li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si recibes más de veinte o treinta consultas de cita por semana, hacer esto manualmente cada vez tiene un coste real de tiempo y atención. El siguiente paso no es un sistema más complejo: es estandarizar la entrada para que los datos lleguen organizados antes de que empieces a responder.</p><p>Para ver cómo funciona ese proceso completo antes de entrar en herramientas, el artículo sobre <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar veinte mensajes</a> explica la lógica de filtrado previo paso a paso.</p><p>Si quieres implementar ese flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas de Instagram y WhatsApp en un asistente conversacional que recoge servicio, fecha preferida, alternativa y datos de contacto antes de redirigir la conversación a WhatsApp con toda esa información ya capturada. No es para todos los casos: si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún. Pero si tu problema es que siempre vuelves a preguntar lo mismo antes de poder proponer hueco, ahí es donde encaja.</p>",
+    "faq": [
+      {
+        "question": "¿Qué diferencia hay entre fecha preferida y fecha confirmada?",
+        "answer": "Fecha preferida es lo que el cliente propone. Fecha confirmada es lo que tú validas y bloqueas explícitamente. Si no lo distingues en el mensaje, el cliente suele asumir que ya tiene cita. Siempre cierra con un mensaje que diga 'esto está reservado' o 'esto está pendiente de confirmar'."
+      },
+      {
+        "question": "¿Pido fecha antes o después de saber qué servicio quiere?",
+        "answer": "Después. Sin saber el servicio no sabes cuánto tiempo necesitas, y proponer un hueco sin eso es un error. El orden correcto es: servicio → duración orientativa → fecha → franja horaria."
+      },
+      {
+        "question": "¿Qué hago si el cliente me da una fecha en la que no tengo hueco?",
+        "answer": "Por eso necesitas preguntar flexibilidad desde el inicio. Si ya tienes ese dato, ofreces alternativa directa sin volver a preguntar. Si no lo tienes, tienes que abrir otro ciclo de mensajes innecesario."
+      },
+      {
+        "question": "¿Puedo preguntar fecha y servicio en el mismo mensaje?",
+        "answer": "Sí, y es lo más eficiente. Un mensaje con tres preguntas cortas (servicio, fecha preferida, alternativa) resuelve lo esencial sin pedir más de la cuenta. La plantilla mínima hace exactamente eso."
+      },
+      {
+        "question": "¿Con qué frase pido flexibilidad sin sonar borde?",
+        "answer": "Usa algo como: '¿Tienes algún otro día que también te venga bien, por si ese está ocupado?' Es directo, no implica rechazo y ya recoge la alternativa antes de que sea necesaria."
+      },
+      {
+        "question": "¿Qué pasa si bloqueo un hueco y el cliente no confirma?",
+        "answer": "Es un hueco muerto. Para evitarlo, no bloquees sin confirmación explícita del cliente. El mensaje de cierre debe incluir un paso claro: 'Confirma con un sí y te lo reservo' o un enlace de confirmación."
+      },
+      {
+        "question": "¿Debo pedir fecha también cuando preguntan precio?",
+        "answer": "Sí si el precio varía según fecha o urgencia. No si el precio es fijo y la fecha no cambia nada. En casos donde sí afecta (bodas, eventos, servicios con lista de espera), la fecha es parte del presupuesto."
+      },
+      {
+        "question": "¿Esta plantilla funciona igual en Instagram DM que en WhatsApp?",
+        "answer": "La estructura sí, el tono y la longitud cambian. En DM la plantilla mínima (3 preguntas en un mensaje) funciona mejor. En WhatsApp puedes ir pregunta a pregunta si la conversación ya está abierta, aunque un mensaje estructurado suele ser más rápido para ambas partes."
+      }
+    ]
+  },
+  {
     "slug": "automatizar-instagram-sin-sonar-robot",
     "title": "Cómo automatizar Instagram sin sonar robot (microcopy y tono)",
     "description": "Guía práctica para automatizar respuestas en Instagram manteniendo cercanía y tono humano: microcopy, estructura de mensajes y errores que convierten tu perfil en un contestador frío.",
