@@ -1,5 +1,108 @@
 [
   {
+    "slug": "plantilla-cualificar-clientes-servicios",
+    "title": "Plantilla para cualificar clientes en negocios de servicios",
+    "description": "Preguntas exactas para filtrar y cualificar clientes sin perder conversiones. Plantilla mínima en 7 preguntas + variantes por intención (cita, presupuesto, info) y microcopy listo para copiar.",
+    "excerpt": "Una plantilla de cualificación debe pedir solo los datos que cambian tu decisión. Aquí tienes la versión mínima, la completa y el microcopy listo para usar hoy.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificar-clientes-servicios.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "12 min",
+    "tags": [
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima de cualificación en 7 preguntas",
+    "quickAnswer": [
+      "**Servicio exacto** — Pregunta qué necesita, no solo si está interesado. Sin esto no puedes estimar ni priorizar.",
+      "**Fecha o urgencia** — Para cuándo lo necesita. Define si hay hueco disponible antes de entrar en detalles.",
+      "**Contexto mínimo** — Una frase de objetivo. Evita dar precio sin entender qué se busca realmente.",
+      "**Requisitos clave** — Zona, duración, condiciones, presupuesto orientativo según el servicio. Reduce malentendidos antes de la cita.",
+      "**Canal de cierre** — Cómo prefiere continuar (WhatsApp, llamada, email). Baja la fricción del paso siguiente.",
+      "**Datos de contacto** — Nombre y teléfono o email. Sin esto no hay seguimiento posible si el lead no responde."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para negocios de servicios debe pedir solo los datos que cambian tu decisión: servicio exacto, fecha, contexto mínimo, requisitos clave, canal preferido y contacto.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita preguntar de más",
+      "Plantilla mínima (7 preguntas)",
+      "Plantilla completa (cuando el lead ya está dentro)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy: cómo presentar las preguntas sin sonar robótico",
+      "Plantilla anti-curiosos",
+      "Variantes por intención: tres rutas",
+      "Ejemplos por sector",
+      "Errores típicos al cualificar",
+      "El siguiente paso si necesitas que esto ocurra solo",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar una plantilla de cualificación en 3 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Lista de datos mínimos necesarios",
+        "Canal de entrada principal (DM o WhatsApp)",
+        "Mensaje de cierre estándar"
+      ],
+      "steps": [
+        {
+          "name": "Define tu contexto mínimo",
+          "text": "Anota 4 a 6 datos que cambian tu respuesta: servicio, fecha, contexto en una frase, requisitos clave, canal preferido y contacto."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "El DM de Instagram funciona como puerta. WhatsApp como cierre. Si el volumen genera caos, un link con flujo previo recoge los datos antes de abrir el chat."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un único mensaje con resumen de lo recogido, propuesta concreta y siguiente paso. No tres mensajes separados."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Abre el lunes con 34 mensajes sin leer. Varios dicen 'precio', otros dicen 'hola', uno pregunta si tienes hueco para esta semana y no sabes cuál es urgente. Eso es exactamente el escenario para el que sirve esta plantilla.</p><p>Úsala si:</p><ul><li>Recibes mensajes del tipo 'hola', 'info', 'precio' o 'tenéis hueco' sin ningún contexto adicional.</li><li>Tardas entre 15 y 25 mensajes en cerrar algo que debería resolverse en 4 o 5.</li><li>Te cuesta separar clientes reales de personas que solo están mirando.</li><li>Tienes dos o más canales activos, por ejemplo Instagram y WhatsApp, y los mensajes llegan mezclados sin orden.</li></ul><p>No la uses todavía si solo recibes una o dos consultas al día y puedes responder con calma. Y tampoco si cada caso es tan distinto que no hay un patrón de preguntas repetibles: en esos servicios la cualificación no se puede estandarizar sin perder información relevante.</p><h2>La regla que evita preguntar de más</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión.</strong> Si la respuesta no modifica el precio orientativo, la disponibilidad, el esfuerzo o si aceptas el caso, no lo pidas al principio.</p></blockquote><p>La mayoría de formularios y plantillas que circulan por ahí ignoran esto. Acumulan preguntas porque 'más información es mejor'. No lo es. Cada pregunta extra es una micro-razón para abandonar. <a href=&quot;/blog/preguntas-minimas-para-cualificar-clientes/&quot;>Las preguntas mínimas que realmente cualifican</a> son entre 4 y 6, no 12.</p><h2>Plantilla mínima (7 preguntas)</h2><p>Esta versión está diseñada para no perder conversiones. Si alguien abandona aquí, en la mayoría de los casos no era un lead activo.</p><ol><li><strong>¿Qué servicio necesitas exactamente?</strong></li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo)</li><li><strong>Cuéntame en una frase qué quieres conseguir.</strong> (contexto mínimo)</li><li><strong>¿Hay algún requisito o limitación importante?</strong> (zona, duración, condiciones, presupuesto orientativo según el servicio)</li><li><strong>¿Tienes alguna referencia o ejemplo?</strong> (si aplica: tatuajes, diseño, reformas)</li><li><strong>¿Cómo prefieres continuar?</strong> WhatsApp, llamada o email</li><li><strong>Nombre y forma de contacto.</strong> (teléfono o email)</li></ol><blockquote><p>Si tu servicio es de agenda, prioriza fecha y flexibilidad horaria. Si es de presupuesto, prioriza alcance y condiciones. No hace falta preguntar todo en todos los casos.</p></blockquote><h2>Plantilla completa (cuando el lead ya está dentro)</h2><p>Úsala cuando el cliente ya respondió a la versión mínima y quieres afinar antes de cerrar, o cuando tu servicio tiene tanta variabilidad que un error de estimación te cuesta tiempo o dinero.</p><p>Añade a la mínima:</p><ul><li>Presupuesto orientativo (si en tu sector ayuda a filtrar)</li><li>Disponibilidad en franjas horarias (si es cita)</li><li>Ubicación exacta (si hay desplazamiento o zona geográfica)</li><li>Preferencias de estilo, materiales o modalidad (presencial u online)</li><li>Criterio de éxito: '¿cómo sabrás que esto ha salido bien?'</li><li>Condiciones médicas o contraindicaciones básicas, solo si aplica y sin pedir datos sensibles que no necesitas en este momento</li></ul><p>Lo que la mayoría omite: la plantilla completa nunca se lanza de golpe. Se usa en dos tiempos. Primero la mínima. Cuando hay respuesta, la completa. Hacerlo al revés dispara el abandono.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Intención real y tipo de trabajo</td><td>Si encaja con lo que ofreces y a qué ruta va</td></tr><tr><td>¿Para cuándo? (fecha o urgencia)</td><td>Prioridad y viabilidad</td><td>Si hay hueco o si propones alternativa</td></tr><tr><td>Contexto en una frase</td><td>Objetivo real del cliente</td><td>Rango orientativo de precio o complejidad</td></tr><tr><td>Requisitos o limitaciones clave</td><td>Reduce errores y malentendidos</td><td>Si necesitas más información o si descartas</td></tr><tr><td>Referencia o ejemplo</td><td>Alinea expectativas visualmente</td><td>Estimación más fiable antes de presupuestar</td></tr><tr><td>Canal preferido de continuación</td><td>Baja la fricción del siguiente paso</td><td>Cómo cerrar con menos mensajes</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad del lead</td><td>Posibilidad de seguimiento si no responde</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar robótico</h2><p>Lo que echa a la gente no es preguntar. Es preguntar sin explicar para qué. Tres segundos de contexto antes de la lista cambian por completo la percepción.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>&quot;Perfecto. Para responderte rápido y con datos reales, te hago tres preguntas cortas. Un minuto como mucho.&quot;</p></blockquote><h3>Cuando preguntan directamente por precio</h3><blockquote><p>&quot;Para darte un número que tenga sentido (y no algo al aire), dime: servicio exacto, para cuándo y una frase de contexto.&quot;</p></blockquote><h3>Cuando no está claro si busca cita o información</h3><blockquote><p>&quot;¿Buscas cita o solo información y presupuesto? Te llevo por el camino correcto y lo cerramos en pocos mensajes.&quot;</p></blockquote><p>Puedes ver más variantes de estas preguntas ordenadas por sector en <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>esta guía de preguntas por tipo de servicio</a>.</p><h2>Plantilla anti-curiosos</h2><p>Para los casos donde entra mucho volumen de personas que solo están explorando sin intención real de contratar.</p><blockquote><p>&quot;Perfecto. Para saber si puedo ayudarte, dime: qué servicio buscas, para cuándo lo necesitas y un rango orientativo de presupuesto (aunque sea aproximado). Con eso te respondo directo.&quot;</p></blockquote><p>El truco aquí es pedir un 'dato de compromiso': fecha o presupuesto orientativo. No es agresivo, pero sí filtra a quien no tiene intención real. Quien está mirando por curiosidad normalmente no responde esa pregunta.</p><h2>Variantes por intención: tres rutas</h2><p>La mayoría de consultas en negocios de servicios caen en una de estas tres rutas. Identifica cuál es la del mensaje que recibes y usa solo las preguntas de esa ruta.</p><h3>Ruta A: quiere cita o pregunta si hay hueco</h3><ol><li>Servicio exacto</li><li>Fecha preferida y flexibilidad (mañana o tarde, esta semana o la siguiente)</li><li>Duración o requisitos específicos según el servicio</li><li>Datos de contacto</li></ol><blockquote><p>&quot;Con eso ya puedo mirarte hueco. ¿Te viene mejor el martes o el jueves?&quot;</p></blockquote><h3>Ruta B: pide precio o presupuesto</h3><ol><li>Servicio exacto y alcance</li><li>Contexto mínimo (objetivo en una frase)</li><li>Fecha o plazo</li><li>Requisitos o condiciones</li><li>Presupuesto orientativo (opcional según sector)</li><li>Contacto</li></ol><blockquote><p>&quot;Con lo que me dices, el rango suele estar entre X e Y dependiendo de Z. Si te cuadra, te propongo el siguiente paso.&quot;</p></blockquote><h3>Ruta C: pide información general</h3><ol><li>Qué información exacta busca (ubicación, proceso, tiempos, requisitos)</li><li>Si en algún momento quiere cita o solo información por ahora</li><li>Contacto solo si pide algo que requiere seguimiento</li></ol><blockquote><p>&quot;Te lo resumo en tres líneas y, si te interesa avanzar, te dejo el paso siguiente.&quot;</p></blockquote><p>Si quieres ver cómo aplicar este sistema de rutas antes de abrir el chat, <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>aquí tienes el proceso completo de filtrado previo por WhatsApp</a>.</p><h2>Ejemplos por sector</h2><p>No cambies la estructura base. Cambia solo la pregunta de requisitos según el servicio.</p><h3>Tatuajes y piercing</h3><ul><li>Variable clave: zona del cuerpo, tamaño aproximado, referencias visuales</li></ul><blockquote><p>&quot;¿Qué zona? ¿Tamaño aproximado? ¿Tienes referencias para que pueda hacerme una idea?&quot;</p></blockquote><h3>Estética y tratamientos</h3><ul><li>Variable clave: tipo de piel o condición, zona a tratar, objetivo</li></ul><blockquote><p>&quot;¿Qué tratamiento buscas? ¿Qué zona? ¿Cuál es el objetivo principal?&quot;</p></blockquote><h3>Fotografía</h3><ul><li>Variable clave: tipo de sesión, número de personas, uso previsto (personal, profesional, editorial)</li></ul><blockquote><p>&quot;¿Qué tipo de sesión? ¿Para cuántas personas? ¿Cómo vas a usar las fotos?&quot;</p></blockquote><h3>Formación y mentoría</h3><ul><li>Variable clave: objetivo concreto, nivel actual, disponibilidad horaria</li></ul><blockquote><p>&quot;¿Qué quieres conseguir? ¿Desde dónde partes? ¿Cuándo podrías empezar?&quot;</p></blockquote><h3>Reformas y servicios del hogar</h3><ul><li>Variable clave: qué hay que hacer, metros o alcance, ubicación, urgencia</li></ul><blockquote><p>&quot;¿Qué hay que reformar o arreglar? ¿Cuántos metros o alcance aproximado? ¿Dónde? ¿Para cuándo?&quot;</p></blockquote><h2>Errores típicos al cualificar</h2><ol><li><strong>Lanzar todas las preguntas a la vez.</strong> El cliente ve un bloque de texto y no responde. Solución: versión mínima primero, completa solo si hay respuesta.</li><li><strong>No separar la intención.</strong> Mezclar ruta de cita con ruta de presupuesto genera conversaciones confusas. Solución: dos o tres mensajes distintos según cómo empieza la consulta.</li><li><strong>Preguntar precio orientativo sin contexto previo.</strong> La gente no sabe qué responder y abandona. Solución: primero servicio, fecha y objetivo. El presupuesto orientativo va después.</li><li><strong>No explicar por qué preguntas.</strong> Sin contexto, las preguntas suenan a formulario burocrático. Solución: una frase de microcopy antes de la lista.</li><li><strong>Responder con párrafos largos.</strong> El cliente en móvil no lee bloques. Solución: una pregunta por mensaje o formato de lista numerada corta.</li><li><strong>Usar la misma plantilla para todo.</strong> Un presupuesto de reforma y una reserva de tatuaje no necesitan los mismos datos. Solución: adapta la pregunta de requisitos según el servicio.</li></ol><h2>El siguiente paso si necesitas que esto ocurra solo</h2><p>Saber qué preguntar es el primer problema. El segundo, y el que genera más caos real, es que no siempre tienes energía ni tiempo para ejecutar la plantilla en cada mensaje que entra.</p><p>Si llegas al punto en que la plantilla la tienes clara pero no siempre la aplicas porque los mensajes entran en desorden o en volumen, la solución es convertirla en un flujo: rutas por intención, preguntas mínimas según el caso y salida a WhatsApp con el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan la entrada desde Instagram y WhatsApp en un link único con asistente conversacional, recogen los datos mínimos antes de redirigir al cliente a WhatsApp con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún. Pero si recibes más de 20 o 30 consultas semanales con patrones repetibles, el caos que evita es inmediato.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas son demasiadas?",
+        "answer": "Son demasiadas cuando el cliente no entiende por qué se las haces o no ve que avanzan hacia algo concreto. Empieza con 3 a 5 preguntas de la versión mínima. Amplía solo si el lead ya mostró intención clara."
+      },
+      {
+        "question": "¿Pido presupuesto orientativo sí o no?",
+        "answer": "Sí, cuando en tu sector filtra de verdad (servicios de alto ticket o con mucha variación de precio). No, si la mayoría no sabe cuánto cuesta o si te baja la tasa de respuesta. En ese caso pide rango o prioridad en vez de cifra exacta."
+      },
+      {
+        "question": "¿La cualificación se hace en el DM de Instagram?",
+        "answer": "El DM funciona como puerta, no como sala de cualificación. Si haces demasiadas preguntas ahí, la conversación se rompe. Lo más efectivo es pedir un dato de compromiso en el DM y redirigir a WhatsApp o a un link con el flujo completo."
+      },
+      {
+        "question": "¿Qué hago cuando solo me escriben 'precio?'",
+        "answer": "No des una cifra suelta. Responde con la mini-plantilla: servicio exacto, fecha y una frase de contexto. Con esos datos das un rango útil en vez de un número que no significa nada para el cliente."
+      },
+      {
+        "question": "¿Uso la misma plantilla para citas y para presupuestos?",
+        "answer": "No. Para citas la prioridad es fecha y flexibilidad horaria. Para presupuestos es alcance, condiciones y contexto. Las primeras 2 o 3 preguntas cambian según la intención. Las tres rutas del artículo cubren esto."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde una pregunta?",
+        "answer": "Sigue con la siguiente si no es bloqueante. Si es imprescindible (por ejemplo, la fecha para una cita), pide solo ese dato en el siguiente mensaje. No repitas toda la plantilla."
+      },
+      {
+        "question": "¿Esta plantilla sirve si tengo equipo?",
+        "answer": "Sí. De hecho es más útil con equipo porque estandariza lo que recoge cada persona. Sin plantilla, cada miembro del equipo pregunta cosas distintas y el cliente recibe experiencias inconsistentes."
+      },
+      {
+        "question": "¿Cómo evito parecer un formulario burocrático?",
+        "answer": "Explica en una frase por qué preguntas antes de preguntar. 'Para darte un precio realista, necesito tres datos' convierte el interrogatorio en un servicio. El microcopy del artículo tiene versiones listas para copiar."
+      }
+    ]
+  },
+  {
     "slug": "dm-no-es-para-cualificar",
     "title": "Por qué el DM no es para cualificar (y qué hacer en su lugar)",
     "description": "El DM de Instagram no está diseñado para cualificar clientes: genera conversaciones eternas, interrupciones constantes y leads sin contexto. Aprende a usarlo como puerta, no como formulario.",
