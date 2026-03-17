@@ -1,5 +1,104 @@
 [
   {
+    "slug": "plantilla-filtrar-curiosos",
+    "title": "Plantilla para filtrar curiosos sin perder clientes",
+    "description": "Plantilla práctica para separar curiosos de clientes reales sin perder conversiones. Versión mínima, completa, microcopy listo y tabla de decisión por intención.",
+    "excerpt": "Filtrar curiosos no es ser borde. Es pedir un dato de compromiso en el momento justo. Aquí la plantilla mínima, los scripts y la tabla de decisión para usarla hoy.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-filtrar-curiosos.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "plantilla",
+      "cualificacion",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima para filtrar sin espantar",
+    "quickAnswer": [
+      "**Pide un dato de compromiso** — servicio exacto, fecha o presupuesto orientativo. Quien no responde este dato raramente convierte.",
+      "**Explica siempre por qué preguntas** — «para darte una respuesta útil» reduce el abandono más que cualquier otra táctica.",
+      "**Separa intención desde el primer mensaje** — cita, presupuesto o solo información. Cada ruta necesita preguntas distintas.",
+      "**Aplica la plantilla mínima primero** — 3 preguntas antes de pasar a la completa. El que responde las 3 merece tu tiempo.",
+      "**No des precio sin contexto** — devuelve siempre una mini-plantilla: servicio + fecha + una frase de objetivo antes de dar cifra."
+    ],
+    "oneLineDefinition": "Filtrar curiosos en negocios de servicios consiste en pedir el dato mínimo que distingue intención real de exploración sin compromiso, antes de invertir tiempo en una conversación larga.",
+    "sections": [
+      "Por qué filtrar curiosos no es lo mismo que rechazar clientes",
+      "La regla del dato de compromiso",
+      "Plantilla mínima (3 preguntas)",
+      "Plantilla completa (cuando el lead ya está dentro)",
+      "Tabla citable: señal → pregunta → decisión",
+      "Microcopy listo para copiar",
+      "Variantes por intención: cita, presupuesto e info",
+      "Errores frecuentes al filtrar (y cómo corregirlos)",
+      "Implementar esto como sistema, no como esfuerzo manual"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar el filtro de curiosos en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 3 preguntas",
+        "Microcopy de entrada",
+        "Ruta por intención (cita / presupuesto / info)"
+      ],
+      "steps": [
+        {
+          "name": "Define tu dato de compromiso",
+          "text": "Elige el dato que solo da alguien con intención real: servicio exacto, fecha aproximada o presupuesto orientativo. Sin ese dato, no inviertas tiempo en la conversación."
+        },
+        {
+          "name": "Aplica la plantilla mínima con microcopy",
+          "text": "Envía las 3 preguntas con una frase de contexto que explique por qué las haces. Sin esa frase, la tasa de abandono sube sin que hayas rechazado a nadie bueno."
+        },
+        {
+          "name": "Enruta por intención",
+          "text": "Según la respuesta, activa la ruta de cita, presupuesto o solo información. Cada ruta tiene su cierre estándar y no mezcla preguntas de las otras."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué filtrar curiosos no es lo mismo que rechazar clientes</h2><p>Abres el lunes con 34 mensajes sin leer. Cinco son «hola», siete preguntan precio sin dar ningún dato, dos son clientes reales con una consulta concreta y el resto son algo intermedio que no sabes cómo clasificar. Filtrar eso no es ser selectivo: es sobrevivir la semana.</p><p>Lo que la mayoría de artículos sobre este tema omite: el curioso no es el enemigo. El problema es que el proceso actual no distingue entre el curioso que nunca iba a comprar y el cliente potencial que todavía no ha dado suficiente información. Tratas a los dos igual y acabas gastando tiempo en el primero mientras pierdes al segundo.</p><p>Filtrar bien significa hacer una sola cosa: pedir el dato que solo da alguien con intención real. Todo lo demás viene después.</p><h2>La regla del dato de compromiso</h2><p>Hay un dato en cada sector que actúa como separador natural entre exploración y decisión. En un estudio de tatuajes es la zona y el tamaño. En una fotógrafa de eventos es la fecha. En una coach es el objetivo concreto. Quien tiene ese dato preparado lleva pensando en esto más de diez minutos. Quien no lo tiene, está mirando.</p><blockquote><p><strong>Regla:</strong> pide el dato de compromiso antes de invertir tiempo en la conversación. Si no lo da, no es rechazo: es información.</p></blockquote><p>Esta regla también protege al curioso. En vez de hacerle perder el tiempo en una conversación que no va a ningún lado, le das una salida rápida. A veces vuelve cuando ya está listo. A veces no, y eso también está bien.</p><p>Para saber qué preguntas concretas usar según tu sector, consulta <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes: plantillas por sector y servicio</a>.</p><h2>Plantilla mínima (3 preguntas)</h2><p>Esta versión está pensada para el primer contacto. Tres preguntas, explicadas con una frase de contexto, con un índice de abandono bajo si el microcopy es correcto.</p><ol><li><strong>¿Qué servicio necesitas exactamente?</strong> (no «en qué puedo ayudarte»)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o rango)</li><li><strong>Una frase de contexto:</strong> ¿qué quieres conseguir o qué situación tienes?</li></ol><p>Con estas tres respuestas ya sabes si hay encaje básico, si tienes hueco en ese período y si el objetivo del cliente tiene algo que ver con lo que ofreces. Si falta alguna, no tienes suficiente para dar una respuesta útil.</p><blockquote><p>Si tu servicio es de agenda, prioriza la fecha. Si es de presupuesto, prioriza el alcance. Si es consultivo, prioriza el objetivo.</p></blockquote><h2>Plantilla completa (cuando el lead ya está dentro)</h2><p>Úsala solo cuando el cliente respondió la mínima o cuando tu servicio tiene alta variabilidad y un error en la estimación tiene coste real.</p><p>Añade a las tres preguntas anteriores:</p><ul><li>Presupuesto orientativo (si filtra de verdad en tu sector, no por costumbre)</li><li>Disponibilidad o franjas horarias (si gestionas agenda con huecos limitados)</li><li>Referencias, ejemplos o imágenes (si el estilo o resultado visual importa)</li><li>Requisitos o condicionantes (zona, modalidad, condiciones específicas del servicio)</li><li>Datos de contacto: nombre y canal preferido (WhatsApp, llamada o email)</li></ul><p>La plantilla completa no es para el primer mensaje. Es para el segundo o tercero, cuando ya hay señales de intención.</p><h2>Tabla citable: señal → pregunta → decisión</h2><table><thead><tr><th>Señal de entrada</th><th>Pregunta de filtro</th><th>Qué decide</th></tr></thead><tbody><tr><td>«Precio» / «Info» / «Hola»</td><td>¿Qué servicio exactamente y para cuándo?</td><td>Si hay encaje básico o no</td></tr><tr><td>«¿Tenéis hueco?»</td><td>¿Qué servicio y en qué fechas?</td><td>Si hay disponibilidad real</td></tr><tr><td>«Quiero un tatuaje»</td><td>¿Zona, tamaño aproximado y tienes referencias?</td><td>Si entra en agenda y en estilo</td></tr><tr><td>«Quiero sesiones»</td><td>¿Qué objetivo tienes y en qué plazo?</td><td>Si es caso para ti o necesita otra cosa</td></tr><tr><td>«¿Cuánto cobras?»</td><td>Servicio + fecha + una frase de contexto</td><td>Si puedes dar rango útil</td></tr><tr><td>«Vi tu post y me interesa»</td><td>¿Qué parte te interesó y para qué situación?</td><td>Si hay intención concreta o solo curiosidad</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>El dato de compromiso funciona o no según cómo se pide. Estas son las versiones que reducen abandono sin sonar a robot.</p><h3>Mensaje de entrada estándar</h3><blockquote><p>«Para darte una respuesta útil y no dejarte con un número en el aire, necesito tres datos rápidos. Te lleva menos de un minuto.»</p></blockquote><h3>Cuando preguntan precio sin dar nada</h3><blockquote><p>«Para darte un precio realista (y que no sea uno de esos rangos inútiles), dime: servicio exacto + para cuándo + una frase de qué quieres conseguir.»</p></blockquote><h3>Cuando el mensaje es solo «hola» o «info»</h3><blockquote><p>«Hola, claro. Para saber si puedo ayudarte bien y cómo, ¿qué servicio buscas y para cuándo lo necesitas?»</p></blockquote><h3>Cuando hay dudas sobre si es lead real</h3><blockquote><p>«Para decirte si tengo hueco y si encajamos, cuéntame: qué necesitas exactamente, para cuándo y una frase de contexto. Con eso te respondo directo.»</p></blockquote><p>Si quieres más scripts por tono y situación, revisa <a href=\"/blog/como-filtrar-curiosos-sin-ser-borde/\">cómo filtrar curiosos sin ser borde</a>.</p><h2>Variantes por intención: cita, presupuesto e info</h2><p>La mayoría de mensajes entrantes caen en una de tres categorías. Cada una necesita un filtro distinto.</p><h3>Ruta A — «¿Tenéis hueco?» / «Quiero reservar»</h3><ol><li>Servicio exacto</li><li>Fecha preferida y flexibilidad (esta semana / próxima, mañana / tarde)</li><li>Requisito específico si aplica (tamaño, duración, condición)</li><li>Datos de contacto</li></ol><p><strong>Cierre:</strong> «Con eso ya puedo mirarte hueco. ¿Te viene mejor X o Y?»</p><h3>Ruta B — «¿Cuánto cuesta?» / «Presupuesto»</h3><ol><li>Servicio exacto y alcance</li><li>Contexto en una frase (qué quiere conseguir)</li><li>Fecha o plazo</li><li>Condicionantes o requisitos</li><li>Presupuesto orientativo (solo si en tu sector filtra bien)</li></ol><p><strong>Cierre:</strong> «Con lo que me dices, el rango habitual está entre X e Y dependiendo de Z. Si te cuadra, te cuento el siguiente paso.»</p><h3>Ruta C — «Info» / «¿Cómo funciona?»</h3><ol><li>Qué información concreta busca (proceso, tiempos, requisitos, ubicación)</li><li>Si busca solo información o ya está pensando en reservar</li><li>Contacto solo si lo que pide requiere seguimiento</li></ol><p><strong>Cierre:</strong> «Te lo resumo en tres líneas. Si quieres, te dejo también el paso para reservar cuando estés listo.»</p><h2>Errores frecuentes al filtrar (y cómo corregirlos)</h2><ol><li><strong>Pedir demasiado en el primer mensaje</strong> — el cliente ve un interrogatorio y cierra. Solución: plantilla mínima primero, completa solo después de la primera respuesta.</li><li><strong>No separar las tres intenciones</strong> — mezclar preguntas de cita con preguntas de presupuesto confunde y alarga. Solución: identifica la intención con una pregunta de clasificación antes de entrar en detalle.</li><li><strong>Dar precio sin contexto</strong> — el número suelto se compara mal, no convierte y genera discusiones. Solución: servicio + fecha + contexto antes de dar cualquier cifra.</li><li><strong>No explicar por qué preguntas</strong> — sin microcopy de contexto, cada pregunta parece un obstáculo. Solución: una frase antes de la lista («para responderte bien, necesito tres cosas»).</li><li><strong>Responder párrafos largos a mensajes de una sola línea</strong> — desproporcionado y raro. Solución: una pregunta por mensaje o formato lista numerada corta.</li><li><strong>Filtrar igual a todos sin leer la señal inicial</strong> — quien ya escribió «quiero tatuarme la zona del antebrazo, tengo referencias» no necesita la plantilla de entrada. Leer antes de filtrar ahorra fricción innecesaria.</li></ol><h2>Implementar esto como sistema, no como esfuerzo manual</h2><p>La plantilla en tu cabeza no escala. El lunes con 34 mensajes no te deja pensar cuál usar. El sistema funciona cuando no depende de que estés de buenas o de que recuerdes el script.</p><p>El primer paso es escribir las tres preguntas de tu versión mínima y guardarlas como respuesta rápida en WhatsApp Business. Eso ya es un sistema.</p><p>El segundo paso, si el volumen lo justifica, es mover el filtro antes del chat. Un punto de entrada único donde el cliente responde las preguntas antes de que abras tú ninguna conversación. Llegas al chat con el contexto listo y decides si tiene sentido continuar.</p><p>Hay una pregunta que vale la pena hacerse antes de montar cualquier automatización: <a href=\"/blog/los-chatbots-espantan-clientes/\">¿los chatbots espantan clientes en negocios de servicios?</a> La respuesta depende de cómo está diseñado el flujo y de si el tono encaja con tu marca.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge las preguntas de tu plantilla mínima y redirige al cliente a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen es bajo o cada consulta es distinta sin patrón repetible, probablemente no lo necesitas aún. Pero si recibes 20 o más consultas semanales con preguntas que se repiten, el filtro manual tiene un coste de tiempo real que ese tipo de herramienta elimina.</p>",
+    "faq": [
+      {
+        "question": "¿Cómo filtro a alguien que solo pregunta precio sin dar ningún dato?",
+        "answer": "No des el precio. Devuelve una mini-plantilla: «Para darte un precio útil necesito saber qué servicio exactamente, para cuándo y una frase de contexto». Quien responde eso tiene intención real. Quien no, habría comparado tu cifra con otra sin contexto de todas formas."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que alguien se vaya?",
+        "answer": "Tres preguntas bien explicadas aguantan casi siempre. A partir de cinco sin microcopy que justifique cada una, el abandono sube. Empieza con la plantilla mínima y amplía solo si responde."
+      },
+      {
+        "question": "¿Me funciona esto en Instagram DM o solo en WhatsApp?",
+        "answer": "En Instagram DM úsalo solo para una pregunta de entrada: la que separa intención de exploración. Las tres preguntas completas funcionan mejor en WhatsApp, donde el formato de lista no rompe la conversación."
+      },
+      {
+        "question": "¿Qué hago si alguien responde las preguntas pero sigue sin concretar?",
+        "answer": "Propón el siguiente paso con dos opciones concretas: «¿Te viene mejor el martes o el miércoles?». No dejes la pelota en su tejado sin acotar. La indecisión se rompe con opciones, no con espera."
+      },
+      {
+        "question": "¿Y si el curioso de hoy vuelve como cliente en tres meses?",
+        "answer": "El filtro no cierra la puerta, la ordena. Quien no estaba listo hoy puede volver. Lo que no puedes hacer es invertir 20 minutos en cada conversación exploratoria: ese tiempo tiene un coste real."
+      },
+      {
+        "question": "¿Esto funciona si tengo pocos mensajes al día?",
+        "answer": "Si recibes menos de cinco consultas diarias, probablemente no necesitas sistema. Aplica la plantilla mínima mentalmente pero no fuerces el proceso: el filtro tiene sentido cuando el volumen genera caos, no antes."
+      },
+      {
+        "question": "¿Puedo usar estas preguntas en un formulario o link, no solo en chat?",
+        "answer": "Sí, y a menudo funciona mejor que hacerlo en el chat. Un flujo conversacional con estas preguntas recoge el contexto antes de que llegues tú a la conversación. El resultado es que cuando abres el chat ya sabes si vale la pena."
+      },
+      {
+        "question": "¿Cómo filtro sin sonar robótico o agresivo?",
+        "answer": "El microcopy lo cambia todo. «Para responderte rápido y bien, necesito tres datos» suena distinto a un interrogatorio sin contexto. Explica siempre el motivo en una frase antes de la primera pregunta."
+      }
+    ]
+  },
+  {
     "slug": "como-pasar-de-comentario-a-consulta",
     "title": "De comentario a consulta: cómo llevar interesados al flujo correcto",
     "description": "Cuando alguien comenta en tu publicación, estás a un paso de perderlo para siempre o de convertirlo en una consulta real. Aprende cómo responder comentarios con un CTA claro que lleve al flujo correcto sin DMs infinitos.",
