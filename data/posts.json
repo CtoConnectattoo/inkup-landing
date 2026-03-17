@@ -1,5 +1,113 @@
 [
   {
+    "slug": "auto-respuesta-instagram-que-convierte",
+    "title": "Auto-respuesta en Instagram que convierte (y no espanta)",
+    "description": "Cómo diseñar un primer mensaje automático en Instagram que guía al cliente hacia un paso útil, sin menús largos ni preguntas en DM que cortan la conversación.",
+    "excerpt": "Una auto-respuesta que convierte no responde preguntas: guía a un link claro, explica qué obtendrá el cliente y desaparece. Todo lo demás espanta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/auto-respuesta-instagram-que-convierte.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "auto-respuesta",
+      "dm-instagram",
+      "primer-contacto",
+      "conversion",
+      "mensajes-automaticos"
+    ],
+    "quickAnswerSubtitle": "Auto-respuesta en Instagram que convierte sin espantar",
+    "quickAnswer": [
+      "**Un solo paso, no un menú** — el mensaje guía a una acción (un link), no a elegir entre cinco opciones.",
+      "**Explica qué obtiene el cliente** — no digas 'rellena el formulario'; di 'deja tus datos y te respondo en menos de 24h con precio exacto'.",
+      "**No hagas preguntas en el DM automático** — cada pregunta automática es una barrera; reserva las preguntas para el flujo posterior.",
+      "**Sé breve y directo** — tres frases máximo: acuse de recibo, promesa concreta, enlace."
+    ],
+    "oneLineDefinition": "Una auto-respuesta en Instagram que convierte es un primer mensaje automático que acusa recibo, explica el siguiente paso con claridad y lleva al cliente a un link donde deja la información necesaria, sin intentar cerrar nada en el DM.",
+    "sections": [
+      "Por qué la mayoría de auto-respuestas espantan en lugar de convertir",
+      "Qué tiene que hacer (y no hacer) tu primer mensaje automático",
+      "Checklist: auto-respuesta que convierte",
+      "Scripts listos para copiar",
+      "Errores comunes y cómo corregirlos",
+      "Cuándo no usar auto-respuesta (o usarla con precaución)",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Diseñar una auto-respuesta en Instagram que convierte",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Instagram Business o Creator",
+        "Link de atención (bio o flujo externo)",
+        "Texto del mensaje"
+      ],
+      "steps": [
+        {
+          "name": "Define el único paso que quieres que dé el cliente",
+          "text": "Antes de escribir una sola palabra, decide qué acción concreta quieres: visitar un link, responder una pregunta, reservar. Uno solo."
+        },
+        {
+          "name": "Escribe el acuse de recibo",
+          "text": "Una frase que confirme que el mensaje llegó y que habrá respuesta. Sin exclamaciones vacías."
+        },
+        {
+          "name": "Añade la promesa concreta",
+          "text": "Explica qué obtendrá el cliente si hace el paso: 'Con eso te doy precio exacto', 'Así veo disponibilidad real'."
+        },
+        {
+          "name": "Incluye el link",
+          "text": "Un único enlace al flujo o página donde el cliente deja la información. Sin alternativas."
+        },
+        {
+          "name": "Revisa que no haya preguntas en el mensaje",
+          "text": "Si tu auto-respuesta tiene alguna pregunta, elimínala. Las preguntas van en el flujo al que apunta el link."
+        },
+        {
+          "name": "Prueba en frío",
+          "text": "Lee el mensaje como si fueras un desconocido. ¿Sabes qué tienes que hacer? ¿Tienes claro qué ganarás? Si no, reescribe."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la mayoría de auto-respuestas espantan en lugar de convertir</h2><p>Te escriben por DM, pones una respuesta automática y... el cliente no avanza. O peor: responde a la auto-respuesta esperando que alguien le conteste, y el hilo se queda muerto.</p><p>El problema no es la automatización. Es que la mayoría de auto-respuestas en Instagram intentan resolver demasiado en un solo mensaje: dan información, hacen preguntas, ofrecen opciones y piden datos. El resultado es un bloque de texto que el cliente ignora o que le genera más dudas de las que tenía.</p><p>Una auto-respuesta no cierra ventas. Su único trabajo es asegurarse de que el cliente da el siguiente paso correcto, que tiene sentido en el contexto. Si intentas hacer más que eso, conviertes menos.</p><p>Si quieres entender por qué estos mensajes fallan con más detalle, <a href=\"/blog/errores-automatizar-instagram-dm/\">los errores al automatizar DMs que te hacen perder clientes</a> los explica uno a uno.</p><h2>Qué tiene que hacer (y no hacer) tu primer mensaje automático</h2><h3>Lo que sí tiene que hacer</h3><ul><li>Confirmar que el mensaje llegó (acuse de recibo breve).</li><li>Explicar qué obtendrá el cliente si sigue el paso.</li><li>Dar un único enlace a donde dejará su información.</li><li>Ser legible en tres segundos desde el móvil.</li></ul><h3>Lo que no tiene que hacer</h3><ul><li>Hacer preguntas (ni una sola).</li><li>Dar opciones tipo menú ('si buscas X escribe 1, si buscas Y escribe 2').</li><li>Prometer una respuesta que no puedes cumplir en el plazo que dices.</li><li>Pedir datos directamente en el DM (nombre, fecha, teléfono).</li><li>Explicar toda tu oferta de servicios.</li></ul><p>El DM automático no es el lugar donde cualificas. Es la puerta que lleva al lugar donde cualificas. Esa distinción cambia completamente cómo escribe el mensaje.</p><h2>Checklist: auto-respuesta que convierte</h2><p>Antes de activar tu mensaje automático, revisa cada punto:</p><ol><li>El mensaje tiene tres frases o menos.</li><li>No contiene ninguna pregunta.</li><li>Hay un único enlace, no dos ni tres.</li><li>El enlace lleva a un flujo que pide la información mínima necesaria.</li><li>Explica en una frase qué obtiene el cliente si hace clic.</li><li>No usa palabras genéricas como 'equipo', 'encantados' ni 'estamos a tu disposición'.</li><li>Se lee completo en pantalla de móvil sin scroll.</li><li>El plazo de respuesta que menciona es real y cumplible.</li></ol><h2>Scripts listos para copiar</h2><h3>Script 1 — Tono neutro y directo</h3><blockquote><p>Hola, gracias por escribir. Para darte precio y disponibilidad real necesito un par de datos. Tarda menos de dos minutos: [link]</p></blockquote><h3>Script 2 — Tono cercano (sector estética, tatuaje, fotografía)</h3><blockquote><p>Hola. Me alegra que te hayas animado a escribir. Para responderte con algo concreto (no con un 'depende'), cuéntame un poco más por aquí: [link]</p></blockquote><h3>Script 3 — Cuando hay picos de volumen o estás fuera de horario</h3><blockquote><p>Ahora mismo no estoy disponible, pero tu mensaje está guardado. Si me dejas los datos aquí, te respondo en cuanto pueda con todo el detalle: [link]</p></blockquote><p>Los tres siguen la misma estructura: acuse de recibo + promesa concreta + link. Lo que cambia es el registro, no el esquema.</p><p>Si necesitas scripts para distintas intenciones (presupuesto, cita, información general), <a href=\"/blog/scripts-responder-dm-instagram/\">scripts para responder DMs en Instagram por intención</a> tiene versiones adaptadas por caso.</p><h2>Errores comunes y cómo corregirlos</h2><ol><li><strong>Menú de opciones en el DM</strong> — El cliente no sabe qué elegir, cierra el chat. Corrección: un solo camino, no un árbol de decisiones.</li><li><strong>Preguntar en el DM automático</strong> — El cliente responde a la auto-respuesta y se crea un hilo que nadie atiende. Corrección: mueve las preguntas al flujo externo al que apunta el link.</li><li><strong>Prometer respuesta en menos de una hora cuando no puedes</strong> — El cliente espera y si no llega, se va con peor imagen que si no hubiera habido respuesta. Corrección: pon plazos reales.</li><li><strong>Dar demasiada información en el propio mensaje</strong> — El cliente lee la mitad y asume que ya sabe suficiente para decidir sin hablar contigo. Corrección: genera curiosidad o necesidad, no saciedad.</li><li><strong>Link roto o que lleva a la bio genérica</strong> — El cliente hace clic y no encuentra lo que prometiste. Corrección: prueba el link desde móvil antes de activar el mensaje.</li><li><strong>Tono robótico o de empresa grande</strong> — Si tu negocio es personal, el mensaje tiene que sonar como tú, no como un chatbot corporativo. Corrección: escríbelo como le escribirías a alguien que acabas de conocer.</li></ol><h2>Cuándo no usar auto-respuesta (o usarla con precaución)</h2><p>No todo negocio ni toda situación admite automatización en el primer contacto:</p><ul><li>Si tu proceso de venta requiere escucha profunda desde el inicio (coaching de alta intensidad, terapia, servicios muy personalizados), un mensaje automático puede enfriar justo cuando necesitas calidez.</li><li>Si tu volumen es tan bajo que puedes responder en menos de dos horas, la auto-respuesta aporta poco y puede sonar impersonal.</li><li>Si el link al que apuntas no está listo o el flujo no funciona bien en móvil, es mejor no tener auto-respuesta que tener una que lleva a ningún sitio.</li></ul><p>La auto-respuesta solo aporta cuando hay un flujo detrás que recoge la información del cliente de forma ordenada. Sin ese flujo, el mensaje es solo ruido.</p><p>Si todavía no tienes claro cómo estructurar ese flujo desde el link en bio, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">cómo convertir el link en bio en un sistema de atención</a> explica cómo montarlo sin que parezca un menú.</p><h3>Sobre herramientas</h3><p>Si el volumen de DMs ya genera caos (20–30 consultas o más por semana) y el problema es que el cliente llega a WhatsApp sin haber dado ningún dato útil, hay herramientas que resuelven exactamente eso: un link único con un asistente que recoge la información mínima antes de redirigir al chat final. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas entrantes desde Instagram y WhatsApp mediante un link con asistente conversacional que captura la información clave y redirige con contexto a WhatsApp. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo hacer preguntas dentro de mi auto-respuesta de Instagram?",
+        "answer": "No es recomendable. Cada pregunta en un mensaje automático espera respuesta manual, y si no llega, el hilo muere. Las preguntas van en el flujo externo al que apunta el link, no en el DM automático."
+      },
+      {
+        "question": "¿Qué pongo en el link de la auto-respuesta si no tengo web?",
+        "answer": "Un formulario conversacional o una página simple que haga las preguntas mínimas necesarias para tu servicio. No necesitas web completa, solo un punto de entrada que recoja los datos antes de que empieces a responder."
+      },
+      {
+        "question": "¿Cuánto texto debería tener la auto-respuesta?",
+        "answer": "Tres frases máximo: acuse de recibo, promesa concreta y link. Si necesitas más, es señal de que estás intentando resolver demasiado en ese mensaje."
+      },
+      {
+        "question": "¿Sirve la misma auto-respuesta para todos los tipos de DM?",
+        "answer": "En la mayoría de servicios locales con consultas repetitivas, sí. Si recibes tipos de consulta muy distintos (citas, presupuestos, colaboraciones), puedes tener rutas separadas, pero empieza con una sola."
+      },
+      {
+        "question": "¿Qué plazo de respuesta pongo si no siempre puedo responder rápido?",
+        "answer": "El plazo real que puedes cumplir de forma consistente. Si normalmente tardas 24 horas, pon 24 horas. Prometer menos y fallar daña más que un plazo largo pero cumplido."
+      },
+      {
+        "question": "¿La auto-respuesta me quita el trato personal con el cliente?",
+        "answer": "Solo si el mensaje suena a robot. Si el tono es el tuyo y la promesa es honesta, el cliente entiende que es automático y lo acepta. El trato personal llega cuando tú tomas la conversación con el contexto ya recogido."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde a la auto-respuesta en lugar de hacer clic en el link?",
+        "answer": "Es normal al principio. Puedes tener un segundo mensaje preparado que repita el link con una frase distinta. Si sigue sin hacer clic, responde manualmente ese caso: probablemente tiene una duda concreta que no encaja en el flujo."
+      },
+      {
+        "question": "¿Funciona la auto-respuesta también para Stories con sticker de mensaje?",
+        "answer": "Sí, el mismo principio aplica: acuse de recibo, promesa concreta, link. El contexto cambia (el cliente vio algo específico en la Story), así que puedes personalizar la primera frase para reflejar eso."
+      }
+    ]
+  },
+  {
     "slug": "plantillas-whatsapp-por-intencion",
     "title": "Plantillas de WhatsApp por intención (presupuesto, cita, info)",
     "description": "Scripts de WhatsApp listos para usar, separados por intención: presupuesto, cita y petición de información. Evita respuestas genéricas y reduce el ping-pong de mensajes.",
