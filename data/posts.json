@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-fotografia",
+    "title": "Plantilla de cualificación para fotografía y vídeo",
+    "description": "Preguntas exactas para cualificar clientes de fotografía y vídeo antes de preparar presupuesto. Versión mínima, completa y microcopy listo para copiar según tipo de encargo.",
+    "excerpt": "Antes de mandar un precio, necesitas saber el tipo de evento, la fecha, los entregables esperados y el uso final. Aquí la plantilla mínima, la completa y los scripts para pedirlo sin sonar robótico.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-fotografia.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "fotografia",
+      "plantilla",
+      "cualificacion",
+      "gestion-consultas",
+      "whatsapp",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 6 preguntas para fotografía y vídeo",
+    "quickAnswer": [
+      "**Tipo de encargo** — Qué quieren exactamente: boda, producto, retrato, evento corporativo, vídeo social, inmobiliaria. No es lo mismo aunque paguen parecido.",
+      "**Fecha y ubicación** — Cuándo es y dónde ocurre. Sin esto no puedes confirmar disponibilidad ni presupuestar desplazamiento.",
+      "**Duración prevista** — Cuántas horas de cobertura o grabación necesitan. Define el esfuerzo real.",
+      "**Entregables esperados** — Cuántas fotos editadas, si quieren álbum, vídeo de highlights, reels, galería online. Esto varía el precio más que ningún otro factor.",
+      "**Uso final del material** — Uso privado, redes sociales, publicidad, licencia comercial. Cambia la tarifa y el contrato.",
+      "**Contacto y datos de la persona responsable** — Nombre, teléfono y si hay otra persona en la decisión (pareja, director de marketing, organizador del evento)."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para fotografía y vídeo debe capturar tipo de encargo, fecha, duración, entregables esperados y uso final antes de preparar cualquier presupuesto.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para fotógrafos",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (para encargos con alta variabilidad)",
+      "Tabla citable: pregunta, objetivo y decisión que desbloquea",
+      "Microcopy: cómo pedirlo sin sonar a formulario de la Administración",
+      "Variantes por tipo de encargo",
+      "Errores habituales al cualificar en fotografía",
+      "El siguiente paso si el volumen te supera"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para fotografía en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Canal de entrada (DM o WhatsApp)",
+        "Plantilla mínima adaptada al tipo de encargo",
+        "Mensaje de cierre con resumen y propuesta"
+      ],
+      "steps": [
+        {
+          "name": "Identifica el tipo de encargo",
+          "text": "Antes de preguntar nada más, separa por categoría: evento (boda, cumpleaños, corporativo), producto, retrato, inmobiliaria o vídeo. Cada categoría tiene preguntas distintas."
+        },
+        {
+          "name": "Aplica la plantilla mínima según categoría",
+          "text": "Fecha, duración, entregables y uso final son comunes. Añade 1-2 preguntas específicas del encargo (estilo para retratos, número de piezas para producto, metros para inmobiliaria)."
+        },
+        {
+          "name": "Cierra con resumen y siguiente paso claro",
+          "text": "Un mensaje con lo que entiendes del encargo, rango orientativo si tienes los datos suficientes, y una pregunta de cierre: ¿quieres que te prepare propuesta formal o prefieres una llamada de 10 minutos?"
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes como «precio boda», «cuánto cobras por un reportaje» o «hacéis fotos de producto» sin ningún dato más. También si terminas en 15 mensajes intentando entender algo que podrías haber resuelto en tres preguntas bien hechas.</p><p>Úsala también si preparas presupuestos que luego no cierras porque el cliente no esperaba ese precio: casi siempre hay un dato que no recogiste antes.</p><p>No la uses si solo recibes 2-3 consultas a la semana y cada caso es tan distinto que no hay patrón. En ese caso, una conversación libre funciona mejor que un esquema.</p><h2>Regla madre para fotógrafos</h2><blockquote><p><strong>No prepares presupuesto sin saber fecha, duración y entregables.</strong> Esos tres datos cambian el precio más que cualquier otro factor. Sin ellos, cualquier cifra que des es un número al aire que genera fricción después.</p></blockquote><p>La mayoría de conversaciones largas en fotografía no ocurren porque el cliente sea difícil. Ocurren porque se dio precio antes de entender el encargo. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Saber qué preguntar antes de responder</a> es lo que separa una conversación de 4 mensajes de una de 25.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión está pensada para el primer contacto. Si alguien no responde aquí, normalmente no era un lead serio.</p><ol><li><strong>¿Qué tipo de encargo necesitas?</strong> (boda, evento, retrato, producto, vídeo corporativo, inmobiliaria...)</li><li><strong>¿Cuándo es y dónde?</strong> (fecha y localización)</li><li><strong>¿Cuántas horas de cobertura o grabación necesitáis?</strong></li><li><strong>¿Qué entregables esperas?</strong> (número de fotos editadas, álbum, vídeo de highlights, reels, galería online...)</li><li><strong>¿Cuál es el uso final del material?</strong> (privado, redes sociales, publicidad, impresión comercial)</li><li><strong>Nombre y teléfono</strong> para continuar por WhatsApp</li></ol><h2>Plantilla completa (para encargos con alta variabilidad)</h2><p>Úsala cuando el cliente ya respondió la versión mínima y el encargo justifica más detalle: bodas, producciones de vídeo, campañas de producto con múltiples piezas.</p><p>Añade a la mínima:</p><ul><li>Número de personas o localizaciones implicadas</li><li>Si hay sesión de pareja o pre-evento (engagement, making of...)</li><li>Plazo para entrega del material editado</li><li>Referencias de estilo (enlace o cuenta de Instagram)</li><li>Si hay otro proveedor implicado (videomaker, wedding planner, agencia)</li><li>Presupuesto orientativo (solo si filtra de verdad en tu mercado)</li><li>Quién toma la decisión final (importante en encargos corporativos)</li></ul><h2>Tabla citable: pregunta, objetivo y decisión que desbloquea</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué tipo de encargo?</td><td>Categoría real del trabajo</td><td>Qué tarifa base aplica y qué preguntas adicionales hacer</td></tr><tr><td>¿Cuándo es y dónde?</td><td>Disponibilidad + viabilidad de desplazamiento</td><td>Si puedes aceptarlo o no antes de seguir hablando</td></tr><tr><td>¿Cuántas horas?</td><td>Carga de trabajo real</td><td>Precio base del encargo</td></tr><tr><td>¿Qué entregables?</td><td>Esfuerzo de postproducción</td><td>El factor que más varía el presupuesto final</td></tr><tr><td>¿Uso final del material?</td><td>Licencia necesaria</td><td>Si aplica tarifa estándar o tarifa comercial/publicidad</td></tr><tr><td>Referencias de estilo</td><td>Alineación de expectativas</td><td>Si tu estilo encaja o hay riesgo de frustración posterior</td></tr><tr><td>Quién decide</td><td>Interlocutor real</td><td>A quién dirigir la propuesta y cómo de largo será el proceso</td></tr></tbody></table><h2>Microcopy: cómo pedirlo sin sonar a formulario de la Administración</h2><p>Las preguntas correctas con el tono equivocado generan abandono. Aquí los mensajes listos para copiar.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>«¡Hola! Para prepararte un presupuesto realista te hago 4 preguntas rápidas. Menos de un minuto.»</p></blockquote><h3>Cuando te escriben solo «precio boda» o «cuánto cobráis»</h3><blockquote><p>«Para darte un número que tenga sentido necesito tres datos: fecha, horas de cobertura que buscáis y qué queréis como entregable (fotos, vídeo o los dos). Con eso te respondo directo.»</p></blockquote><h3>Para preguntar el uso final sin sonar a contrato</h3><blockquote><p>«¿Las fotos son para uso privado y redes sociales o las vais a usar en publicidad, catálogos o material comercial? Te lo pregunto porque cambia la licencia incluida.»</p></blockquote><h3>Para pedir referencias de estilo</h3><blockquote><p>«¿Tienes alguna foto o cuenta de Instagram de referencia? No para copiarlo, sino para asegurarme de que mi estilo encaja con lo que tienes en mente.»</p></blockquote><h3>Mensaje de cierre con propuesta</h3><blockquote><p>«Con lo que me cuentas, el rango habitual para este tipo de encargo está entre X y Y dependiendo de [variable concreta]. Si te cuadra, te preparo propuesta detallada o hacemos una llamada de 10 minutos para afinar.»</p></blockquote><h2>Variantes por tipo de encargo</h2><p>No cambies toda la plantilla. Cambia solo 1-2 preguntas según la categoría.</p><h3>Bodas y eventos sociales</h3><p>Variable clave: <strong>número de horas + si quieren vídeo además de foto + fecha límite de entrega del álbum.</strong></p><blockquote><p>«¿Fecha? ¿Horas de cobertura? ¿Solo foto, solo vídeo o los dos? ¿Tenéis fecha límite para recibir el material?»</p></blockquote><h3>Fotografía de producto</h3><p>Variable clave: <strong>número de piezas o SKUs + tipo de fondo o ambiente + uso (web, Amazon, redes, publicidad).</strong></p><blockquote><p>«¿Cuántas piezas hay que fotografiar? ¿Fondo blanco, ambiente o los dos? ¿Para dónde van las fotos: web, redes, catálogo impreso?»</p></blockquote><h3>Retrato (personal, familia, profesional)</h3><p>Variable clave: <strong>número de personas + localización (estudio o exterior) + uso (privado o perfil profesional/web).</strong></p><blockquote><p>«¿Cuántas personas? ¿Preferís estudio o exterior? ¿Las fotos son para uso personal o las vais a usar en LinkedIn, web o materiales profesionales?»</p></blockquote><h3>Vídeo corporativo o para redes</h3><p>Variable clave: <strong>duración del vídeo final + número de localizaciones + si necesitan guion, motion graphics o locución.</strong></p><blockquote><p>«¿Cuánto debe durar el vídeo final? ¿Cuántas localizaciones hay? ¿Necesitáis guion, subtítulos, música licenciada o es solo imagen y corte?»</p></blockquote><h3>Fotografía inmobiliaria</h3><p>Variable clave: <strong>metros cuadrados o número de estancias + si incluye exterior o zona comunitaria + si necesitan vídeo o tour virtual además de fotos.</strong></p><blockquote><p>«¿Cuántos metros tiene el inmueble aproximadamente? ¿Hay exterior o zonas comunes que fotografiar? ¿Solo fotos o también vídeo o tour 360?»</p></blockquote><h2>Errores habituales al cualificar en fotografía</h2><ol><li><strong>Dar precio sin saber los entregables.</strong> El precio de 200 fotos editadas y el de 50 son muy distintos. Si no preguntas, el cliente asume el máximo y tú cotizas el mínimo.<br>Corrección: entregables es la primera pregunta económica, antes que horas.</li><li><strong>No preguntar el uso final.</strong> Una foto para Instagram y una foto para una campaña de publicidad son contratos distintos. Si no lo preguntas, pierdes margen o acabas en un conflicto legal.<br>Corrección: incluye uso final en la plantilla mínima, no en la completa.</li><li><strong>Preguntar estilo antes de confirmar disponibilidad.</strong> Si no tienes la fecha libre, da igual el estilo. Confirma viabilidad primero.<br>Corrección: fecha y localización van antes que cualquier pregunta creativa.</li><li><strong>No identificar quién decide.</strong> En encargos corporativos o de boda, a veces hay dos personas en la decisión. Preparar propuesta solo para una puede alargar el proceso semanas.<br>Corrección: pregunta directamente si hay alguien más implicado en la decisión.</li><li><strong>Mandar propuesta formal antes de confirmar que el rango de precio cuadra.</strong> Inviertes tiempo en un documento que no va a ningún lado.<br>Corrección: da un rango orientativo verbal antes de preparar la propuesta escrita. Si no cuadra, lo sabes antes de trabajar en vano.</li></ol><p>Si el problema no es que no sepas qué preguntar sino que <a href=\"/blog/agendar-citas-sin-mensajes/\">las conversaciones se alargan igualmente</a> porque cada cliente llega sin datos, el cuello de botella está en la entrada, no en la conversación. Cuando ese patrón se repite más de 20 veces a la semana, el sistema de captación de información necesita estar antes del chat, no dentro de él.</p><h2>El siguiente paso si el volumen te supera</h2><p>Si tienes la plantilla clara pero el problema es que no siempre la aplicas, que dependes de tu energía ese día para hacerlo, o que los mensajes llegan por DM, WhatsApp y Google Business al mismo tiempo, la solución no es más disciplina. Es estructurar la entrada.</p><p>El proceso es: un único punto de contacto que haga las preguntas mínimas antes de que llegues tú, y que te entregue la conversación con los datos ya recogidos. Así el chat contigo es para afinar y cerrar, no para recopilar desde cero.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link compartible en bio, stories o Google Business que abre un asistente conversacional, recoge los datos mínimos según el tipo de encargo y te redirige la conversación a WhatsApp con el contexto ya preparado. No es para todos los casos: si recibes pocas consultas a la semana o cada encargo es completamente único, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuándo pregunto el presupuesto del cliente en fotografía?",
+        "answer": "Solo cuando filtra de verdad: en encargos de alta variabilidad como bodas o vídeo corporativo, donde la diferencia entre 800 y 4.000 euros cambia completamente lo que ofreces. En retratos o producto estándar, mejor da directamente una tarifa base y ajusta según extras."
+      },
+      {
+        "question": "¿Qué hago cuando me escriben solo 'precio boda'?",
+        "answer": "No des cifra. Responde con la mini-plantilla: fecha, horas de cobertura y entregables que esperan. Con eso puedes dar un rango real en vez de un número al aire que luego genera fricción."
+      },
+      {
+        "question": "¿Pregunto si han contratado fotógrafo antes?",
+        "answer": "Solo si cambia tu propuesta. Para bodas o eventos puede darte contexto sobre expectativas. Para producto o corporativo, rara vez importa. Si no cambia lo que ofreces, no preguntes."
+      },
+      {
+        "question": "¿Cómo pregunto el uso final sin sonar como abogado?",
+        "answer": "Di algo concreto: '¿Las fotos son para vuestro álbum y redes sociales, o las vais a usar en publicidad o material impreso comercial?' Dos opciones claras evitan confusión y explican por qué preguntas."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Responde en el canal donde llegó primero y pide continuar en WhatsApp con la plantilla lista. No intentes llevar dos conversaciones paralelas del mismo cliente: perderás información y darás respuestas inconsistentes."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para un primer mensaje?",
+        "answer": "Tres o cuatro si van en lista numerada y se entiende por qué las haces. Más de cinco en el primer contacto y la mayoría no responde. Usa la versión mínima primero y amplía solo si el cliente ya mostró intención real."
+      },
+      {
+        "question": "¿Cómo pido las referencias de estilo sin que la persona se sienta juzgada?",
+        "answer": "Enmarca la petición en su beneficio: 'Para que el resultado se parezca a lo que tienes en mente, ¿tienes alguna foto o cuenta de Instagram de referencia?' Es una pregunta que ayuda al cliente, no un filtro de su gusto."
+      },
+      {
+        "question": "¿Qué hago si no me dicen la fecha porque 'aún no está confirmada'?",
+        "answer": "Pide el mes o la temporada orientativa. Con eso puedes confirmar disponibilidad general y seguir la conversación. Si no tienen ni eso, puede ser demasiado pronto para preparar propuesta: deja el contacto abierto y fija una fecha para retomar."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-servicios-domicilio",
     "title": "Plantilla para servicios a domicilio",
     "description": "Preguntas exactas para no hacer desplazamientos inútiles. Plantilla mínima y completa para confirmar ubicación, tipo de servicio y viabilidad antes de salir.",
