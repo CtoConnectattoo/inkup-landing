@@ -1,5 +1,113 @@
 [
   {
+    "slug": "automatizar-whatsapp-respetando-legalidad",
+    "title": "Automatizar WhatsApp respetando privacidad y legalidad (checklist práctico)",
+    "description": "Checklist práctico para automatizar WhatsApp en negocios de servicios sin violar el RGPD ni la LSSI: consentimiento, datos mínimos, trazabilidad y lo que nunca debes hacer.",
+    "excerpt": "Automatizar WhatsApp con seguridad es posible si pides solo los datos necesarios, informas del uso antes de recogerlos y guardas trazabilidad mínima. Este checklist cubre los puntos legales básicos sin convertirlos en burocracia.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/automatizar-whatsapp-respetando-legalidad.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "privacidad",
+      "legalidad",
+      "rgpd",
+      "automatizacion",
+      "consultas"
+    ],
+    "quickAnswerSubtitle": "Automatizar WhatsApp respetando privacidad y legalidad",
+    "quickAnswer": [
+      "**Pide solo los datos que necesitas** — nombre, teléfono y consulta son suficientes para empezar; el resto lo recoges cuando tenga sentido operativo.",
+      "**Informa antes de recoger** — una frase breve sobre cómo usas los datos (responder la consulta, no ceder a terceros) cumple el mínimo informativo exigido.",
+      "**Recoge consentimiento explícito antes de enviar mensajes de marketing** — responder a una consulta entrante no equivale a permiso para enviar promociones posteriores.",
+      "**Guarda trazabilidad mínima** — saber cuándo llegó la consulta, qué datos pediste y qué respondiste te protege ante cualquier reclamación.",
+      "**No mezcles canales sin base legal** — si alguien te escribe por Instagram, no uses ese número para añadirle a una lista de difusión de WhatsApp sin permiso explícito."
+    ],
+    "oneLineDefinition": "Automatizar WhatsApp respetando la legalidad significa estructurar el flujo de consultas entrantes de forma que el tratamiento de datos personales tenga base legal clara, información previa y consentimiento donde corresponde, sin convertirlo en un trámite que espante al cliente.",
+    "sections": [
+      "Por qué la legalidad aparece cuando empiezas a escalar",
+      "Qué dice la ley (sin tecnicismos inútiles)",
+      "Checklist: privacidad y buenas prácticas en WhatsApp automatizado",
+      "Lo que nunca debes hacer (anti-patrones con consecuencias)",
+      "Cuándo NO aplica este checklist (casos fuera de contexto)",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Automatizar WhatsApp con seguridad legal en 6 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Texto informativo de uso de datos",
+        "Casilla o confirmación de consentimiento",
+        "Registro mínimo de consultas"
+      ],
+      "steps": [
+        {
+          "name": "Define qué datos recoges y para qué",
+          "text": "Antes de montar cualquier flujo, escribe en una frase qué datos pides y qué harás con ellos. Si no puedes explicarlo en una frase, estás pidiendo demasiado."
+        },
+        {
+          "name": "Añade texto informativo antes del primer campo",
+          "text": "Una frase antes del formulario o asistente: 'Usamos estos datos solo para responder tu consulta. No los cedemos a terceros.'"
+        },
+        {
+          "name": "Separa consulta de marketing",
+          "text": "Responder una consulta entrante tiene base legal propia (interés legítimo o ejecución de contrato). Enviar promociones posteriores requiere consentimiento explícito y separado."
+        },
+        {
+          "name": "Recoge consentimiento si vas a hacer seguimiento comercial",
+          "text": "Una casilla o confirmación explícita ('Acepto recibir información sobre servicios y promociones') antes de añadir al cliente a cualquier lista de difusión."
+        },
+        {
+          "name": "Guarda trazabilidad mínima",
+          "text": "Anota fecha de entrada, qué datos recogiste y qué respondiste. No necesitas un CRM; una hoja simple o el propio historial de WhatsApp Business con etiquetas sirve."
+        },
+        {
+          "name": "Define cuánto tiempo guardas los datos",
+          "text": "Si la consulta no se convierte en cliente, borra o anonimiza en un plazo razonable (3-6 meses es habitual en servicios locales). Si se convierte, aplica lo que diga tu política de conservación."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la legalidad aparece cuando empiezas a escalar</h2><p>Mientras respondes a mano uno a uno, nadie pregunta nada. En cuanto montas un flujo que recoge nombres, teléfonos y consultas de forma estructurada, estás tratando datos personales y la normativa aplica desde el primer registro.</p><p>No es un problema exclusivo de grandes empresas. Un estudio de tatuajes con 40 consultas semanales que usa un formulario en su bio de Instagram ya recoge suficientes datos como para que el RGPD le aplique por completo. La buena noticia: cumplir lo básico no requiere abogado ni semanas de trabajo. Requiere entender tres conceptos y aplicarlos en el flujo que ya tienes.</p><h2>Qué dice la ley (sin tecnicismos inútiles)</h2><p>El RGPD (Reglamento General de Protección de Datos, aplicable en España y toda la UE) y la LOPDGDD (su adaptación española) establecen reglas claras para cualquier negocio que recoja datos personales, independientemente del tamaño.</p><p>Tres principios que afectan directamente a un flujo de WhatsApp:</p><ul><li><strong>Minimización</strong>: solo puedes pedir los datos que necesitas para el fin declarado. Si el fin es responder una consulta de precio, no necesitas fecha de nacimiento ni dirección postal.</li><li><strong>Información previa</strong>: la persona tiene que saber, antes de darte sus datos, quién eres, para qué los vas a usar y si los cedes a alguien. No hace falta un documento de 20 páginas; una frase concisa cumple el mínimo.</li><li><strong>Base legal para cada uso</strong>: responder una consulta tiene base legal propia (interés legítimo o ejecución precontractual). Enviarle un mensaje promocional dos semanas después requiere su consentimiento explícito. Son dos cosas distintas.</li></ul><p>La LSSI (Ley de Servicios de la Sociedad de la Información) añade una restricción adicional: no puedes enviar comunicaciones comerciales por medios electrónicos sin consentimiento previo, salvo que exista relación contractual previa y el mensaje se refiera a productos similares a los contratados.</p><h2>Checklist: privacidad y buenas prácticas en WhatsApp automatizado</h2><p>Este bloque está pensado para ser revisado antes de publicar cualquier flujo de captación de consultas. Cada punto es accionable hoy.</p><h3>Antes de lanzar el flujo</h3><ul><li>Has definido por escrito qué datos recoges y para qué fin concreto.</li><li>El flujo pide solo los datos que realmente necesitas para responder (nombre, teléfono, tipo de consulta; en muchos casos no hace falta más).</li><li>Hay una frase informativa visible antes del primer campo: quién recoge los datos, para qué, si se ceden o no.</li><li>Si vas a usar los datos para marketing posterior, hay una casilla o confirmación explícita y separada del consentimiento de atención.</li><li>Has revisado que no pides datos especialmente sensibles (salud, ideología, biometría) sin justificación clara y protección adicional.</li></ul><h3>Durante la recogida de datos</h3><ul><li>El tono informativo no espanta: una frase como &quot;Usamos estos datos solo para responder tu consulta&quot; reduce fricción y cumple el mínimo legal.</li><li>El cliente tiene opción de contactar directamente si no quiere pasar por el flujo (no bloquear el acceso humano).</li><li>No mezclas datos de distintos canales sin base legal: si alguien te escribe por Instagram DM, no añades ese número a una lista de difusión de WhatsApp sin permiso explícito.</li></ul><h3>Después de recoger los datos</h3><ul><li>Guardas trazabilidad mínima: fecha de entrada, qué datos recogiste, qué respondiste.</li><li>Has definido un plazo de conservación: si la consulta no se convierte en cliente, borras o anonimizas en un plazo razonable.</li><li>Si el cliente pide acceso, rectificación o borrado de sus datos, sabes cómo gestionarlo (un email de contacto visible es suficiente para empezar).</li><li>No reenvías los datos a terceros sin base legal (proveedor de herramienta incluido: revisa su política de subencargado de tratamiento).</li></ul><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como <a href=&quot;/blog/automatizar-whatsapp-negocio-local/&quot;>las que se describen en esta guía sobre automatización local</a> te ayudan a estructurar la entrada de consultas. Y si necesitas guardar esa información de forma ordenada sin montar un CRM complejo, puedes hacerlo con métodos ligeros como los que explica <a href=&quot;/blog/como-guardar-datos-cliente-sin-crm/&quot;>esta guía sobre cómo guardar datos de clientes sin CRM</a>.</p><h2>Lo que nunca debes hacer (anti-patrones con consecuencias)</h2><ol><li><strong>Añadir a listas de difusión sin consentimiento previo</strong>. Consecuencia: reclamación ante la AEPD, posible sanción y, antes de eso, bloqueos masivos que pueden comprometer tu cuenta de WhatsApp Business.</li><li><strong>Pedir más datos de los necesarios &quot;por si acaso&quot;</strong>. Viola el principio de minimización y aumenta el abandono del flujo. Doble daño.</li><li><strong>No informar del uso de datos antes de recogerlos</strong>. No hace falta un aviso legal extenso, pero sin ninguna información, el tratamiento no tiene base legal válida.</li><li><strong>Tratar datos de menores sin verificación ni consentimiento parental</strong>. En servicios como tatuajes o estética que requieren edad mínima, el flujo debe incluir verificación de edad antes de recoger cualquier dato.</li><li><strong>Reutilizar datos de consultas pasadas para campañas nuevas sin permiso</strong>. Si alguien te preguntó precio hace seis meses y no contrató, no puedes escribirle para una promoción sin que haya dado consentimiento explícito para eso.</li><li><strong>Usar herramientas de automatización sin revisar su política de subencargado</strong>. Cualquier herramienta que procese datos en tu nombre es un subencargado. Si no tiene política de datos aceptable, tú eres responsable de lo que haga con esos datos.</li></ol><h2>Cuándo NO aplica este checklist (casos fuera de contexto)</h2><ul><li>Si no recoges ningún dato personal (solo respondes preguntas sin pedir nombre, teléfono ni contacto), este checklist no aplica en sentido estricto.</li><li>Si tu negocio tiene ya un equipo legal y un DPO (Delegado de Protección de Datos), este checklist es insuficiente: necesitas análisis de impacto y documentación formal.</li><li>Si operas fuera de la UE y tu cliente tampoco está en la UE, el RGPD no aplica directamente (aunque las buenas prácticas siguen siendo recomendables).</li></ul><p>Si tu caso encaja en la duda de si realmente necesitas automatizar o si el volumen aún no lo justifica, puedes revisar <a href=&quot;/blog/para-quien-no-es-inkup/&quot;>los casos en los que una herramienta de centralización de consultas no es necesaria</a> antes de montar nada.</p><p>Por otro lado, si el problema real no es la legalidad sino el caos previo (consultas sin datos, conversaciones que no avanzan), lo más útil es <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>empezar por filtrar y cualificar las consultas antes de responder</a>, y añadir la capa legal encima de un flujo que ya funciona.</p><h2>Un apunte sobre Inkup y legalidad</h2><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas entrantes desde Instagram y WhatsApp mediante un link con asistente conversacional, recogen los datos mínimos necesarios y redirigen a WhatsApp con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún. Y como cualquier herramienta que trata datos en tu nombre, debes revisar su política de subencargado antes de activarla.</p>",
+    "faq": [
+      {
+        "question": "¿Necesito aviso legal completo para recoger datos por WhatsApp?",
+        "answer": "No necesitas un documento extenso para empezar. Una frase informativa antes del primer campo (quién recoge los datos, para qué y si se ceden) cumple el mínimo en la mayoría de casos de servicios locales. Si tratas datos sensibles o en volumen alto, el nivel de documentación sube."
+      },
+      {
+        "question": "¿Puedo escribirle a alguien que me consultó hace meses para una promoción?",
+        "answer": "No sin consentimiento explícito para comunicaciones comerciales. Que te haya escrito para preguntar precio no equivale a permiso para enviarle ofertas. Necesitas consentimiento específico y separado para ese uso."
+      },
+      {
+        "question": "¿Qué pasa si uso una herramienta de automatización que guarda los datos de mis clientes?",
+        "answer": "Esa herramienta es un subencargado de tratamiento. Debes revisar que tenga política de datos aceptable y, si opera en la UE, que cumpla el RGPD. Tú eres responsable de lo que haga con esos datos si no lo verificas."
+      },
+      {
+        "question": "¿Puedo añadir a alguien a una lista de difusión de WhatsApp si me escribió por Instagram?",
+        "answer": "No directamente. Que te haya contactado por un canal no te da permiso para usarlo en otro. Necesitas que te dé el número y consentimiento explícito para recibir mensajes por WhatsApp."
+      },
+      {
+        "question": "¿Cuánto tiempo puedo guardar los datos de alguien que consultó pero no contrató?",
+        "answer": "No hay plazo único en la ley, pero el principio de minimización exige que no los guardes más de lo necesario. En servicios locales, 3 a 6 meses es un criterio habitual y razonable. Pasado ese plazo, borra o anonimiza."
+      },
+      {
+        "question": "¿Qué hago si un cliente me pide que borre sus datos?",
+        "answer": "Tienes obligación de atenderlo salvo causa justificada. Un proceso simple: canal de contacto visible (email o WhatsApp), confirmación de borrado en 72 horas y registro de que lo hiciste. No necesitas sistema complejo para esto."
+      },
+      {
+        "question": "¿Necesito consentimiento para responder una consulta que me llega por WhatsApp?",
+        "answer": "No. Responder una consulta entrante tiene base legal propia: interés legítimo o ejecución precontractual. El consentimiento explícito es necesario cuando quieres usar esos datos para comunicaciones comerciales posteriores, no para responder la pregunta que te hicieron."
+      },
+      {
+        "question": "¿Qué texto informativo mínimo debo añadir antes del formulario o asistente?",
+        "answer": "Algo tan directo como: 'Los datos que compartes se usan solo para responder tu consulta. No los cedemos a terceros. Responsable: [nombre o razón social].' Una frase o dos es suficiente para el mínimo informativo en servicios locales."
+      }
+    ]
+  },
+  {
     "slug": "whatsapp-business-vs-api-cuando",
     "title": "WhatsApp Business vs WhatsApp API: cuándo necesitas cada uno (sin humo)",
     "description": "Diferencias reales entre WhatsApp Business y la API de WhatsApp: qué hace cada uno, cuándo tiene sentido pagar por la API y cuándo la app gratuita es suficiente para tu negocio de servicios.",
