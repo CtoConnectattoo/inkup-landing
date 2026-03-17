@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-clinicas",
+    "title": "Plantilla de cualificación para clínicas y salud",
+    "description": "Preguntas exactas para filtrar consultas en clínicas, centros de estética médica y salud. Versión mínima y completa con microcopy listo para copiar y tabla de decisión por intención.",
+    "excerpt": "En salud, preguntar lo correcto antes de responder no es burocracia: es protección para ambas partes. Aquí la plantilla mínima, la completa y el microcopy para no perder conversiones ni dar información incorrecta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-clinicas.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "clinicas",
+      "salud",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima para clínicas en 6 preguntas",
+    "quickAnswer": [
+      "**Tipo de consulta o tratamiento** — Qué busca exactamente la persona: primera visita, revisión, tratamiento estético, prueba diagnóstica.",
+      "**Motivo o síntoma principal** — Una frase de contexto clínico mínimo que permita saber si el caso encaja con el servicio disponible.",
+      "**Urgencia o plazo** — Para cuándo necesita cita y si hay urgencia real o puede esperar lista ordinaria.",
+      "**Si es paciente nuevo o existente** — Cambia el flujo de recogida de datos, el tiempo de consulta y la preparación necesaria.",
+      "**Requisitos previos relevantes** — Alergias, tratamientos actuales, contraindicaciones conocidas solo si condicionan la cita.",
+      "**Canal y datos de contacto** — Cómo prefiere recibir confirmación y con qué nombre y teléfono queda la reserva."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para clínicas y salud debe capturar el tipo de consulta, el motivo clínico mínimo, la urgencia, si es paciente nuevo y los datos de contacto antes de confirmar cualquier cita o dar información sobre tratamientos.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita errores clínicos y pérdida de tiempo",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (para casos con más variabilidad)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy listo para copiar",
+      "Variantes por intención: cita, presupuesto e información",
+      "Errores frecuentes en clínicas al gestionar consultas",
+      "Implementación sin sistema complejo",
+      "El siguiente paso si el volumen ya supera tus horas"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en clínica en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Preguntas mínimas definidas",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre estandarizado"
+      ],
+      "steps": [
+        {
+          "name": "Define tus 5-6 datos mínimos",
+          "text": "Tipo de consulta, motivo o síntoma en una frase, urgencia, si es paciente nuevo, requisitos relevantes y contacto."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "Instagram DM como puerta para redirigir. WhatsApp para recoger la plantilla mínima. Link con flujo si el volumen supera 20 consultas diarias."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un mensaje con resumen del caso, confirmación o alternativa y siguiente paso claro: fecha propuesta, lista de espera o derivación."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como 'quiero cita', 'cuánto cuesta un peeling', 'tenéis hueco para esta semana' o 'me han dicho que hacéis X tratamiento' sin ningún dato adicional. También si dedicas más de diez minutos a recopilar información básica antes de poder confirmar o descartar una cita.</p><p>No la uses todavía si recibes menos de cinco consultas diarias y puedes responder con calma. Y no la uses si tu proceso de valoración requiere conversación clínica larga desde el primer contacto: en ese caso, lo que necesitas es un protocolo de primera llamada, no una plantilla de filtrado.</p><h2>La regla que evita errores clínicos y pérdida de tiempo</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión antes de confirmar la cita.</strong><br>Si la respuesta no modifica (1) si puedes atender el caso, (2) qué profesional lo atiende, (3) cuánto tiempo necesitas o (4) qué preparación requiere el paciente, no lo preguntes en esta fase.</p></blockquote><p>En salud, esta regla tiene una capa extra: lo que preguntas por mensaje forma parte de la experiencia del paciente antes de entrar por la puerta. Preguntar demasiado genera desconfianza. Preguntar demasiado poco genera errores de agenda y tiempo perdido para ambas partes.</p><p>Lo que la mayoría de guías sobre cualificación omite: en clínicas, el coste de un lead mal filtrado no es solo tiempo perdido. Es una cita ocupada por alguien que no era candidato para el tratamiento, lo que bloquea un hueco para alguien que sí lo era. El impacto es doble.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión está diseñada para no perder conversiones y para que el paciente sienta que le estás ayudando, no interrogando. Si alguien abandona aquí, normalmente no tenía intención real de reservar.</p><ol><li><strong>¿Qué tipo de consulta o tratamiento necesitas?</strong> (primera visita, revisión, tratamiento estético específico, prueba diagnóstica)</li><li><strong>¿Cuál es el motivo principal?</strong> (una frase: qué quieres resolver o conseguir)</li><li><strong>¿Es urgente o puedes esperar lista ordinaria?</strong></li><li><strong>¿Eres paciente nuevo o ya has venido antes?</strong></li><li><strong>¿Hay alguna condición relevante que debamos saber?</strong> (alergias graves, tratamientos activos que puedan condicionar la cita — solo si aplica)</li><li><strong>Nombre y teléfono para la reserva.</strong></li></ol><blockquote><p>Si el servicio implica preparación previa por parte del paciente (ayuno, suspender medicación, no exposición solar), añádelo en el mensaje de confirmación, no en la plantilla de cualificación.</p></blockquote><h2>Plantilla completa (para casos con más variabilidad)</h2><p>Úsala cuando el paciente ya respondió la mínima y necesitas más detalle, o cuando el tratamiento tiene alta variabilidad de precio, tiempo o protocolo.</p><p>Añade a la mínima:</p><ul><li>Zona de tratamiento (si es estética médica o fisioterapia)</li><li>Tratamientos previos similares (para ajustar protocolo y expectativas)</li><li>Disponibilidad horaria: mañana, tarde, días concretos</li><li>Si viene por derivación o por recomendación (cambia el contexto de la primera visita)</li><li>Si tiene presupuesto orientativo en mente (solo en servicios estéticos de alto ticket donde filtra de verdad)</li></ul><p>Puedes ver cómo adaptar esto por tipo de servicio en <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>la guía de preguntas para filtrar clientes por sector</a>.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué tipo de consulta necesitas?</td><td>Intención real y tipo de servicio</td><td>Si encaja con la agenda disponible</td></tr><tr><td>¿Cuál es el motivo principal?</td><td>Contexto clínico mínimo</td><td>Qué profesional lo atiende y cuánto tiempo necesitas</td></tr><tr><td>¿Es urgente o puede esperar?</td><td>Prioridad real</td><td>Si va a hueco ordinario, urgente o lista de espera</td></tr><tr><td>¿Paciente nuevo o existente?</td><td>Flujo de recogida de datos e historial</td><td>Tiempo de cita necesario y si hay ficha previa</td></tr><tr><td>¿Alguna condición relevante?</td><td>Contraindicaciones básicas</td><td>Si puedes confirmar ya o necesitas valoración previa</td></tr><tr><td>Nombre y teléfono</td><td>Trazabilidad y confirmación</td><td>Reserva o seguimiento posterior</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que genera abandono no es preguntar. Es preguntar sin explicar por qué. Estos textos funcionan porque reducen la fricción antes de que el paciente sienta que está rellenando un formulario.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>\"Para darte la mejor respuesta y buscarte el hueco adecuado, necesito tres datos rápidos. Te lleva menos de un minuto.\"</p></blockquote><h3>Cuando preguntan precio sin contexto</h3><blockquote><p>\"El precio depende del tipo de tratamiento y la valoración inicial. Dime qué tienes en mente y para qué zona, y te doy un rango real en el acto.\"</p></blockquote><h3>Para separar urgencia de agenda ordinaria</h3><blockquote><p>\"¿Es algo que necesitas esta semana o puedes esperar a la próxima disponibilidad? Así te busco el hueco que mejor encaje.\"</p></blockquote><h3>Mensaje de cierre con contexto recogido</h3><blockquote><p>\"Perfecto. Con lo que me dices, te propongo [fecha y hora]. El profesional que te atenderá es [nombre]. Confirmas con un 'sí' y te mando los detalles de preparación si los hay.\"</p></blockquote><h2>Variantes por intención: cita, presupuesto e información</h2><p>La mayoría de mensajes que llegan a una clínica caen en una de estas tres categorías. Identifica cuál es antes de responder y usa la ruta correspondiente.</p><h3>Ruta A — Quiere cita o hueco</h3><ol><li>Tipo de consulta o tratamiento</li><li>Motivo en una frase</li><li>Urgencia o flexibilidad de fechas</li><li>Si es paciente nuevo</li><li>Datos de contacto</li></ol><p>Cierre: <em>\"Te propongo [fecha]. Si no te viene bien, dime qué días tienes disponibles y te busco alternativa.\"</em></p><h3>Ruta B — Pregunta precio o presupuesto</h3><ol><li>Tipo de tratamiento exacto</li><li>Zona o alcance</li><li>Si ha tenido tratamientos similares antes</li><li>Objetivo en una frase</li><li>Contacto para enviar información detallada si el rango encaja</li></ol><p>Cierre: <em>\"Para ese tratamiento el rango habitual está entre X e Y, dependiendo de [variable]. Si quieres concretar, el siguiente paso es una valoración sin compromiso.\"</em></p><p>Antes de dar cualquier rango de precio, aplica la misma lógica que con cualquier otra consulta: <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>cualifica primero, responde después</a>. Un precio sin contexto genera expectativas incorrectas y clientes desalineados.</p><h3>Ruta C — Solo quiere información</h3><ol><li>Qué información concreta busca (horarios, proceso, preparación, requisitos)</li><li>Si está considerando pedir cita o solo investigando</li><li>Contacto solo si requiere seguimiento</li></ol><p>Cierre: <em>\"Te lo resumo: [respuesta directa en tres líneas]. Si quieres dar el paso, te explico cómo funciona la primera visita.\"</em></p><h2>Errores frecuentes en clínicas al gestionar consultas</h2><ol><li><strong>Pedir historial médico completo por mensaje</strong> — Genera abandono inmediato y no es el momento. El historial va en consulta o en formulario previo a la cita, no en el chat de cualificación.</li><li><strong>Dar información clínica específica sin datos del paciente</strong> — Responder \"ese tratamiento es compatible con tu medicación\" sin saber qué medicación toma es un riesgo real. Primero datos, luego respuesta.</li><li><strong>No separar urgencias de agenda ordinaria</strong> — Mete en la misma cola algo que necesita atención esta semana y algo que puede esperar un mes. Una pregunta evita ese error.</li><li><strong>Confirmar cita sin saber si es paciente nuevo</strong> — Una primera visita necesita más tiempo que una revisión. Confirmarlo en la misma agenda genera retrasos en cadena.</li><li><strong>Responder precio sin pedir tipo de tratamiento y zona</strong> — El precio en salud y estética médica varía tanto que un número sin contexto confunde más de lo que ayuda.</li><li><strong>No incluir instrucciones de preparación en el mensaje de confirmación</strong> — El paciente llega sin hacer el ayuno o con maquillaje para un tratamiento que no lo permite. La información de preparación va en la confirmación, no en la cualificación.</li></ol><p>Para evitar perder pacientes por no pedir información visual cuando es necesaria, revisa también <a href=&quot;/blog/como-pedir-fotos-o-referencias-antes-cita/&quot;>cómo pedir fotos o referencias antes de la cita</a>: es especialmente útil en estética médica y dermatología.</p><h2>Implementación sin sistema complejo</h2><p>Si ahora mismo gestionas todo esto a mano, el primer paso no es tecnología: es definir tus preguntas mínimas en texto y guardarlas como respuesta rápida en WhatsApp Business. Eso ya elimina el tiempo que tardas en escribir lo mismo cada vez.</p><h3>Paso 1: define tus 5-6 datos mínimos</h3><ul><li>Tipo de consulta o tratamiento</li><li>Motivo en una frase</li><li>Urgencia</li><li>Paciente nuevo o existente</li><li>Condición relevante si aplica</li><li>Nombre y teléfono</li></ul><h3>Paso 2: decide dónde ocurre la cualificación</h3><ul><li>Instagram DM: úsalo solo como puerta. Redirige a WhatsApp para recoger la plantilla. No hagas la cualificación completa en DM.</li><li>WhatsApp: envía el mensaje de entrada y la plantilla mínima como primer bloque.</li><li>Si superas 20 consultas diarias: un link con flujo conversacional que recoja los datos y te los entregue organizados es más sostenible que responder uno a uno.</li></ul><h3>Paso 3: estandariza el cierre</h3><p>El objetivo es que el cierre sea siempre un mensaje con tres elementos: resumen del caso, propuesta concreta (fecha, rango de precio o respuesta directa) y siguiente paso. Un mensaje. No tres.</p><h2>El siguiente paso si el volumen ya supera tus horas</h2><p>Si el problema no es saber qué preguntar sino conseguir que siempre se pregunte sin depender de tu atención en cada mensaje, la plantilla pasa a ser un flujo: preguntas por intención, rutas según respuesta y salida a WhatsApp con el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge los datos de cualificación antes de redirigir al chat final, y te entrega la conversación con el contexto preparado. No es para todos los casos: si tu volumen es bajo o cada paciente requiere conversación clínica profunda desde el primer contacto, probablemente no lo necesitas aún. Pero si recibes más de 20 consultas diarias y el 60% repite las mismas preguntas, el tiempo que recuperas es inmediato.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo preguntar sobre síntomas o diagnósticos antes de la cita?",
+        "answer": "Pide solo el motivo o síntoma principal en una frase, no un historial. El objetivo es saber si el caso encaja con el servicio, no diagnosticar por mensaje. Cualquier dato más específico se recoge en consulta."
+      },
+      {
+        "question": "¿Qué hago si alguien me pregunta precio por Instagram sin darme ningún dato?",
+        "answer": "No des cifra suelta. Responde con la mini-plantilla: tipo de tratamiento, si es primera visita y una frase de contexto. Con eso ya puedes dar un rango orientativo o dirigir a valoración."
+      },
+      {
+        "question": "¿Cómo separo urgencias reales de las que no lo son?",
+        "answer": "Incluye una pregunta directa sobre urgencia: '¿Es algo urgente o puede esperar cita ordinaria?' La mayoría de personas responden con honestidad. Si hay duda, escalas al profesional que decide."
+      },
+      {
+        "question": "¿Tengo que pedir historial médico antes de confirmar la cita?",
+        "answer": "No en la fase de cualificación. Solo los datos que condicionan si puedes atender el caso: tratamientos actuales que generen contraindicación clara, alergias graves si el tratamiento lo requiere. El resto va en consulta."
+      },
+      {
+        "question": "¿Qué hago si me escriben el mismo día por Instagram y por WhatsApp con la misma consulta?",
+        "answer": "Responde por uno solo y cierra el otro con un mensaje breve: 'Te respondo por WhatsApp para no perder el hilo.' El problema de fondo es no tener un punto de entrada único. Resolverlo es más rentable que gestionar duplicados."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para una clínica?",
+        "answer": "Son demasiadas cuando el paciente no entiende por qué se las haces o siente que ya está en consulta antes de la consulta. Con 5-6 preguntas bien elegidas cubres el 90% de los casos. La plantilla completa se usa solo cuando la variabilidad del servicio lo exige."
+      },
+      {
+        "question": "¿Debo pedir confirmación de la cita por escrito?",
+        "answer": "Sí, siempre. Un mensaje con fecha, hora, nombre del profesional y qué traer reduce cancelaciones de última hora. No hace falta que sea largo: tres líneas y un enlace de confirmación o una respuesta simple de 'confirmo' es suficiente."
+      },
+      {
+        "question": "¿Esta plantilla sirve para clínicas de estética médica además de consultas clínicas generales?",
+        "answer": "Sí, con ajuste de variables. En estética médica añades zona de tratamiento, si ha tenido tratamientos previos similares y si tiene contraindicaciones conocidas. La estructura base es idéntica."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificar-por-whatsapp",
     "title": "Plantilla para cualificar por WhatsApp sin API",
     "description": "Plantilla lista para copiar y pegar que te permite cualificar clientes por WhatsApp sin API, sin herramientas complejas y sin interrogar a nadie. Versión mínima, completa, microcopy y tabla de decisión incluidos.",
