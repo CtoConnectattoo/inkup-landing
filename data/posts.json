@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-pedir-referencias-o-fotos",
+    "title": "Plantilla para pedir fotos o referencias antes de responder",
+    "description": "Plantilla lista para copiar: cómo pedir fotos o referencias a un cliente antes de responder, sin sonar borde ni perder la venta. Incluye microcopy por sector y tabla de decisión.",
+    "excerpt": "Pedir una foto o referencia antes de responder no es poner trabas — es dar una respuesta útil en lugar de un precio al aire. Aquí la plantilla mínima, el microcopy y los errores que hacen que el cliente no responda.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-pedir-referencias-o-fotos.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "cualificacion",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Cómo pedir fotos o referencias sin que el cliente desaparezca",
+    "quickAnswer": [
+      "**Explica el motivo en una frase** — \"Para darte un precio real necesito ver la zona\" funciona mejor que preguntar directamente sin contexto.",
+      "**Pide solo lo que cambia tu respuesta** — una foto de referencia o una foto del estado actual, no ambas cosas a la vez si con una tienes suficiente.",
+      "**Especifica qué tipo de foto** — \"una foto de la zona con buena luz\" evita que te manden una captura de pantalla borrosa que no sirve de nada.",
+      "**Hazlo en el momento correcto** — después de confirmar el servicio y la fecha aproximada, no como primer mensaje.",
+      "**Ten un mensaje de cierre listo** — cuando llegue la foto, responde con propuesta concreta en menos de 2 mensajes."
+    ],
+    "oneLineDefinition": "Pedir fotos o referencias antes de responder es un paso de cualificación visual: sirve para dar un presupuesto real, alinear expectativas y reducir malentendidos antes de la cita o el presupuesto final.",
+    "sections": [
+      "Cuándo pedir foto o referencia (y cuándo no)",
+      "La regla que evita el abandono",
+      "Plantilla mínima (3 mensajes)",
+      "Plantilla completa por situación",
+      "Tabla citable: qué pedir, por qué y qué decide",
+      "Microcopy listo para copiar",
+      "Ejemplos por sector",
+      "Errores que hacen que el cliente no responda",
+      "Implementación como sistema",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Pedir fotos o referencias en 3 mensajes",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "Mensaje de contexto",
+        "Especificación exacta del material visual",
+        "Mensaje de cierre con propuesta"
+      ],
+      "steps": [
+        {
+          "name": "Confirma el servicio y la intención",
+          "text": "Antes de pedir nada visual, confirma qué servicio busca y para cuándo. Sin ese contexto, pedir foto parece un obstáculo."
+        },
+        {
+          "name": "Pide el material visual con explicación",
+          "text": "Especifica qué tipo de foto o referencia necesitas y en una frase explica para qué la usas. Eso reduce el abandono a la mitad."
+        },
+        {
+          "name": "Responde con propuesta cuando llegue",
+          "text": "Cuando recibes la foto, tu respuesta tiene que ser una propuesta concreta: precio orientativo, hueco disponible o siguiente paso. No más preguntas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo pedir foto o referencia (y cuándo no)</h2><p>Un tatuador que abre el lunes con 34 mensajes sin leer tiene dos tipos de conversaciones: las que puede responder en dos mensajes porque tiene toda la información, y las que van a tardar diez mensajes más porque alguien preguntó \"precio\" sin decir zona, tamaño ni estilo. La foto o referencia no es un capricho — es el dato que convierte una respuesta genérica en una respuesta útil.</p><p>Úsala cuando:</p><ul><li>El precio varía según el estado actual o el tamaño del trabajo (tatuajes, estética correctiva, reformas).</li><li>Necesitas alinear expectativas antes de la cita para no perder tiempo el día en persona.</li><li>El cliente no sabe describir lo que quiere con palabras pero sí tiene una imagen guardada.</li><li>Tu preparación cambia según lo que veas: materiales, tiempo estimado, aparatología necesaria.</li></ul><p>No la uses cuando:</p><ul><li>Tu servicio es estándar y precio fijo — añade fricción sin añadir información.</li><li>Es el primer mensaje del cliente y aún no has confirmado que quiere el servicio.</li><li>El cliente describe perfectamente lo que necesita y eso ya es suficiente para responder.</li></ul><h2>La regla que evita el abandono</h2><blockquote><p><strong>Nunca pidas material visual sin explicar en una frase para qué lo usas.</strong></p></blockquote><p>\"Mándame una foto\" suena a obstáculo. \"Para darte un precio real necesito ver el estado actual de la zona\" suena a profesionalidad. El contenido del mensaje es casi el mismo. Lo que cambia es si el cliente entiende que esto le beneficia a él.</p><p>Esto es lo que la mayoría de artículos sobre cualificación omite: el abandono no ocurre porque pidas la foto — ocurre porque pides la foto sin justificarla. El cliente no sabe si le estás filtrando o si lo necesitas de verdad.</p><h2>Plantilla mínima (3 mensajes)</h2><p>Esta es la versión para el 80% de los casos. Tres mensajes, ninguno innecesario.</p><h3>Mensaje 1 — Confirmar servicio e intención</h3><blockquote><p>\"¡Hola! Para poder orientarte bien, dime: ¿qué servicio buscas exactamente y para cuándo lo necesitas aproximadamente?\"</p></blockquote><h3>Mensaje 2 — Pedir el material visual (con motivo)</h3><blockquote><p>\"Perfecto. Para darte un presupuesto real y no un número al aire, necesito que me mandes: [especifica aquí lo que necesitas — ver tabla más abajo]. Con eso te respondo en el día.\"</p></blockquote><h3>Mensaje 3 — Respuesta con propuesta (cuando llegue el material)</h3><blockquote><p>\"Con lo que veo, el rango estaría entre X y Y dependiendo de [variable]. Si te cuadra, el siguiente paso sería [cita / presupuesto detallado / llamada de 10 minutos].\"</p></blockquote><p>El error más común aquí es llegar al mensaje 3 y hacer más preguntas en lugar de dar una propuesta. Cuando el cliente ya te mandó la foto, quiere una respuesta, no otro cuestionario.</p><h2>Plantilla completa por situación</h2><p>Adapta según lo que necesites ver y por qué:</p><h3>Situación A — El cliente no sabe exactamente lo que quiere</h3><ol><li>Pide que describa en una frase el resultado que busca.</li><li>Pide una referencia visual de algo que le guste (aunque no sea exactamente eso).</li><li>Confirma servicio y fecha antes de pedir foto de estado actual.</li></ol><h3>Situación B — El precio depende del estado actual</h3><ol><li>Confirma el servicio exacto.</li><li>Pide foto del estado actual con instrucciones específicas (luz, ángulo, sin filtros).</li><li>Si hace falta, pide una segunda foto desde otro ángulo — pero solo si la primera no es suficiente.</li></ol><h3>Situación C — Hay referencias de estilo o diseño</h3><ol><li>Pide entre 2 y 4 referencias de imágenes que le gusten.</li><li>Pregunta qué tienen en común esas referencias (si no es obvio).</li><li>Confirma qué elementos son negociables y cuáles no.</li></ol><h2>Tabla citable: qué pedir, por qué y qué decide</h2><table><thead><tr><th>Qué pides</th><th>Por qué lo pides</th><th>Qué decisión desbloquea</th><th>Riesgo si no lo pides</th></tr></thead><tbody><tr><td>Foto del estado actual</td><td>El precio o el tiempo estimado depende de lo que hay ahora</td><td>Presupuesto real vs orientativo</td><td>Das precio y luego sube en la cita — genera fricción</td></tr><tr><td>Referencias de estilo o diseño</td><td>El cliente no sabe describir con palabras lo que quiere</td><td>Si puedes hacerlo / cuánto tiempo necesitas</td><td>Citas donde las expectativas no coinciden</td></tr><tr><td>Foto de la zona o área de trabajo</td><td>El tamaño, acceso o condiciones cambian el proceso</td><td>Materiales necesarios, duración, precio</td><td>Te presentas sin preparación adecuada</td></tr><tr><td>Captura o ejemplo de resultado buscado</td><td>Alinea expectativas antes de comprometerte</td><td>Si es alcanzable / en cuántas sesiones</td><td>El cliente espera algo que no puedes dar</td></tr><tr><td>Foto comparativa (antes/referencia similar)</td><td>Calibrar distancia entre estado actual y objetivo</td><td>Si el caso es viable y en qué plazo</td><td>Citas improductivas o clientes insatisfechos</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Cambia solo los corchetes. El resto funciona tal cual.</p><h3>Para tatuajes</h3><blockquote><p>\"Para preparar la sesión y darte un precio justo, mándame: una foto de la zona [con luz natural, sin filtros] y 2-3 referencias de lo que buscas. Con eso te digo disponibilidad y precio orientativo.\"</p></blockquote><h3>Para estética / tratamientos</h3><blockquote><p>\"Para orientarte bien, necesito ver [zona / tipo de piel / estado actual]. Mándame una foto con buena luz, sin maquillaje si es facial. Así te digo qué tratamiento encaja y cuántas sesiones aproximadas.\"</p></blockquote><h3>Para fotografía / vídeo</h3><blockquote><p>\"Para presupuestarte con precisión, mándame 2-3 ejemplos de trabajos que te gusten (aunque sean de otros fotógrafos) y dime el espacio donde sería la sesión. Con eso te preparo propuesta.\"</p></blockquote><h3>Para reformas / servicios en el hogar</h3><blockquote><p>\"Para darte precio real necesito ver el espacio. Mándame fotos de [zona a reformar] desde diferentes ángulos, con luz natural si puedes. Indicadme también los metros aproximados.\"</p></blockquote><h3>Versión para cuando ya has dado precio y el cliente pide confirmar</h3><blockquote><p>\"Antes de confirmar la cita, necesito ver [referencia / zona / estado actual] para no tener sorpresas el día. Te lleva 2 minutos hacerlo y así voy preparado.\"</p></blockquote><h2>Ejemplos por sector</h2><p>No cambia la estructura — cambia solo el dato visual que importa en cada sector. Consulta también <a href=\"/blog/como-cualificar-consultas-en-tatuajes/\">cómo cualificar consultas en tatuajes</a> para ver cómo adaptar este flujo al sector específico.</p><table><thead><tr><th>Sector</th><th>Qué pedir</th><th>Instrucción específica</th></tr></thead><tbody><tr><td>Tatuajes</td><td>Foto zona + referencias diseño</td><td>\"Luz natural, sin filtros, desde frente y lado\"</td></tr><tr><td>Micropigmentación / cejas</td><td>Foto de frente sin maquillaje + referencia</td><td>\"Luz natural, cara limpia, sin editar\"</td></tr><tr><td>Estética corporal</td><td>Foto zona de tratamiento</td><td>\"Sin ropa sobre la zona, buena luz\"</td></tr><tr><td>Fotografía</td><td>Referencias estilo + espacio</td><td>\"2-4 imágenes que te gusten + foto del espacio\"</td></tr><tr><td>Reformas / carpintería</td><td>Fotos del espacio actual</td><td>\"Desde todas las esquinas, con luz\"</td></tr><tr><td>Coaching / formación</td><td>No aplica material visual</td><td>Sustituir por descripción del objetivo en 3 líneas</td></tr></tbody></table><h2>Errores que hacen que el cliente no responda</h2><ol><li><strong>Pedir la foto como primer mensaje</strong><br>El cliente no sabe si eres el negocio correcto todavía. Primero confirma el servicio, luego pide el material visual.</li><li><strong>No especificar qué tipo de foto</strong><br>\"Mándame una foto\" genera fotos borrosas, con filtros o de baja resolución que no sirven de nada. Especifica ángulo, luz y condiciones.</li><li><strong>Pedir foto Y referencia Y descripción en el mismo mensaje</strong><br>Cuando pides tres cosas a la vez, el cliente responde la que menos esfuerzo requiere o no responde ninguna. Un paso por mensaje.</li><li><strong>No explicar para qué usas el material</strong><br>Sin contexto, pedir foto parece un filtro arbitrario. Una frase de motivo — \"para darte precio real\" — lo convierte en ayuda.</li><li><strong>Seguir preguntando cuando ya tienes la foto</strong><br>Cuando llega el material, el cliente espera una respuesta concreta. Más preguntas en ese punto generan abandono.</li><li><strong>Pedir fotos de estado actual sin haber confirmado disponibilidad</strong><br>Si luego no tienes hueco para las fechas que pide, has pedido la foto para nada y el cliente lo nota.</li></ol><p>Puedes profundizar en cómo estructurar todo el flujo de cualificación visual y textual en <a href=\"/blog/como-pedir-fotos-o-referencias-antes-cita/\">cómo pedir fotos o referencias antes de la cita</a>.</p><h2>Implementación como sistema</h2><p>Si recibes el mismo tipo de consultas repetidas cada semana — \"precio de tatuaje\", \"tratamiento de piel\", \"reforma de cocina\" — pedir foto manualmente cada vez es operativamente correcto pero no escala. A partir de unas 20-30 consultas semanales, el patrón se vuelve suficientemente repetitivo como para estructurarlo.</p><p>El camino es este:</p><ol><li>Define los 2-3 materiales visuales que siempre necesitas antes de responder.</li><li>Crea un mensaje estándar con instrucción específica para cada tipo de consulta.</li><li>Decide en qué canal ocurre (WhatsApp como destino, no Instagram DM como depósito de fotos).</li><li>Establece qué haces cuando llega el material: propuesta en un mensaje, no más preguntas.</li></ol><p>Si quieres comparar este enfoque con un sistema de preguntas más amplio, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes</a> cubre el proceso completo de cualificación por sector.</p><p>Si el volumen ya genera caos — tienes material disperso por Instagram DM y WhatsApp sin saber a qué conversación corresponde — tiene sentido que la recogida de información ocurra antes de que entres tú. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un asistente de entrada que recoge el material mínimo (incluyendo instrucciones para fotos o referencias) antes de redirigir a WhatsApp con el contexto ya preparado. No es para todos los casos — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago si pido la foto y el cliente no responde?",
+        "answer": "Espera 24-48 horas y manda un recordatorio de una línea: \"¿Pudiste hacerte con la foto? Con eso te doy el presupuesto directo.\" Si sigue sin responder, ese lead no tenía urgencia real. No persigas."
+      },
+      {
+        "question": "¿Cuándo es mala idea pedir una referencia o foto?",
+        "answer": "Cuando el servicio no tiene variabilidad visual — si prestas siempre lo mismo a precio fijo, pedir foto solo añade fricción. También es mala idea pedirla antes de confirmar que el cliente quiere el servicio: parece un interrogatorio."
+      },
+      {
+        "question": "¿Pido la foto por Instagram DM o por WhatsApp?",
+        "answer": "Por WhatsApp siempre que sea posible. El DM de Instagram sirve para confirmar el servicio y redirigir. Pedir material visual en DM alarga innecesariamente el hilo y hace más difícil encontrar la foto después."
+      },
+      {
+        "question": "¿Qué hago si la foto que me mandan no sirve (mala luz, borrosa)?",
+        "answer": "Especifica exactamente lo que necesitas: \"Una foto con luz natural, de frente, sin filtros.\" Si siguen mandando fotos que no sirven, es señal de que la instrucción inicial no era suficientemente concreta."
+      },
+      {
+        "question": "¿Tengo que pedir foto Y referencia, o con una es suficiente?",
+        "answer": "Depende del servicio. Para tatuajes necesitas la referencia de diseño y la foto de zona. Para estética normalmente basta con una. Pide solo lo que cambia tu presupuesto o tu preparación — no lo que es \"interesante tener\"."
+      },
+      {
+        "question": "¿Pedir foto antes de la cita no echa para atrás al cliente?",
+        "answer": "Solo si lo pides sin explicar para qué. Con una frase de contexto — \"Para preparar la sesión y no improvisar el día\" — el cliente lo entiende como profesionalidad, no como burocracia."
+      },
+      {
+        "question": "¿Puedo automatizar este paso para no tener que pedirlo cada vez?",
+        "answer": "Sí. Si recibes más de 20-30 consultas semanales con el mismo patrón, tiene sentido que un flujo de entrada recoja ese material antes de que llegues tú a la conversación. Así llegas con contexto y sin tener que volver a pedir nada básico."
+      },
+      {
+        "question": "¿Qué formato de mensaje funciona mejor para pedir referencias?",
+        "answer": "Corto, con motivo y con instrucción específica. \"Para darte precio real: mándame una foto de la zona con luz natural y una referencia de lo que buscas. Con eso te respondo en el día.\" Eso es todo lo que necesitas."
+      }
+    ]
+  },
+  {
     "slug": "como-usar-instagram-stories-para-reservas",
     "title": "Cómo usar Instagram Stories para reservas sin saturarte de DMs",
     "description": "Aprende a diseñar un flujo Stories→link→WhatsApp que convierte visualizaciones en reservas sin que te lleguen 40 DMs con 'hola' y 'precio?' cada vez que publicas.",
