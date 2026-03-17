@@ -1,5 +1,114 @@
 [
   {
+    "slug": "como-configurar-instagram-para-que-deriven-al-link",
+    "title": "Cómo configurar Instagram para que las consultas vayan al link (y no a tus DMs)",
+    "description": "Aprende a configurar tu perfil de Instagram (bio, botones de contacto, destacados y Stories) para que las consultas lleguen a tu link estructurado en vez de saturar tus DMs sin contexto.",
+    "excerpt": "Configurar Instagram para derivar consultas al link implica ajustar bio, botones de acción, Stories y auto-respuestas para que el cliente llegue a tu flujo con la intención ya filtrada, no a un chat en blanco.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-configurar-instagram-para-que-deriven-al-link.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "link-en-bio",
+      "consultas",
+      "configuracion",
+      "atencion-cliente",
+      "primer-contacto"
+    ],
+    "quickAnswerSubtitle": "Configurar Instagram para derivar consultas al link",
+    "quickAnswer": [
+      "**Pon el link en bio con CTA directo** — No pongas solo el enlace, añade una frase que indique qué hace: 'Consulta disponibilidad y precios aquí'.",
+      "**Desactiva o redirige el botón de mensaje** — Si tu proceso empieza en el link, el botón de DM compite contra él; usa el botón de acción personalizado cuando puedas.",
+      "**Usa Stories con un sticker de enlace claro** — 'Pide cita', 'Consulta precio', 'Reserva aquí': un sticker por Story, una intención por Story.",
+      "**Configura una auto-respuesta en DM que lleve al link** — Para los que igualmente escriben por DM, la respuesta automática debe reconocer e ir al link de inmediato, con contexto mínimo.",
+      "**Crea un Destacado de 'Cómo reservar'** — Un Destacado fijo con el proceso claro reduce consultas de info y sirve de punto de entrada pasivo."
+    ],
+    "oneLineDefinition": "Configurar Instagram para derivar consultas al link es ajustar los puntos de contacto del perfil (bio, botones, Stories, DMs) para que el cliente entre al flujo estructurado donde ya da la información necesaria, en vez de empezar un chat en blanco.",
+    "sections": [
+      "El problema con los DMs sin contexto",
+      "Checklist de configuración (puntos de contacto)",
+      "Copy para cada punto de contacto",
+      "Auto-respuesta en DM que lleva al link",
+      "Errores comunes al derivar desde Instagram",
+      "Cuándo no tiene sentido derivar al link",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Configurar Instagram para derivar al link en 6 pasos",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Perfil de Instagram Business o Creator",
+        "Link único para atención",
+        "Stories y Destacados"
+      ],
+      "steps": [
+        {
+          "name": "Actualizar la bio con CTA explícito",
+          "text": "Cambia el texto de bio para que la última línea sea una instrucción directa hacia el link."
+        },
+        {
+          "name": "Colocar el link en el campo de enlace del perfil",
+          "text": "Usa el campo de enlace único del perfil con la URL de tu flujo de consultas, no una página de inicio genérica."
+        },
+        {
+          "name": "Configurar el botón de acción del perfil",
+          "text": "En cuentas Business, activa el botón de acción personalizado ('Reservar', 'Ver menú', o el que más se acerque a tu CTA) apuntando al link."
+        },
+        {
+          "name": "Crear Stories con sticker de enlace por intención",
+          "text": "Para cada tipo de consulta frecuente (precio, disponibilidad, info), crea una Story con sticker de enlace y copia específica."
+        },
+        {
+          "name": "Guardar las Stories en un Destacado de 'Cómo reservar'",
+          "text": "Agrupa en un Destacado fijo las Stories que explican el proceso y llevan al link, para que cualquier visita nueva lo encuentre."
+        },
+        {
+          "name": "Activar auto-respuesta en DM con redirección al link",
+          "text": "Configura la respuesta automática de DMs para reconocer la consulta y redirigir al link con una frase corta y sin fricción."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema con los DMs sin contexto</h2><p>Te escriben por DM decenas de personas al mes y la mitad empieza con 'hola', 'info' o 'precio?'. No hay contexto, no hay datos, no sabes qué quieren exactamente. Acabas respondiendo lo mismo, haciendo las mismas preguntas de vuelta y perdiendo tiempo en conversaciones que podrían haberse ordenado antes de llegar a ti.</p><p>El problema no siempre es el volumen. Es que Instagram, por defecto, invita a escribir. El botón de mensaje está en el centro del perfil, la bio no dice qué paso toca y el cliente llega al chat en blanco. Si tu proceso necesita información mínima antes de responder bien, ese diseño trabaja en tu contra.</p><p>La solución no es cerrar los DMs. Es redirigir los puntos de contacto para que el cliente llegue ya encaminado, con la intención declarada, antes de que empieces a responder. Eso es lo que hace un link bien configurado con un flujo por intención: <a href=\"/blog/link-en-bio-para-atencion-clientes/\">un link en bio para atención al cliente convertido en sistema</a>, no en un menú vacío.</p><h2>Checklist de configuración (puntos de contacto)</h2><p>Estos son los seis puntos que controlas en Instagram y que determinan si el cliente llega a tu link o a tu DM sin contexto. Marca los que ya tienes activos y empieza por el primero que falte.</p><ul><li><strong>Bio — última línea con CTA directo:</strong> la bio debe terminar con una instrucción explícita hacia el link. No 'enlace en bio'. Algo como 'Consulta disponibilidad aquí' o 'Pide cita o precio aquí abajo'.</li><li><strong>Campo de enlace del perfil:</strong> el link apunta directamente al flujo de consultas, no a tu web de inicio. Si la web de inicio no tiene CTA claro hacia el flujo, pierdes al cliente al llegar.</li><li><strong>Botón de acción del perfil (cuentas Business):</strong> si puedes elegir un botón de acción personalizado ('Reservar', 'Contactar', etc.), configúralo apuntando al mismo link. El botón de 'Mensaje' sigue activo, pero el botón de acción compite con él visualmente.</li><li><strong>Stories con sticker de enlace por intención:</strong> cada tipo de consulta frecuente merece su propia Story con un sticker de enlace y un texto que declare la intención: 'Consulta precio', 'Reserva hueco', 'Dudas antes de empezar'.</li><li><strong>Destacado fijo 'Cómo reservar' o 'Consultas':</strong> agrupa en un Destacado permanente las Stories que explican tu proceso y llevan al link. Cualquier persona nueva que visite el perfil lo encuentra sin necesidad de esperar una Story activa.</li><li><strong>Auto-respuesta en DM:</strong> para quien igualmente escribe por DM, la respuesta automática reconoce la consulta y redirige al link en una frase. Sin menú largo, sin preguntas de vuelta.</li></ul><h2>Copy para cada punto de contacto</h2><p>El copy importa tanto como el punto de contacto. Aquí tienes ejemplos específicos por zona del perfil. Adapta el tono al tuyo, pero mantén la estructura: instrucción + link.</p><h3>Bio (última línea)</h3><blockquote><p>Consulta precios y disponibilidad aquí abajo.</p></blockquote><blockquote><p>Para citas y presupuestos, enlace en bio.</p></blockquote><blockquote><p>Reserva o consulta sin escribirme por DM — enlace abajo.</p></blockquote><h3>Stories (texto sobre el sticker de enlace)</h3><blockquote><p>¿Quieres saber precio? Aquí en 30 segundos.</p></blockquote><blockquote><p>¿Tienes hueco esta semana? Compruébalo aquí.</p></blockquote><blockquote><p>Antes de escribirme, mira esto — te ahorra tiempo a ti y a mí.</p></blockquote><h3>Auto-respuesta en DM</h3><p>Este es el copy que más impacto tiene porque intercepta a quien ya intentó contactarte por el canal incorrecto. Debe ser breve, reconocer la intención y llevar al link de inmediato. Para profundizar en cómo construirla sin que suene a bot, puedes ver ejemplos en <a href=\"/blog/auto-respuesta-instagram-que-convierte/\">auto-respuesta en Instagram que convierte</a>.</p><blockquote><p>Hola, gracias por escribir. Para consultarte precio, disponibilidad o resolver dudas, usa este link — te respondo mucho más rápido con el contexto: [link]. Si tienes algo urgente o específico, escríbelo aquí y lo miro en cuanto pueda.</p></blockquote><p>Esa última frase ('si tienes algo urgente') reduce la sensación de muro. El cliente sabe que hay una persona detrás.</p><h3>Destacado (nombre y portada)</h3><p>Nombre del Destacado: 'Reservas', 'Cómo funciona', 'Consultas', o directamente 'Pide cita'. Evita 'Info' genérico porque no indica acción.</p><h2>Auto-respuesta en DM que lleva al link</h2><p>La auto-respuesta es el punto de contacto que más se configura mal. Los errores más frecuentes son: hacerla demasiado larga, poner un menú de opciones dentro del DM, o no incluir el link directamente en el primer mensaje.</p><p>La regla es una: un mensaje, una instrucción, un link. Si el cliente tiene que leer tres párrafos antes de ver el enlace, la fricción sube y muchos abandonan antes de llegar.</p><p>Para quien quiera scripts específicos por tipo de consulta (precio, cita, dudas generales), los tienes desarrollados en <a href=\"/blog/scripts-responder-dm-instagram/\">scripts para responder DMs en Instagram por intención</a>.</p><p>Si quieres ir más allá de la auto-respuesta básica y montar un flujo que filtre antes de llegar al chat, <a href=\"/blog/automatizar-mensajes-instagram-negocio/\">automatizar mensajes en Instagram para un negocio local</a> explica cómo hacerlo sin que el cliente note que hay un proceso detrás.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la información del cliente mediante un asistente conversacional vinculado a tu link, filtran la intención y redirigen a WhatsApp con el contexto ya recogido. No es para todos los casos: si recibes pocas consultas al día o tu proceso de venta requiere una conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>Errores comunes al derivar desde Instagram</h2><ol><li><strong>Bio con link pero sin CTA</strong> — El cliente ve el enlace pero no sabe para qué sirve. Consecuencia: tasa de clic baja. Corrección: añade una línea de instrucción sobre el link.</li><li><strong>Link que va a la página de inicio de la web</strong> — La web no siempre tiene un CTA claro hacia el flujo de consultas. El cliente llega, se pierde y vuelve a escribir por DM. Corrección: el link va directamente al flujo, no a la portada.</li><li><strong>Auto-respuesta con menú de opciones en texto</strong> — 'Escribe 1 para precio, 2 para cita…' no funciona en DM porque el cliente no está en un sistema de menú. La mayoría ignora las instrucciones. Corrección: una frase directa con el link.</li><li><strong>Stories sin sticker de enlace visible</strong> — Texto que dice 'link en bio' dentro de una Story es fricción extra: el cliente tiene que salir de la Story, buscar el perfil, buscar el link. Corrección: sticker de enlace directamente en la Story.</li><li><strong>Destacado desactualizado o con link muerto</strong> — Un Destacado con Stories antiguas que llevan a un link que ya no existe genera desconfianza. Corrección: revisa los Destacados al cambiar cualquier link.</li><li><strong>No explicar qué pasa después del link</strong> — El cliente no hace clic si no sabe qué se va a encontrar. Corrección: el CTA describe la acción o el resultado ('consulta disponibilidad', 'recibe presupuesto en 24h').</li></ol><h2>Cuándo no tiene sentido derivar al link</h2><ul><li>Si tu volumen de consultas es bajo (2-5 al día) y cada una es diferente: el link con flujo estructurado tiene sentido cuando hay patrón y repetición. Sin patrón, el link añade fricción sin beneficio claro.</li><li>Si tu servicio requiere una conversación exploratoria larga desde el primer contacto: un flujo que pide datos mínimos funciona cuando hay preguntas comunes. Si cada caso es único y estratégico desde el principio, el DM puede ser la mejor entrada.</li><li>Si el problema real es captación y no gestión: si recibes pocas consultas, el problema no es cómo ordenarlas sino cómo conseguir más. Configurar el link no arregla falta de demanda.</li></ul><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Qué pongo en bio si vendo varios servicios distintos?",
+        "answer": "Un CTA genérico que agrupe intenciones: 'Consulta precios y disponibilidad aquí'. El link luego separa por intención dentro del flujo. No intentes meter todos los servicios en la bio."
+      },
+      {
+        "question": "¿Puedo tener el botón de mensaje activo y también derivar al link?",
+        "answer": "Sí, pero son dos entradas que compiten. Si quieres priorizar el link, haz que el botón de acción personalizado sea más visible y que la bio refuerce el link. Los DMs que llegan igual se gestionan con auto-respuesta."
+      },
+      {
+        "question": "¿Cuántas Stories con enlace debería publicar a la semana?",
+        "answer": "No hay número fijo. Lo práctico es incluir el sticker de enlace en cualquier Story donde muestres un resultado, un proceso o una disponibilidad. No hace falta una Story 'de ventas' separada."
+      },
+      {
+        "question": "¿Qué hago si la gente hace clic en el link pero no completa el flujo?",
+        "answer": "Reduce el número de pasos o preguntas del flujo. El abandono suele ocurrir cuando hay demasiadas preguntas o cuando el primer campo no está claro. Empieza pidiendo solo 2-3 datos mínimos."
+      },
+      {
+        "question": "¿Funciona esto igual en Instagram con perfil personal que con cuenta Business?",
+        "answer": "La cuenta Business da acceso al botón de acción personalizado y a las estadísticas de clics en bio. Con perfil personal puedes hacer lo mismo en bio y Stories, pero pierdes esos controles. Para esto vale la pena tener cuenta Business."
+      },
+      {
+        "question": "¿La auto-respuesta en DM no suena demasiado a bot?",
+        "answer": "Si el mensaje es corto, reconoce la consulta y deja claro que hay una persona detrás ('si es urgente, escríbelo aquí'), no suena a bot. Lo que suena a bot es el menú largo o el mensaje genérico de 'gracias por contactar'."
+      },
+      {
+        "question": "¿Qué pasa si alguien me escribe por DM aunque tenga todo configurado?",
+        "answer": "Siempre habrá quien escriba por DM. La auto-respuesta los redirige al link sin que tengas que responder manualmente cada vez. Los que insisten con algo concreto merecen respuesta directa."
+      },
+      {
+        "question": "¿El Destacado de reservas sustituye a tener el link en bio?",
+        "answer": "No, son complementarios. El link en bio es el punto de entrada principal; el Destacado sirve para quien visita el perfil con más calma y quiere entender cómo funciona antes de hacer clic."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificar-por-instagram",
     "title": "Plantilla para cualificar desde Instagram sin hacerlo en DMs",
     "description": "Cómo mover la cualificación fuera del DM de Instagram: plantilla mínima, scripts de transición y microcopy para que el cliente llegue a WhatsApp con la información ya recogida.",
