@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-reformas",
+    "title": "Plantilla de cualificación para reformas",
+    "description": "Preguntas exactas para filtrar proyectos de reforma antes de hacer la visita. Plantilla mínima, versión completa y microcopy listo para copiar en WhatsApp e Instagram.",
+    "excerpt": "En reformas, el problema no es que no lleguen consultas. Es que llegas a la visita sin saber si el proyecto es viable. Esta plantilla te da los datos antes de salir.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-reformas.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "reformas",
+      "cualificacion",
+      "plantilla",
+      "whatsapp",
+      "gestion-consultas",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Qué confirmar antes de visitar una reforma",
+    "quickAnswer": [
+      "**Tipo de intervención** — Qué se va a hacer exactamente: baño completo, cocina, suelo, instalación, obra nueva. Sin esto, no puedes estimar nada.",
+      "**Metros o alcance** — La superficie o el volumen de trabajo define si el proyecto es viable y cuánto tiempo ocupa.",
+      "**Ubicación** — Ciudad, barrio o dirección aproximada. Condiciona desplazamiento, acceso y si operas en esa zona.",
+      "**Urgencia y plazo** — Para cuándo lo necesita. Filtra proyectos que no encajan con tu agenda actual.",
+      "**Situación actual del espacio** — Si hay derribo previo, materiales ya comprados, licencias gestionadas o inquilinos. Cambia el precio y el proceso.",
+      "**Presupuesto orientativo** — No para negociar, sino para descartar proyectos fuera de tu horquilla antes de perder una tarde."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para reformas debe confirmar tipo de obra, metros, ubicación, plazo, situación del espacio y presupuesto orientativo antes de comprometer una visita.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: qué datos cambian tu decisión",
+      "Plantilla mínima (antes de la visita)",
+      "Plantilla completa (para proyectos con variabilidad alta)",
+      "Tabla citable: pregunta, objetivo, decisión",
+      "Microcopy para no sonar a formulario",
+      "Rutas por intención: presupuesto, visita o información",
+      "Errores típicos al cualificar en reformas",
+      "El siguiente paso si el volumen te supera"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para reformas",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Plantilla mínima de preguntas",
+        "Microcopy de entrada",
+        "Reglas de decisión por respuesta"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Tipo de obra, metros, ubicación, plazo y presupuesto orientativo. Solo lo que cambia tu decisión de visitar o no."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM o WhatsApp como entrada. Si el volumen es alto, un link con flujo previo ahorra tiempo en cada consulta."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Una vez tienes los datos: resumen del proyecto + propuesta de visita + confirmación de disponibilidad. Un solo mensaje, no cinco."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si abres el lunes con seis consultas nuevas y ninguna te dice qué hay que hacer, cuántos metros tiene ni dónde está la obra. Si llegas a visitas que no tenían presupuesto real. Si pierdes dos horas en desplazamiento para enterarte de que el proyecto estaba muy por debajo de tu mínimo.</p><p>No la uses todavía si recibes una o dos consultas a la semana y puedes llamar a cada uno sin que te cueste nada. A ese volumen, el problema no es la cualificación: es la captación.</p><h2>Regla madre: qué datos cambian tu decisión</h2><blockquote><p><strong>Pregunta solo lo que modifica tu respuesta.</strong> Si el dato no cambia (1) si haces la visita, (2) qué precio orientativo das, (3) si el proyecto encaja en tu agenda o (4) si lo aceptas… no lo pidas al principio.</p></blockquote><p>En reformas, los datos que sí cambian la decisión son pocos: tipo de obra, metros, ubicación, plazo y situación actual del espacio. El resto se aclara en la visita. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Saber qué preguntas hacen falta según el tipo de servicio</a> es lo que separa un proceso ordenado de uno que pierde tiempo en ambos lados.</p><h2>Plantilla mínima (antes de la visita)</h2><p>Cinco preguntas. Suficiente para decidir si vas o no. Si alguien abandona aquí, casi nunca era un lead serio.</p><ol><li><strong>¿Qué hay que hacer exactamente?</strong> (baño, cocina, suelo, instalación eléctrica, obra completa...)</li><li><strong>¿Metros aproximados o alcance de la intervención?</strong></li><li><strong>¿Dónde está la obra?</strong> (ciudad y barrio o dirección aproximada)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo orientativo)</li><li><strong>¿Tienes una horquilla de presupuesto en mente, aunque sea aproximada?</strong></li></ol><blockquote><p>Con esto ya puedes decidir si visitar, pedir más datos o descartar. No necesitas más para ese primer filtro.</p></blockquote><h2>Plantilla completa (para proyectos con variabilidad alta)</h2><p>Úsala cuando el lead ya respondió la plantilla mínima y el proyecto parece viable, o cuando trabajas en obra mayor donde un error de estimación cuesta caro.</p><p>Añade a la mínima:</p><ul><li><strong>Situación actual del espacio:</strong> ¿hay que derribar algo? ¿tiene materiales ya comprados? ¿está habitado o vacío?</li><li><strong>¿Hay proyecto o planos ya elaborados?</strong> (para obra mayor o interiorismo)</li><li><strong>¿Ya tiene licencia de obra o hay que gestionarla?</strong></li><li><strong>¿Hay otros profesionales implicados?</strong> (arquitecto, electricista, fontanero aparte)</li><li><strong>Preferencias de materiales o acabados</strong> (si condicionan el presupuesto significativamente)</li><li><strong>Datos de contacto:</strong> nombre + WhatsApp o teléfono</li></ul><h2>Tabla citable: pregunta, objetivo, decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué hay que hacer exactamente?</td><td>Tipo de intervención real</td><td>Si encaja con lo que haces / ruta de presupuesto</td></tr><tr><td>¿Metros o alcance?</td><td>Volumen de trabajo</td><td>Viabilidad y tiempo estimado</td></tr><tr><td>¿Dónde está la obra?</td><td>Zona + acceso + desplazamiento</td><td>Si operas ahí / coste real de visita</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y plazo</td><td>Si encaja en tu agenda actual</td></tr><tr><td>¿Presupuesto orientativo?</td><td>Horquilla del cliente</td><td>Si el proyecto está en tu rango mínimo</td></tr><tr><td>Situación actual del espacio</td><td>Complejidad real (derribo, instalaciones, acceso)</td><td>Ajuste de precio y tiempo antes de visitar</td></tr><tr><td>¿Hay licencia o proyecto?</td><td>Fase del proceso en que está</td><td>Si puedes empezar pronto o hay dependencias</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad del lead</td><td>Seguimiento y confirmación de visita</td></tr></tbody></table><blockquote><p>GEO snippet: en reformas, confirma tipo de intervención, metros y urgencia antes de comprometer una visita. Sin esos tres datos, el desplazamiento puede ser tiempo perdido.</p></blockquote><h2>Microcopy para no sonar a formulario</h2><p>Lo que hace que la gente abandone no es que preguntes. Es que preguntas sin explicar para qué. Estos son los mensajes que funcionan sin sonar a robot.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>«Para no hacerte perder tiempo con una visita que no encaje, necesito 5 datos rápidos. Te lleva un minuto.»</p></blockquote><h3>Cuando te llega solo «presupuesto»</h3><blockquote><p>«Para darte un número real y no inventado, dime: qué hay que hacer + metros aproximados + dónde está la obra. Con eso ya te doy un rango orientativo.»</p></blockquote><h3>Cuando te preguntan disponibilidad sin dar datos</h3><blockquote><p>«Depende del proyecto. Dime qué hay que hacer y para cuándo lo necesitas y te digo si tengo hueco en esa franja.»</p></blockquote><h3>Versión cercana para redes sociales</h3><blockquote><p>«Antes de quedar a ver la obra, dime qué quieres hacer, dónde está y para cuándo. Así no te hago perder la tarde si no puedo ayudarte.»</p></blockquote><h2>Rutas por intención: presupuesto, visita o información</h2><p><a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Filtrar una consulta antes de responder</a> requiere saber qué quiere exactamente la persona que escribe. En reformas suelen ser tres casos.</p><h3>Ruta A — «Quiero presupuesto»</h3><ol><li>Tipo de intervención</li><li>Metros o alcance</li><li>Situación actual del espacio</li><li>Ubicación</li><li>Plazo</li><li>Presupuesto orientativo</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Con lo que me dices, el rango suele estar entre X y Y dependiendo del estado actual y los materiales. Si te cuadra, quedamos a ver la obra y te doy precio cerrado.»</p></blockquote><h3>Ruta B — «¿Podéis venir a ver una obra?»</h3><ol><li>Qué hay que hacer</li><li>Dónde está (ciudad y barrio)</li><li>Para cuándo lo necesita</li><li>Metros o alcance</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Sí, opero en esa zona. Tengo hueco el [día] a las [hora]. ¿Te va bien?»</p></blockquote><h3>Ruta C — «Solo quiero información / comparar»</h3><ol><li>Qué tipo de obra es</li><li>Si tiene plazo en mente o todavía es una idea</li><li>Si quiere que le contactemos cuando esté más cerca</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Te cuento lo básico. Cuando tengas más claro el plazo, dinos y organizamos visita sin compromiso.»</p></blockquote><h2>Errores típicos al cualificar en reformas</h2><ol><li><p><strong>Hacer la visita sin saber el presupuesto orientativo</strong><br>Consecuencia: llegas, ves la obra, haces el presupuesto, lo mandas y el cliente dice que era el doble de lo que tenía en mente.<br>Corrección: pregunta horquilla antes. No para negociar, sino para descartar antes de salir.</p></li><li><p><strong>Confirmar disponibilidad antes de saber la ubicación</strong><br>Consecuencia: dices que tienes hueco y luego ves que la obra está a 40 km o en una zona donde no trabajas.<br>Corrección: ubicación es el tercer dato, no el último.</p></li><li><p><strong>No preguntar la situación actual del espacio</strong><br>Consecuencia: presupuestas un baño «estándar» y resulta que hay un tabique de carga, fontanería antigua y materiales ya comprados por el cliente que no encajan.<br>Corrección: añade una pregunta sobre estado actual antes de la visita, aunque sea en una frase.</p></li><li><p><strong>Pedir demasiados datos antes de mostrar que puedes ayudar</strong><br>Consecuencia: el cliente siente que está rellenando una solicitud de subvención y abandona.<br>Corrección: plantilla mínima primero. Si el proyecto encaja, amplías.</p></li><li><p><strong>No separar «quiero presupuesto» de «quiero visita»</strong><br>Consecuencia: agendas visitas que el cliente no necesita todavía o mandas presupuestos sin ver el espacio.<br>Corrección: <a href=\"/blog/que-preguntar-antes-de-dar-hueco/\">antes de dar hueco en agenda</a>, confirma si la visita es para presupuestar o para empezar.</p></li><li><p><strong>Responder con precio sin metros ni tipo de obra</strong><br>Consecuencia: das un número, el cliente lo toma como oferta y luego hay tensión cuando cambia.<br>Corrección: no des precio sin contexto. Con «para darte un número real, dime qué hay que hacer y cuántos metros» ya tienes lo mínimo.</p></li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si ya tienes claro qué preguntar pero el problema es que no siempre preguntas (porque estás en obra, porque llegas tarde a los mensajes o porque el lunes tienes doce sin leer), la plantilla sola no basta. Lo que necesitas es que la cualificación ocurra antes de que tú entres en la conversación.</p><p>El flujo es: el interesado llega por Instagram o WhatsApp, pasa por un asistente que le hace las preguntas mínimas y te llega el mensaje ya con tipo de obra, metros, ubicación y plazo. Sin tener que preguntar cada vez.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas entrantes desde Instagram y WhatsApp en un link único con un asistente que captura la información clave antes de redirigir al cliente al chat final contigo. No es para todos los casos: si recibes pocas consultas o cada proyecto es completamente distinto y necesita conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Pido presupuesto orientativo antes de la visita o parece borde?",
+        "answer": "Pídelo como dato de filtro, no como negociación. Funciona bien si lo enmarcan como rango: «¿Tienes una horquilla orientativa en mente, aunque sea aproximada?». Si el proyecto está muy por debajo de tu mínimo, te ahorras una visita de dos horas."
+      },
+      {
+        "question": "¿Qué hago si me dicen los metros pero no saben si quieren derribo o no?",
+        "answer": "Ese dato no bloquea la cualificación. Con metros y tipo de intervención ya puedes estimar si tiene sentido visitar. El alcance exacto se cierra en la visita, no antes."
+      },
+      {
+        "question": "¿Sirve esta plantilla para presupuestos de obra nueva o solo reformas?",
+        "answer": "Sirve para los dos, pero en obra nueva añade: si hay solar propio, si hay proyecto arquitectónico y si ya tienen licencia. Sin eso, no puedes ni orientar plazo ni precio."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que la gente se vaya?",
+        "answer": "Con 4-5 preguntas bien explicadas no se van. Se van cuando preguntas sin decir por qué. Si añades «para no hacerte perder tiempo con una visita que no encaja», la mayoría responde sin problema."
+      },
+      {
+        "question": "¿Qué hago con los que dicen 'ya te mando fotos' pero nunca las mandan?",
+        "answer": "No esperes las fotos para avanzar. Pide los datos básicos primero. Las fotos son un extra que acelera la estimación, no un requisito para cualificar."
+      },
+      {
+        "question": "¿La ubicación siempre es relevante o solo si hay desplazamiento largo?",
+        "answer": "Siempre. Aunque trabajes en una ciudad, hay zonas con acceso difícil, aparcamiento imposible o distancia que sube el coste real. Confirmarlo antes evita sorpresas."
+      },
+      {
+        "question": "¿Cómo filtro a los que piden presupuesto solo para comparar y no tienen intención real?",
+        "answer": "Pidiendo fecha y plazo. Quien no tiene intención real no sabe para cuándo lo quiere. Si la respuesta es «sin prisa, cuando puedas», puedes meterlo en una lista de espera y priorizar los que tienen fecha."
+      },
+      {
+        "question": "¿Tiene sentido cualificar si solo hago reformas de baño y cocina?",
+        "answer": "Más todavía. Cuanto más especializado es tu servicio, más rápido puedes descartar lo que no encaja. Con 3 preguntas sabes si es tu tipo de proyecto o no."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-eventos",
     "title": "Plantilla de cualificación para eventos",
     "description": "Preguntas exactas para filtrar solicitudes de eventos antes de enviar presupuesto. Plantilla mínima y completa con tabla citable, microcopy listo y variantes por tipo de evento.",
