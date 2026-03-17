@@ -1,5 +1,114 @@
 [
   {
+    "slug": "scripts-responder-dm-instagram",
+    "title": "Scripts para responder DMs en Instagram (por intención)",
+    "description": "Scripts listos para responder DMs de Instagram según la intención del cliente: presupuesto, cita e información. Reduce el ping-pong, capta datos mínimos y mueve la conversación a WhatsApp con contexto.",
+    "excerpt": "Responder DMs en Instagram sin sistema es perder tiempo en conversaciones que nunca avanzan. Estos scripts organizan la respuesta por intención (presupuesto, cita, info) y mueven al cliente al siguiente paso en un mensaje.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/scripts-responder-dm-instagram.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "scripts",
+      "dm",
+      "gestion-consultas",
+      "respuestas-rapidas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Scripts para responder DMs de Instagram por intención",
+    "quickAnswer": [
+      "**Identifica la intención antes de responder** — presupuesto, cita o info piden respuestas distintas; no uses el mismo mensaje para todo.",
+      "**Pide un solo dato mínimo en el DM** — lo justo para enrutar; el resto lo recoges en WhatsApp o con un link.",
+      "**Mueve la conversación fuera del DM** — Instagram no está diseñado para cerrar; usa el primer mensaje para llevar al cliente a WhatsApp o a un link.",
+      "**Explica por qué preguntas** — una frase de contexto ('para darte precio real necesito saber...') reduce el abandono más que cualquier otra táctica.",
+      "**Versión corta siempre** — si el script ocupa más de 3 líneas en móvil, lo leerá menos de la mitad."
+    ],
+    "oneLineDefinition": "Scripts para DMs de Instagram son mensajes predefinidos, organizados por intención del cliente (presupuesto, cita o información), que reducen el ping-pong, capturan un dato mínimo y mueven la conversación al canal donde se puede cerrar.",
+    "sections": [
+      "Por qué los DMs de Instagram se convierten en ping-pong interminable",
+      "Antes de los scripts: identifica la intención",
+      "Scripts listos por intención",
+      "Checklist de implementación",
+      "Errores comunes al responder DMs",
+      "Cuándo este sistema no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Configurar scripts de DM por intención en Instagram",
+      "totalTimeMinutes": 45,
+      "tools": [
+        "Respuestas rápidas de Instagram",
+        "WhatsApp Business",
+        "Link de atención (bio o stories)"
+      ],
+      "steps": [
+        {
+          "name": "Clasifica tus DMs actuales en 3 intenciones",
+          "text": "Revisa los últimos 20-30 mensajes y agrúpalos: presupuesto, cita/disponibilidad o información general."
+        },
+        {
+          "name": "Escribe el script de presupuesto",
+          "text": "Reconoce, pide el dato que cambia el precio (servicio, contexto, fecha) y ofrece un siguiente paso."
+        },
+        {
+          "name": "Escribe el script de cita",
+          "text": "Pide fecha aproximada y servicio; redirige a WhatsApp o link para confirmar disponibilidad."
+        },
+        {
+          "name": "Escribe el script de información",
+          "text": "Responde la FAQ directamente o enlaza a donde está la respuesta; ofrece continuar si lo necesita."
+        },
+        {
+          "name": "Guarda los scripts como respuestas rápidas",
+          "text": "En Instagram Business, activa las respuestas guardadas y asigna un atajo a cada intención."
+        },
+        {
+          "name": "Prueba en móvil",
+          "text": "Verifica que cada script ocupa máximo 3 líneas en pantalla de móvil antes de activarlo."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué los DMs de Instagram se convierten en ping-pong interminable</h2><p>Recibes un 'precio?' o un 'tenéis hueco?' y respondes con una pregunta. El cliente tarda. Vuelve a preguntar algo distinto. Tú preguntas otra cosa. Diez mensajes después no tienes ni la información mínima ni una cita confirmada. Esto no es culpa del cliente: es que Instagram no tiene la estructura para cerrar sin un guion previo.</p><p>El problema de fondo es que cada DM se responde como si fuera el primero y el único. Sin saber la intención, la respuesta siempre es genérica y obliga a más mensajes. La solución no es escribir más rápido: es saber qué quiere el cliente antes de teclear la primera letra.</p><p>Si además recibes consultas por varios canales a la vez, el caos se multiplica. El artículo sobre <a href=\"/blog/flujo-dm-link-whatsapp/\">flujo DM → link → WhatsApp</a> explica el sistema completo para ordenarlo; aquí nos centramos en los scripts concretos para cada intención.</p><h2>Antes de los scripts: identifica la intención</h2><p>En servicios, casi cualquier DM cae en una de estas tres categorías:</p><ul><li><strong>Presupuesto</strong>: quieren saber cuánto cuesta. Suelen escribir 'precio', 'cuánto cuesta', 'tarifa' o directamente el nombre del servicio con un signo de interrogación.</li><li><strong>Cita o disponibilidad</strong>: quieren reservar o saber si hay hueco. Escriben 'tenéis hueco', 'cuándo podría ir', 'reserva', 'cita'.</li><li><strong>Información</strong>: dudas sobre el servicio, requisitos, ubicación, horarios. Escriben 'info', 'cómo funciona', 'tenéis esto', 'dónde estáis'.</li></ul><p>Hay una cuarta categoría que conviene identificar rápido: el que escribe 'hola' sin más. Ese necesita un mensaje que le lleve a clasificarse solo.</p><p>Lo contraintuitivo aquí: no siempre el que pregunta precio es el menos serio. A veces es el que ya ha decidido y solo necesita confirmar que encaja en su presupuesto para dar el paso. Descartarlo antes de tiempo es perder una venta real.</p><h2>Scripts listos por intención</h2><h3>Script de bienvenida (DM sin intención clara: 'hola', 'info')</h3><p>Úsalo cuando no hay intención evidente. El objetivo es que el cliente se clasifique sin que tú tengas que adivinar.</p><blockquote><p>Hola, gracias por escribir. Para ayudarte rápido: ¿buscas presupuesto, reservar cita o tienes alguna duda concreta? Dime cuál y te respondo en un paso.</p></blockquote><p>Versión más corta (para stories o pico de mensajes):</p><blockquote><p>Hola. ¿Buscas precio, cita o info? Dime cuál y te oriento enseguida.</p></blockquote><h3>Scripts para presupuesto</h3><p><strong>Script 1 — Versión estándar (cuando el servicio tiene variables)</strong></p><blockquote><p>Para darte un precio real necesito saber [dato que cambia el precio: tamaño, duración, zona, tipo de servicio]. Dime eso y te respondo con un rango concreto o te paso al WhatsApp para verlo bien.</p></blockquote><p>Ejemplo para tatuador:</p><blockquote><p>Para darte precio necesito saber el tamaño aproximado y la zona del cuerpo. Con eso te doy un rango real. ¿Me dices esos dos datos?</p></blockquote><p>Ejemplo para estética:</p><blockquote><p>El precio varía según el tratamiento y la zona. ¿Qué servicio te interesa concretamente? Con eso te doy el precio exacto o te paso por WhatsApp si hay más detalle.</p></blockquote><p><strong>Script 2 — Versión con rango directo (cuando hay precio fijo o poco variable)</strong></p><blockquote><p>El precio de [servicio] está entre X y Y según [variable]. Si quieres concretar más, dime [dato mínimo] y te confirmo.</p></blockquote><p><strong>Script 3 — Versión para redirigir a link (cuando el proceso de presupuesto es largo)</strong></p><blockquote><p>Para darte un presupuesto ajustado necesito un par de datos. Te comparto este enlace donde tardas 2 minutos y te respondo con todo el detalle: [link]. Si prefieres hablar directo, dímelo.</p></blockquote><h3>Scripts para cita o disponibilidad</h3><p><strong>Script 4 — Versión estándar</strong></p><blockquote><p>Para reservar necesito saber: [servicio] y [fecha aproximada o rango de semanas]. Con eso compruebo disponibilidad y te confirmo por aquí o por WhatsApp.</p></blockquote><p><strong>Script 5 — Versión con redirección a WhatsApp</strong></p><blockquote><p>Revisamos la agenda por WhatsApp para que sea más rápido. Escríbeme aquí: [link a WhatsApp o número] y dime [servicio + fecha aproximada]. Suelo confirmar en [tiempo habitual].</p></blockquote><p><strong>Script 6 — Versión para lista de espera</strong></p><blockquote><p>Ahora mismo no tengo huecos hasta [fecha]. Si quieres apuntarte a la lista de espera, dime [servicio + flexibilidad de fechas] y te aviso cuando salga algo. ¿Te interesa?</p></blockquote><h3>Scripts para información</h3><p><strong>Script 7 — FAQ directa (ubicación, horarios, requisitos)</strong></p><blockquote><p>[Respuesta directa a la pregunta]. Si tienes más dudas, dime y te oriento o te paso donde está todo el detalle.</p></blockquote><p>Ejemplo para coach:</p><blockquote><p>Las sesiones son online, vía videollamada. Duran 60 minutos. Si quieres saber cómo funciona el proceso, dime y te explico o te paso el enlace con todo el detalle.</p></blockquote><p><strong>Script 8 — Pregunta compleja que requiere contexto</strong></p><blockquote><p>Eso depende un poco de tu situación. Para orientarte mejor, dime [dato mínimo de contexto] y te explico cómo funciona en tu caso concreto.</p></blockquote><h3>Script de cierre amable (sin respuesta tras 2 intentos)</h3><blockquote><p>Hola de nuevo, te dejo esto por si lo necesitas más adelante. Cuando quieras estamos por aquí.</p></blockquote><p>No persigas. El que va en serio responde.</p><h2>Checklist de implementación</h2><p>Antes de activar los scripts, repasa estos puntos:</p><ol><li>Tienes identificadas las 3 intenciones principales de tus DMs actuales.</li><li>Cada script tiene máximo 3-4 líneas en móvil.</li><li>Cada script pide solo 1-2 datos mínimos, no un formulario.</li><li>Cada script tiene un siguiente paso claro (WhatsApp, link, confirmar dato).</li><li>Has incluido microcopy que explica por qué preguntas ese dato.</li><li>Tienes un script de bienvenida para DMs sin intención clara.</li><li>Tienes un script de cierre amable para conversaciones que no avanzan.</li><li>Los scripts están guardados como respuestas rápidas en Instagram Business.</li><li>Has probado cada script en móvil (no en escritorio).</li></ol><p>Si quieres entender cómo encaja esto con el sistema completo de atención, el artículo sobre <a href=\"/blog/auto-respuesta-instagram-que-convierte/\">auto-respuesta en Instagram que convierte</a> entra en detalle en la capa de automatización previa.</p><h2>Errores comunes al responder DMs</h2><ol><li><strong>Usar el mismo mensaje para todo</strong> — el cliente que quiere precio y el que quiere cita necesitan cosas distintas; un script genérico no mueve a ninguno de los dos.</li><li><strong>Pedir más de 2 datos en el DM</strong> — el DM no es un formulario; cada pregunta extra reduce la probabilidad de respuesta. Pide lo mínimo para enrutar.</li><li><strong>No explicar por qué preguntas</strong> — 'para darte precio real necesito saber X' convierte mucho mejor que 'dime X' a secas.</li><li><strong>Dar precio sin contexto</strong> — si das un número sin saber el servicio concreto, el cliente lo compara mal y desaparece o vuelve con malentendidos.</li><li><strong>Scripts demasiado largos</strong> — en móvil, un mensaje largo se lee a medias o se ignora. Tres líneas es el límite real.</li><li><strong>No tener un cierre para conversaciones muertas</strong> — sin mensaje de cierre, las conversaciones abiertas sin respuesta se acumulan y hacen ruido.</li><li><strong>Copiar scripts de otro sector</strong> — el tono de un tatuador no es el de una coach; adapta el vocabulario aunque la estructura sea la misma.</li></ol><h2>Cuándo este sistema no es suficiente</h2><p>Los scripts por intención resuelven el primer mensaje y reducen el ping-pong. Pero hay situaciones donde no es el cuello de botella real:</p><ul><li>Si recibes muchos DMs desde varios canales a la vez (Instagram, WhatsApp, Google) y el problema es que el contexto se pierde al cambiar de canal, los scripts solos no ordenan el flujo. Ahí necesitas una capa anterior: un punto de entrada único que recoja la información antes de que llegue al chat. El artículo sobre <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio para atención al cliente</a> explica cómo construirlo.</li><li>Si tu servicio es de venta larga y consultiva (cada caso es distinto, requiere exploración profunda desde el minuto uno), los scripts funcionan solo como primer filtro; el grueso de la cualificación tiene que hacerse en conversación humana.</li><li>Si el problema no es el caos de mensajes sino la falta de consultas, ningún script lo arregla. Antes hay que resolver la captación.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan la entrada desde Instagram y WhatsApp, recogen los datos mínimos por intención antes de que respondas manualmente, y redirigen al cliente a WhatsApp con el contexto ya preparado. No es para todos los casos: si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántos scripts necesito para empezar?",
+        "answer": "Con cuatro es suficiente para arrancar: bienvenida sin intención, presupuesto, cita e información. Añade variantes solo cuando notes que un script no encaja con un tipo de consulta recurrente."
+      },
+      {
+        "question": "¿Cómo guardo los scripts como respuestas rápidas en Instagram?",
+        "answer": "En Instagram Business, ve a Configuración > Herramientas para empresas > Respuestas guardadas. Crea una respuesta por intención y asigna un atajo de teclado (por ejemplo '/precio' o '/cita') para encontrarla rápido mientras chateas."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde al script de presupuesto?",
+        "answer": "Espera 48 horas, envía el script de cierre amable y archiva la conversación. No insistas. El que tiene intención real suele responder; perseguir a quien no responde consume tiempo y no convierte."
+      },
+      {
+        "question": "¿Puedo usar estos scripts aunque no tenga cuenta de empresa en Instagram?",
+        "answer": "Puedes usarlos manualmente en cualquier cuenta, pero las respuestas guardadas y los atajos solo están disponibles en cuentas de empresa o creador. El script sigue funcionando; solo tardas un poco más en enviarlo."
+      },
+      {
+        "question": "¿Doy el precio en el DM o lo muevo a WhatsApp?",
+        "answer": "Si el precio es fijo o tiene poco margen de variación, darlo en el DM ahorra pasos. Si el precio depende de varios factores, mueve a WhatsApp o a un link: da un rango condicionado en el DM ('entre X e Y según el servicio concreto') y cierra el detalle en el canal donde puedas tener la conversación completa."
+      },
+      {
+        "question": "¿Cómo adapto los scripts si trabajo sola y con mucho volumen?",
+        "answer": "Prioriza los scripts más cortos y el de bienvenida con opciones. Con volumen alto, el objetivo del DM es solo clasificar y enrutar; toda la cualificación real ocurre después en WhatsApp o con un link estructurado. No intentes cerrar en el DM."
+      },
+      {
+        "question": "¿Qué hago si me escriben por DM y WhatsApp con la misma consulta el mismo día?",
+        "answer": "Responde en el canal donde llegó primero y, en el segundo canal, menciona que ya estás en contacto por el otro. Si el cliente insiste en uno concreto, adapta el contexto y sigue por ese. Anota el dato recogido en el primero para no volver a pedirlo."
+      },
+      {
+        "question": "¿Los scripts suenan robotizados?",
+        "answer": "Depende del microcopy. Incluir el nombre del servicio o una referencia al contexto del cliente ('para tatuajes de ese tamaño...') personaliza sin esfuerzo. El tono lo marca el vocabulario que uses, no la estructura del script."
+      }
+    ]
+  },
+  {
     "slug": "auto-respuesta-instagram-que-convierte",
     "title": "Auto-respuesta en Instagram que convierte (y no espanta)",
     "description": "Cómo diseñar un primer mensaje automático en Instagram que guía al cliente hacia un paso útil, sin menús largos ni preguntas en DM que cortan la conversación.",
