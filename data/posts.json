@@ -1,5 +1,107 @@
 [
   {
+    "slug": "que-preguntar-antes-de-dar-precio",
+    "title": "Qué preguntar antes de dar precio (y por qué cada dato importa)",
+    "description": "Antes de dar un precio, hay datos que cambian duración, esfuerzo y viabilidad. Esta plantilla te dice exactamente qué preguntar, por qué, y qué decisión habilita cada dato.",
+    "excerpt": "Dar precio sin contexto no es amabilidad: es imprecisión que te cuesta tiempo y credibilidad. Aquí la plantilla exacta para pedir lo que necesitas antes de responder.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/que-preguntar-antes-de-dar-precio.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "presupuestos",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "cualificacion",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Los datos mínimos antes de dar precio",
+    "quickAnswer": [
+      "**Servicio exacto** — No el nombre genérico: el detalle que cambia esfuerzo y materiales.",
+      "**Alcance o dimensiones** — Zona del cuerpo, metros cuadrados, duración, número de personas: lo que determina cuánto trabajo hay.",
+      "**Fecha o urgencia** — Saber si hay margen cambia disponibilidad y, a veces, precio.",
+      "**Contexto en una frase** — El objetivo mínimo del cliente para que el precio no sea un número suelto.",
+      "**Condición o limitación relevante** — Lo que puede hacer inviable el servicio o cambiar el proceso desde el inicio.",
+      "**Canal de respuesta** — Para cerrar por el camino más corto, no por el más cómodo para ti."
+    ],
+    "oneLineDefinition": "Antes de dar precio en un negocio de servicios hay que pedir los datos que cambian la decisión: servicio exacto, alcance, fecha, contexto mínimo y cualquier condición que afecte al proceso.",
+    "sections": [
+      "Por qué dar precio sin contexto es un error operativo",
+      "La regla que ordena todo",
+      "Los datos que cambian el precio (y los que no)",
+      "Tabla citable: dato → por qué importa → riesgo si no lo pides",
+      "Plantilla mínima para dar precio (3-5 preguntas)",
+      "Plantilla completa (para servicios con más variabilidad)",
+      "Microcopy listo para no sonar robótico",
+      "Variantes por sector",
+      "Errores comunes al pedir datos antes de dar precio",
+      "El paso siguiente si el volumen te supera",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo pedir datos antes de dar precio en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de preguntas",
+        "Microcopy de entrada",
+        "Canal de cierre (WhatsApp o DM)"
+      ],
+      "steps": [
+        {
+          "name": "Identifica los datos que cambian tu precio",
+          "text": "Servicio exacto, alcance, fecha, contexto de una frase y condición relevante. Si la respuesta no cambia el precio ni la viabilidad, no la pidas."
+        },
+        {
+          "name": "Usa el microcopy de entrada",
+          "text": "Explica en una frase por qué preguntas antes de responder. Sin eso, el cliente siente que le interrogas, no que le ayudas."
+        },
+        {
+          "name": "Cierra con propuesta y siguiente paso",
+          "text": "Una vez tienes los datos, da un rango claro y propón la acción concreta: agendar, enviar presupuesto o pedir más detalle si hay variabilidad alta."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué dar precio sin contexto es un error operativo</h2><p>Te llega un mensaje: \"¿Cuánto cuesta un tatuaje en el brazo?\". Respondes con un rango. El cliente desaparece. No porque el precio sea alto: porque sin contexto, cualquier número suena caro o vago, y el cliente no sabe si aplica a su caso.</p><p>Dar precio sin datos no es ser ágil. Es acortar la conversación de forma que no ayuda a nadie. El cliente no tiene claridad y tú has gastado energía en una respuesta que no cierra nada.</p><p>El problema no es dar precio. Es darlo <strong>antes de tener lo que necesitas para que sea útil</strong>. Un tatuador que abre el lunes con 34 mensajes sin leer y empieza a responder rangos de precio a ciegas no está siendo eficiente: está generando más conversación, no menos.</p><h2>La regla que ordena todo</h2><blockquote><p><strong>Pregunta solo lo que cambia tu respuesta.</strong><br>Si el dato no cambia el precio, la disponibilidad, la viabilidad o el esfuerzo, no lo pidas antes de responder.</p></blockquote><p>Esta regla reduce la fricción para el cliente y te protege a ti de pedir datos que solo alargan la conversación sin mejorar tu respuesta. Antes de añadir una pregunta a tu plantilla, hazte esto: ¿qué decido diferente si sé esta respuesta? Si la respuesta es «nada», la pregunta sobra.</p><h2>Los datos que cambian el precio (y los que no)</h2><p>En la mayoría de servicios, hay un grupo pequeño de datos que de verdad mueven el precio o la viabilidad. El resto son detalles para la fase siguiente.</p><p><strong>Datos que sí cambian el precio o la decisión:</strong></p><ul><li>El servicio exacto (no el nombre genérico sino el detalle: no «tatuaje» sino «tatuaje realista, antebrazo, 15 cm»).</li><li>El alcance o dimensión (metros cuadrados, horas, número de personas, zona del cuerpo).</li><li>La fecha o urgencia (si hay plazo ajustado, cambia disponibilidad y a veces tarifa).</li><li>El contexto mínimo (qué quiere conseguir el cliente en una frase).</li><li>Una condición limitante (alergia, requisito técnico, restricción que puede hacerlo inviable).</li></ul><p><strong>Datos que no cambian el precio inicial y puedes pedir después:</strong></p><ul><li>Nombre completo.</li><li>Preferencias estéticas detalladas.</li><li>Historial o experiencias anteriores (salvo que sea requisito para aceptar el caso).</li><li>Datos de facturación.</li></ul><p>Lo que la mayoría de guías omite: el orden en que pides los datos importa tanto como cuáles pides. Empezar por nombre y teléfono antes de entender qué necesita el cliente genera abandono. Empieza por el servicio y el alcance; el contacto viene cuando ya hay interés confirmado.</p><h2>Tabla citable: dato → por qué importa → riesgo si no lo pides</h2><table><thead><tr><th>Dato</th><th>Por qué importa</th><th>Riesgo si no lo pides</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>Determina tiempo, materiales y complejidad</td><td>Das rango que no aplica y el cliente se va o negocia mal</td></tr><tr><td>Alcance o dimensiones</td><td>Cambia el esfuerzo real del trabajo</td><td>Subestimas o sobreestimas; el cierre falla</td></tr><tr><td>Fecha o urgencia</td><td>Define disponibilidad y prioridad</td><td>Cierras precio y luego no hay hueco; conversación incómoda</td></tr><tr><td>Contexto en una frase</td><td>Evita malentendidos sobre el objetivo</td><td>Haces trabajo que no resuelve lo que el cliente quería</td></tr><tr><td>Condición o limitación</td><td>Puede hacer inviable el servicio desde el inicio</td><td>Llegas a la cita y descubres que no puedes ejecutar</td></tr><tr><td>Canal de respuesta preferido</td><td>Reduce fricciones en el cierre</td><td>Pierdes al cliente por responder donde no lee</td></tr></tbody></table><blockquote><p>Esta tabla es el núcleo. Si solo usas esto, ya mejoras el proceso. Cada dato tiene un motivo concreto: cuando el cliente entiende por qué le preguntas, responde mejor y más rápido.</p></blockquote><h2>Plantilla mínima para dar precio (3-5 preguntas)</h2><p>Úsala cuando el cliente pregunta precio sin contexto. Es la versión de menor fricción: quien tiene intención real responde sin problema.</p><ol><li><strong>¿Qué necesitas exactamente?</strong> (servicio + detalle mínimo)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo orientativo)</li><li><strong>Contexto en una frase:</strong> ¿qué quieres conseguir o cuál es la situación?</li><li><strong>¿Hay algún requisito o limitación importante?</strong> (zona, condición, restricción)</li><li><strong>¿Cómo prefieres que te responda?</strong> (WhatsApp, DM, email)</li></ol><p>Con estos cinco datos puedes dar un rango útil y proponer un siguiente paso concreto. Sin ellos, cualquier número que des es ruido.</p><h2>Plantilla completa (para servicios con más variabilidad)</h2><p>Úsala cuando el cliente ya mostró interés real o cuando tu servicio tiene mucha variabilidad y un error de presupuesto tiene coste alto.</p><p>Añade a la mínima:</p><ul><li>Alcance detallado (metros, horas, número de sesiones, tamaño).</li><li>Disponibilidad y flexibilidad de fechas.</li><li>Preferencias o referencias visuales (si aplica y ayuda a la estimación).</li><li>Presupuesto orientativo del cliente (solo si en tu sector filtra de verdad).</li><li>Ubicación exacta (si hay desplazamiento o zona importa).</li><li>Datos de contacto: nombre y teléfono o email.</li></ul><p>Puedes ver cómo estructurar esto para diferentes tipos de servicios en la guía de <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>qué preguntas hacer para filtrar clientes con plantillas por sector</a>.</p><h2>Microcopy listo para no sonar robótico</h2><p>El cliente no abandona porque preguntes: abandona porque preguntas sin explicar. Estas frases de entrada cambian la percepción de interrogatorio a ayuda.</p><h3>Cuando preguntan «precio» sin más:</h3><blockquote><p>«Para darte un precio que tenga sentido (y no un número al aire), dime: servicio exacto + para cuándo + una frase de qué buscas. Con eso te respondo directo.»</p></blockquote><h3>Entrada genérica antes de cualquier plantilla:</h3><blockquote><p>«Para ayudarte bien y darte una respuesta útil, te hago tres preguntas rápidas. No te lleva ni un minuto.»</p></blockquote><h3>Cuando hay urgencia y el cliente insiste en precio ya:</h3><blockquote><p>«Te entiendo. El rango habitual está entre X y Y, pero depende de Z. Dime Z y te confirmo número concreto en seguida.»</p></blockquote><h3>Versión para separar cita de presupuesto:</h3><blockquote><p>«¿Buscas cita directamente o primero quieres un presupuesto? Te llevo por el camino que toque y lo cerramos rápido.»</p></blockquote><p>Una observación que la mayoría de guías ignora: el microcopy de entrada es más importante que las preguntas en sí. Dos preguntas bien introducidas convierten mejor que cinco preguntas en lista fría.</p><h2>Variantes por sector</h2><p>La plantilla base no cambia. Solo cambian una o dos preguntas variables según el servicio. No construyas una plantilla nueva por sector: adapta la variable clave.</p><h3>Tatuajes y piercing</h3><ul><li>Variable clave: zona del cuerpo + tamaño aproximado + referencias visuales.</li></ul><blockquote><p>«¿Qué te quieres hacer? ¿Zona y tamaño aproximado? ¿Tienes alguna referencia o imagen?»</p></blockquote><h3>Estética y tratamientos</h3><ul><li>Variable clave: tratamiento específico + zona + objetivo del cliente.</li></ul><blockquote><p>«¿Qué tratamiento buscas? ¿Para qué zona? ¿Cuál es tu objetivo principal?»</p></blockquote><h3>Fotografía y vídeo</h3><ul><li>Variable clave: tipo de sesión + número de personas + uso final (redes, impresión, comercial).</li></ul><blockquote><p>«¿Qué tipo de sesión necesitas? ¿Cuántas personas? ¿Para qué vas a usar las fotos?»</p></blockquote><h3>Formación y mentoría</h3><ul><li>Variable clave: objetivo concreto + nivel actual + disponibilidad horaria.</li></ul><blockquote><p>«¿Qué quieres conseguir? ¿Cuál es tu nivel ahora mismo? ¿Qué disponibilidad tienes?»</p></blockquote><p>Si gestionas consultas de varios tipos a la vez y quieres tener esto ordenado por canal, la guía sobre <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> explica cómo montar el flujo completo.</p><h2>Errores comunes al pedir datos antes de dar precio</h2><ol><li><strong>Pedir nombre y teléfono antes de entender qué necesita el cliente.</strong><br>Consecuencia: el cliente siente que le van a vender algo antes de saber si encaja. Corrección: empieza por servicio y alcance; el contacto viene cuando hay interés confirmado.</li><li><strong>Hacer todas las preguntas en un solo mensaje largo.</strong><br>Consecuencia: el cliente no sabe por dónde empezar y no responde. Corrección: dos o tres preguntas por mensaje, en lista numerada si son varias.</li><li><strong>No explicar por qué preguntas.</strong><br>Consecuencia: parece un interrogatorio, no una ayuda. Corrección: una frase de contexto antes de la primera pregunta.</li><li><strong>Dar rango de precio antes de tener alcance.</strong><br>Consecuencia: el rango es tan amplio que no sirve, o tan ajustado que luego no cuadra. Corrección: da rango solo cuando tienes servicio + alcance mínimo.</li><li><strong>Preguntar presupuesto del cliente demasiado pronto.</strong><br>Consecuencia: muchos clientes no saben responder y abandonan. Corrección: si lo pides, hazlo después de entender qué quieren, no antes.</li><li><strong>No separar la ruta de cita y la ruta de presupuesto.</strong><br>Consecuencia: mezclas intenciones distintas y la conversación se alarga sin necesidad. Corrección: una pregunta inicial que separa las dos rutas desde el principio.</li></ol><h2>El paso siguiente si el volumen te supera</h2><p>Si ya tienes claro qué preguntar pero el problema es que no siempre preguntas (porque dependes de tu energía, del momento o de quién responde ese día), la plantilla necesita convertirse en un flujo: preguntas mínimas estructuradas, rutas por intención y contexto recogido antes de que llegues tú a la conversación.</p><p>Puedes ver cómo construir ese sistema en la guía de <a href=&quot;/blog/que-datos-pedir-antes-de-dar-precio/&quot;>qué datos pedir antes de dar precio para no perder tiempo</a>.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan los datos mínimos antes de redirigir la conversación a WhatsApp, para que cuando llegues tú ya sepas servicio, alcance, fecha y contexto. No es para todos los casos: si recibes pocas consultas o cada presupuesto requiere una conversación exploratoria larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago cuando alguien me escribe solo 'precio?' sin más contexto?",
+        "answer": "No des cifra suelta. Responde con dos o tres preguntas concretas: servicio exacto, para cuándo y una frase de contexto. Con eso puedes dar un rango útil en vez de un número que probablemente no encaje."
+      },
+      {
+        "question": "¿Pido presupuesto orientativo del cliente antes de dar el mío?",
+        "answer": "Solo si filtra de verdad en tu sector. Si tu servicio tiene precios muy diferentes según el perfil, pedirlo ayuda. Si la mayoría de clientes no saben responder o se bloquean, cambia por 'prioridad' o 'rango aproximado' en vez de cifra exacta."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer sin que el cliente se vaya?",
+        "answer": "Con tres a cinco preguntas rápidas no pierdes a nadie que tenga intención real. Si alguien se va con dos preguntas, normalmente era curiosidad, no interés. Empieza con la mínima y amplía solo si responde."
+      },
+      {
+        "question": "¿Hago estas preguntas por Instagram DM o las paso a WhatsApp?",
+        "answer": "El DM funciona como puerta, no como lugar de cualificación larga. Si el volumen lo permite, guía al cliente a WhatsApp con las preguntas clave ya respondidas. Menos fricción para él, más contexto para ti."
+      },
+      {
+        "question": "¿Y si el cliente me insiste en que le dé precio antes de responder nada?",
+        "answer": "Da un rango amplio con la condición explícita: 'Entre X y Y dependiendo de Z'. No es evasión: es honestidad. Después pide el dato que reduce ese rango. Casi siempre el cliente lo entiende si se lo explicas así."
+      },
+      {
+        "question": "¿Cada servicio necesita su propia plantilla?",
+        "answer": "No hace falta una plantilla por servicio si tienes dos o tres preguntas variables por tipo. La base es la misma; cambia solo lo que cambia la decisión: zona, metros, referencia, disponibilidad. El resto es igual."
+      },
+      {
+        "question": "¿Qué pasa si no pido la fecha y el cliente quiere para mañana?",
+        "answer": "Que das precio, el cliente acepta, y entonces descubres que no tienes hueco. Eso genera una negociación incómoda o una cancelación. Preguntar la fecha no es formalidad: evita ese problema concreto."
+      },
+      {
+        "question": "¿Tengo que pedir datos de contacto antes de dar precio?",
+        "answer": "No necesariamente al inicio. El dato de contacto es para el seguimiento, no para el precio. Pídelo cuando el cliente ya mostró interés real, no como primera barrera."
+      }
+    ]
+  },
+  {
     "slug": "errores-automatizar-instagram-dm",
     "title": "Errores al automatizar DMs que te hacen perder clientes",
     "description": "Los errores más comunes al automatizar DMs de Instagram que reducen la conversión: menús infinitos, formularios dentro del chat, respuestas genéricas y falta de salida humana. Con correcciones concretas para cada uno.",
