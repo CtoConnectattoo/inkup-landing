@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-eventos",
+    "title": "Plantilla de cualificación para eventos",
+    "description": "Preguntas exactas para filtrar solicitudes de eventos antes de enviar presupuesto. Plantilla mínima y completa con tabla citable, microcopy listo y variantes por tipo de evento.",
+    "excerpt": "Antes de calcular un presupuesto para un evento necesitas saber si el encargo es viable. Aquí la plantilla de cualificación mínima, la completa y el microcopy para no espantar al cliente.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-eventos.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "eventos",
+      "cualificacion",
+      "plantilla",
+      "presupuestos",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Datos mínimos antes de presupuestar un evento",
+    "quickAnswer": [
+      "**Tipo de evento** — Boda, corporativo, cumpleaños, comunión: el alcance cambia radicalmente según la categoría.",
+      "**Fecha y flexibilidad** — Sin fecha confirmada no hay disponibilidad real. Pregunta también si tiene alternativas.",
+      "**Número de asistentes** — Es el multiplicador de todo: logística, catering, espacio, personal.",
+      "**Servicios exactos que necesita** — Fotografía, catering, decoración, coordinación: cada servicio tiene su propio proceso de cualificación.",
+      "**Presupuesto orientativo o rango** — No para filtrar por precio bajo, sino para no enviar una propuesta que multiplique por tres su cifra.",
+      "**Datos de contacto y canal preferido** — Para no perder el hilo cuando hay que cerrar detalles."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para eventos debe confirmar fecha, tipo, número de asistentes y servicios exactos antes de calcular cualquier presupuesto, para no invertir tiempo en propuestas inviables.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para eventos",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para eventos de alto ticket o alta variabilidad)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de evento",
+      "Implementación sin sistema complejo",
+      "Errores típicos al cualificar eventos",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cualificar una solicitud de evento en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre con resumen y siguiente paso"
+      ],
+      "steps": [
+        {
+          "name": "Confirma los datos que cambian la viabilidad",
+          "text": "Fecha, asistentes y tipo de evento. Sin estos tres datos no puedes saber si tienes disponibilidad ni si el encargo encaja con lo que ofreces."
+        },
+        {
+          "name": "Identifica los servicios exactos que necesita",
+          "text": "No todos los eventos necesitan lo mismo. Pregunta qué servicios busca antes de asumir el alcance completo."
+        },
+        {
+          "name": "Cierra con un resumen y propuesta de siguiente paso",
+          "text": "Un mensaje con lo que entendiste + lo que propones hacer a continuación. Nada de largas explicaciones de precio sin antes haber confirmado viabilidad."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes del tipo 'info para una boda', 'cuánto cobráis por un evento' o 'quería preguntaros por una celebración' sin ningún detalle más. También si acabas enviando presupuestos que el cliente ni abre porque el rango no era el suyo, o si terminas con doce mensajes de ida y vuelta para descubrir que la fecha ya la tienes ocupada.</p><p>No la uses si solo recibes una o dos consultas de eventos al mes y puedes atenderlas con calma. Tampoco si cada evento es tan singular que no hay ningún patrón repetible en las preguntas iniciales.</p><h2>Regla madre para eventos</h2><blockquote><p><strong>Antes de calcular, confirma que el evento es viable.</strong><br>Fecha disponible, número de asistentes dentro de tu capacidad y servicios que realmente ofreces. Si falla uno de esos tres, no hay propuesta que enviar.</p></blockquote><p>La mayoría del tiempo perdido en presupuestos de eventos viene de saltarse esta regla. Se calcula primero y luego se descubre que la fecha está ocupada, que el número de asistentes dobla la capacidad o que el cliente quería un servicio que no está en la oferta.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para el primer contacto. Si alguien abandona aquí, normalmente no era un lead con intención real de contratar.</p><ol><li><strong>¿Qué tipo de evento es?</strong> (boda, evento corporativo, cumpleaños, comunión, aniversario, otro)</li><li><strong>¿Qué fecha tenéis en mente?</strong> ¿Hay flexibilidad o está fija?</li><li><strong>¿Cuántos asistentes aproximadamente?</strong></li><li><strong>¿Qué servicios necesitáis exactamente?</strong> (fotografía, vídeo, catering, decoración, coordinación, música, espacio...)</li><li><strong>Datos de contacto:</strong> nombre + teléfono o email para continuar por el canal que prefieras</li></ol><blockquote><p>Con estas cinco respuestas ya puedes saber si tienes disponibilidad, si el evento encaja con lo que ofreces y qué presupuesto orientativo tiene sentido dar.</p></blockquote><h2>Plantilla completa (para eventos de alto ticket o alta variabilidad)</h2><p>Úsala cuando el cliente ya respondió a la plantilla mínima y el encargo tiene variables que afectan significativamente al precio o al esfuerzo. También cuando un error de estimación en esta fase te cuesta varias horas de trabajo.</p><p>Añade a la mínima:</p><ul><li><strong>Presupuesto orientativo o rango</strong> — para no enviar una propuesta fuera de su margen</li><li><strong>Horario y duración del evento</strong> — mañana, tarde, jornada completa</li><li><strong>Ubicación o zona</strong> — especialmente si hay desplazamiento o si trabajas solo en ciertas áreas</li><li><strong>Preferencias de estilo o referencias</strong> — si aplica a tu servicio (fotografía, decoración)</li><li><strong>Quién toma la decisión final</strong> — en eventos corporativos puede no ser la misma persona que escribe</li><li><strong>Plazo para recibir propuesta</strong> — algunos eventos tienen urgencia real, otros no</li></ul><h2>Tabla citable: pregunta, objetivo y decisión</h2><p>En eventos debes confirmar fecha, asistentes y tipo antes de precio. Esta tabla resume qué habilita cada dato.</p><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué tipo de evento es?</td><td>Alcance, complejidad, protocolo</td><td>Si encaja con tu oferta y qué ruta de preguntas seguir</td></tr><tr><td>¿Qué fecha tenéis en mente?</td><td>Disponibilidad real</td><td>Si puedes aceptar el encargo o no antes de seguir</td></tr><tr><td>¿Cuántos asistentes aproximadamente?</td><td>Escala del evento</td><td>Viabilidad logística y rango de precio base</td></tr><tr><td>¿Qué servicios necesitáis exactamente?</td><td>Alcance real del encargo</td><td>A qué parte de tu equipo o cartera implica</td></tr><tr><td>Presupuesto orientativo o rango</td><td>Margen del cliente</td><td>Si tiene sentido elaborar propuesta o no</td></tr><tr><td>Ubicación o zona</td><td>Desplazamiento, logística</td><td>Si hay coste adicional o restricción geográfica</td></tr><tr><td>Quién toma la decisión</td><td>Interlocutor real</td><td>A quién va dirigida la propuesta</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad</td><td>Canal y persona para el seguimiento</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Preguntar no espanta. Preguntar sin explicar por qué, sí.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"¡Hola! Para darte información útil y no perdernos en mensajes, te hago <strong>4 preguntas rápidas</strong>. Con eso te respondo con todo lo que necesitas saber.\"</p></blockquote><h3>Cuando te piden precio directo</h3><blockquote><p>\"El precio depende bastante del tipo de evento, la fecha y lo que necesitáis. Dime eso y te doy un rango real en lugar de un número que no signifique nada.\"</p></blockquote><h3>Cuando la consulta es vaga ('info para una boda')</h3><blockquote><p>\"Perfecto, con mucho gusto. Para orientarte bien, dime: <strong>¿qué fecha tenéis en mente, cuántos invitados aproximadamente y qué servicios estáis buscando?</strong> Con eso te explico todo.\"</p></blockquote><h3>Microcopy para pedir presupuesto orientativo sin incomodar</h3><blockquote><p>\"Para no enviarte una propuesta fuera de tu margen, ¿me puedes dar un rango orientativo? No hace falta que sea exacto, con saber si estamos hablando de X o de Y me ayuda a ajustarlo bien.\"</p></blockquote><h2>Variantes por tipo de evento</h2><p>No cambies la plantilla entera. Cambia las preguntas variables según el tipo.</p><h3>Bodas</h3><ul><li>Variable crítica: <strong>fecha fija o flexible + lista de servicios (foto, vídeo, catering, coordinación, espacio)</strong></li></ul><blockquote><p>\"¿Fecha? ¿Número de invitados? ¿Qué servicios necesitáis?\"</p></blockquote><h3>Eventos corporativos</h3><ul><li>Variable crítica: <strong>objetivo del evento + número de asistentes + quién decide</strong></li></ul><blockquote><p>\"¿Qué objetivo tiene el evento? ¿Cuántos asistentes? ¿Quién gestiona la organización por vuestra parte?\"</p></blockquote><h3>Cumpleaños y celebraciones privadas</h3><ul><li>Variable crítica: <strong>número de asistentes + servicios + presupuesto orientativo</strong></li></ul><blockquote><p>\"¿Cuántos vais a ser? ¿Qué necesitáis exactamente? ¿Tenéis un presupuesto aproximado en mente?\"</p></blockquote><h3>Eventos de formación o conferencias</h3><ul><li>Variable crítica: <strong>formato (presencial/online/híbrido) + aforo + duración + necesidades técnicas</strong></li></ul><blockquote><p>\"¿Presencial, online o híbrido? ¿Cuántos asistentes? ¿Cuánto dura y qué necesitáis técnicamente?\"</p></blockquote><h2>Implementación sin sistema complejo</h2><p>Si recibes consultas de eventos por Instagram y WhatsApp a la vez y se te mezclan los hilos, el problema no es la plantilla: es que no hay un punto único de entrada. Antes de pensar en herramientas, <a href=\"/blog/datos-minimos-para-agendar-cita/\">define qué datos mínimos necesitas para agendar o presupuestar</a> y dónde quieres recogerlos.</p><h3>Paso 1: decide el canal donde cualificas</h3><ul><li>Si la mayoría llega por Instagram DM, usa el DM como puerta y guía a WhatsApp para el detalle.</li><li>Si llegan por WhatsApp directamente, usa el mensaje de entrada + plantilla mínima en el mismo hilo.</li><li>Si tienes volumen suficiente para que el caos sea real, un link con flujo conversacional previo evita que tengas que hacer las mismas preguntas diez veces al día.</li></ul><h3>Paso 2: estandariza el primer mensaje</h3><p>Que siempre sea el mismo. No improvisar según el humor del día. El mensaje de entrada del microcopy funciona como plantilla guardada en notas o en respuestas rápidas de WhatsApp Business.</p><h3>Paso 3: cierra con resumen y siguiente paso</h3><p>Cuando tengas los datos: un mensaje con lo que entendiste + lo que propones hacer a continuación. Sin párrafos largos. Sin precios sin contexto.</p><p>Si el volumen de consultas ya supera lo que puedes gestionar manualmente y el patrón de preguntas es siempre el mismo, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">hay plantillas por sector que puedes convertir en un flujo estructurado</a> para que los datos lleguen ordenados antes del primer mensaje manual. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que recoge tipo de evento, fecha, asistentes y servicios antes de redirigir la conversación a WhatsApp con el contexto ya preparado. No es para todos los casos — si recibes dos consultas de eventos al mes o cada encargo es completamente distinto, probablemente no lo necesitas aún.</p><h2>Errores típicos al cualificar eventos</h2><ol><li><strong>Enviar precio sin saber la fecha</strong><br>Consecuencia: propuesta enviada para una fecha ya ocupada. Corrección: confirma disponibilidad siempre antes de calcular nada.</li><li><strong>Asumir los servicios que necesita</strong><br>Consecuencia: presupuesto que incluye lo que no quiere o que excluye lo que sí necesita. Corrección: pregunta qué servicios exactos busca, no lo deduzcas del tipo de evento.</li><li><strong>No preguntar por el número de asistentes hasta el final</strong><br>Consecuencia: propuesta elaborada que luego no encaja con la escala real. Corrección: es una de las tres preguntas mínimas, va siempre en el primer mensaje.</li><li><strong>Dar rango de precio sin presupuesto orientativo del cliente</strong><br>Consecuencia: precio que multiplica por tres su cifra y silencio por respuesta. Corrección: pide el rango orientativo antes de dar el tuyo, especialmente en eventos de alto ticket.</li><li><strong>No preguntar quién toma la decisión en eventos corporativos</strong><br>Consecuencia: horas de conversación con alguien que luego tiene que consultarlo con otra persona. Corrección: en el primer intercambio de mensajes, confirma quién gestiona la contratación.</li><li><strong>Hacer toda la cualificación por Instagram DM</strong><br>Consecuencia: la conversación se pierde entre mensajes, las respuestas llegan desordenadas y acabas sin la información completa. Corrección: usa el DM como puerta y <a href=\"/blog/agendar-citas-sin-mensajes/\">guía al cliente a un canal donde puedas cerrar sin volver a empezar</a>.</li></ol>",
+    "faq": [
+      {
+        "question": "¿Cuándo pido el presupuesto orientativo del cliente?",
+        "answer": "Después de saber tipo de evento, fecha y asistentes. Si lo pides antes de tener contexto, el cliente no sabe qué cifra dar y tú no sabes si su rango es realista. Con contexto, la pregunta tiene sentido para los dos."
+      },
+      {
+        "question": "¿Qué hago si me piden precio sin darme ningún dato?",
+        "answer": "No des cifra suelta. Devuelve la mini-plantilla: tipo de evento, fecha, número de asistentes y servicios que necesita. Con eso puedes dar un rango orientativo útil en lugar de un número que probablemente no sirva."
+      },
+      {
+        "question": "¿Pregunto por el presupuesto del cliente aunque me baje la conversión?",
+        "answer": "En eventos, sí. El coste de presupuestar sin saber el rango es mayor que el de perder a alguien que no puede permitirse el servicio. Enmarca la pregunta como 'para no enviarte una propuesta fuera de tu margen' y la fricción baja."
+      },
+      {
+        "question": "¿Qué hago si la fecha está sin confirmar?",
+        "answer": "Pregunta si tiene fechas alternativas y si hay un plazo máximo. Un evento sin fecha fija puede ser real o puede ser alguien explorando sin intención de contratar pronto. La respuesta a esa pregunta te lo dice."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para una primera consulta de evento?",
+        "answer": "Más de seis en el primer contacto es excesivo. Usa la plantilla mínima para el primer mensaje y amplía solo si responde y el encargo tiene variabilidad alta. La plantilla completa es para cuando ya hay interés confirmado."
+      },
+      {
+        "question": "¿Cómo cualifico si el cliente solo escribe 'info para una boda'?",
+        "answer": "Con tres preguntas directas: fecha aproximada, número de invitados y qué servicios necesita exactamente. No hay que esperar a tener todo el detalle para responder, pero esos tres datos son los mínimos antes de decir cualquier cosa sobre disponibilidad o precio."
+      },
+      {
+        "question": "¿Sirve esta plantilla para eventos corporativos y para bodas?",
+        "answer": "La estructura sirve para los dos, pero las variables cambian. En eventos corporativos importa más el objetivo del evento y el interlocutor que toma decisiones. En bodas, la fecha y la lista de servicios son los datos críticos desde el inicio."
+      },
+      {
+        "question": "¿Hago la cualificación por Instagram DM o por WhatsApp?",
+        "answer": "El DM funciona como puerta: recibe el primer mensaje y guía al cliente hacia un punto donde puedas recoger datos con calma. Hacer toda la cualificación por DM es posible, pero WhatsApp o un flujo estructurado evitan que la conversación se pierda entre mensajes."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-fotografia",
     "title": "Plantilla de cualificación para fotografía y vídeo",
     "description": "Preguntas exactas para cualificar clientes de fotografía y vídeo antes de preparar presupuesto. Versión mínima, completa y microcopy listo para copiar según tipo de encargo.",
