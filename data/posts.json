@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-formacion",
+    "title": "Plantilla de cualificación para formación y cursos",
+    "description": "Preguntas exactas para separar interesados reales de curiosos en negocios de formación y cursos. Plantilla mínima, versión completa, microcopy listo y tabla citable por intención.",
+    "excerpt": "En formación, el problema no es que no escriban. Es que escriben sin saber qué quieren, sin presupuesto claro y sin disponibilidad definida. Esta plantilla filtra antes de que pierdas 20 minutos explicando lo mismo.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-formacion.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "formacion",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima: 5 preguntas para separar interesados reales",
+    "quickAnswer": [
+      "**Objetivo concreto** — Qué quiere conseguir exactamente con la formación, no el tema genérico.",
+      "**Nivel actual** — Desde dónde parte: sin experiencia, con base, o perfil avanzado.",
+      "**Disponibilidad real** — Franjas horarias, días y si puede comprometerse con el ritmo del curso.",
+      "**Presupuesto orientativo** — No para descartarlos, sino para no hacer perder el tiempo a ninguno de los dos.",
+      "**Formato preferido** — Online, presencial, intensivo, a su ritmo. Cambia todo el proceso."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para formación debe confirmar objetivo, nivel, disponibilidad, presupuesto y formato antes de dedicar tiempo a explicar el programa — con eso decides si tiene sentido continuar la conversación.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita el 80% del tiempo perdido",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando el lead ya está dentro)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy: cómo presentar las preguntas sin sonar a formulario de RRHH",
+      "Variantes por tipo de formación",
+      "Errores típicos al cualificar en formación",
+      "Implementación sin herramienta técnica",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para formación en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Canal de entrada (Instagram DM o WhatsApp)",
+        "Preguntas mínimas definidas",
+        "Mensaje de cierre estandarizado"
+      ],
+      "steps": [
+        {
+          "name": "Define tus 5 datos mínimos",
+          "text": "Objetivo, nivel, disponibilidad, presupuesto orientativo y formato preferido. Son los únicos que cambian tu respuesta."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM o WhatsApp como puerta. Si el volumen es alto, un link con flujo conversacional evita que te satures antes de responder."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un solo mensaje con: resumen de lo que te dijo + si encaja o no + siguiente paso concreto (llamada, reserva, lista de espera)."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como \"¿cuánto vale el curso?\", \"¿para quién es?\", \"¿cuándo empieza?\" sin ningún dato sobre quién escribe ni qué quiere conseguir. O si terminas explicando el programa completo por WhatsApp y la persona desaparece sin responder.</p><p>También encaja si tienes varias modalidades (online, presencial, intensivo, mentorizado) y pierdes tiempo decidiendo cuál proponer porque no sabes nada del interesado.</p><p>No la uses todavía si solo recibes dos o tres consultas a la semana y puedes gestionarlas sin agobiarte. Con ese volumen, el sistema es tuyo y no necesita estructura.</p><h2>La regla que evita el 80% del tiempo perdido</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión.</strong><br>En formación, eso son cinco datos: objetivo, nivel, disponibilidad, presupuesto y formato. Si la respuesta a alguna de estas preguntas no cambia lo que le vas a decir, no la hagas todavía.</p></blockquote><p>La mayoría de formadores preguntan demasiado al principio (motivación profunda, experiencia laboral, expectativas a largo plazo) o demasiado poco (solo el nombre y el email). Ninguno de los dos extremos <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtra de verdad</a>.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión es para el primer contacto. Pide lo justo para saber si tiene sentido continuar.</p><ol><li><strong>¿Qué quieres conseguir exactamente con esta formación?</strong> (no el tema: el resultado)</li><li><strong>¿Desde dónde partes?</strong> Sin experiencia previa / Con base pero sin práctica / Con experiencia y quiero avanzar</li><li><strong>¿Cuándo podrías empezar y qué disponibilidad tienes?</strong> (horas semanales, franjas)</li><li><strong>¿Tienes un presupuesto orientativo en mente?</strong> (aunque sea un rango)</li><li><strong>¿Prefieres formato online, presencial o te da igual si el resultado es el mismo?</strong></li></ol><blockquote><p>Con estas cinco respuestas puedes recomendar modalidad, decir si encaja o no, y proponer siguiente paso. Sin ellas, cualquier respuesta tuya es ruido.</p></blockquote><h2>Plantilla completa (cuando el lead ya está dentro)</h2><p>Úsala cuando el interesado ya respondió la mínima y quieres cualificar mejor antes de una llamada o de enviar propuesta.</p><p>Añade a la mínima:</p><ul><li>Por qué ahora: qué ha cambiado para que esté buscando esto en este momento</li><li>Qué ha intentado antes y por qué no funcionó</li><li>Si hay alguien más implicado en la decisión (empresa que paga, pareja, etc.)</li><li>Cómo prefiere el seguimiento (llamada, audio, mensajes escritos)</li><li>Si tiene alguna restricción técnica o de acceso (idioma, herramientas, conexión)</li></ul><p>No hagas todas estas preguntas en el primer mensaje. Son para cuando ya hay conversación real.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué quieres conseguir?</td><td>Motivación real + resultado esperado</td><td>Si tu formación resuelve lo que busca</td></tr><tr><td>¿Desde dónde partes? (nivel)</td><td>Punto de partida real</td><td>Si encaja en el nivel del programa</td></tr><tr><td>¿Cuándo puedes empezar y cuánto tiempo tienes?</td><td>Disponibilidad real</td><td>Si puede seguir el ritmo o necesita otra modalidad</td></tr><tr><td>¿Tienes presupuesto orientativo?</td><td>Capacidad económica + seriedad</td><td>Si hay encaje o hay que redirigir</td></tr><tr><td>¿Formato preferido?</td><td>Restricciones logísticas</td><td>Qué modalidad proponer</td></tr><tr><td>¿Por qué ahora?</td><td>Urgencia real</td><td>Si es decisión activa o solo exploración</td></tr><tr><td>¿Qué has intentado antes?</td><td>Contexto + expectativas</td><td>Si puedes diferenciarte o es el mismo patrón</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar a formulario de RRHH</h2><p>El problema no es preguntar. Es preguntar sin contexto. Cuando alguien recibe cinco preguntas seguidas sin saber para qué, cierra el chat.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"Perfecto, te ayudo. Para saber si esto encaja contigo y no perderte el tiempo, te hago 3 preguntas rápidas. En serio, 1 minuto.\"</p></blockquote><h3>Cuando preguntan precio sin más</h3><blockquote><p>\"El precio depende de la modalidad y de tu punto de partida. Dime: qué quieres conseguir + si tienes base previa + si buscas online o presencial. Con eso te doy cifra real, no un rango genérico.\"</p></blockquote><h3>Cuando no saben qué nivel tienen</h3><blockquote><p>\"Sin problema. Dime cuál de estas tres te describe mejor: nunca he tocado esto / he visto algo pero no lo he aplicado / lo aplico pero quiero mejorar. Con eso ya sé dónde meto.\"</p></blockquote><h3>Mensaje de cierre si encaja</h3><blockquote><p>\"Con lo que me dices, creo que encajas bien. El siguiente paso es [llamada de 20 minutos / acceso a la página del programa / reserva de plaza]. ¿Cuándo tienes hueco esta semana?\"</p></blockquote><h3>Mensaje de cierre si no encaja</h3><blockquote><p>\"Siendo honesto, creo que este programa no es para ti ahora mismo porque [nivel / disponibilidad / presupuesto]. Lo que sí te recomendaría es [alternativa concreta o lista de espera]. ¿Te cuadra?\"</p></blockquote><h2>Variantes por tipo de formación</h2><p>No cambies toda la plantilla. Cambia solo la pregunta variable según lo que hace diferente tu programa.</p><h3>Curso online grabado (acceso libre)</h3><ul><li>Variable clave: <strong>disponibilidad semanal real</strong> (mucha gente compra y no termina)</li></ul><blockquote><p>\"¿Cuántas horas a la semana puedes dedicar de verdad? No las que te gustaría, las que tienes.\"</p></blockquote><h3>Mentoría o formación personalizada</h3><ul><li>Variable clave: <strong>objetivo específico + qué ha intentado antes</strong></li></ul><blockquote><p>\"¿Qué quieres tener resuelto al terminar y qué has probado ya que no funcionó?\"</p></blockquote><h3>Formación presencial o intensivo</h3><ul><li>Variable clave: <strong>fechas concretas + desplazamiento</strong></li></ul><blockquote><p>\"¿Puedes el [fechas]? ¿Tienes que desplazarte o estás cerca?\"</p></blockquote><h3>Formación para empresas o equipos</h3><ul><li>Variable clave: <strong>número de personas + quién decide + presupuesto de empresa</strong></li></ul><blockquote><p>\"¿Cuántas personas serían? ¿Eres tú quien decide o hay que pasar por alguien más?\"</p></blockquote><p>Para más contexto sobre cómo <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">adaptar preguntas por sector</a>, el criterio es siempre el mismo: pregunta lo que cambia tu respuesta, no lo que te da curiosidad.</p><h2>Errores típicos al cualificar en formación</h2><ol><li><strong>Explicar el programa antes de saber si encaja</strong><br>→ Consecuencia: 15 minutos invertidos en alguien que no tiene presupuesto ni disponibilidad.<br>→ Corrección: plantilla mínima antes de cualquier explicación.</li><li><strong>Preguntar nivel sin dar opciones</strong><br>→ Consecuencia: la mayoría responde \"intermedio\" aunque no saben qué significa.<br>→ Corrección: tres opciones concretas y que elijan.</li><li><strong>No preguntar disponibilidad real</strong><br>→ Consecuencia: el alumno se apunta, no puede seguir el ritmo y pide devolución o genera soporte.<br>→ Corrección: pregunta horas semanales reales, no las que aspiran a tener.</li><li><strong>Evitar hablar de precio hasta el final</strong><br>→ Consecuencia: todo el proceso de cualificación se cae cuando llegan a la cifra.<br>→ Corrección: presupuesto orientativo en la plantilla mínima, no al final.</li><li><strong>Confundir interés con intención</strong><br>→ Consecuencia: dedicas tiempo a alguien que \"está mirando opciones\" sin intención de decidir pronto.<br>→ Corrección: añade \"¿para cuándo querrías empezar?\" como filtro de urgencia.</li></ol><h2>Implementación sin herramienta técnica</h2><p>Si todavía no tienes sistema y gestionas todo a mano, esto funciona desde hoy:</p><h3>Paso 1: copia la plantilla mínima en notas del móvil</h3><p>No en la cabeza. Cuando llegue el próximo mensaje de \"hola, info del curso\", copias y pegas el mensaje de entrada y las cinco preguntas. Sin improvisar.</p><h3>Paso 2: decide el canal de cierre</h3><p>El DM de Instagram sirve para confirmar interés y mandar a WhatsApp. No intentes cerrar en DM: el hilo se pierde, las respuestas se solapan y no tienes trazabilidad. <a href=\"/blog/como-separar-consultas-info-vs-cita/\">Separar las consultas de info de las de intención real</a> es lo primero que te ahorra tiempo.</p><h3>Paso 3: estandariza el mensaje de cierre</h3><p>Un mensaje, no tres. Resumen de lo que te dijo + si encaja + siguiente paso. Si tienes volumen suficiente para que esto se repita más de 20 veces a la semana, el siguiente paso lógico es estructurarlo como flujo: las preguntas se hacen antes de que llegues tú, y cuando abres WhatsApp ya tienes el contexto. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link con asistente conversacional que recoge objetivo, nivel, disponibilidad y presupuesto antes de redirigir la conversación a WhatsApp con el contexto ya ordenado. No es para todos los casos — si recibes pocas consultas o tu proceso de venta requiere una conversación exploratoria larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Pido el presupuesto orientativo aunque luego negocie?",
+        "answer": "Sí. No para cerrar en frío, sino para no invertir 30 minutos en alguien que espera pagar 50€ por algo que cuesta 500€. Pide \"rango\" si la cifra exacta les bloquea."
+      },
+      {
+        "question": "¿Qué hago si me dicen que no saben qué nivel tienen?",
+        "answer": "Ofrece tres opciones concretas: sin experiencia previa, con base pero sin práctica real, o con experiencia y quiero especializarme. La mayoría se ubica en una de las tres."
+      },
+      {
+        "question": "¿La cualificación va en DM de Instagram o en WhatsApp?",
+        "answer": "El DM funciona como puerta: confirmas que hay intención real y mandas a WhatsApp o a un link. Hacer toda la cualificación en DM alarga el proceso y se corta fácil."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo para preguntar precio?",
+        "answer": "No des cifra suelta. Devuelve: objetivo + nivel + formato preferido. Con eso das un rango útil que no descoloca."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas en formación?",
+        "answer": "Más de cinco en el primer contacto es demasiado. Empieza con la mínima. Si responden, amplías. Si no responden a dos preguntas básicas, no eran un lead real."
+      },
+      {
+        "question": "¿Cómo filtro a los que solo quieren el certificado y no el aprendizaje?",
+        "answer": "Añade una pregunta de objetivo: qué quieres hacer con esto cuando termines. La respuesta te dice si la motivación encaja con lo que ofreces o vas a tener una baja a los tres días."
+      },
+      {
+        "question": "¿Tengo que cualificar aunque mi curso sea grabado y de acceso libre?",
+        "answer": "Si cobras y hay soporte o comunidad, sí. Un alumno sin nivel ni disponibilidad adecuada genera soporte innecesario, reseñas malas y devoluciones. El filtro te protege a ti también."
+      },
+      {
+        "question": "¿Y si mi formación tiene varias modalidades y no sé cuál ofrecerle?",
+        "answer": "Primero cualifica. Con objetivo + nivel + disponibilidad + presupuesto ya puedes recomendar la modalidad correcta sin que tú tengas que preguntar cuál quieren."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-tatuajes",
     "title": "Plantilla de cualificación para tatuajes",
     "description": "Preguntas exactas para cualificar consultas de tatuaje antes de hablar de precio. Plantilla mínima de 5 preguntas + versión completa + microcopy listo para copiar en DM o WhatsApp.",
