@@ -1,5 +1,109 @@
 [
   {
+    "slug": "como-pasar-de-comentario-a-consulta",
+    "title": "De comentario a consulta: cómo llevar interesados al flujo correcto",
+    "description": "Cuando alguien comenta en tu publicación, estás a un paso de perderlo para siempre o de convertirlo en una consulta real. Aprende cómo responder comentarios con un CTA claro que lleve al flujo correcto sin DMs infinitos.",
+    "excerpt": "Un comentario no es una consulta. Para que lo sea, necesitas responder con una intención clara, un link que filtre y un flujo que capture datos antes de que llegue a tu WhatsApp.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-pasar-de-comentario-a-consulta.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "consultas",
+      "captacion",
+      "flujo-atencion",
+      "comentarios",
+      "conversion"
+    ],
+    "quickAnswerSubtitle": "Cómo convertir un comentario de Instagram en una consulta estructurada",
+    "quickAnswer": [
+      "**Responde el comentario con una intención concreta** — no con \"escríbeme por DM\", sino con una ruta clara: \"si quieres presupuesto, aquí tienes el link\".",
+      "**Usa un link que filtre antes de que llegues tú** — el link de atención captura datos mínimos para que la conversación ya tenga contexto cuando empiece.",
+      "**No conviertas el DM en el sistema** — el DM es la puerta, no el proceso; si todo pasa ahí, pierdes contexto y tiempo.",
+      "**Trata el comentario como señal de interés, no como consulta resuelta** — el interesado aún no ha entrado en el flujo hasta que no da sus datos."
+    ],
+    "oneLineDefinition": "Pasar de comentario a consulta es el proceso de responder una interacción pública en Instagram con un CTA que lleva al interesado a un flujo estructurado donde deja sus datos y su intención antes de que respondas manualmente.",
+    "sections": [
+      "Por qué el comentario no es una consulta (y qué diferencia hay)",
+      "El recorrido real: de comentario a WhatsApp con contexto",
+      "Checklist: cómo responder un comentario para que convierta",
+      "Scripts listos para responder comentarios según intención",
+      "Errores que hacen que el interesado se enfríe antes de escribirte",
+      "Cuándo NO tiene sentido este flujo",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Cómo convertir un comentario en una consulta estructurada",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Respuesta al comentario con CTA",
+        "Link de atención con flujo conversacional",
+        "WhatsApp como canal de cierre"
+      ],
+      "steps": [
+        {
+          "name": "Identifica la intención del comentario",
+          "text": "Clasifica si es curiosidad, interés en precio, interés en disponibilidad o pregunta concreta antes de responder."
+        },
+        {
+          "name": "Responde en público con un CTA de intención",
+          "text": "No digas solo 'escríbeme'. Di exactamente qué va a encontrar si hace clic: presupuesto, cita, información."
+        },
+        {
+          "name": "Dirige a un link que filtre",
+          "text": "El link no debe llevar directamente a WhatsApp sin contexto. Debe pasar por un flujo que capture datos mínimos."
+        },
+        {
+          "name": "El flujo captura datos antes del chat",
+          "text": "Servicio, fecha, contexto y datos de contacto. Así llega a WhatsApp con información, no con un 'hola'."
+        },
+        {
+          "name": "Responde en WhatsApp con lo que ya sabes",
+          "text": "La conversación arranca con contexto. No empiezas desde cero y el cliente siente que ya te has leído."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué el comentario no es una consulta (y qué diferencia hay)</h2><p>Alguien comenta \"qué precio tiene esto\" o \"me encanta, ¿tenéis disponibilidad?\" en tu última publicación. Lo normal es responder \"te mando un DM\" o \"escríbeme por aquí\". Y ahí empieza el problema.</p><p>El comentario es una señal de interés, no una consulta estructurada. La diferencia importa: una consulta tiene intención clara, datos de contacto y contexto suficiente para que puedas responder con algo útil. Un comentario no tiene ninguna de esas tres cosas todavía.</p><p>Mientras tratas el comentario como si fuera ya una consulta, estás tomando una decisión sin datos. No sabes qué servicio exacto quiere, cuándo, para quién, ni si encaja con lo que ofreces. Y si respondes con un precio genérico o con un \"escríbeme\", tienes dos problemas: o das información que no se ajusta a lo que necesita, o dependes de que él dé el siguiente paso en un canal sin estructura.</p><h2>El recorrido real: de comentario a WhatsApp con contexto</h2><p>El flujo que funciona no es comentario → DM → chat infinito. Es este:</p><ol><li>Alguien comenta con señal de interés.</li><li>Respondes en público con un CTA que indica exactamente qué va a encontrar al hacer clic.</li><li>El link lleva a un asistente conversacional que le hace 3-5 preguntas mínimas.</li><li>Llega a WhatsApp (o al canal de cierre que uses) con sus datos y su intención ya registrados.</li><li>Tu respuesta arranca con contexto, no desde cero.</li></ol><p>Este recorrido tiene una ventaja que no se nota a primera vista: el interesado que completa el flujo es mucho más probable que cierre. El que solo comenta y espera que tú lo persigas, muchas veces no estaba tan listo.</p><p>Si todavía no tienes claro cómo montar ese link de atención, <a href=\"/blog/link-en-bio-para-atencion-clientes/\">aquí se explica cómo convertirlo en un sistema en lugar de un menú</a>.</p><h2>Checklist: cómo responder un comentario para que convierta</h2><p>Este bloque es accionable hoy, sin herramientas nuevas.</p><ul><li><strong>Identifica la intención antes de responder</strong> — precio, disponibilidad, información general o pregunta técnica. Cada una pide un CTA distinto.</li><li><strong>Responde siempre en el comentario, no solo en DM</strong> — los DMs que no piden que hagan algo son ruido. El comentario público también lo ven otros interesados.</li><li><strong>Incluye en la respuesta qué va a pasar si hace clic</strong> — \"te mando el link para que veas fechas disponibles\" es mejor que \"te mando info\".</li><li><strong>Usa el link de atención, no tu número de WhatsApp directo</strong> — si va directo a WhatsApp sin pasar por el flujo, llegas al chat sin datos y vuelves al principio.</li><li><strong>No resuelvas todo en el comentario</strong> — dar el precio completo en público antes de saber nada del cliente crea comparaciones sin contexto y elimina la razón para entrar al flujo.</li><li><strong>Cierra el comentario con una acción única</strong> — un solo paso. Si pides que haga clic en el link, que envíe DM y que te llame, no hace nada.</li></ul><h2>Scripts listos para responder comentarios según intención</h2><p>Estos scripts están escritos para copiar y ajustar. Son para comentarios públicos, no para DMs.</p><h3>Script 1 — Comentario de precio</h3><blockquote><p>&quot;El precio varía según el servicio concreto. Te paso el link para que puedas dejar los detalles y te damos un presupuesto real: [link]. Te respondo en menos de 24h.&quot;</p></blockquote><h3>Script 2 — Comentario de disponibilidad</h3><blockquote><p>&quot;Tenemos huecos disponibles. Para ver opciones de fecha, entra aquí y déjanos los datos básicos: [link]. Así te confirmo en un mensaje.&quot;</p></blockquote><h3>Script 3 — Comentario genérico de interés (&quot;qué bonito&quot;, &quot;me encanta&quot;)</h3><blockquote><p>&quot;Gracias. Si te interesa saber cómo funciona o qué incluye, aquí tienes el link con toda la info y puedes dejar tus datos si quieres consulta: [link].&quot;</p></blockquote><h3>Script 4 — Comentario con pregunta técnica</h3><blockquote><p>&quot;Buena pregunta. La respuesta depende de un par de detalles tuyos. Entra aquí para que pueda responderte con precisión: [link].&quot;</p></blockquote><p>Nota sobre el tono: no hace falta sonar corporativo. Ajusta el registro a cómo hablas en tu perfil. Lo que no debe cambiar es la estructura: reconocer, dar razón para hacer clic, un solo paso.</p><p>Si quieres ver cómo combinar esto con respuestas automáticas en Instagram, <a href=\"/blog/auto-respuesta-instagram-que-convierte/\">aquí hay una guía específica sobre auto-respuestas que convierten sin espantar</a>.</p><h2>Errores que hacen que el interesado se enfríe antes de escribirte</h2><ol><li><strong>&quot;Escríbeme por DM&quot;</strong> sin más contexto — el interesado no sabe qué va a encontrar, no tiene razón para actuar y tú no tienes datos cuando llegue. Corrección: especifica qué va a pasar si escribe o si hace clic.</li><li><strong>Dar el precio en el comentario sin contexto</strong> — el interesado compara ese número con el de la competencia sin entender qué incluye. Corrección: da un rango condicionado o deriva al flujo para dar precio real.</li><li><strong>Responder el comentario solo con corazones o emojis</strong> — no hay CTA, no hay siguiente paso, el interés se enfría. Corrección: aunque sea breve, añade siempre un paso.</li><li><strong>Llevar directo a WhatsApp sin flujo previo</strong> — llegas al chat sin datos, repites las mismas preguntas y pierdes el control de la conversación desde el inicio. Corrección: usa un link que capture datos mínimos antes.</li><li><strong>Poner el link de atención solo en bio y no en la respuesta</strong> — el interesado no va a buscar el link en bio si estás respondiendo su comentario. Corrección: incluye el link en la respuesta directa al comentario cuando la plataforma lo permita, o indica exactamente dónde está.</li><li><strong>Responder dos días después</strong> — el interés en un comentario de Instagram tiene una vida útil de horas, no de días. Si no puedes responder rápido manualmente, <a href=\"/blog/automatizar-mensajes-instagram-negocio/\">automatizar el primer contacto en Instagram</a> es una opción para no perder esa ventana.</li></ol><h2>Cuándo NO tiene sentido este flujo</h2><ul><li>Si tu servicio es tan único que cada consulta requiere una conversación larga desde el primer mensaje. En ese caso, el flujo de datos mínimos puede cortar antes de tiempo.</li><li>Si tienes menos de 5-10 comentarios con intención de compra a la semana. Con ese volumen, la gestión manual es más rápida que montar un sistema.</li><li>Si tu proceso de venta depende de una llamada inicial larga antes de dar cualquier información. Aquí el flujo funciona como cualificador previo, no como sustituto.</li><li>Si el problema real es que no llegas a tener comentarios con interés. Ningún flujo convierte lo que no existe: primero hay que generar demanda.</li></ul><p>Para gestionar el tráfico que ya llega desde Stories hacia el link, <a href=\"/blog/como-usar-stories-para-llevar-al-link/\">aquí hay un artículo específico sobre cómo usarlas para llevar al link y filtrar consultas</a>.</p><h2>El siguiente paso (si quieres implementarlo)</h2><p>El flujo descrito requiere tres piezas: una respuesta al comentario con CTA claro, un link de atención que capture datos antes del chat y un canal de cierre donde llegas con contexto. Las dos primeras piezas las puedes construir manualmente con lo que ya tienes. La tercera es donde se pierde más tiempo si no está estructurada.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link con asistente conversacional que hace las preguntas mínimas y redirige a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen de comentarios con intención es bajo o cada consulta requiere discovery humano profundo desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Qué pongo en la respuesta al comentario si no puedo poner un link clicable?",
+        "answer": "Indica exactamente dónde está el link: 'el link está en mi bio, busca el botón de consultas'. Es un paso más, pero funciona mejor que 'escríbeme' sin instrucciones."
+      },
+      {
+        "question": "¿Debo responder todos los comentarios con un CTA o solo los que preguntan precio o disponibilidad?",
+        "answer": "Solo los que tienen señal de intención de compra. Los comentarios de halago sin pregunta no necesitan CTA comercial; puedes responderlos con agradecimiento normal."
+      },
+      {
+        "question": "¿Qué hago si alguien comenta y luego me escribe por DM sin pasar por el link?",
+        "answer": "Recíbelo, pero guíalo al flujo desde el DM: 'para darte un presupuesto real necesito un par de datos, te paso el link para que sea más rápido'. No empieces el proceso de cualificación en el DM."
+      },
+      {
+        "question": "¿Cuánto tiempo tengo para responder un comentario antes de que el interés se enfríe?",
+        "answer": "En Instagram, la ventana de alta intención suele ser de pocas horas. Si no puedes responder en el mismo día, la conversión cae. Para picos o cuando no estás disponible, una auto-respuesta al DM puede cubrir ese hueco."
+      },
+      {
+        "question": "¿Qué pasa si doy el precio en el comentario y el interesado no entra al flujo?",
+        "answer": "Que compara ese número sin contexto con la competencia y tú no tienes ningún dato suyo. Da un rango condicionado ('desde X según el servicio') y deriva al link para el precio real."
+      },
+      {
+        "question": "¿Cómo sé si mis respuestas a comentarios están convirtiendo?",
+        "answer": "Mira cuántas personas que comentan acaban completando el flujo y llegando a WhatsApp. Si el ratio es muy bajo, el problema suele estar en el CTA (no es claro) o en el link (pide demasiado o confunde)."
+      },
+      {
+        "question": "¿Funciona igual en publicaciones normales que en Reels?",
+        "answer": "La mecánica es la misma, pero los Reels suelen tener más alcance frío. Los comentarios en Reels pueden venir de personas que no te conocen, así que el microcopy del CTA necesita más contexto sobre qué van a encontrar."
+      },
+      {
+        "question": "¿Qué datos mínimos debería capturar el flujo antes de que lleguen a WhatsApp?",
+        "answer": "Servicio exacto, fecha aproximada o flexibilidad, y datos de contacto. Con eso ya puedes responder con algo concreto sin volver a preguntar desde cero."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificar-clientes-servicios",
     "title": "Plantilla para cualificar clientes en negocios de servicios",
     "description": "Preguntas exactas para filtrar y cualificar clientes sin perder conversiones. Plantilla mínima en 7 preguntas + variantes por intención (cita, presupuesto, info) y microcopy listo para copiar.",
