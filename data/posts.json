@@ -1,5 +1,118 @@
 [
   {
+    "slug": "etiquetas-whatsapp-para-organizar",
+    "title": "Etiquetas en WhatsApp Business para organizar clientes (sistema simple)",
+    "description": "Cómo usar las etiquetas de WhatsApp Business para no perder leads, priorizar respuestas y mantener el caos de mensajes bajo control sin herramientas extra.",
+    "excerpt": "Las etiquetas de WhatsApp Business son la forma más rápida de ordenar conversaciones por etapa sin necesidad de CRM. Con 5–7 etiquetas bien definidas y una regla de uso, dejas de perder leads entre el ruido.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/etiquetas-whatsapp-para-organizar.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp-business",
+      "organizacion-mensajes",
+      "gestion-consultas",
+      "etiquetas",
+      "procesos",
+      "leads"
+    ],
+    "quickAnswerSubtitle": "Etiquetas en WhatsApp Business para organizar clientes",
+    "quickAnswer": [
+      "**Usa 5–7 etiquetas por etapa** — Nuevo contacto, Esperando datos, Listo para responder, Pendiente de cita, Cerrado y Descartado cubren el 90% de los casos.",
+      "**Asigna la etiqueta en el momento, no después** — Si esperas a etiquetar al final del día, no lo harás. Un gesto al abrir la conversación basta.",
+      "**Una regla por etiqueta** — Cada etiqueta necesita una acción asociada: qué haces cuando un contacto lleva esa etiqueta. Sin regla, la etiqueta es decoración.",
+      "**Revisa por etiqueta, no por orden de llegada** — Abre WhatsApp filtrando por 'Listo para responder' antes de mirar los no leídos. Así priorizas en vez de apagar fuegos.",
+      "**Archiva o descarta con intención** — Un lead sin respuesta en 72 horas pasa a 'Descartado' o 'Archivado'. Mantener conversaciones abiertas eternamente enturbia el sistema."
+    ],
+    "oneLineDefinition": "Las etiquetas de WhatsApp Business son marcadores de color que permiten clasificar conversaciones por etapa o intención para responder en orden, sin perder leads ni mezclar urgentes con curiosos.",
+    "sections": [
+      "Qué son las etiquetas de WhatsApp Business y para qué sirven realmente",
+      "El sistema de 5–7 etiquetas que funciona en negocios de servicios",
+      "Cómo implementarlo en menos de 30 minutos",
+      "Reglas de uso para que el sistema no se rompa",
+      "Errores comunes con etiquetas (y cómo evitarlos)",
+      "Cuándo las etiquetas no son suficientes",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Montar un sistema de etiquetas en WhatsApp Business",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business (app o web)",
+        "Lista de servicios propios",
+        "Reglas de etiqueta por etapa"
+      ],
+      "steps": [
+        {
+          "name": "Listar las etapas reales de tus conversaciones",
+          "text": "Antes de crear etiquetas, anota cómo avanza una consulta típica: desde el primer mensaje hasta el cierre o descarte."
+        },
+        {
+          "name": "Crear las etiquetas en WhatsApp Business",
+          "text": "Ve a Más opciones > Etiquetas > Nueva etiqueta. Crea entre 5 y 7. No más."
+        },
+        {
+          "name": "Asignar un color diferente a cada etapa",
+          "text": "El color permite identificar la etapa de un vistazo sin leer el nombre. Usa colores distintos para etapas activas vs cerradas."
+        },
+        {
+          "name": "Definir la regla de acción para cada etiqueta",
+          "text": "Por cada etiqueta escribe en una nota qué acción implica: qué haces cuando un contacto lleva esa etiqueta."
+        },
+        {
+          "name": "Etiquetar las conversaciones abiertas ahora mismo",
+          "text": "Dedica 10 minutos a etiquetar todas las conversaciones activas. Si no sabes dónde va una, crea una etiqueta 'Sin clasificar' temporal."
+        },
+        {
+          "name": "Establecer el hábito de etiquetar al abrir",
+          "text": "Cada vez que abres una conversación, asigna o actualiza la etiqueta antes de responder. Un segundo de fricción evita horas de caos."
+        },
+        {
+          "name": "Revisar por etiqueta, no por orden de llegada",
+          "text": "Empieza siempre por 'Listo para responder', luego 'Esperando datos'. Los no etiquetados van al final."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué son las etiquetas de WhatsApp Business y para qué sirven realmente</h2><p>Tienes 40 conversaciones abiertas en WhatsApp. Algunas son leads calientes esperando respuesta, otras son curiosos que preguntaron precio hace tres días y no volvieron, y otras son clientes que ya confirmaron cita. Si las tratas todas igual, pierdes las que importan.</p><p>Las etiquetas de WhatsApp Business son marcadores de color que puedes asignar a conversaciones o mensajes concretos para clasificarlos por etapa, intención o prioridad. No son automáticas, no son IA y no hacen nada solas. Su valor está en convertir una bandeja de entrada caótica en una lista de trabajo ordenada por lo que toca hacer ahora.</p><p>La diferencia entre tenerlas bien configuradas o no es la diferencia entre abrir WhatsApp y saber exactamente a quién responder primero, o abrir WhatsApp y empezar por quien escribió más tarde (que no siempre es el más importante).</p><h2>El sistema de 5–7 etiquetas que funciona en negocios de servicios</h2><p>No necesitas una etiqueta por tipo de servicio, ni por canal, ni por ciudad. Necesitas etiquetas por etapa de la conversación. Las etapas son las mismas en un estudio de tatuaje, una clínica de estética o un fotógrafo: alguien entra, preguntas algo, tú necesitas datos, llegas a un acuerdo o no.</p><h3>Sistema base (copia y adapta)</h3><table><thead><tr><th>Etiqueta</th><th>Cuándo se asigna</th><th>Acción asociada</th></tr></thead><tbody><tr><td>Nuevo contacto</td><td>Primer mensaje recibido, sin respuesta tuya todavía</td><td>Responder en el turno de respuesta más próximo</td></tr><tr><td>Esperando datos</td><td>Ya respondiste y pediste información; el cliente no ha contestado</td><td>Seguimiento si no responde en 24–48 h</td></tr><tr><td>Listo para responder</td><td>El cliente dio los datos mínimos; tú tienes todo para avanzar</td><td>Prioridad alta: responde antes que cualquier otro</td></tr><tr><td>Pendiente de cita</td><td>Hay acuerdo verbal pero la cita no está confirmada</td><td>Confirmar fecha y enviar detalles</td></tr><tr><td>Cerrado</td><td>Cita confirmada, presupuesto aceptado o servicio prestado</td><td>Archivar tras el servicio</td></tr><tr><td>Descartado</td><td>No encaja, no responde tras dos intentos o pidió algo fuera de rango</td><td>Cerrar sin eliminar (puede volver)</td></tr><tr><td>Sin clasificar (opcional)</td><td>Conversación que no sabes dónde meter todavía</td><td>Clasificar antes del final del día</td></tr></tbody></table><p>Con este sistema puedes filtrar WhatsApp Business por etiqueta y ver de un vistazo cuántos contactos están en cada etapa. Si tienes cinco personas en &quot;Listo para responder&quot;, sabes que tienes trabajo urgente. Si tienes doce en &quot;Esperando datos&quot; desde hace cuatro días, sabes que hay seguimientos pendientes.</p><h2>Cómo implementarlo en menos de 30 minutos</h2><p>Crear las etiquetas es lo de menos. La parte que requiere atención es el primer etiquetado masivo de conversaciones abiertas y establecer el hábito de etiquetar al abrir.</p><ol><li><strong>Abre WhatsApp Business</strong> en el móvil. Ve a los tres puntos (o configuración) y busca la sección &quot;Etiquetas&quot;.</li><li><strong>Crea las 5–7 etiquetas</strong> con nombres cortos y asigna un color distinto a cada una. Los colores cálidos (naranja, rojo) para etapas activas y urgentes; los fríos (gris, azul oscuro) para cerradas y descartadas.</li><li><strong>Abre cada conversación activa</strong> y asigna la etiqueta que corresponde según su estado ahora mismo. Si tienes muchas conversaciones abiertas, empieza por los últimos siete días. Las más antiguas van directamente a &quot;Descartado&quot; o se archivan.</li><li><strong>Escribe en un sitio visible la regla de cada etiqueta</strong>: un post-it, una nota en el móvil o un documento compartido si trabajáis en equipo. Sin regla escrita, el sistema dura dos semanas.</li><li><strong>Cambia cómo revisas WhatsApp</strong>: en vez de abrir la lista general, filtra primero por &quot;Listo para responder&quot;, luego por &quot;Nuevo contacto&quot;. Los no etiquetados al final.</li></ol><p>Si quieres que los clientes lleguen a WhatsApp ya con información mínima antes de que tengas que etiquetar nada, <a href=&quot;/blog/mensaje-bienvenida-whatsapp-que-filtra/&quot;>un mensaje de bienvenida bien configurado puede hacer ese trabajo previo</a> antes de que la conversación empiece.</p><h2>Reglas de uso para que el sistema no se rompa</h2><p>Las etiquetas fallan casi siempre por la misma razón: se crean muchas, no se usan de forma consistente, o no tienen una acción asociada. Estas cuatro reglas evitan ese deterioro.</p><ul><li><strong>Una etapa, una etiqueta.</strong> Cada conversación lleva una sola etiqueta activa. Si tienes &quot;Esperando datos&quot; y &quot;Pendiente de cita&quot; en el mismo chat, algo no está bien definido.</li><li><strong>Etiquetar al abrir, no al cerrar.</strong> El momento es cuando abres la conversación, no cuando la terminas. Si esperas al final, el hábito no se forma.</li><li><strong>Regla de 72 horas para &quot;Esperando datos&quot;.</strong> Si el cliente no responde en 72 horas, pasa a &quot;Descartado&quot; o se archiva. No dejes conversaciones en espera indefinida.</li><li><strong>Revisión semanal de etiquetas.</strong> Diez minutos cada semana para mover lo que sigue en &quot;Pendiente de cita&quot; más de cinco días y limpiar &quot;Sin clasificar&quot;.</li></ul><h2>Errores comunes con etiquetas (y cómo evitarlos)</h2><ol><li><strong>Crear demasiadas etiquetas.</strong> Más de 8–10 etiquetas y el sistema se abandona. Si tienes una etiqueta para cada tipo de servicio más etapas del proceso, acabas sin usar ninguna con consistencia. Quédate en etapas, no en categorías.</li><li><strong>Etiquetas sin acción asociada.</strong> &quot;Interesado&quot;, &quot;Cliente nuevo&quot;, &quot;Posible&quot; no dicen qué hay que hacer. Cada etiqueta necesita una instrucción: qué haces cuando alguien tiene esa etiqueta.</li><li><strong>No mover las etiquetas cuando cambia el estado.</strong> Si alguien pasa de &quot;Esperando datos&quot; a darte toda la información y sigue con la etiqueta anterior, el filtro pierde sentido. La etiqueta describe el estado actual, no el histórico.</li><li><strong>Usar etiquetas como sustituto de contestar.</strong> Etiquetar no es responder. Si tienes veinte contactos en &quot;Nuevo contacto&quot; hace tres días, el problema no es de etiquetas.</li><li><strong>No limpiar las conversaciones cerradas.</strong> Las conversaciones con etiqueta &quot;Cerrado&quot; de hace seis meses ensucian los filtros. Archívalas después del servicio.</li><li><strong>Confundir etiquetas con carpetas.</strong> Las etiquetas no separan conversaciones en silos. Una conversación puede tener más de una etiqueta técnicamente, pero en la práctica eso genera confusión. Una etapa activa por chat.</li></ol><h2>Cuándo las etiquetas no son suficientes</h2><p>Las etiquetas de WhatsApp Business resuelven el problema de organización dentro de una bandeja de entrada. No resuelven el problema de entrada.</p><p>Si recibes mensajes por Instagram, por el formulario de la web, por Google Business y por WhatsApp, las etiquetas solo ordenan el canal de WhatsApp. Los demás siguen sin sistema. En ese escenario, <a href=&quot;/blog/gestion-consultas-clientes/&quot;>el problema real es la dispersión de canales, no el orden dentro de uno solo</a>.</p><p>Tampoco resuelven la cualificación. Una etiqueta &quot;Nuevo contacto&quot; no te dice si esa persona tiene presupuesto, fecha clara o está mirando precios de cinco sitios a la vez. Para eso necesitas capturar información antes de que la conversación empiece.</p><p>Si llegas a ese punto, hay dos caminos: <a href=&quot;/blog/automatizar-whatsapp-sin-api/&quot;>configurar respuestas automáticas dentro de WhatsApp Business</a> que pidan datos mínimos antes de que respondas manualmente, o usar un punto de entrada previo al chat que cualifique antes de redirigir.</p><p>Si quieres implementar ese segundo camino sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, captura la información mínima del cliente (intención, contexto, datos de contacto) y redirige a WhatsApp con ese contexto ya recogido, para que cuando llegue la conversación ya sepas con quién hablas y qué necesita. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún. Tampoco sustituye tu criterio ni cierra la venta por ti.</p><p>Para negocios con 20–30 consultas semanales y patrones repetidos de preguntas, <a href=&quot;/blog/automatizar-whatsapp-negocio-local/&quot;>automatizar la entrada de forma estructurada</a> cambia la carga de trabajo de forma inmediata.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas etiquetas debería tener en WhatsApp Business?",
+        "answer": "Entre 5 y 7 es lo que funciona de forma sostenible. Menos no cubre todas las etapas; más y el sistema se abandona. Si dudas entre crear una etiqueta nueva o usar una existente, usa la existente."
+      },
+      {
+        "question": "¿Puedo usar las etiquetas de WhatsApp Business para organizar por tipo de servicio además de por etapa?",
+        "answer": "Técnicamente sí, pero mezclar etapas con categorías de servicio complica el filtrado. Si necesitas separar por servicio, es señal de que probablemente necesitas algo más que etiquetas (o un sistema de entrada previo que ya clasifique al llegar)."
+      },
+      {
+        "question": "¿Las etiquetas de WhatsApp Business se ven en la versión web?",
+        "answer": "Sí. WhatsApp Web y la app de escritorio muestran y permiten gestionar etiquetas igual que en el móvil. El filtrado por etiqueta funciona en ambas versiones."
+      },
+      {
+        "question": "¿Qué hago si trabajo con otra persona y las dos usamos WhatsApp Business?",
+        "answer": "WhatsApp Business estándar (sin API) solo permite un dispositivo principal. Si sois dos personas respondiendo, necesitáis WhatsApp Business API o una herramienta multi-agente. Con la app estándar, solo una persona puede llevar el sistema de etiquetas."
+      },
+      {
+        "question": "¿Cada cuánto tiempo debería revisar y limpiar las etiquetas?",
+        "answer": "Diez minutos una vez a la semana es suficiente. El objetivo es mover lo que lleva más de cinco días estancado en la misma etapa y archivar los cerrados. Sin revisión semanal, el sistema se degrada en un mes."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y también por WhatsApp con la misma consulta?",
+        "answer": "Deriva todo al canal final (WhatsApp) desde el inicio y etiqueta solo ahí. Si contestas los dos canales en paralelo sin sistema previo, las etiquetas no arreglan la dispersión. El problema está en la entrada, no en el orden."
+      },
+      {
+        "question": "¿Las etiquetas de WhatsApp Business se borran si desinstalo la app?",
+        "answer": "Las etiquetas están vinculadas a la cuenta, no al dispositivo. Si vuelves a instalar la app con el mismo número, las etiquetas siguen ahí. Las conversaciones etiquetadas también conservan sus marcas."
+      },
+      {
+        "question": "¿Puedo etiquetar mensajes individuales además de conversaciones enteras?",
+        "answer": "Sí, WhatsApp Business permite etiquetar mensajes concretos dentro de una conversación, no solo el hilo completo. Es útil para marcar un presupuesto específico o un dato que no quieres perder. Para el sistema de etapas, etiquetar la conversación entera es más práctico."
+      }
+    ]
+  },
+  {
     "slug": "respuestas-rapidas-whatsapp-setup",
     "title": "Respuestas rápidas en WhatsApp Business: setup en 15 minutos (plantillas)",
     "description": "Configura respuestas rápidas en WhatsApp Business con plantillas que piden un dato y dan un siguiente paso. Setup paso a paso, errores comunes y 10 plantillas listas para copiar.",
