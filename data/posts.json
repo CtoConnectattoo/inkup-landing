@@ -1,5 +1,112 @@
 [
   {
+    "slug": "plantillas-whatsapp-por-intencion",
+    "title": "Plantillas de WhatsApp por intención (presupuesto, cita, info)",
+    "description": "Scripts de WhatsApp listos para usar, separados por intención: presupuesto, cita y petición de información. Evita respuestas genéricas y reduce el ping-pong de mensajes.",
+    "excerpt": "Las plantillas de WhatsApp que funcionan no son genéricas. Son distintas según lo que pide el cliente: presupuesto, cita o información. Aquí tienes los scripts por intención, listos para copiar y ajustar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantillas-whatsapp-por-intencion.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "8 min",
+    "tags": [
+      "whatsapp",
+      "plantillas",
+      "scripts",
+      "consultas",
+      "gestion-mensajes",
+      "presupuestos"
+    ],
+    "quickAnswerSubtitle": "Plantillas de WhatsApp por intención: presupuesto, cita e información",
+    "quickAnswer": [
+      "**Separa por intención antes de escribir** — un mensaje de presupuesto necesita datos distintos a uno de cita; mezclarlos genera ping-pong.",
+      "**Pide siempre un dato mínimo en el primer mensaje** — sin ese dato, cualquier respuesta será genérica y perderás al cliente en el siguiente turno.",
+      "**Explica en una frase por qué preguntas** — 'para darte un precio real necesito saber X' reduce el abandono más que cualquier tono amable.",
+      "**Termina cada mensaje con un único paso siguiente** — no des dos opciones ni preguntes dos cosas a la vez; una pregunta, una acción.",
+      "**Adapta el tono, no la estructura** — el script puede sonar más cercano o más formal según tu sector, pero la secuencia (reconocer, preguntar, proponer paso) no cambia."
+    ],
+    "oneLineDefinition": "Las plantillas de WhatsApp por intención son scripts distintos para presupuesto, cita e información que recogen el dato mínimo necesario antes de responder, evitando mensajes genéricos y conversaciones interminables.",
+    "sections": [
+      "Por qué una sola plantilla para todo no funciona",
+      "Antes de los scripts: el dato mínimo por intención",
+      "Scripts por intención: presupuesto",
+      "Scripts por intención: cita o disponibilidad",
+      "Scripts por intención: información general",
+      "Checklist antes de enviar cualquier plantilla",
+      "Errores comunes con las plantillas de WhatsApp",
+      "Cuándo las plantillas no son suficientes",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Crear plantillas de WhatsApp por intención en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business",
+        "Bloc de notas o documento compartido",
+        "Lista de preguntas repetidas actuales"
+      ],
+      "steps": [
+        {
+          "name": "Identifica las 3 intenciones principales",
+          "text": "Revisa tus últimas 20 conversaciones y clasifícalas: presupuesto, cita o información. Casi todo cabe en esas tres."
+        },
+        {
+          "name": "Define el dato mínimo por intención",
+          "text": "Para presupuesto: servicio + contexto. Para cita: fecha y servicio. Para info: tema concreto. Solo lo que cambia tu respuesta."
+        },
+        {
+          "name": "Escribe el primer mensaje de cada intención",
+          "text": "Reconoce la petición, pide el dato mínimo con una frase de contexto y termina con un único paso siguiente."
+        },
+        {
+          "name": "Escribe el mensaje de transición o cierre",
+          "text": "Una vez tienes el dato, envía propuesta concreta: rango de precio, opciones de hueco o respuesta directa a la duda."
+        },
+        {
+          "name": "Guárdalos como respuestas rápidas en WhatsApp Business",
+          "text": "Usa el atajo /presupuesto, /cita e /info para no tener que reescribir. Revísalos cada mes y ajusta lo que no encaja."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué una sola plantilla para todo no funciona</h2><p>Si mandas el mismo mensaje de bienvenida a alguien que pregunta precio y a alguien que quiere reservar hueco, uno de los dos va a recibir preguntas que no necesita responder. Y eso genera fricción. El cliente que solo quería saber si tienes disponibilidad el viernes no tiene por qué decirte su presupuesto. El que pide precio sin darte su contexto tampoco puede recibir una cifra real.</p><p>El problema no es que uses plantillas. Es que uses la misma para todo. <a href=\"/blog/reducir-preguntas-repetidas-atencion/\">Reducir las preguntas repetidas en WhatsApp e Instagram</a> no pasa por escribir más, sino por escribir lo correcto según lo que pide cada persona.</p><p>Las plantillas que convierten están separadas por intención y siempre piden un dato; así evitas respuestas genéricas y reduces el ping-pong.</p><h2>Antes de los scripts: el dato mínimo por intención</h2><p>Antes de copiar cualquier script, define qué dato necesitas para responder bien en cada caso. Si no lo tienes claro, la plantilla no sirve.</p><table><thead><tr><th>Intención</th><th>Dato mínimo imprescindible</th><th>Por qué lo necesitas</th></tr></thead><tbody><tr><td>Presupuesto</td><td>Servicio exacto + contexto o referencia</td><td>Sin esto, cualquier cifra es mentira o malentendido</td></tr><tr><td>Cita / disponibilidad</td><td>Servicio + fecha o rango de fechas</td><td>Para saber si tienes hueco y de cuánto tiempo</td></tr><tr><td>Información general</td><td>Tema concreto de la duda</td><td>Para no mandar un PDF entero cuando solo quieren saber los horarios</td></tr></tbody></table><p>Regla: si un dato no cambia lo que vas a responder, no lo pidas en el primer mensaje. Puedes pedirlo después.</p><h2>Scripts por intención: presupuesto</h2><p>El cliente escribe &quot;precio?&quot;, &quot;¿cuánto cobráis por X?&quot; o directamente &quot;info&quot;. En todos estos casos necesitas el mismo dato antes de responder: qué quiere exactamente y en qué contexto.</p><h3>Script 1 — Respuesta inicial (tono neutro)</h3><blockquote><p>Hola, gracias por escribir. Para darte un precio real necesito saber un poco más sobre lo que buscas. ¿Puedes decirme qué servicio te interesa y adjuntar una referencia o describirme brevemente qué tienes en mente? Con eso te respondo con una cifra concreta, sin rodeos.</p></blockquote><h3>Script 2 — Respuesta inicial (tono cercano)</h3><blockquote><p>¡Hola! Para no darte un precio genérico que luego no encaje, necesito dos datos rápidos: ¿qué servicio buscas exactamente y tienes alguna referencia o idea de lo que quieres? Así te doy un rango real en el siguiente mensaje.</p></blockquote><h3>Script 3 — Mensaje de cierre con rango (una vez tienes el dato)</h3><blockquote><p>Con lo que me cuentas, el rango habitual para este servicio está entre [X] y [Y]. El precio final depende de [variable concreta]. Si quieres seguir adelante, el siguiente paso es [acción concreta: agendar consulta, enviar referencia completa, etc.].</p></blockquote><p><strong>Error a evitar:</strong> dar un precio sin condiciones. Siempre incluye de qué depende el rango para no generar malentendidos después.</p><h2>Scripts por intención: cita o disponibilidad</h2><p>El cliente pregunta &quot;¿tenéis hueco?&quot;, &quot;¿podría quedar para…?&quot; o &quot;¿cuándo podría ir?&quot;. Aquí lo que necesitas antes de responder es saber para qué servicio y en qué fechas puede.</p><h3>Script 1 — Respuesta inicial</h3><blockquote><p>Hola. Para mirarte disponibilidad necesito dos cosas: ¿para qué servicio sería y qué días o semana te vienen bien? Con eso te confirmo si tenemos hueco y en qué horarios.</p></blockquote><h3>Script 2 — Respuesta inicial (si el servicio ya está claro por el contexto)</h3><blockquote><p>Perfecto. Para [nombre del servicio], ¿qué semana o rango de fechas tienes más flexible? Así te doy opciones concretas sin ir y venir.</p></blockquote><h3>Script 3 — Confirmación de cita (cierre)</h3><blockquote><p>Tengo disponible [día] a las [hora] o [día alternativo] a las [hora alternativa]. ¿Cuál te va mejor? Una vez confirmes te mando los detalles para la cita.</p></blockquote><p>Si usas un sistema de reservas online, este es el momento de mandar el enlace, no al inicio. Mandar el enlace antes de saber si hay encaje genera abandono.</p><p><a href=\"/blog/link-en-bio-para-reservas-vs-presupuestos/\">Separar la intención de reserva y la de presupuesto desde el link en bio</a> reduce el número de conversaciones que acaban en el script equivocado.</p><h2>Scripts por intención: información general</h2><p>El cliente manda &quot;hola&quot;, &quot;info&quot;, &quot;¿cómo funciona?&quot; o pregunta por ubicación, horarios o requisitos. El riesgo aquí es mandar un bloque de texto largo que nadie lee o responder con otra pregunta que confunde.</p><h3>Script 1 — Respuesta inicial para &quot;info&quot; sin contexto</h3><blockquote><p>Hola. Para enviarte la información que te sea útil: ¿qué es lo que más te interesa saber? Por ejemplo, si es sobre precios, disponibilidad, cómo funciona el proceso o requisitos previos, dímelo y te lo explico en un mensaje.</p></blockquote><h3>Script 2 — Respuesta para duda concreta (horarios, ubicación, requisitos)</h3><blockquote><p>Hola. [Respuesta directa a la pregunta concreta en 1-2 líneas]. Si tienes más dudas o quieres saber algo más sobre [servicio], dímelo.</p></blockquote><p><strong>Nota:</strong> si siempre te preguntan lo mismo (horarios, ubicación, cómo reservar), esa pregunta no debería llegar por WhatsApp. Debería estar resuelta antes, en el perfil o en el flujo previo. <a href=\"/blog/respuestas-rapidas-whatsapp-setup/\">Configurar respuestas rápidas en WhatsApp Business</a> para las FAQs más frecuentes te ahorra entre 5 y 15 minutos al día sin tocar nada más.</p><h3>Script 3 — Derivación a información ampliada</h3><blockquote><p>Te paso la información completa: [enlace o descripción breve]. Si después de verlo tienes dudas o quieres dar el siguiente paso, escríbeme aquí.</p></blockquote><h2>Checklist antes de enviar cualquier plantilla</h2><p>Antes de guardar un script como respuesta rápida o mandarlo a un cliente, revisa esto:</p><ul><li>¿El mensaje corresponde a la intención correcta (presupuesto, cita o info)?</li><li>¿Pide exactamente un dato mínimo, no tres?</li><li>¿Explica en una frase por qué preguntas ese dato?</li><li>¿Termina con un único paso siguiente claro?</li><li>¿El tono encaja con cómo hablas normalmente con tus clientes?</li><li>¿No contiene preguntas que ya podrías haber respondido antes de que llegase el mensaje?</li><li>¿Si el cliente solo lee la primera frase, entiende qué tiene que hacer?</li></ul><h2>Errores comunes con las plantillas de WhatsApp</h2><ol><li><strong>Usar la misma plantilla para presupuesto y cita.</strong> Pides datos que no necesitas para esa intención y generas fricción innecesaria. Cada intención tiene su script.</li><li><strong>Pedir más de un dato en el primer mensaje.</strong> El cliente no sabe por dónde empezar y abandona. Una pregunta por turno.</li><li><strong>No explicar por qué preguntas.</strong> Sin contexto, parece un interrogatorio. Una frase (&quot;para darte un precio real necesito saber X&quot;) lo cambia todo.</li><li><strong>Mandar el enlace de reservas antes de tiempo.</strong> Si el cliente no sabe si encaja, el enlace no sirve de nada. Primero el dato, luego el enlace.</li><li><strong>Plantilla demasiado larga en el primer mensaje.</strong> Si hay más de cuatro líneas antes de la pregunta, el cliente no llega a la pregunta. Va al principio, no al final.</li><li><strong>No actualizar los scripts.</strong> Si cambias precios, servicios o disponibilidad y no actualizas las plantillas, el cliente recibe información incorrecta. Revísalos cada mes.</li><li><strong>Personalizar tanto que la plantilla pierde estructura.</strong> El tono puede variar, la secuencia (reconocer, preguntar, proponer paso) no debería cambiar.</li></ol><h2>Cuándo las plantillas no son suficientes</h2><p>Los scripts resuelven el primer contacto y el ping-pong de datos. No resuelven todo.</p><ul><li>Si tu servicio requiere una conversación larga de discovery desde el inicio (ventas consultivas complejas, presupuestos muy variables), la plantilla es solo la puerta, no el proceso completo.</li><li>Si el volumen de mensajes es tan alto que ni con respuestas rápidas llegas a gestionarlo, el problema es de estructura de entrada, no de scripts.</li><li>Si cada consulta es radicalmente distinta, una plantilla rígida genera más confusión que ayuda.</li></ul><p>En los casos donde el problema es el volumen y la repetición, lo que necesitas antes del script es un punto de entrada que filtre la intención. <a href=\"/blog/automatizar-whatsapp-negocio-local/\">Automatizar el primer filtro de WhatsApp en un negocio local</a> no requiere programar nada, pero sí tener claro qué pregunta va antes del chat.</p><p>Si quieres implementar un flujo que capture esos datos antes de que llegue el mensaje a WhatsApp, herramientas como Inkup hacen exactamente eso: recogen la intención, el dato mínimo y el contexto del cliente antes de redirigir la conversación a WhatsApp. No es para todos los casos: si tu volumen es bajo o cada consulta requiere conversación larga desde el principio, los scripts de esta guía son suficientes por ahora.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántas plantillas necesito tener preparadas como mínimo?",
+        "answer": "Con tres funciona: una para presupuesto, una para cita y una para información general. Añade variantes de tono (cercano o formal) si atiendes perfiles muy distintos, pero la estructura base es esa."
+      },
+      {
+        "question": "¿Qué hago si el cliente no me da el dato que pido en el primer mensaje?",
+        "answer": "Repite la pregunta una vez, con otra frase de contexto. Si en el segundo intento tampoco responde, cierre amable. El cliente que va en serio responde; el que no responde dos veces raramente cierra."
+      },
+      {
+        "question": "¿Puedo usar estas plantillas en Instagram DMs también?",
+        "answer": "Sí, la estructura es la misma. La diferencia es que en Instagram el cliente suele llegar con menos contexto, así que el primer mensaje tiene que ser más corto y directo. Una pregunta, no dos."
+      },
+      {
+        "question": "¿Cómo guardo estas plantillas en WhatsApp Business para no reescribirlas?",
+        "answer": "En WhatsApp Business ve a Configuración > Herramientas para la empresa > Respuestas rápidas. Asigna un atajo (por ejemplo /presupuesto) y el texto. Se activa escribiendo la barra y el atajo en el chat."
+      },
+      {
+        "question": "¿Qué hago si me escriben con dos intenciones a la vez (quieren precio y cita)?",
+        "answer": "Responde primero la intención más urgente para el cliente. Normalmente es el precio. Una vez resuelta, propones el siguiente paso que es la cita. No intentes resolver las dos en el mismo mensaje."
+      },
+      {
+        "question": "¿Cuándo tiene sentido dar precio en el primer mensaje sin pedir datos?",
+        "answer": "Solo si el precio es fijo, público y sin variables (por ejemplo, una sesión estándar con precio cerrado). En ese caso, responde directo. Si el precio varía según contexto, nunca des cifra sin el dato mínimo."
+      },
+      {
+        "question": "¿Las plantillas no hacen que suene demasiado frío o robótico?",
+        "answer": "Solo si el texto es frío o robótico. La estructura no es el problema, el tono sí puede serlo. Escríbelas como hablarías tú y añade el nombre del cliente si puedes. Una plantilla bien escrita no se nota como tal."
+      },
+      {
+        "question": "¿Con qué frecuencia debería revisar y actualizar los scripts?",
+        "answer": "Una vez al mes es suficiente. Revisa si los precios o servicios han cambiado, si hay preguntas nuevas que siempre aparecen y que podrías resolver antes, y si el tono sigue siendo el tuyo."
+      }
+    ]
+  },
+  {
     "slug": "como-usar-whatsapp-para-cerrar-no-para-recoger-info",
     "title": "Cómo usar WhatsApp para cerrar (no para recopilar info)",
     "description": "Si usas WhatsApp para recoger datos básicos antes de poder responder, estás invirtiendo el orden. Aprende a usar WhatsApp solo para cerrar: cita, presupuesto aceptado, confirmación. El contexto mínimo llega antes.",
