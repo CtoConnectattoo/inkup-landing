@@ -1,5 +1,105 @@
 [
   {
+    "slug": "flujo-ideal-reserva-negocio-local",
+    "title": "El flujo ideal para reservar en un negocio local: de consulta a cita en 4 pasos",
+    "description": "Aprende el flujo exacto para pasar de consulta inicial a cita confirmada en 4 pasos, sin intercambiar mensajes infinitos y sin perder leads por el camino.",
+    "excerpt": "El flujo ideal para reservar en un negocio local tiene cuatro pasos: entrada única, datos mínimos, propuesta de hora y confirmación. Con eso reduces el ping-pong y cierras más citas con menos esfuerzo.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/flujo-ideal-reserva-negocio-local.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "reservas",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "procesos",
+      "agenda"
+    ],
+    "quickAnswerSubtitle": "El flujo ideal para pasar de consulta a cita en un negocio local",
+    "quickAnswer": [
+      "**Entrada única** — Un solo punto de llegada (link o mensaje fijo) para todas las consultas, sin importar el canal de origen.",
+      "**Datos mínimos antes de proponer hora** — Pide solo lo que cambia tu respuesta: servicio, fecha orientativa y contexto. Sin eso, cualquier propuesta es un disparo al aire.",
+      "**Propuesta concreta, no pregunta abierta** — Ofrece 2-3 opciones de hueco, no un calendario vacío. Reducir la decisión del cliente acelera el cierre.",
+      "**Confirmación en un paso** — El cliente confirma con un sí o elige entre opciones. Si necesita más de un mensaje para confirmar, el flujo tiene fricción."
+    ],
+    "oneLineDefinition": "El flujo de reserva en un negocio local es el proceso de cuatro pasos (entrada, datos mínimos, propuesta de hora, confirmación) que convierte una consulta desordenada en una cita cerrada sin mensajes de ida y vuelta.",
+    "sections": [
+      "El problema real: por qué reservar se convierte en 20 mensajes",
+      "Los 4 pasos del flujo ideal",
+      "Checklist de implementación por paso",
+      "Scripts listos para cada paso",
+      "Errores que rompen el flujo",
+      "Cuándo este flujo no es suficiente",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar el flujo de reserva en 4 pasos",
+      "totalTimeMinutes": 60,
+      "tools": [
+        "Canal final (WhatsApp)",
+        "Link único de entrada",
+        "Respuestas rápidas predefinidas"
+      ],
+      "steps": [
+        {
+          "name": "Crear punto de entrada único",
+          "text": "Define un link o mensaje fijo como puerta de entrada para todas las consultas de reserva, independientemente del canal."
+        },
+        {
+          "name": "Diseñar las preguntas mínimas",
+          "text": "Identifica los 3-5 datos que necesitas antes de proponer hora: servicio exacto, fecha orientativa, contexto relevante y contacto."
+        },
+        {
+          "name": "Preparar propuestas de hueco",
+          "text": "Crea una plantilla con 2-3 opciones de horario concretas para enviar cuando llegue la información mínima."
+        },
+        {
+          "name": "Estandarizar la confirmación",
+          "text": "Define un mensaje de confirmación que incluya resumen de la cita, qué traer o preparar y el siguiente paso claro."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema real: por qué reservar se convierte en 20 mensajes</h2><p>Te escribe alguien por Instagram con un \"hola, ¿tenéis hueco?\". Respondes que sí. Te preguntan para qué servicio. Respondes. Preguntan precio. Das un rango. Preguntan disponibilidad. Mandas los días. Desaparecen dos horas. Vuelven con otra fecha. Y así hasta que o bien cierras la cita o bien el cliente se ha ido a la competencia que le respondió antes.</p><p>Ese recorrido tiene un nombre: flujo roto. No es culpa del cliente ni tuya. Es que no existe un proceso que guíe la conversación desde el primer mensaje hasta la confirmación. <a href=\"/blog/agendar-citas-sin-mensajes/\">Agendar citas sin intercambiar 20 mensajes es posible</a>, pero requiere un orden previo que la mayoría de negocios locales no tienen definido.</p><p>El resultado habitual: tiempo invertido en conversaciones que no cierran, leads que se enfrían por tardanza y agenda fragmentada porque cada cliente llega con información distinta y en momentos distintos.</p><h2>Los 4 pasos del flujo ideal</h2><p>El flujo que funciona en negocios de servicios locales (estética, tatuaje, fotografía, coaching, fisioterapia) tiene cuatro pasos. No más. Cada paso tiene una función concreta y un error típico que lo rompe.</p><h3>Paso 1 — Entrada única</h3><p>Todos los canales (DM de Instagram, mensaje de WhatsApp, enlace de Google Business Profile, web) llevan al mismo sitio. No a \"escríbeme por donde quieras\", sino a un único punto donde el proceso empieza igual para todos.</p><p>Ese punto puede ser un link en bio, un mensaje fijo de bienvenida en WhatsApp o un formulario conversacional. Lo que importa es que el cliente sepa qué paso toca y que tú recibas la información siempre en el mismo formato. <a href=\"/blog/link-en-bio-para-atencion-clientes/\">Un link en bio bien configurado puede hacer exactamente eso</a> sin que tengas que construir nada complejo.</p><h3>Paso 2 — Datos mínimos antes de proponer hora</h3><p>Antes de abrir el calendario, necesitas saber tres cosas como mínimo: qué servicio quiere, cuándo tiene disponibilidad orientativa y si hay algún dato que condicione la cita (primera vez, zonas de trabajo anteriores, tipo de evento, etc.). Sin esos datos, cualquier propuesta de hueco puede ser errónea o generar más preguntas.</p><p>La tentación aquí es preguntar demasiado. Pedir más de cinco datos antes de la primera propuesta aumenta el abandono. <a href=\"/blog/datos-minimos-para-agendar-cita/\">El checklist de datos mínimos para agendar una cita</a> te ayuda a quedarte con lo imprescindible y soltar el resto.</p><h3>Paso 3 — Propuesta concreta (no pregunta abierta)</h3><p>Este es el paso donde más negocios pierden la reserva. En lugar de proponer opciones concretas, preguntan: \"¿Qué día te viene bien?\". El cliente tiene que pensar, revisar su agenda, volver con una propuesta, tú compruebas si tienes hueco y el ciclo se repite.</p><p>La alternativa: cuando recibes los datos mínimos, respondes con dos o tres opciones reales. \"Tengo hueco el martes a las 16:00, el miércoles a las 11:00 o el jueves a las 18:00. ¿Cuál te va mejor?\" El cliente elige entre opciones existentes. La decisión es más fácil y el cierre es más rápido.</p><h3>Paso 4 — Confirmación en un paso</h3><p>El cliente elige su opción y tú confirmas con un mensaje que incluye: fecha y hora, duración aproximada si aplica, qué debe traer o preparar y cómo cancelar si necesita. Todo en un mensaje. Sin preguntas adicionales.</p><p>Si después de la confirmación hay más mensajes de aclaración, es señal de que el paso 2 recogió información incompleta o de que el mensaje de confirmación no es claro.</p><h2>Checklist de implementación por paso</h2><table><thead><tr><th>Paso</th><th>Qué necesitas tener listo</th><th>Error típico que lo rompe</th></tr></thead><tbody><tr><td>Entrada única</td><td>Link o mensaje de bienvenida fijo en todos los canales</td><td>Decir \"escríbeme\" sin guiar el paso siguiente</td></tr><tr><td>Datos mínimos</td><td>Lista de 3-5 preguntas que cambian tu respuesta</td><td>Pedir más de 5 datos antes de proponer hueco</td></tr><tr><td>Propuesta concreta</td><td>Plantilla con 2-3 opciones de horario reales</td><td>Preguntar \"¿qué día te viene bien?\" sin ofrecer opciones</td></tr><tr><td>Confirmación</td><td>Mensaje estándar con resumen + siguiente paso</td><td>Confirmar sin incluir qué debe preparar el cliente</td></tr></tbody></table><h2>Scripts listos para cada paso</h2><h3>Script — Paso 1: primer contacto desde DM o WhatsApp</h3><blockquote><p>&quot;Hola, gracias por escribir. Para darte la mejor respuesta rápido, dime: ¿buscas información, presupuesto o reservar cita directamente? Te guío al siguiente paso en un momento.&quot;</p></blockquote><h3>Script — Paso 2: pedir datos mínimos</h3><blockquote><p>&quot;Perfecto. Para reservarte hueco necesito tres cosas: qué servicio quieres, cuándo tienes disponibilidad (día de la semana o semanas concretas) y si es tu primera vez o ya has venido antes. Con eso te propongo opciones reales.&quot;</p></blockquote><p>Si quieres reducir aún más la fricción, añade una frase explicativa antes: &quot;Te hago tres preguntas rápidas para no mandarte huecos que no te sirven.&quot;</p><h3>Script — Paso 3: propuesta de hueco</h3><blockquote><p>&quot;Tengo disponibilidad el martes 4 a las 16:00, el miércoles 5 a las 11:00 o el viernes 7 a las 18:00. ¿Cuál te va mejor?&quot;</p></blockquote><h3>Script — Paso 4: confirmación</h3><blockquote><p>&quot;Perfecto, te reservo el martes 4 a las 16:00. Duración aproximada: 1 hora. Trae [lo que corresponda]. Si necesitas cancelar, avisa con al menos 24 horas. Nos vemos el martes.&quot;</p></blockquote><p>Estos scripts se pueden adaptar al tono de cada negocio. Lo que no cambia es la estructura: una acción clara por mensaje, sin preguntas abiertas, sin opciones infinitas.</p><h2>Errores que rompen el flujo</h2><ol><li><strong>No tener entrada definida</strong> — El cliente llega por tres canales distintos con tres flujos distintos. Resultado: caos y pérdida de contexto. Corrección: un punto de entrada, aunque sea un mensaje fijo en WhatsApp.</li><li><strong>Pedir datos sin explicar para qué</strong> — El cliente percibe interrogatorio. Corrección: una frase de contexto antes de las preguntas (&quot;para no mandarte huecos que no sirven&quot;).</li><li><strong>Proponer huecos antes de tener información</strong> — Si no sabes qué servicio quiere, cualquier hueco puede ser erróneo. Corrección: datos mínimos siempre antes de abrir el calendario.</li><li><strong>Preguntar en lugar de proponer</strong> — &quot;¿Cuándo puedes?&quot; obliga al cliente a trabajar. &quot;¿Cuál de estas tres opciones te va?&quot; facilita la decisión. Corrección: siempre propuestas concretas.</li><li><strong>Confirmación incompleta</strong> — Si confirmas sin decir qué debe traer o preparar, habrá un mensaje más. Corrección: incluir todo en el mensaje de confirmación.</li><li><strong>Flujo distinto por canal</strong> — Si por Instagram sigues un proceso y por WhatsApp otro, la consistencia desaparece y el esfuerzo se duplica. <a href=\"/blog/flujo-dm-link-whatsapp/\">Un flujo DM → link → WhatsApp bien diseñado</a> resuelve esto con un sistema único.</li></ol><h2>Cuándo este flujo no es suficiente</h2><p>Este flujo de cuatro pasos funciona cuando el servicio es relativamente estándar, hay repetición de consultas y la decisión de reserva no requiere una conversación larga de discovery. Para servicios donde cada caso es radicalmente distinto, donde el cliente necesita explicar una situación compleja antes de que tú puedas evaluar si encaja, o donde el proceso de venta tiene varias sesiones previas, este flujo es demasiado simple.</p><p>También hay un límite de volumen en el otro sentido: si recibes menos de cinco consultas semanales, no necesitas sistematizar esto todavía. El esfuerzo de montar el flujo no se amortiza con ese volumen.</p><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: recogen los datos mínimos a través de un asistente conversacional antes de que el cliente llegue a WhatsApp, para que tú ya tengas el contexto y puedas ir directamente a proponer hueco. No es para todos los casos — si tu volumen es bajo o cada consulta requiere una conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Cuántos mensajes debería tener un flujo de reserva bien hecho?",
+        "answer": "Entre cuatro y seis mensajes en total: bienvenida o entrada, preguntas mínimas, propuesta de hueco, elección del cliente y confirmación. Si superas ocho mensajes de forma habitual, el flujo tiene un paso roto."
+      },
+      {
+        "question": "¿Qué hago si el cliente me escribe directamente con fecha y servicio sin pasar por el flujo?",
+        "answer": "Aprovecha que ya tienes parte de la información y pide solo lo que te falta. No le hagas pasar por el flujo entero si ya ha dado los datos mínimos. El flujo es para los que llegan sin información, no una barrera rígida."
+      },
+      {
+        "question": "¿Puedo usar este flujo si trabajo sola o solo, sin equipo?",
+        "answer": "Es especialmente útil en ese caso. Sin equipo, el tiempo que ahorras en mensajes de ida y vuelta es tiempo que puedes dedicar al trabajo que factura. El flujo no requiere herramientas complejas; puedes empezar con respuestas rápidas en WhatsApp Business."
+      },
+      {
+        "question": "¿Qué pasa si el cliente no elige ninguna de las opciones que le propongo?",
+        "answer": "Pide disponibilidad orientativa antes de proponer la siguiente ronda de opciones. Si tampoco responde, es señal de que el interés era bajo. Dos intentos sin respuesta: cierre amable y guardado."
+      },
+      {
+        "question": "¿Debería pedir señal o pago antes de confirmar la cita?",
+        "answer": "Depende de tu política y del historial de cancelaciones. Si tienes muchas cancelaciones de última hora, un pago parcial por adelantado es razonable. Si no es un problema habitual, no añadas ese paso al flujo inicial porque aumenta la fricción."
+      },
+      {
+        "question": "¿Funciona este flujo para servicios con precios muy variables?",
+        "answer": "Sí, pero el paso 2 tiene que incluir las variables que determinan el precio (zona, tamaño, duración, complejidad). Así puedes dar un rango condicionado en la propuesta en lugar de un precio fijo que luego cambia y genera fricción."
+      },
+      {
+        "question": "¿Cómo adapto el flujo si recibo consultas por Instagram y por WhatsApp a la vez?",
+        "answer": "El objetivo es que ambos canales lleven al mismo punto. Un link único desde la bio de Instagram que abre el flujo de datos mínimos resuelve esto. El cliente llega a WhatsApp con la información ya recogida, sin que tú tengas que repetir preguntas según el canal de origen."
+      },
+      {
+        "question": "¿Qué hago si el cliente quiere hablar por teléfono en lugar de escribir?",
+        "answer": "Si el servicio lo permite, ofrece una llamada breve como alternativa en el paso 1. Pero define también para esa llamada las mismas preguntas mínimas que usarías por escrito. El flujo es el mismo; solo cambia el formato."
+      }
+    ]
+  },
+  {
     "slug": "como-separar-consultas-info-vs-cita",
     "title": "Cómo separar consultas de \"info\" vs \"cita\" para no perder tiempo",
     "description": "Aprende a diseñar dos rutas distintas para consultas de información y solicitudes de cita: datos diferentes, respuestas diferentes, sin conversaciones eternas.",
