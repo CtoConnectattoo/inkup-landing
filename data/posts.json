@@ -1,5 +1,110 @@
 [
   {
+    "slug": "como-medir-si-tu-automatizacion-en-instagram-funciona",
+    "title": "Cómo medir si tu automatización en Instagram funciona (KPIs simples)",
+    "description": "Aprende qué métricas mirar para saber si tus DMs automáticos, tu link y tu paso a WhatsApp están convirtiendo, o si solo dan sensación de orden sin resultados.",
+    "excerpt": "Medir si tu automatización en Instagram funciona se reduce a tres tasas: cuántos pasan del DM al link, cuántos completan el flujo y cuántos acaban en WhatsApp con contexto. Sin eso, solo tienes actividad, no resultados.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/como-medir-si-tu-automatizacion-en-instagram-funciona.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "instagram",
+      "automatizacion",
+      "kpis",
+      "metricas",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "KPIs simples para medir si tu automatización en Instagram funciona",
+    "quickAnswer": [
+      "**Tasa de paso al link** — De cada 10 personas que interactúan con tu DM automático, cuántas pulsan el link. Si es menos de 4 de cada 10, el mensaje no está guiando bien.",
+      "**Tasa de finalización del flujo** — Cuántos completan las preguntas del asistente o formulario. Una caída brusca en algún punto indica fricción: demasiados datos, pregunta confusa o tono incorrecto.",
+      "**Tasa de llegada a WhatsApp con contexto** — Cuántos llegan al chat final habiendo dado la información mínima. Si llegan sin datos, el flujo no está filtrando, solo redirigiendo.",
+      "**Tasa de conversión a acción concreta** — Cuántos de los que llegan a WhatsApp acaban en cita, presupuesto aceptado o reserva. Esta es la métrica que decide si el sistema tiene sentido económico.",
+      "**Volumen de DMs repetitivos** — Si sigues recibiendo los mismos 'precio?', 'tenéis hueco?', 'info' después de activar la automatización, el flujo no está resolviendo las FAQs en el camino."
+    ],
+    "oneLineDefinition": "Medir si tu automatización en Instagram funciona es rastrear cuántos contactos recorren el camino completo (DM → link → flujo → WhatsApp con contexto → acción), no cuántos mensajes automáticos has enviado.",
+    "sections": [
+      "Por qué la mayoría mide lo que no importa",
+      "Las 5 métricas que sí te dicen algo útil",
+      "Checklist y plantilla de tracking semanal",
+      "Cómo leer los números: señales de que algo falla",
+      "Errores comunes al interpretar las métricas",
+      "Cuándo los KPIs no son tu problema real",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Medir el rendimiento de tu automatización en Instagram en 5 pasos",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "Hoja de cálculo o papel",
+        "Instagram Insights",
+        "WhatsApp Business (etiquetas)"
+      ],
+      "steps": [
+        {
+          "name": "Define tu embudo en 3 pasos",
+          "text": "Identifica los tres momentos que quieres medir: interacción con DM automático, paso al link o flujo, llegada a WhatsApp con datos."
+        },
+        {
+          "name": "Anota el volumen de entrada semanal",
+          "text": "Cuenta cuántas personas disparan el DM automático en una semana. Ese es tu denominador para todas las tasas."
+        },
+        {
+          "name": "Registra cuántos completan el flujo",
+          "text": "Si usas un asistente o formulario, mira cuántos llegan al final con la información pedida. Compara con el volumen de entrada."
+        },
+        {
+          "name": "Cuenta los que llegan a WhatsApp con contexto",
+          "text": "Revisa cuántas conversaciones en WhatsApp empiezan con los datos mínimos ya recogidos, no con un 'hola' en blanco."
+        },
+        {
+          "name": "Calcula la conversión a acción concreta",
+          "text": "De los que llegan con contexto, anota cuántos acaban en cita, presupuesto o reserva confirmada. Esa tasa final es tu norte."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la mayoría mide lo que no importa</h2><p>Tienes la automatización activa, los DMs salen solos y sientes que has montado algo. Pero al cabo de dos semanas sigues recibiendo los mismos mensajes de siempre, la agenda no se ha movido y no sabes si el sistema está funcionando o solo dando la sensación de que funciona.</p><p>El problema no suele ser la automatización en sí. El problema es que se mide lo fácil: cuántos mensajes se han enviado, cuántas personas han visto el DM, cuántos seguidores tiene el perfil. Esos números no te dicen nada sobre si estás convirtiendo consultas en clientes. Para eso necesitas tres o cuatro métricas concretas, no un dashboard de veinte indicadores.</p><p>Si aún no tienes claro qué tipo de automatización estás usando o qué debería hacer antes de medir, puede ayudarte revisar <a href=\"/blog/automatizar-mensajes-instagram-negocio/\">cómo automatizar mensajes en Instagram para un negocio local sin espantar clientes</a>, donde se explica qué automatizar y qué no antes de optimizar.</p><h2>Las 5 métricas que sí te dicen algo útil</h2><h3>1. Tasa de paso al link (del DM al siguiente paso)</h3><p>Cuando alguien interactúa con tu perfil o dispara el DM automático, ¿pulsa el link que le mandas? Esta tasa te dice si tu mensaje de entrada está guiando bien o si la gente lo lee y no hace nada.</p><p>Cómo calcularlo: (personas que pulsan el link) ÷ (personas que reciben el DM automático) × 100. Si estás por debajo del 40%, revisa el texto del DM: probablemente es demasiado largo, no tiene un paso claro o el link no es visible.</p><h3>2. Tasa de finalización del flujo</h3><p>Si usas un asistente conversacional o un formulario antes de redirigir a WhatsApp, ¿cuántos lo completan? Una caída brusca en algún punto del flujo indica dónde está la fricción: una pregunta confusa, demasiados campos, un tono que no encaja o un paso que no tiene sentido para el cliente.</p><p>Esta métrica es la más útil para mejorar el flujo porque te señala exactamente dónde se rompe.</p><h3>3. Tasa de llegada a WhatsApp con contexto</h3><p>No basta con que lleguen a WhatsApp. Lo que importa es que lleguen con los datos mínimos ya recogidos: servicio, fecha, contexto. Si llegan con un simple 'hola' o sin información, el flujo no está filtrando, solo redirigiendo. Y eso significa que sigues invirtiendo el mismo tiempo en preguntar lo básico.</p><p>Para que esta transición funcione bien, el diseño del <a href=\"/blog/link-en-bio-para-atencion-clientes/\">link en bio como sistema de atención</a> tiene que estar pensado para capturar información antes de llegar al chat, no después.</p><h3>4. Tasa de conversión a acción concreta</h3><p>De todos los que llegan a WhatsApp con contexto, ¿cuántos acaban en cita confirmada, presupuesto aceptado o reserva? Esta es la métrica que decide si el sistema tiene sentido económico. Puedes tener una tasa de paso al link del 80% y una tasa de conversión final del 5% — eso solo significa que atraes muchos curiosos y conviertes pocos.</p><h3>5. Volumen de DMs repetitivos que siguen llegando</h3><p>Si después de activar la automatización sigues recibiendo los mismos 'precio?', 'tenéis hueco?', 'info', es que el flujo no está resolviendo las FAQs en el camino. Una automatización que funciona reduce ese ruido porque pre-resuelve las dudas más comunes antes de que el cliente necesite escribirte.</p><h2>Checklist y plantilla de tracking semanal</h2><p>No necesitas una herramienta específica para esto. Una tabla sencilla revisada una vez por semana es suficiente al principio.</p><table><thead><tr><th>Métrica</th><th>Cómo medirlo</th><th>Señal de alerta</th><th>Qué revisar si falla</th></tr></thead><tbody><tr><td>Tasa de paso al link</td><td>(clics link ÷ DMs enviados) × 100</td><td>Menos del 40%</td><td>Texto del DM, claridad del CTA, longitud</td></tr><tr><td>Tasa de finalización del flujo</td><td>(completados ÷ iniciados) × 100</td><td>Menos del 50%</td><td>Número de preguntas, tono, pregunta específica donde se pierde</td></tr><tr><td>Llegada a WhatsApp con contexto</td><td>Conversaciones con datos ÷ total llegadas WA</td><td>Menos del 60%</td><td>Diseño del flujo, si el link redirige sin pasar por el asistente</td></tr><tr><td>Conversión a acción concreta</td><td>(citas/presupuestos ÷ llegadas con contexto) × 100</td><td>Depende del sector, pero una caída brusca es señal</td><td>Propuesta, tiempo de respuesta, precio, proceso de cierre</td></tr><tr><td>DMs repetitivos recibidos</td><td>Contar manualmente o por etiquetas en WA Business</td><td>Mismo volumen que antes de automatizar</td><td>FAQs no cubiertas en el flujo, mensaje de entrada que no filtra</td></tr></tbody></table><h3>Cómo usar esta tabla</h3><p>Rellénala el mismo día de la semana. No hace falta más frecuencia. Lo que buscas son tendencias, no datos perfectos: si la tasa de finalización cae dos semanas seguidas, algo ha cambiado o siempre estuvo roto y no lo habías visto.</p><h2>Cómo leer los números: señales de que algo falla</h2><h3>La tasa de paso al link es baja pero recibes muchos DMs</h3><p>El problema está en el mensaje de entrada. Probablemente es demasiado genérico, no tiene un paso claro o el link queda enterrado en texto. Revisa también si el <a href=\"/blog/auto-respuesta-instagram-que-convierte/\">diseño de la auto-respuesta</a> está guiando hacia una acción concreta o solo confirmando que has recibido el mensaje.</p><h3>El flujo se completa bien pero nadie convierte</h3><p>Aquí el problema no es la automatización: es lo que pasa después. Tiempo de respuesta alto, propuesta poco clara, precio sin contexto o proceso de cierre débil. La automatización ha hecho su trabajo — el cuello de botella está en el chat final.</p><h3>Llegan a WhatsApp pero sin datos</h3><p>Significa que el link redirige directamente sin pasar por el asistente o que el flujo es fácilmente saltable. Revisa si el punto de entrada está bien configurado o si hay <a href=\"/blog/errores-automatizar-instagram-dm/\">errores en la automatización de DMs</a> que permiten saltarse el paso de cualificación.</p><h3>Sigues recibiendo las mismas preguntas de siempre</h3><p>El flujo no está cubriendo las FAQs reales. Anota las tres preguntas más repetidas esta semana y verifica si el asistente las resuelve antes de redirigir. Si no las tiene, añádelas.</p><h2>Errores comunes al interpretar las métricas</h2><ol><li><strong>Confundir volumen con conversión.</strong> Muchos DMs enviados no significa que el sistema funcione. Lo que importa es cuántos avanzan al siguiente paso.</li><li><strong>Medir solo la primera semana.</strong> Los flujos necesitan al menos dos o tres semanas para mostrar patrones reales. Una semana puede ser atípica.</li><li><strong>Atribuir la conversión solo a la automatización.</strong> Si cierras mucho, puede ser que tu servicio es bueno, tu precio encaja y respondas rápido — no necesariamente que el flujo sea el factor decisivo. Mide con y sin cambios para comparar.</li><li><strong>Ignorar la tasa de finalización por tramo.</strong> No basta con saber que el 30% no completa el flujo. Necesitas saber en qué pregunta exacta se van. Ese dato es el que permite mejorar.</li><li><strong>Optimizar métricas intermedias y olvidar la final.</strong> Puedes tener una tasa de paso al link altísima y una conversión a cita nula. El objetivo no es llenar el embudo arriba; es cerrar abajo.</li></ol><h2>Cuándo los KPIs no son tu problema real</h2><p>Si tienes menos de 15-20 consultas semanales, medir tasas con decimales no tiene sentido estadístico. Con volumen bajo, la mejora más rápida suele ser revisar el texto del DM y asegurarte de que el link lleva a algo claro, no optimizar un embudo de conversión.</p><p>Tampoco tiene sentido medir si tu servicio no tiene demanda suficiente. La automatización ordena el flujo de consultas existentes; no crea consultas donde no las hay. Si el problema es que no te escriben, los KPIs del flujo no te van a decir nada útil.</p><p>Si quieres implementar este sistema sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: capturan la información mínima antes de redirigir al cliente a WhatsApp, con un link que puedes colocar en bio, Stories o Google Business Profile. No es para todos los casos — si tu volumen es bajo o cada consulta requiere una conversación larga y personalizada desde el primer mensaje, probablemente no lo necesitas aún.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Con cuántas consultas semanales tiene sentido empezar a medir estas métricas?",
+        "answer": "A partir de 15-20 consultas semanales tienes suficiente volumen para que los porcentajes signifiquen algo. Con menos, céntrate en mejorar el texto del DM y la claridad del link antes de ponerte a calcular tasas."
+      },
+      {
+        "question": "¿Cómo sé en qué paso exacto del flujo se va la gente?",
+        "answer": "Si usas un asistente o formulario conversacional, la herramienta suele mostrar en qué pregunta hay más abandonos. Si no tienes ese dato, añade una pregunta final opcional y compara cuántos la ven versus cuántos la responden."
+      },
+      {
+        "question": "¿Qué tasa de conversión a cita es normal en servicios locales?",
+        "answer": "Depende del sector, el precio y el proceso de cierre, así que no hay un número universal. Lo útil no es compararte con un benchmark externo sino medir tu propia tasa semana a semana y ver si mejora cuando cambias algo."
+      },
+      {
+        "question": "¿Puedo medir esto sin ninguna herramienta de analítica?",
+        "answer": "Sí. Una tabla con cinco columnas y revisión semanal es suficiente al principio. Anota DMs recibidos, clics al link (Instagram Insights los da), conversaciones en WhatsApp con datos y cierres. Con eso ya ves tendencias."
+      },
+      {
+        "question": "Si la tasa de paso al link es alta pero no convierto, ¿qué reviso primero?",
+        "answer": "Revisa qué pasa después del link: tiempo de respuesta en WhatsApp, claridad de la propuesta y si el precio o el proceso de cierre generan fricción. La automatización ha hecho su trabajo; el cuello de botella está en el chat final."
+      },
+      {
+        "question": "¿Cada cuánto tiempo debo revisar estas métricas?",
+        "answer": "Una vez por semana es suficiente para negocios pequeños. Lo que buscas son tendencias de dos o tres semanas, no datos perfectos de un día concreto."
+      },
+      {
+        "question": "¿Qué significa que sigo recibiendo los mismos DMs de siempre aunque tenga automatización?",
+        "answer": "Que el flujo no está resolviendo las preguntas más repetidas antes de redirigir. Anota las tres dudas más frecuentes y verifica si el asistente las cubre. Si no las tiene, añádelas al flujo."
+      },
+      {
+        "question": "¿Tiene sentido medir si solo vendo un servicio y mis consultas son muy similares entre sí?",
+        "answer": "Sí, y de hecho es más fácil porque el patrón es más limpio. Con un solo servicio puedes ver rápidamente si el flujo filtra bien o si llegan curiosos que no encajan con tu precio o disponibilidad."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-pedir-referencias-o-fotos",
     "title": "Plantilla para pedir fotos o referencias antes de responder",
     "description": "Plantilla lista para copiar: cómo pedir fotos o referencias a un cliente antes de responder, sin sonar borde ni perder la venta. Incluye microcopy por sector y tabla de decisión.",
