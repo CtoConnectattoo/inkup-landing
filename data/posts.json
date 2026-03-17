@@ -1,5 +1,117 @@
 [
   {
+    "slug": "mensaje-bienvenida-whatsapp-que-filtra",
+    "title": "Mensaje de bienvenida en WhatsApp que filtra (sin sonar robot)",
+    "description": "Cómo escribir un mensaje de bienvenida en WhatsApp Business que capture la intención del cliente y datos mínimos desde el primer contacto, sin perder el tono humano ni asustar con formularios.",
+    "excerpt": "Un mensaje de bienvenida que filtra no es un menú de opciones ni un robot. Es una pregunta concreta que guía al cliente hacia la ruta correcta y te da el dato que cambia tu respuesta.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/mensaje-bienvenida-whatsapp-que-filtra.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "mensajes-bienvenida",
+      "cualificacion",
+      "procesos",
+      "atencion-clientes"
+    ],
+    "quickAnswerSubtitle": "Mensaje de bienvenida en WhatsApp que filtra sin sonar robot",
+    "quickAnswer": [
+      "**Una sola pregunta, no un menú** — El mensaje de bienvenida más eficaz termina con una pregunta concreta, no con cinco opciones numeradas.",
+      "**Pide el dato que cambia tu respuesta** — Servicio buscado, fecha aproximada o contexto mínimo. Solo lo que transforma lo que vas a decir.",
+      "**Explica por qué preguntas** — Una frase de microcopy ('para responderte en un mensaje') reduce el abandono y humaniza el flujo.",
+      "**Dos rutas máximo en el primer mensaje** — Más opciones generan parálisis; dos rutas claras (presupuesto o cita, por ejemplo) mantienen la conversación avanzando.",
+      "**El filtrado ocurre en el segundo mensaje, no en el primero** — El primero acoge y orienta; el segundo es donde recoges los datos mínimos con contexto."
+    ],
+    "oneLineDefinition": "Un mensaje de bienvenida que filtra es el auto-reply de WhatsApp Business diseñado para capturar la intención del cliente y un dato mínimo antes de que respondas manualmente, reduciendo mensajes vacíos sin perder el tono humano.",
+    "sections": [
+      "El problema con los mensajes de bienvenida habituales",
+      "Qué debe hacer un mensaje de bienvenida que filtra",
+      "Checklist: los 6 elementos del mensaje que funciona",
+      "Scripts listos para copiar y adaptar",
+      "Errores comunes (y cómo corregirlos)",
+      "Cuándo este enfoque no te sirve",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Escribir un mensaje de bienvenida en WhatsApp que filtra",
+      "totalTimeMinutes": 30,
+      "tools": [
+        "WhatsApp Business (app o API)",
+        "Mensaje de bienvenida activado",
+        "Respuestas rápidas guardadas"
+      ],
+      "steps": [
+        {
+          "name": "Define tu canal final",
+          "text": "Decide si WhatsApp es donde cierras o solo donde cualificas. Esto determina cuánto pides en el primer contacto."
+        },
+        {
+          "name": "Identifica las 2-3 intenciones más frecuentes",
+          "text": "Presupuesto, cita o información son las tres rutas habituales en servicios. Elige las tuyas antes de escribir nada."
+        },
+        {
+          "name": "Decide el dato mínimo que cambia tu respuesta",
+          "text": "Un solo dato: qué servicio buscan, para cuándo o si tienen requisito previo. Si no cambia lo que responderás, no lo pidas aquí."
+        },
+        {
+          "name": "Escribe el mensaje de acogida (1-2 frases)",
+          "text": "Reconoce que han escrito, presenta al negocio con naturalidad y anuncia que vas a hacerles una pregunta para ayudarles rápido."
+        },
+        {
+          "name": "Añade la pregunta de filtrado",
+          "text": "Una sola pregunta cerrada o semi-abierta que guíe hacia la intención. Evita listas de opciones numeradas con más de tres ítems."
+        },
+        {
+          "name": "Incluye microcopy que explique el porqué",
+          "text": "Una frase corta ('así te respondo en un solo mensaje') reduce el abandono y da contexto sin sonar burocrático."
+        },
+        {
+          "name": "Activa y prueba con tu propio número",
+          "text": "Escríbete como si fueras cliente. Si el mensaje suena a robot o pide demasiado, simplifica hasta que sea natural."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>El problema con los mensajes de bienvenida habituales</h2><p>Cada día recibes mensajes que dicen 'hola', 'precio?' o 'tenéis hueco?'. Sin datos. Sin contexto. Y tu mensaje de bienvenida, si es que tienes uno, probablemente responde con un bloque de texto largo que nadie lee o con un menú numerado que hace sentir al cliente que ha llamado a una centralita de telefonía.</p><p>El resultado es siempre el mismo: o el cliente no responde, o responde con otro 'hola' y estás en el mismo punto. El problema no es que uses un auto-reply. El problema es lo que ese auto-reply hace (o no hace).</p><p>Un buen mensaje de bienvenida filtra pidiendo un dato clave y ofreciendo dos rutas por intención; así reduces mensajes vacíos desde el primer contacto.</p><h2>Qué debe hacer un mensaje de bienvenida que filtra</h2><p>La función del mensaje de bienvenida no es impresionar ni vender. Es hacer una sola cosa bien: orientar al cliente hacia la conversación útil lo antes posible.</p><p>Esto implica tres movimientos concretos:</p><ul><li>Reconocer que han escrito (acogida mínima, sin rollo).</li><li>Orientar por intención (dos rutas, no diez).</li><li>Pedir un dato que cambie lo que vas a responder.</li></ul><p>Lo que no debe hacer: listar todos tus servicios, poner horarios completos, pedir cinco datos seguidos ni prometer que 'te responderán en breve' sin dar ningún paso claro. Si quieres entender por qué ese tipo de mensajes vacíos te hacen perder clientes, <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>este artículo sobre cómo filtrar y cualificar consultas antes de responder</a> lo explica con detalle.</p><h2>Checklist: los 6 elementos del mensaje que funciona</h2><p>Antes de activar cualquier auto-reply, comprueba que tiene estos seis elementos. Sin alguno de ellos, el mensaje filtra menos o suena más frío de lo que quieres.</p><ol><li><strong>Acogida en una frase</strong> — Reconoce al cliente sin exagerar. 'Hola, gracias por escribir a [Nombre del negocio]' es suficiente.</li><li><strong>Expectativa de respuesta</strong> — Una frase que explique qué va a pasar: 'Te respondo personalmente / antes de las X / en cuanto pueda'. Sin esto, el cliente no sabe si está hablando con un bot o con una persona.</li><li><strong>Una pregunta, no un menú</strong> — La diferencia entre '¿Qué buscas?' y un menú de cinco opciones numeradas es enorme. La pregunta abierta corta o la semi-cerrada ('¿Buscas cita o presupuesto?') convierte mejor que la lista.</li><li><strong>El dato mínimo</strong> — Servicio concreto, fecha aproximada o contexto básico. Solo uno. El que más cambia tu primera respuesta real.</li><li><strong>Microcopy que explica el porqué</strong> — 'Para responderte en un mensaje sin ir y venir' es la frase que más reduce el abandono. La gente no se molesta en dar datos si no entiende para qué.</li><li><strong>Tono coherente con el negocio</strong> — Un estudio de tatuajes no habla igual que una clínica de fisioterapia. El auto-reply debe sonar como tú, no como un manual de empresa.</li></ol><h2>Scripts listos para copiar y adaptar</h2><p>Los siguientes scripts están pensados para negocios de servicios con volumen medio-alto de consultas repetidas. Ajusta el nombre, el sector y las rutas a tu caso.</p><h3>Script 1 — Versión mínima (máxima conversión)</h3><blockquote><p>Hola, gracias por escribir a [Nombre]. Te respondo en cuanto pueda.<br>Para ir más rápido: ¿buscas cita, presupuesto o información sobre algo concreto?</p></blockquote><p>Por qué funciona: una pregunta semi-cerrada con tres opciones conocidas. El cliente responde en dos palabras y tú ya sabes por dónde ir.</p><h3>Script 2 — Versión con dato mínimo explícito</h3><blockquote><p>Hola, soy [Nombre] de [Negocio]. Te respondo hoy.<br>Para darte la info que necesitas sin ir y venir, dime: ¿qué servicio te interesa y si tienes fecha en mente?<br>Con eso te respondo directo.</p></blockquote><p>Por qué funciona: pide dos datos en una sola frase natural. El microcopy ('sin ir y venir') justifica la pregunta antes de que el cliente se pregunte por qué se la hacen.</p><h3>Script 3 — Versión para tono cercano o creativo (tatuadores, fotógrafos, coaches)</h3><blockquote><p>Hola, qué bueno que escribas. Te contesto en breve.<br>Para no hacerte esperar más de lo necesario: ¿qué tienes en mente? Cuéntame en dos líneas y te doy respuesta concreta.</p></blockquote><p>Por qué funciona: abierto pero con límite implícito ('dos líneas'). Transmite que hay una persona al otro lado y que la respuesta va a ser personalizada, no un copia-pega.</p><h3>Script 4 — Versión para fuera de horario (combina bienvenida y ausencia)</h3><blockquote><p>Hola, ahora mismo no estoy disponible pero te leo en cuanto abra.<br>Si me dejas: qué servicio buscas y si tienes fecha en mente, te respondo directo sin más preguntas.<br>Hasta luego.</p></blockquote><p>Este tipo de mensaje combina la función de bienvenida con la de ausencia. Si quieres ver cómo estructurar la parte de ausencia de forma que no pierda conversiones, hay <a href=&quot;/blog/plantilla-mensaje-ausencia-que-convierte/&quot;>una plantilla específica para mensajes de ausencia que convierten</a> que puede complementar esto.</p><h2>Errores comunes (y cómo corregirlos)</h2><ol><li><strong>Menú de opciones numeradas con más de tres ítems</strong> — Produce parálisis y hace sonar el negocio como una centralita. Corrección: máximo dos o tres rutas, en forma de pregunta natural, no de lista.</li><li><strong>Pedir demasiados datos en el primer mensaje</strong> — Nombre, teléfono, servicio, fecha, presupuesto y zona en un solo auto-reply. Corrección: un dato que cambie la respuesta. El resto viene después, cuando ya hay conversación.</li><li><strong>No decir quién responde ni cuándo</strong> — El cliente no sabe si hay una persona al otro lado o si está hablando con un bot eterno. Corrección: una frase que aclare que hay alguien y cuándo responde.</li><li><strong>Tono corporativo en un negocio personal</strong> — 'Su consulta ha sido registrada correctamente' en un negocio de una persona. Corrección: escribe como hablarías en persona con ese cliente.</li><li><strong>Usar el mensaje de bienvenida para vender</strong> — Listar servicios, precios y ventajas competitivas en el auto-reply. Corrección: el primer mensaje orienta; la venta ocurre en la conversación real.</li><li><strong>No testear el mensaje como cliente</strong> — Activar el auto-reply sin probarlo desde otro número. Corrección: escríbete desde un número diferente y lee el mensaje como si no supieras nada del negocio.</li></ol><h2>Cuándo este enfoque no te sirve</h2><p>Hay casos en los que un mensaje de bienvenida con filtrado no aporta lo suficiente o puede incluso molestar:</p><ul><li>Volumen muy bajo (menos de cinco consultas al día). Si casi nadie escribe, el problema es captación, no gestión, y ningún auto-reply lo resuelve.</li><li>Servicios donde cada consulta es radicalmente distinta y requiere conversación larga desde el minuto uno. Un mensaje que pide datos estándar puede frustrar a un cliente que necesita explicar una situación compleja.</li><li>Cuando ya tienes un equipo dedicado con protocolos claros. Añadir un auto-reply encima puede generar fricción innecesaria si el proceso ya funciona.</li></ul><p>Si tu problema es que recibes muchas consultas pero pocas convierten, y sospechas que el cuello de botella está en la gestión inicial, <a href=&quot;/blog/automatizar-whatsapp-negocio-local/&quot;>este artículo sobre cómo automatizar WhatsApp en un negocio local sin programar</a> explica qué partes del flujo tienen sentido sistematizar y cuáles no.</p><p>Y si estás valorando hasta qué punto WhatsApp Business básico cubre tus necesidades frente a opciones más avanzadas, <a href=&quot;/blog/whatsapp-business-vs-api-cuando/&quot;>la comparativa entre WhatsApp Business y la API</a> aclara cuándo cada opción tiene sentido real.</p><h2>El siguiente paso si el volumen ya genera caos</h2><p>Un mensaje de bienvenida bien escrito reduce los mensajes vacíos y orienta al cliente, pero solo actúa después de que alguien ya te ha escrito. Si el volumen crece y el problema es que la información llega dispersa desde Instagram, WhatsApp y otros canales antes de que puedas responder, la solución está un paso antes: un punto de entrada único que capture datos mínimos por intención y redirija al chat final con contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link único con asistente conversacional que cualifica la consulta antes de redirigir a WhatsApp, de forma que llegas al chat con el contexto ya disponible. No es para todos los casos: si tu volumen es bajo o tu proceso de venta requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿El mensaje de bienvenida de WhatsApp Business se activa solo cuando no estoy disponible o siempre?",
+        "answer": "Puedes configurarlo para que se active siempre al primer mensaje o solo fuera de horario. Para filtrar consultas, tiene más sentido activarlo siempre: así cada nuevo contacto recibe orientación inmediata, no solo cuando estás ausente."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo meter en el mensaje de bienvenida sin que la gente lo ignore?",
+        "answer": "Una, idealmente. Dos como máximo si van juntas de forma natural ('qué servicio buscas y si tienes fecha en mente'). A partir de tres preguntas en el primer mensaje, la tasa de respuesta cae de forma visible."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde al mensaje de bienvenida con otro 'hola' o con un audio sin datos?",
+        "answer": "Responde con una sola pregunta directa: 'Cuéntame qué buscas y si tienes fecha aproximada'. Si tras dos intentos no da ningún dato útil, el seguimiento no merece más tiempo hasta que el cliente retome."
+      },
+      {
+        "question": "¿Puedo usar el mismo mensaje de bienvenida para todos mis servicios o necesito uno por servicio?",
+        "answer": "Uno general funciona bien si tus servicios comparten las mismas rutas de intención (cita, presupuesto, info). Si tienes servicios muy distintos con requisitos previos diferentes, considera dos mensajes o un link previo que ya separe por tipo de consulta antes de llegar al chat."
+      },
+      {
+        "question": "¿El mensaje de bienvenida baja el tono humano de mi negocio?",
+        "answer": "Solo si está mal escrito. Un mensaje que suena como tú, explica por qué pregunta y promete respuesta personal no resta humanidad. Lo que la resta es el menú numerado, el lenguaje corporativo y el mensaje que no dice cuándo responde una persona real."
+      },
+      {
+        "question": "¿Cómo evito que el cliente piense que está hablando con un bot?",
+        "answer": "Incluye una frase que deje claro que hay una persona al otro lado y cuándo responde: 'Te leo yo directamente y te respondo antes de las X'. Eso marca la diferencia entre un auto-reply útil y uno que genera desconfianza."
+      },
+      {
+        "question": "¿Qué diferencia hay entre mensaje de bienvenida y mensaje de ausencia en WhatsApp Business?",
+        "answer": "El de bienvenida se activa al primer contacto (siempre o en horario). El de ausencia se activa cuando el negocio está cerrado según el horario configurado. Puedes hacer que el de ausencia también filtre usando la misma lógica de pregunta por intención."
+      },
+      {
+        "question": "¿Funciona igual este enfoque en la app de WhatsApp Business básica y en la API?",
+        "answer": "El principio es el mismo, pero las capacidades difieren. La app básica permite mensajes de bienvenida y respuestas rápidas. La API permite flujos más elaborados con bifurcaciones. Para la mayoría de negocios pequeños, la app básica con un buen texto es suficiente para empezar."
+      }
+    ]
+  },
+  {
     "slug": "etiquetas-whatsapp-para-organizar",
     "title": "Etiquetas en WhatsApp Business para organizar clientes (sistema simple)",
     "description": "Cómo usar las etiquetas de WhatsApp Business para no perder leads, priorizar respuestas y mantener el caos de mensajes bajo control sin herramientas extra.",
