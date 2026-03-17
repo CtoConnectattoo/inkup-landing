@@ -1,5 +1,105 @@
 [
   {
+    "slug": "que-preguntar-para-presupuesto-servicios",
+    "title": "Qué preguntar para dar un presupuesto (plantilla universal)",
+    "description": "Plantilla universal con las preguntas exactas para dar un presupuesto en cualquier servicio. Versión mínima de 5 preguntas, versión completa, tabla citable y microcopy listo para copiar.",
+    "excerpt": "Para dar un presupuesto real necesitas cinco datos: servicio exacto, alcance, contexto, fecha y condiciones. Aquí la plantilla mínima, la completa y el microcopy para no espantar al cliente.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/que-preguntar-para-presupuesto-servicios.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "presupuesto",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "cualificacion",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "5 preguntas para dar un presupuesto sin adivinar",
+    "quickAnswer": [
+      "**Servicio exacto** — No \"algo de diseño\" ni \"un tatuaje\". El tipo concreto de trabajo que necesita, porque sin eso cualquier cifra es inventada.",
+      "**Alcance o dimensiones** — Cuánto trabajo hay detrás: metros, horas, piezas, sesiones. Es lo que convierte el servicio en precio.",
+      "**Contexto mínimo en una frase** — Qué quiere conseguir el cliente. Evita malentendidos y permite dar un rango honesto en vez de un número al azar.",
+      "**Fecha o urgencia** — Para cuándo lo necesita. Cambia disponibilidad, carga de trabajo y a veces el precio.",
+      "**Condiciones o requisitos clave** — Zona, modalidad, materiales, restricciones. Lo que convierte un presupuesto genérico en uno aplicable a ese cliente."
+    ],
+    "oneLineDefinition": "Para dar un presupuesto en servicios debes confirmar cinco datos antes de responder: servicio exacto, alcance, contexto mínimo, fecha y condiciones; con eso evitas precios erróneos, malentendidos y tiempo perdido en conversaciones que no van a ningún lado.",
+    "sections": [
+      "Por qué la mayoría de presupuestos fallan antes de empezar",
+      "Regla de los datos que cambian la decisión",
+      "Plantilla mínima (5 preguntas)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Plantilla completa (cuando el caso tiene más variabilidad)",
+      "Microcopy: cómo pedir los datos sin sonar robótico",
+      "Variantes por tipo de servicio",
+      "Errores frecuentes al pedir datos para un presupuesto",
+      "Implementación: de plantilla mental a proceso",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de presupuesto en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Microcopy de entrada",
+        "Mensaje de cierre con rango"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Elige los 5 datos que cambian tu precio: servicio, alcance, contexto, fecha y condiciones. No añadas más hasta que el cliente haya respondido."
+        },
+        {
+          "name": "Decide cómo entregas las preguntas",
+          "text": "DM o WhatsApp: un mensaje con lista numerada. Si tienes volumen alto, un link con flujo conversacional que recoge la info antes del chat."
+        },
+        {
+          "name": "Cierra con rango y siguiente paso",
+          "text": "Con los datos recibidos, responde con un rango orientativo, la condición que lo mueve y una propuesta de siguiente paso concreta."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Por qué la mayoría de presupuestos fallan antes de empezar</h2><p>Te escriben \"¿cuánto cobras por un tatuaje?\". Tú das una cifra. El cliente desaparece o responde \"uf, caro\". Y tú no sabes si era el tamaño, el estilo, la zona del cuerpo o simplemente que no tenía intención real de reservar.</p><p>El presupuesto no falló en el precio. Falló antes: en los datos que no tenías.</p><p>Dar un precio sin alcance es adivinar. Y adivinar en servicios tiene dos consecuencias habituales: infravaloras el trabajo o das un número que el cliente compara con otro que no tiene nada que ver con lo que tú harías.</p><p>Lo contraintuitivo aquí es esto: pedir datos antes de dar precio no frena al cliente. Lo que lo frena es pedir datos sin explicar para qué sirven. La secuencia importa más que la cantidad de preguntas.</p><h2>Regla de los datos que cambian la decisión</h2><blockquote><p><strong>Pregunta solo lo que cambia tu precio, tu disponibilidad o tu decisión de aceptar el trabajo.</strong><br>Si la respuesta no mueve ninguna de esas tres variables, no la pidas en el primer mensaje.</p></blockquote><p>Esta regla resuelve el problema de los formularios interminables y los DMs de 30 mensajes. No es sobre ser minimalista: es sobre no gastar tiempo ni al cliente ni a ti en datos que no usas para nada en esa fase.</p><p>Antes de diseñar tu plantilla, hazte esta pregunta para cada dato: \"¿Si no sé esto, doy un precio diferente?\" Si la respuesta es no, espera.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para máxima conversión con mínima fricción. Si alguien abandona aquí, normalmente no era un lead con intención real.</p><ol><li><strong>¿Qué servicio necesitas exactamente?</strong> (no el genérico, el específico)</li><li><strong>¿Cuál es el alcance o las dimensiones?</strong> (tamaño, horas, sesiones, metros, piezas... según tu sector)</li><li><strong>Contexto en una frase:</strong> ¿qué quieres conseguir o qué situación tienes ahora?</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha aproximada o urgencia)</li><li><strong>¿Alguna condición importante?</strong> (zona, modalidad presencial/online, materiales, restricciones)</li></ol><p>Con esos cinco datos puedes dar un rango orientativo honesto en la mayoría de servicios. No un precio cerrado, pero sí algo útil que el cliente puede evaluar.</p><p>Si también necesitas filtrar antes de que el cliente llegue a este punto, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí hay plantillas por sector para separar leads con intención real de consultas sin contexto</a>.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th><th>Riesgo si no la haces</th></tr></thead><tbody><tr><td>¿Qué servicio exactamente?</td><td>Intención real y tipo de trabajo</td><td>Si encaja con lo que haces y a qué ruta va</td><td>Das precio de algo que no es lo que piden</td></tr><tr><td>¿Alcance o dimensiones?</td><td>Volumen de trabajo real</td><td>El rango de precio y el tiempo necesario</td><td>Infravaloras o das precio sin base</td></tr><tr><td>Contexto en una frase</td><td>Objetivo del cliente</td><td>Si hay condicionantes que suben o bajan precio</td><td>Malentendidos que llegan tarde</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y viabilidad</td><td>Si tienes hueco y si aplica recargo por urgencia</td><td>Comprometes fecha sin saber si puedes</td></tr><tr><td>¿Condiciones importantes?</td><td>Requisitos específicos del caso</td><td>Si necesitas más info o el trabajo es inviable</td><td>Presupuesto que cambia cuando ya hay expectativas</td></tr></tbody></table><h2>Plantilla completa (cuando el caso tiene más variabilidad)</h2><p>Úsala cuando el cliente ya respondió la mínima y quieres afinar, o cuando tu servicio tiene muchas variables que mueven el precio de forma importante.</p><p>Añade a la plantilla mínima según tu sector:</p><ul><li>Presupuesto orientativo del cliente (solo si en tu sector filtra de verdad)</li><li>Disponibilidad horaria o franjas (si es trabajo por cita)</li><li>Ubicación exacta (si hay desplazamiento)</li><li>Preferencias de estilo, materiales o modalidad</li><li>Criterio de éxito: \"¿cómo sabrás que esto ha salido bien?\" (muy útil en servicios creativos o de consultoría)</li><li>Condiciones físicas o técnicas relevantes (sin pedir datos sensibles innecesarios)</li></ul><p>No uses la completa de entrada. Es para la segunda vuelta, cuando el cliente ya demostró intención respondiendo la mínima.</p><p>Si tu cuello de botella está en el volumen de mensajes antes de llegar a esta fase, <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtrar y cualificar consultas antes de responder por WhatsApp</a> resuelve el problema antes de que llegue al presupuesto.</p><h2>Microcopy: cómo pedir los datos sin sonar robótico</h2><p>Lo que mata conversiones no es preguntar. Es preguntar sin explicar por qué. Tres mensajes listos para copiar:</p><h3>Mensaje de entrada (cuando te escriben \"precio\" o \"info\")</h3><blockquote><p>\"Para darte un precio real y no un número al azar, necesito 3 datos rápidos: qué necesitas exactamente, el alcance aproximado y para cuándo. Con eso te respondo directo.\"</p></blockquote><h3>Mensaje cuando solo te dan el servicio genérico</h3><blockquote><p>\"Perfecto. Para darte un rango útil, dime el alcance (tamaño/duración/sesiones) y para cuándo lo necesitas. Con eso tengo lo suficiente.\"</p></blockquote><h3>Mensaje para separar presupuesto de cita</h3><blockquote><p>\"¿Buscas presupuesto orientativo o quieres directamente ver disponibilidad para reservar? Te llevo por el camino correcto y lo cerramos rápido.\"</p></blockquote><h3>Cierre con rango (una vez tienes los datos)</h3><blockquote><p>\"Con lo que me dices, el rango habitual está entre X e Y dependiendo de [variable]. Si te cuadra, el siguiente paso es [acción concreta].\"</p></blockquote><h2>Variantes por tipo de servicio</h2><p>No cambies la plantilla entera: cambia solo la pregunta de alcance y la de condiciones. El resto es universal.</p><h3>Tatuajes y piercing</h3><ul><li>Alcance: zona del cuerpo + tamaño aproximado</li><li>Condiciones: referencias o estilo</li></ul><blockquote><p>\"¿Zona? ¿Tamaño aprox? ¿Tienes referencia o estilo en mente?\"</p></blockquote><h3>Estética y belleza</h3><ul><li>Alcance: tipo de tratamiento + zona</li><li>Condiciones: tipo de piel o contraindicación relevante (solo si afecta al tratamiento)</li></ul><blockquote><p>\"¿Qué tratamiento y en qué zona? ¿Tienes alguna condición de piel que deba saber?\"</p></blockquote><h3>Fotografía y vídeo</h3><ul><li>Alcance: tipo de sesión + duración + número de imágenes finales</li><li>Condiciones: localización, modalidad, uso del material</li></ul><blockquote><p>\"¿Tipo de sesión? ¿Duración y cuántas fotos necesitas? ¿Tienes ubicación en mente?\"</p></blockquote><h3>Reformas y servicios de hogar</h3><ul><li>Alcance: qué hay que hacer + metros cuadrados o magnitud</li><li>Condiciones: ubicación y acceso</li></ul><blockquote><p>\"¿Qué trabajo es? ¿Metros o magnitud aproximada? ¿Dónde está el espacio?\"</p></blockquote><h3>Formación, mentoría y coaching</h3><ul><li>Alcance: objetivo concreto + número de sesiones o duración del proceso</li><li>Condiciones: nivel actual, modalidad</li></ul><blockquote><p>\"¿Qué quieres conseguir? ¿Cuántas sesiones tienes en mente o prefieres que te proponga yo el formato?\"</p></blockquote><h2>Errores frecuentes al pedir datos para un presupuesto</h2><ol><li><strong>Dar precio antes de tener alcance</strong><br>Ocurre cuando el cliente presiona o hay prisa. Consecuencia: número que luego no puedes mantener. Corrección: una frase de pausa — \"Para que sea un precio real, necesito un dato más.\"</li><li><strong>Preguntar demasiado en el primer mensaje</strong><br>Nueve preguntas de golpe paralizan. Corrección: plantilla mínima de 5 primero, completa después si responde.</li><li><strong>No explicar para qué sirve cada pregunta</strong><br>El cliente siente que le están haciendo un interrogatorio. Corrección: una frase de contexto antes de la lista — \"Para darte un precio sin inventarme nada, necesito esto.\"</li><li><strong>Pedir datos sensibles innecesarios demasiado pronto</strong><br>Preguntar condiciones médicas o información personal antes de que haya confianza mínima. Corrección: solo si ese dato cambia directamente lo que puedes ofrecer.</li><li><strong>No separar intención</strong><br>Mezclar clientes que quieren presupuesto con los que quieren directamente reservar. Corrección: pregunta inicial de separación antes de lanzar las cinco preguntas.</li><li><strong>Dar rango sin ancla</strong><br>Decir \"entre 100 y 500\" sin explicar qué mueve la cifra. El cliente se queda con el número bajo y se decepciona después. Corrección: añade la variable que mueve el precio — \"entre X e Y dependiendo de Z.\"</li></ol><h2>Implementación: de plantilla mental a proceso</h2><p>La diferencia entre tener esta plantilla guardada en notas y tenerla funcionando es que deje de depender de que tú la recuerdes cada vez.</p><h3>Paso 1: define tus 5 datos mínimos</h3><p>Escribe en papel cuáles son los cinco datos que en tu servicio cambian el precio o la decisión de aceptar el trabajo. No copies los genéricos: adapta el de alcance y el de condiciones a tu sector.</p><h3>Paso 2: decide dónde ocurre la recogida</h3><ul><li>Si el volumen es bajo: un mensaje con lista numerada en WhatsApp o DM funciona.</li><li>Si recibes más de 20 o 25 consultas semanales con el mismo patrón: un link con flujo conversacional que recoge los datos antes del chat te ahorra el trabajo repetitivo.</li></ul><p>Si el problema es que la gente llega al presupuesto sin haber pasado por ningún filtro previo, <a href=\"/blog/agendar-citas-sin-mensajes/\">gestionar el primer contacto antes de dar precio o fecha</a> cambia cuánto tiempo inviertes por consulta.</p><h3>Paso 3: estandariza el mensaje de cierre</h3><p>Una vez tienes los datos, el cierre debe ser siempre: rango orientativo + variable que lo mueve + siguiente paso concreto. Un mensaje, no tres.</p><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: recogen los datos del cliente antes de que tú respondas manualmente, mediante un link con asistente conversacional que puedes poner en bio, stories o Google Business Profile. Cuando el lead llega a WhatsApp, ya traes el contexto completo. No es para todos los casos: si recibes pocas consultas o cada presupuesto es tan distinto que no hay patrón repetible, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que el cliente se canse?",
+        "answer": "Con 3 a 5 preguntas bien elegidas es suficiente para la mayoría de servicios. El cliente abandona cuando no entiende para qué sirven las preguntas, no por el número en sí. Si explicas en una frase por qué las pides, la tolerancia sube."
+      },
+      {
+        "question": "¿Qué hago cuando me escriben solo \"precio\" sin más contexto?",
+        "answer": "No des cifra. Devuelve la mini-plantilla: servicio exacto, alcance en una frase y para cuándo. Con eso tienes lo mínimo para dar un rango honesto. Un número sin contexto genera expectativas que luego cuesta gestionar."
+      },
+      {
+        "question": "¿Pido presupuesto orientativo al cliente o no?",
+        "answer": "Solo si filtra de verdad en tu sector: cuando hay una diferencia importante entre lo que puedes hacer con 300 euros y con 1.500. Si en tu servicio el precio no varía tanto según el presupuesto del cliente, no lo pidas; genera fricción sin utilidad real."
+      },
+      {
+        "question": "¿Estas preguntas sirven para Instagram DM o solo para WhatsApp?",
+        "answer": "Sirven para ambos, pero Instagram DM no es el mejor lugar para hacer una secuencia de preguntas. Funciona como puerta: un mensaje inicial que recoge intención y redirige a WhatsApp o a un link donde se completa el contexto."
+      },
+      {
+        "question": "¿Y si el cliente responde con datos a medias o ignora alguna pregunta?",
+        "answer": "Responde con lo que tienes y señala qué falta: \"Con lo que me dices el rango está entre X e Y; para afinar necesito saber Z.\" No bloquees la conversación esperando el dato perfecto."
+      },
+      {
+        "question": "¿Tengo que usar siempre las mismas preguntas o puedo adaptarlas?",
+        "answer": "Adapta el 20 % variable (zona, materiales, tipo de piel, estilo) y mantén el 80 % fijo (servicio, alcance, contexto, fecha, condiciones). Cambiar todo cada vez convierte la plantilla en ruido."
+      },
+      {
+        "question": "¿Qué diferencia hay entre pedir datos para un presupuesto y para agendar una cita?",
+        "answer": "Para presupuesto el dato crítico es el alcance del trabajo. Para agendar cita, la fecha y la flexibilidad horaria son lo prioritario. En muchos servicios los dos procesos se mezclan; sepáralos con una pregunta inicial: ¿buscas presupuesto o quieres directamente una cita?"
+      },
+      {
+        "question": "¿Cuándo tiene sentido usar un flujo automatizado en vez de preguntar manualmente?",
+        "answer": "Cuando recibes más de 20 o 25 consultas semanales con el mismo patrón de preguntas. Por debajo de ese volumen, la plantilla manual funciona bien. Por encima, el tiempo invertido en recoger datos básicos empieza a costar más que lo que se ahorra."
+      }
+    ]
+  },
+  {
     "slug": "scripts-responder-dm-instagram",
     "title": "Scripts para responder DMs en Instagram (por intención)",
     "description": "Scripts listos para responder DMs de Instagram según la intención del cliente: presupuesto, cita e información. Reduce el ping-pong, capta datos mínimos y mueve la conversación a WhatsApp con contexto.",
