@@ -1,5 +1,109 @@
 [
   {
+    "slug": "whatsapp-business-vs-api-cuando",
+    "title": "WhatsApp Business vs WhatsApp API: cuándo necesitas cada uno (sin humo)",
+    "description": "Diferencias reales entre WhatsApp Business y la API de WhatsApp: qué hace cada uno, cuándo tiene sentido pagar por la API y cuándo la app gratuita es suficiente para tu negocio de servicios.",
+    "excerpt": "WhatsApp Business basta cuando necesitas respuestas y orden básico. La API tiene sentido con alto volumen, equipo y automatizaciones avanzadas. Si tu problema es caos de mensajes, empieza por filtrar y capturar datos antes de decidir.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/whatsapp-business-vs-api-cuando.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "7 min",
+    "tags": [
+      "whatsapp",
+      "whatsapp-business",
+      "whatsapp-api",
+      "automatizacion",
+      "gestion-consultas",
+      "procesos"
+    ],
+    "quickAnswerSubtitle": "WhatsApp Business vs WhatsApp API: cuándo necesitas cada uno",
+    "quickAnswer": [
+      "**WhatsApp Business es gratuita y suficiente para la mayoría** — Si eres una persona o un equipo pequeño con volumen manejable, la app cubre el 90% de lo que necesitas sin coste.",
+      "**La API no es para todos** — Necesitas un proveedor de acceso (BSP), tiene coste por conversación y requiere configuración técnica. No es un paso natural, es una decisión con inversión real.",
+      "**El criterio real para pasarte a la API es el equipo, no el volumen** — Si varias personas necesitan responder desde el mismo número al mismo tiempo, la app no lo permite. Ahí empieza a tener sentido la API.",
+      "**Si tu problema es caos de mensajes, la API no lo resuelve sola** — Filtrar y capturar datos antes del chat es un paso previo que funciona con cualquiera de las dos opciones.",
+      "**No saltes a la API por FOMO** — La mayoría de negocios de servicios locales no la necesitan. Antes de decidir, pregúntate si el problema real es volumen, equipo o proceso."
+    ],
+    "oneLineDefinition": "WhatsApp Business es la app gratuita para negocios pequeños con atención manual; la API de WhatsApp es la capa técnica para integraciones avanzadas, múltiples agentes y automatizaciones complejas con coste por conversación.",
+    "sections": [
+      "Qué es cada uno en términos operativos",
+      "Tabla de decisión: Business vs API",
+      "Señales claras para pasarte a la API",
+      "Por qué la mayoría no necesita la API todavía",
+      "Errores comunes al tomar esta decisión",
+      "FAQ"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Decide entre WhatsApp Business y la API en 5 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "WhatsApp Business App",
+        "Criterios de volumen y equipo",
+        "Comparativa de funciones"
+      ],
+      "steps": [
+        {
+          "name": "Cuenta cuántas personas necesitan responder",
+          "text": "Si solo respondes tú o máximo dos personas con teléfonos distintos, la app es suficiente. La API empieza a justificarse cuando varias personas necesitan el mismo número simultáneamente."
+        },
+        {
+          "name": "Mide tu volumen real",
+          "text": "Cuenta consultas por día durante una semana. Por debajo de 30-50 mensajes diarios manejables, la app cubre. El volumen por sí solo no justifica la API si no hay equipo detrás."
+        },
+        {
+          "name": "Define qué automatizaciones necesitas realmente",
+          "text": "Respuestas rápidas, mensaje de bienvenida y etiquetas están en la app gratuita. Si necesitas integrar con CRM, enviar campañas masivas o conectar con sistemas externos, ahí entra la API."
+        },
+        {
+          "name": "Calcula el coste real de la API",
+          "text": "La API tiene coste por conversación según la región y el tipo de mensaje. Suma el coste del BSP (proveedor de acceso) y la plataforma de gestión. Compara ese gasto con el problema que resuelve."
+        },
+        {
+          "name": "Decide por el problema real, no por lo que parece profesional",
+          "text": "Si el problema es caos de mensajes dispersos o preguntas repetidas, eso se resuelve con proceso y filtrado previo, no necesariamente con la API. Empieza por el nivel más simple que resuelva el problema."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Qué es cada uno en términos operativos</h2><p>Cada semana algún negocio de servicios pregunta si debería pasarse a la API de WhatsApp porque le han dicho que es más profesional o que automatiza todo. La respuesta corta: depende de un criterio concreto, no de lo que suene mejor.</p><h3>WhatsApp Business App</h3><p>Es la aplicación gratuita de Meta para negocios pequeños. Se instala en el móvil (o en hasta 5 dispositivos vinculados con WhatsApp Business multi-dispositivo). Incluye: perfil de empresa con info básica, catálogo de productos o servicios, respuestas rápidas para preguntas frecuentes, mensajes automáticos de bienvenida y ausencia, etiquetas para organizar conversaciones y estadísticas básicas de mensajes.</p><p>Lo que no puede: no permite que varios agentes respondan desde el mismo número de forma independiente y simultánea, no integra con CRMs externos de forma nativa, no permite enviar campañas masivas de marketing y no expone una API para conectar con sistemas propios.</p><h3>WhatsApp Business API (ahora llamada Cloud API)</h3><p>No es una aplicación que instalas. Es una capa técnica que Meta pone a disposición de empresas para conectar WhatsApp con sus sistemas. Para usarla necesitas un BSP (Business Solution Provider, proveedor autorizado de acceso) o conectarte directamente a la Cloud API de Meta si tienes capacidad técnica.</p><p>Permite: múltiples agentes en el mismo número, integración con CRMs y herramientas externas, envío de mensajes de plantilla (preaprobadas por Meta) a escala, automatizaciones complejas y bots conversacionales, y acceso a métricas avanzadas. Tiene coste: Meta cobra por conversación según el tipo (marketing, utilidad, servicio) y la región. A eso se suma el coste de la plataforma o BSP que uses.</p><h2>Tabla de decisión: Business vs API</h2><table><thead><tr><th>Criterio</th><th>WhatsApp Business App</th><th>WhatsApp API</th></tr></thead><tbody><tr><td>Coste</td><td>Gratuita</td><td>Coste por conversación + plataforma</td></tr><tr><td>Instalación</td><td>App en el móvil</td><td>Requiere BSP o configuración técnica</td></tr><tr><td>Agentes simultáneos</td><td>1 número, hasta 5 dispositivos vinculados</td><td>Múltiples agentes en el mismo número</td></tr><tr><td>Automatizaciones</td><td>Bienvenida, ausencia, respuestas rápidas</td><td>Flujos complejos, bots, integraciones</td></tr><tr><td>Integración CRM</td><td>No nativa</td><td>Sí, mediante API</td></tr><tr><td>Campañas masivas</td><td>No</td><td>Sí, con plantillas aprobadas por Meta</td></tr><tr><td>Curva de implementación</td><td>Baja (minutos)</td><td>Alta (días o semanas, según el proveedor)</td></tr><tr><td>Ideal para</td><td>1 persona o equipo pequeño, volumen manejable</td><td>Equipo con varios agentes, alto volumen, integraciones</td></tr></tbody></table><h2>Señales claras para pasarte a la API</h2><p>No hay una cifra mágica de mensajes. Hay situaciones concretas donde la app se queda corta:</p><ul><li>Varias personas necesitan responder desde el mismo número al mismo tiempo y la gestión por un solo teléfono genera cuellos de botella.</li><li>Necesitas integrar las conversaciones con un CRM o sistema de reservas que requiera sincronización automática.</li><li>Quieres enviar notificaciones o recordatorios de cita a escala (decenas o cientos de clientes), no manualmente uno a uno.</li><li>Tienes un volumen tan alto que necesitas enrutar conversaciones entre agentes con reglas automáticas.</li><li>Ya tienes un equipo de atención dedicado y una plataforma de gestión donde centralizar todo.</li></ul><p>Si ninguna de estas situaciones describe tu negocio ahora mismo, la API es una solución para un problema que todavía no tienes.</p><h2>Por qué la mayoría no necesita la API todavía</h2><p>Aquí está la observación que pocos dicen: el 80% de los negocios de servicios locales que preguntan por la API en realidad tienen un problema de proceso, no de herramienta. Responden tarde porque no tienen un sistema de filtrado previo, no porque les falte una API.</p><p>Si te escriben 40 personas al día y la mitad solo pregunta precio, horarios o disponibilidad, el problema no se resuelve con la API. Se resuelve capturando esa información antes de que llegue al chat, para que tú (o tu equipo) solo gestione conversaciones con contexto. Eso funciona igual de bien con la app gratuita.</p><p>La idea de <a href=&quot;/blog/centralizar-consultas-instagram-whatsapp/&quot;>centralizar consultas de Instagram y WhatsApp en un solo flujo</a> no requiere API. Requiere un punto de entrada ordenado que recoja datos mínimos antes de derivar al chat final.</p><p>Si lo que buscas es reducir el tiempo que dedicas a responder preguntas repetidas, lo primero es <a href=&quot;/blog/automatizar-whatsapp-sin-api/&quot;>explorar qué puedes automatizar sin API</a> con la app estándar. La mayoría se sorprende de lo que cubre.</p><h2>Errores comunes al tomar esta decisión</h2><ol><li><strong>Confundir volumen con necesidad de API.</strong> Tener muchos mensajes no significa necesitar la API. Si una sola persona puede gestionarlos con proceso claro, la app aguanta perfectamente.</li><li><strong>Pensar que la API automatiza las ventas.</strong> La API facilita infraestructura técnica. No convierte clientes, no cualifica sola y no sustituye el criterio humano en una venta consultiva.</li><li><strong>No calcular el coste real.</strong> La API tiene coste por conversación. Si tu negocio tiene picos estacionales o muchas consultas informativas que no convierten, el gasto puede no justificarse.</li><li><strong>Implementar la API sin proceso previo.</strong> Si ya tienes caos con la app, añadir la API sobre ese caos solo lo complejiza. El proceso de filtrado y cualificación va antes que la herramienta.</li><li><strong>Elegir la herramienta por lo que parece, no por lo que necesitas.</strong> La API suena más &quot;enterprise&quot;. Eso no la hace mejor para un estudio de tatuajes, una coach o un fotógrafo con 2 servicios y atención personal.</li></ol><p>Si el problema real es que no das abasto para responder y necesitas hacerlo más rápido sin contratar a nadie, el punto de partida correcto es revisar <a href=&quot;/blog/automatizar-whatsapp-negocio-local/&quot;>cómo automatizar WhatsApp en un negocio local sin programar</a>, antes de evaluar infraestructura técnica compleja.</p><p>Y si vas a implementar cualquier automatización, sea con la app o con la API, hay criterios legales que no puedes ignorar: consentimiento explícito, opt-out claro, datos personales. Antes de lanzar cualquier flujo automatizado, revisa <a href=&quot;/blog/automatizar-whatsapp-respetando-legalidad/&quot;>cómo automatizar WhatsApp respetando privacidad y legalidad</a>.</p><h2>El siguiente paso si decides quedarte con la app</h2><p>La app gratuita cubre mucho más de lo que parece si se usa con proceso. El punto donde más negocios dejan dinero encima de la mesa no es la herramienta: es la ausencia de un filtro previo que capture datos del cliente antes de que llegue al chat.</p><p>Si quieres implementar ese filtro sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que recoge intención, contexto y datos de contacto antes de derivar la conversación a WhatsApp con el contexto ya preparado. No necesitas la API para eso, y el negocio llega a cada conversación sabiendo con quién habla y qué quiere. No es para todos los casos: si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún.</p><h2>El siguiente paso si decides ir a la API</h2><p>Antes de elegir BSP o plataforma, define: cuántos agentes van a responder, qué integraciones necesitas realmente, cuánto estás dispuesto a gastar por conversación y si tienes capacidad técnica interna o necesitas un proveedor que lo gestione. Sin esas respuestas, cualquier demo de plataforma va a sonar bien y vas a acabar comprando más de lo que necesitas.</p><h2>FAQ</h2>",
+    "faq": [
+      {
+        "question": "¿Puedo usar WhatsApp Business con dos personas respondiendo al mismo tiempo?",
+        "answer": "Con la app puedes vincular hasta 5 dispositivos al mismo número, pero todos acceden al mismo buzón. No hay asignación de conversaciones entre agentes. Si necesitas que dos personas gestionen conversaciones distintas de forma independiente, la app tiene limitaciones reales. La API permite asignación por agente, pero requiere una plataforma de gestión encima."
+      },
+      {
+        "question": "¿La API de WhatsApp es gratis?",
+        "answer": "No. Meta cobra por conversación según el tipo de mensaje (marketing, utilidad, autenticación, servicio) y la región. A eso se suma el coste del BSP o plataforma que uses para acceder. El gasto varía mucho según el volumen y el proveedor, pero es un coste real que hay que calcular antes de decidir."
+      },
+      {
+        "question": "¿Qué es un BSP y necesito uno para usar la API?",
+        "answer": "Un BSP (Business Solution Provider) es un proveedor autorizado por Meta para dar acceso a la API de WhatsApp. Puedes conectarte también directamente a la Cloud API de Meta si tienes capacidad técnica. La mayoría de negocios pequeños usan un BSP porque simplifican la configuración, aunque añaden una capa de coste adicional."
+      },
+      {
+        "question": "¿Puedo enviar mensajes masivos con WhatsApp Business App?",
+        "answer": "No de forma automatizada. Puedes crear listas de difusión manualmente, pero los destinatarios tienen que tenerte guardado en contactos para recibir el mensaje y hay límites operativos. Para envíos masivos estructurados necesitas la API con plantillas aprobadas por Meta."
+      },
+      {
+        "question": "¿Cambiar de la app a la API implica perder el historial de conversaciones?",
+        "answer": "El historial de conversaciones de la app no se migra automáticamente a la API. Son entornos distintos. Si el historial es importante para tu operativa, es un factor a considerar en la planificación de la transición."
+      },
+      {
+        "question": "¿Qué hago si tengo muchos mensajes pero no tengo equipo para gestionarlos?",
+        "answer": "Antes de ir a la API, el paso más efectivo es crear un filtro previo: un punto de entrada que capture los datos mínimos antes de que llegue el mensaje al chat. Eso reduce el tiempo de respuesta y elimina preguntas repetidas sin necesidad de infraestructura técnica adicional. La API no resuelve el caos si no hay proceso detrás."
+      },
+      {
+        "question": "¿WhatsApp Business App sirve para negocios con varios servicios distintos?",
+        "answer": "Sí, especialmente con el catálogo, las respuestas rápidas por servicio y las etiquetas para organizar conversaciones por tipo. El límite aparece cuando necesitas flujos distintos para servicios distintos de forma automática, o cuando el equipo crece y varios agentes necesitan el mismo número."
+      },
+      {
+        "question": "¿Cuándo tiene sentido evaluar la API para un negocio de servicios local?",
+        "answer": "Cuando varias personas necesitan responder desde el mismo número simultáneamente, cuando necesitas integrar WhatsApp con un CRM o sistema de reservas, o cuando el volumen de envíos programados (recordatorios, confirmaciones) supera lo que se puede gestionar manualmente. Si ninguna de esas situaciones aplica, la app gratuita suele ser suficiente."
+      }
+    ]
+  },
+  {
     "slug": "mensaje-bienvenida-whatsapp-que-filtra",
     "title": "Mensaje de bienvenida en WhatsApp que filtra (sin sonar robot)",
     "description": "Cómo escribir un mensaje de bienvenida en WhatsApp Business que capture la intención del cliente y datos mínimos desde el primer contacto, sin perder el tono humano ni asustar con formularios.",
