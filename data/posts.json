@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-pedir-presupuesto-orientativo",
+    "title": "Cómo pedir presupuesto orientativo sin espantar",
+    "description": "Plantilla lista para pedir presupuesto orientativo a clientes sin que abandonen la conversación. Incluye versión mínima, completa, microcopy por tono y tabla de decisión.",
+    "excerpt": "Pedir el presupuesto disponible en el primer mensaje espanta. No pedirlo te hace perder el tiempo. Aquí la plantilla exacta para pedirlo de forma que el cliente lo dé sin resistencia.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-pedir-presupuesto-orientativo.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "presupuesto",
+      "plantilla",
+      "whatsapp",
+      "instagram",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Pide presupuesto sin fricción en 3 pasos",
+    "quickAnswer": [
+      "**Explica el para qué antes de preguntar** — «Para darte un precio real y no uno al aire» es suficiente para que el cliente no lo sienta como un filtro hostil.",
+      "**Pide rango, no cifra exacta** — «¿Tienes un rango orientativo?» reduce la resistencia porque la mayoría no sabe cuánto cuesta lo que busca.",
+      "**Pídelo después del servicio y la fecha, no al principio** — El presupuesto sin contexto suena a interrogatorio; con contexto suena a profesionalidad.",
+      "**Si no responden, ofrece tú el rango habitual** — «En proyectos así el rango suele estar entre X e Y» desbloquea la conversación sin presionar.",
+      "**Usa la respuesta para decidir, no para juzgar** — Si el presupuesto no encaja, di qué encajaría o descarta con educación. No argumentes precio en ese momento."
+    ],
+    "oneLineDefinition": "Pedir presupuesto orientativo sin espantar requiere hacerlo en el momento correcto (después del servicio y la fecha), con la pregunta correcta (rango, no cifra) y explicando en una frase para qué lo necesitas.",
+    "sections": [
+      "Cuándo pedir presupuesto y cuándo no",
+      "La regla que cambia el resultado",
+      "Plantilla mínima para pedir presupuesto",
+      "Plantilla completa (cuando el caso tiene más variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar (por tono)",
+      "Qué hacer cuando no responden al presupuesto",
+      "Errores más frecuentes al pedir presupuesto",
+      "Implementación como sistema",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Pedir presupuesto orientativo en 3 pasos",
+      "totalTimeMinutes": 15,
+      "tools": [
+        "Contexto previo del cliente",
+        "Plantilla mínima",
+        "Microcopy de introducción"
+      ],
+      "steps": [
+        {
+          "name": "Recoge primero servicio y fecha",
+          "text": "Antes de pedir presupuesto, pregunta qué necesita exactamente y para cuándo. Sin ese contexto, la pregunta de dinero parece un filtro, no una ayuda."
+        },
+        {
+          "name": "Pide rango con explicación de una frase",
+          "text": "«Para no darte un número al aire, ¿tienes un rango orientativo en mente?» Esa frase justifica la pregunta y baja la resistencia."
+        },
+        {
+          "name": "Usa la respuesta para decidir en el siguiente mensaje",
+          "text": "Si encaja: avanza con propuesta. Si no encaja: ofrece alternativa o descarta. No dejes la respuesta sin acción visible."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo pedir presupuesto y cuándo no</h2><p>Una fotógrafa de bodas recibe el lunes 18 mensajes de \"¿cuánto cobras?\". Sin más datos. Responder a cada uno con tarifa completa es regalar información. Ignorarlos es perder clientes reales. El problema no es si pedir presupuesto: es cuándo y cómo.</p><p>Pide presupuesto orientativo cuando:</p><ul><li>Tu precio varía según alcance, complejidad o condiciones del caso.</li><li>Recibes consultas de gente con expectativas muy distintas y no puedes atender a todos.</li><li>Pasas tiempo elaborando propuestas para casos que luego no tienen presupuesto real.</li><li>Tienes <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">un patrón de preguntas repetidas</a> antes de poder dar un precio realista.</li></ul><p>No lo pidas cuando:</p><ul><li>Tu servicio tiene precio fijo y público. Comunica la tarifa directamente.</li><li>Solo recibes 2 o 3 consultas por semana y puedes gestionar cada caso con calma.</li><li>Tu proceso de venta es largo y consultivo desde el inicio: en ese caso, el presupuesto llega después de una primera sesión, no de un mensaje.</li></ul><h2>La regla que cambia el resultado</h2><blockquote><p><strong>Pide presupuesto después del servicio y la fecha, nunca antes.</strong></p></blockquote><p>La mayoría de negocios lo hacen al revés. Preguntan dinero como segundo o tercer mensaje y el cliente lo interpreta como un filtro de acceso, no como parte del proceso. El orden correcto es: qué necesitas → para cuándo → contexto mínimo → presupuesto orientativo.</p><p>Lo contraintuitivo: pedir presupuesto tarde en la secuencia no reduce conversiones, las mejora. El cliente ya ha invertido tiempo en responder. Descolgarse en la pregunta de dinero es mucho más incómodo cuando ya has dado tres datos que cuando es el segundo mensaje.</p><h2>Plantilla mínima para pedir presupuesto</h2><p>Esta versión funciona para la mayoría de negocios de servicios con precio variable. Está pensada para <a href=\"/blog/cuantas-preguntas-pedir-cliente/\">no generar fricciones innecesarias</a> manteniendo la información que de verdad necesitas.</p><h3>Secuencia mínima (copia y pega)</h3><ol><li><strong>¿Qué necesitas exactamente?</strong> (servicio concreto, no categoría)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo)</li><li><strong>Una frase de contexto:</strong> ¿qué quieres conseguir o cuál es la situación?</li><li><strong>¿Tienes un rango orientativo de presupuesto en mente?</strong> (aunque sea aproximado)</li><li><strong>¿Cómo prefieres continuar?</strong> WhatsApp, llamada o seguimos por aquí</li></ol><blockquote><p>Antes de la pregunta de presupuesto, añade esta frase: <strong>«Para no darte un número al aire y que sea útil de verdad, dime si tienes algún rango en mente, aunque sea orientativo.»</strong> Eso justifica la pregunta y baja la resistencia a responderla.</p></blockquote><h2>Plantilla completa (cuando el caso tiene más variabilidad)</h2><p>Úsala cuando el cliente ya ha respondido la mínima, tu servicio tiene muchas variables de precio o un error de estimación te cuesta caro.</p><h3>Añade a la mínima:</h3><ul><li>Alcance o dimensiones del proyecto (m², horas, sesiones, piezas)</li><li>Condiciones específicas (ubicación, materiales, plazo urgente)</li><li>Referencias o ejemplos concretos (si aplica)</li><li>Presupuesto máximo (si el orientativo no fue suficientemente preciso)</li><li>Criterio de decisión: ¿qué es más importante, precio, plazo o calidad?</li></ul><p>No pidas todo esto de golpe. Envía la mínima primero y amplía solo si el cliente responde y el caso lo justifica.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión habilita</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Intención real, tipo de trabajo</td><td>Si encaja con lo que haces</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia, viabilidad</td><td>Si tienes hueco o no</td></tr><tr><td>Contexto mínimo (1 frase)</td><td>Objetivo del cliente</td><td>Rango de precio orientativo</td></tr><tr><td>¿Tienes rango de presupuesto en mente?</td><td>Expectativa económica</td><td>Si tiene sentido continuar</td></tr><tr><td>Alcance / dimensiones</td><td>Esfuerzo real del proyecto</td><td>Estimación más precisa</td></tr><tr><td>Referencias o ejemplos</td><td>Alineación de expectativas</td><td>Evitar malentendidos antes de cotizar</td></tr><tr><td>Criterio principal (precio/plazo/calidad)</td><td>Prioridad del cliente</td><td>Cómo estructuras la propuesta</td></tr></tbody></table><h2>Microcopy listo para copiar (por tono)</h2><p>Lo que hace que el cliente responda no es la pregunta: es la frase previa que la introduce. Aquí tres versiones para distintos estilos de negocio.</p><h3>Tono neutro (funciona en casi todos los sectores)</h3><blockquote><p>«Para darte un precio real y no uno al aire, necesito tres datos rápidos. ¿Tienes un minuto?»</p></blockquote><h3>Tono cercano (estética, tatuajes, fotografía)</h3><blockquote><p>«¡Perfecto! Para decirte algo concreto y que no te dé una cifra que luego no se corresponda, cuéntame un poco más. Tres preguntas rápidas.»</p></blockquote><h3>Tono profesional (reformas, consultoría, formación)</h3><blockquote><p>«Para prepararte una estimación ajustada, necesito entender el alcance antes de darte cifras. ¿Me das un minuto?»</p></blockquote><h3>Microcopy específico para la pregunta de presupuesto</h3><blockquote><p>«¿Tienes algún rango orientativo en mente? No hace falta que sea exacto. Con eso puedo decirte si encajamos y cómo.»</p></blockquote><blockquote><p>«Aunque sea aproximado, saber el rango me ayuda a decirte rápido si tiene sentido continuar y con qué opciones.»</p></blockquote><h2>Qué hacer cuando no responden al presupuesto</h2><p>El silencio después de la pregunta de presupuesto tiene dos causas: no saben cuánto cuesta o no quieren comprometerse. En ambos casos, la solución es la misma.</p><p>Ofrece tú el rango habitual:</p><blockquote><p>«En proyectos como el que describes, el rango habitual suele estar entre X e Y dependiendo de Z. ¿Te cuadra eso o te quedas muy lejos?»</p></blockquote><p>Eso desvela la expectativa sin presionar. Si responden que están muy lejos, sabes que no hay encaje. Si dicen que cuadra, avanzas. Si no responden nada, ese lead no está listo.</p><p>Lo que no debes hacer: preguntar por presupuesto dos veces seguidas sin dar nada a cambio. Es la forma más rápida de que el cliente deje de responder.</p><h2>Errores más frecuentes al pedir presupuesto</h2><ol><li><strong>Pedir dinero como segundo mensaje</strong> — Parece filtro, no proceso. Corrección: primero servicio y fecha.</li><li><strong>Pedir cifra exacta en vez de rango</strong> — La mayoría no la sabe. Corrección: «¿un rango orientativo?» siempre funciona mejor.</li><li><strong>No explicar por qué preguntas</strong> — Sin contexto, suena a interrogatorio. Corrección: una frase de introducción antes de la pregunta.</li><li><strong>Argumentar precio cuando no encaja</strong> — Defenderlo en ese momento no convierte. Corrección: ofrece alternativa o descarta con claridad.</li><li><strong>Pedir presupuesto en servicios de precio fijo</strong> — Confunde al cliente. Corrección: comunica la tarifa directamente sin preguntar.</li><li><strong>Hacer seguimiento de la pregunta de presupuesto más de dos veces</strong> — No convierte y desgasta. Corrección: cierra el hilo con puerta abierta después del segundo intento.</li></ol><h2>Implementación como sistema</h2><p>Tener esta plantilla en la cabeza no es suficiente si recibes 30 o 40 consultas por semana. El agotamiento hace que unos días preguntes con calma y otros directamente des precio sin contexto. El resultado es inconsistente.</p><p>Para convertirlo en proceso:</p><h3>Paso 1: Guarda la secuencia mínima como respuesta rápida</h3><p>En WhatsApp Business puedes guardar respuestas rápidas con una palabra clave. Guarda la secuencia mínima como «/info» o «/presupuesto» y envíala con dos toques.</p><h3>Paso 2: Define tu rango habitual por tipo de servicio</h3><p>Escribe en un lugar visible los rangos de precio de tus servicios más comunes. Cuando el cliente no responde al presupuesto, tienes el dato a mano para ofrecerlo tú sin calcular en el momento.</p><h3>Paso 3: Decide qué hacer en cada escenario</h3><ul><li>Encaja presupuesto → avanzas con propuesta o hueco.</li><li>No encaja → ofreces alternativa o descartás con una frase.</li><li>No responde → ofreces rango tuyo y esperas.</li><li>No responde nada → cierras el hilo.</li></ul><p>Si quieres implementar esto sin construirlo desde cero, herramientas como <strong>Inkup</strong> hacen exactamente esto: recogen el servicio, la fecha, el contexto y el rango de presupuesto antes de que tengas que responder manualmente, y redirigen a WhatsApp con esos datos ya capturados. No es para todos los casos — si recibes pocas consultas o cada proyecto es completamente distinto al anterior, probablemente no lo necesitas aún. Pero si el patrón de preguntas se repite y el volumen ya genera caos, tener ese flujo estructurado en un link que compartes en bio o en stories elimina la inconsistencia.</p><p>Puedes ver cómo estructurar ese flujo en detalle en el artículo sobre <a href=\"/blog/como-pedir-presupuesto-sin-espantar/\">cómo pedir presupuesto sin espantar</a>.</p>",
+    "faq": [
+      {
+        "question": "¿En qué momento de la conversación pido el presupuesto?",
+        "answer": "Después de saber qué servicio busca y para cuándo. Si lo preguntas al principio, parece un filtro de acceso. Si lo preguntas después de dos o tres datos de contexto, parece parte natural del proceso."
+      },
+      {
+        "question": "¿Qué hago si el cliente dice que no sabe cuánto cuesta?",
+        "answer": "Dales tú el rango habitual: «En proyectos como el tuyo solemos movernos entre X e Y, dependiendo de Z. ¿Te da margen eso?» Eso desbloquea la conversación sin que el cliente sienta que lo estás poniendo a prueba."
+      },
+      {
+        "question": "¿Pido presupuesto si mi servicio tiene precio fijo?",
+        "answer": "No. Si tienes tarifa fija, comunícala directamente. La pregunta de presupuesto solo tiene sentido cuando tu precio varía según el alcance, la complejidad o las condiciones del caso."
+      },
+      {
+        "question": "¿Y si me dicen un presupuesto muy por debajo del mío?",
+        "answer": "No argumentes precio en ese mensaje. Di qué entraría dentro de ese rango (si hay algo) o explica brevemente qué incluye el tuyo. Si no hay encaje, descarta con educación: «Con ese presupuesto no podría ofrecerte lo que describes con garantías. Si cambia, aquí estoy.»"
+      },
+      {
+        "question": "¿Puedo pedir presupuesto por Instagram DM?",
+        "answer": "Sí, pero úsalo como una sola pregunta dentro de una secuencia corta, no como el primer mensaje. En DM, la fricción es alta: si el primer contacto ya incluye preguntas de dinero, la mayoría no responde."
+      },
+      {
+        "question": "¿Pido cifra exacta o rango?",
+        "answer": "Pide rango casi siempre. La cifra exacta genera resistencia porque la mayoría no la sabe o no quiere comprometerla. El rango («¿entre 500 y 1000 o más cerca de 200?») es más fácil de responder y te da la información que necesitas."
+      },
+      {
+        "question": "¿Qué hago si no me responden a la pregunta de presupuesto?",
+        "answer": "No insistas. Ofrece el rango habitual de tu servicio y pregunta si cuadra. Si tampoco responden a eso, ese lead probablemente no está listo para avanzar."
+      },
+      {
+        "question": "¿Cuántas veces puedo hacer seguimiento si no contestan?",
+        "answer": "Dos veces como máximo, con al menos 48 horas entre mensajes. Después, cierra el hilo con un mensaje corto que deje la puerta abierta. Más seguimientos no convierten más, solo gastan tiempo."
+      }
+    ]
+  },
+  {
     "slug": "instagram-dm-a-whatsapp-mensaje-preparado",
     "title": "DM a WhatsApp con mensaje preparado: copia y pega que reduce idas y vueltas",
     "description": "Plantilla de transición de Instagram DM a WhatsApp con mensaje preparado. Cómo pasar el contexto del cliente sin perder nada y responder directo al grano desde el primer mensaje.",
