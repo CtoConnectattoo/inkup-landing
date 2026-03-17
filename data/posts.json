@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificar-por-whatsapp",
+    "title": "Plantilla para cualificar por WhatsApp sin API",
+    "description": "Plantilla lista para copiar y pegar que te permite cualificar clientes por WhatsApp sin API, sin herramientas complejas y sin interrogar a nadie. Versión mínima, completa, microcopy y tabla de decisión incluidos.",
+    "excerpt": "Cualificar por WhatsApp no necesita API ni automatización. Necesita las preguntas correctas en el orden correcto. Aquí la plantilla mínima, la completa y el microcopy para no espantar a nadie.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificar-por-whatsapp.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-17",
+    "readingTime": "11 min",
+    "tags": [
+      "whatsapp",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "servicios",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Plantilla de cualificación por WhatsApp en 4 preguntas",
+    "quickAnswer": [
+      "**Servicio exacto** — Pregunta qué necesita, no solo si está interesado. Sin esto no puedes dar precio ni hueco real.",
+      "**Fecha o urgencia** — Para cuándo lo necesita. Filtra curiosos y define si tienes disponibilidad antes de seguir.",
+      "**Contexto en una frase** — Un objetivo breve. Evita presupuestos ciegos y reduce malentendidos desde el primer mensaje.",
+      "**Canal y contacto** — Cómo prefiere continuar. Baja fricción y cierra el loop sin perseguirle después.",
+      "**Datos de contacto mínimos** — Nombre y teléfono o email. Solo cuando ya hay intención real, no al principio."
+    ],
+    "oneLineDefinition": "Cualificar por WhatsApp sin API significa pedir, en el orden correcto, solo los datos que cambian tu respuesta: servicio, fecha, contexto mínimo y canal preferido, antes de ofrecer precio o hueco.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita el interrogatorio",
+      "Plantilla mínima (4 preguntas)",
+      "Plantilla completa (para servicios con más variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de consulta",
+      "Ejemplos por sector",
+      "Errores que alargan la conversación",
+      "Si necesitas que esto ocurra solo, sin depender de ti",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar cualificación por WhatsApp en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 4 preguntas",
+        "Microcopy de entrada",
+        "Mensaje de cierre con siguiente paso"
+      ],
+      "steps": [
+        {
+          "name": "Define tus 4 datos mínimos",
+          "text": "Servicio exacto, fecha o urgencia, contexto en una frase y canal preferido. No pidas más hasta tener estos."
+        },
+        {
+          "name": "Escribe el mensaje de entrada",
+          "text": "Una frase que avisa de que harás preguntas cortas y explica por qué. Sin eso, la gente se cierra."
+        },
+        {
+          "name": "Cierra con un siguiente paso claro",
+          "text": "Propón fecha, rango de precio o acción concreta. El cliente necesita saber qué pasa después de responder."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes tipo 'hola', 'precio', 'tenéis hueco' sin ningún dato adjunto. Si terminas en diez mensajes para conseguir información que podrías tener en uno. Si no puedes distinguir a un cliente listo para comprar de alguien que solo curiosea.</p><p>No la uses si recibes menos de cinco consultas a la semana y tienes tiempo para responder cada una con calma. En ese caso no tienes un problema de cualificación: tienes un problema de volumen, y son distintos.</p><h2>La regla que evita el interrogatorio</h2><blockquote><p><strong>Pregunta solo lo que cambia tu respuesta.</strong> Si la respuesta no modifica el precio orientativo, la disponibilidad, el esfuerzo que requiere o si aceptas el caso, no lo preguntes al principio.</p></blockquote><p>La mayoría de conversaciones largas en WhatsApp no son largas porque el servicio sea complejo. Son largas porque se pregunta en el orden equivocado o se pide información que en ese momento no sirve para nada. Un tatuador que abre el lunes con 34 mensajes sin leer no necesita más información de cada cliente: necesita pedir antes la información correcta.</p><p>Para entender mejor por qué esto ocurre y cómo ordenarlo, <a href=\"/blog/como-cualificar-consultas-por-whatsapp/\">aquí tienes una guía completa sobre cómo cualificar consultas por WhatsApp</a> con el razonamiento detrás de cada paso.</p><h2>Plantilla mínima (4 preguntas)</h2><p>Esta versión está diseñada para no perder conversiones. Si alguien abandona aquí, normalmente no era un lead con intención real.</p><h3>Copia y pega esto</h3><ol><li><strong>¿Qué servicio necesitas exactamente?</strong></li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha aproximada o urgencia)</li><li><strong>Contexto en una frase:</strong> ¿qué quieres conseguir o qué situación tienes?</li><li><strong>¿Cómo prefieres continuar?</strong> WhatsApp, llamada o email — y tu nombre.</li></ol><p>Con estos cuatro datos puedes dar un precio orientativo real, comprobar si tienes hueco y decidir si el caso encaja. Sin ellos, cualquier respuesta que des es imprecisa.</p><h2>Plantilla completa (para servicios con más variabilidad)</h2><p>Úsala cuando el cliente ya respondió la mínima y necesitas afinar, o cuando tu servicio tiene tanta variabilidad que un error de partida cuesta tiempo o dinero.</p><h3>Añade a la mínima</h3><ul><li>Presupuesto orientativo (solo si en tu sector filtra de verdad)</li><li>Disponibilidad horaria o franjas si es cita</li><li>Ubicación si hay desplazamiento o el servicio es presencial</li><li>Referencias, fotos o ejemplos si el trabajo visual importa</li><li>Condiciones específicas del servicio (alergias, contraindicaciones, requisitos técnicos) solo cuando aplica y sin pedir datos sensibles innecesarios</li></ul><p>No uses la plantilla completa de entrada. Empieza por la mínima siempre. La completa es para la segunda ronda, cuando ya sabes que hay intención.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio necesitas exactamente?</td><td>Intención real y tipo de trabajo</td><td>Si encaja o a qué ruta va</td></tr><tr><td>¿Para cuándo lo necesitas?</td><td>Prioridad y viabilidad de agenda</td><td>Si hay hueco o hay que proponer alternativa</td></tr><tr><td>Contexto en una frase</td><td>Evita el precio sin contexto</td><td>Rango orientativo o siguiente paso</td></tr><tr><td>Requisitos o condiciones clave</td><td>Reduce errores y malentendidos</td><td>Si necesitas más información o descartas</td></tr><tr><td>Referencias o ejemplo</td><td>Alinea expectativas</td><td>Estimación más fiable</td></tr><tr><td>Canal preferido</td><td>Reduce fricción</td><td>Cómo cerrar rápido</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad</td><td>Seguimiento y confirmación</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que alarga las conversaciones no es preguntar. Es preguntar sin explicar por qué. Estas frases cortas resuelven eso.</p><h3>Mensaje de entrada (antes de mandar las preguntas)</h3><blockquote><p>«Para ayudarte rápido y darte una respuesta concreta, necesito tres datos. Te lleva menos de un minuto.»</p></blockquote><h3>Cuando alguien pregunta solo 'precio'</h3><blockquote><p>«Para darte un precio que tenga sentido (y no un número al aire), dime: servicio exacto + para cuándo + una frase de contexto.»</p></blockquote><h3>Para separar cita de presupuesto</h3><blockquote><p>«¿Buscas cita o solo información o presupuesto? Según lo que necesites te llevo por el camino más corto.»</p></blockquote><h3>Versión para filtrar curiosos sin ser borde</h3><blockquote><p>«Perfecto. Para decirte si puedo ayudarte, dime qué servicio buscas, para cuándo y un rango orientativo de presupuesto aunque sea aproximado. Con eso te respondo directo.»</p></blockquote><p>Esta última versión incluye el dato de presupuesto como filtro de compromiso. No funciona en todos los sectores, pero en los de precio variable reduce mucho el ruido.</p><h2>Variantes por tipo de consulta</h2><h3>Ruta A — «¿Tenéis hueco? / Quiero cita»</h3><ol><li>Servicio exacto</li><li>Fecha preferida y flexibilidad (mañana o tarde, esta semana o la siguiente)</li><li>Requisitos del servicio según el sector</li><li>Nombre y contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Con eso te miro hueco. ¿Te viene mejor el martes por la tarde o el jueves por la mañana?»</p></blockquote><h3>Ruta B — «Precio / presupuesto»</h3><ol><li>Servicio exacto y alcance</li><li>Contexto mínimo (qué quieres conseguir)</li><li>Fecha o plazo</li><li>Requisitos o condiciones</li><li>Contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Con lo que me dices, el rango habitual está entre X y Y dependiendo de Z. Si te cuadra, te propongo el siguiente paso.»</p></blockquote><h3>Ruta C — «Info»</h3><ol><li>Qué información busca exactamente (ubicación, proceso, tiempos, requisitos)</li><li>Si quiere cita o solo información por ahora</li><li>Contacto, solo si necesita seguimiento</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Te lo resumo en tres líneas y, si quieres, te dejo el paso para reservar.»</p></blockquote><h2>Ejemplos por sector</h2><p>La estructura base es la misma. Cambia una o dos preguntas de contexto según el servicio.</p><h3>Tatuajes y piercing</h3><blockquote><p>«¿Qué zona? ¿Tamaño aproximado? ¿Tienes referencias o foto de idea?»</p></blockquote><h3>Estética y belleza</h3><blockquote><p>«¿Qué tratamiento? ¿Qué zona? ¿Objetivo (primera vez, mantenimiento, problema concreto)?»</p></blockquote><h3>Fotografía</h3><blockquote><p>«¿Qué tipo de sesión? ¿Para cuándo? ¿Interior, exterior, estudio?»</p></blockquote><h3>Coaching y mentoría</h3><blockquote><p>«¿Objetivo que quieres trabajar? ¿Nivel o situación actual? ¿Disponibilidad horaria?»</p></blockquote><p>Si quieres ver esto desarrollado para más sectores, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas de preguntas organizadas por sector y tipo de servicio</a>.</p><h2>Errores que alargan la conversación</h2><ol><li><strong>Mandar las preguntas sin contexto previo.</strong> El cliente no sabe por qué le preguntas. Añade una frase de entrada que explique que es para responderle mejor.</li><li><strong>Hacer una pregunta por mensaje.</strong> Si mandas diez mensajes con una pregunta cada uno, pareces un bot mal programado. Agrupa en un solo mensaje bien formateado.</li><li><strong>Pedir el presupuesto antes del servicio.</strong> Primero hay que saber qué quiere. Sin eso, el número de presupuesto no sirve para nada a ninguno de los dos.</li><li><strong>No dar siguiente paso después de recibir los datos.</strong> Muchas conversaciones mueren aquí. El cliente respondió todo y no recibió propuesta. Cierra siempre con una acción concreta.</li><li><strong>Usar la plantilla completa con cualquiera.</strong> La versión larga es para leads que ya mostraron intención. Con alguien que acaba de escribir 'hola', diez preguntas ahuyentan.</li></ol><h2>Si necesitas que esto ocurra solo, sin depender de ti</h2><p>Esta plantilla resuelve el problema cuando estás delante del móvil y tienes energía para aplicarla. El problema es que no siempre es así. Un lunes con treinta y cuatro mensajes sin leer no es el momento de recordar qué versión de la plantilla tocar.</p><p>Cuando el volumen es suficiente para generar caos, lo que ayuda no es tener la plantilla en la cabeza: es tener un punto de entrada que recoja los datos antes de que lleguen a ti. <a href=\"/blog/automatizar-whatsapp-negocio-local/\">Aquí tienes una guía sobre cómo estructurar esto sin programar ni contratar técnicos</a>.</p><p>Si quieres implementar este flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge los datos de la plantilla mínima y redirige al cliente a WhatsApp con toda la información ya ordenada. No es para todos los casos — si recibes pocas consultas o tu proceso de venta requiere conversación larga desde el primer mensaje, probablemente no lo necesitas aún. Pero si el problema es que los datos nunca llegan bien estructurados, es donde encaja.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo hacer esto sin WhatsApp Business ni API?",
+        "answer": "Sí. Esta plantilla funciona con WhatsApp normal o Business básico. No necesitas API, automatizaciones ni herramientas de pago. Es un mensaje que tú envías, con las preguntas correctas en el orden correcto."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que la gente se vaya?",
+        "answer": "Tres o cuatro en un solo mensaje es el límite práctico. Si necesitas más, envíalas en dos rondas: primero las que no pueden faltar, después las que dependen de la respuesta anterior."
+      },
+      {
+        "question": "¿Qué hago cuando alguien solo escribe 'precio'?",
+        "answer": "No des cifra suelta. Devuelve la mini-plantilla: servicio exacto, para cuándo y una frase de contexto. Con eso puedes dar un rango útil en vez de un número que no significa nada para ninguno de los dos."
+      },
+      {
+        "question": "¿Pido presupuesto orientativo a mis clientes o no?",
+        "answer": "Solo si filtra de verdad en tu sector. Si tu tarifa es fija, no sirve de nada preguntarlo. Si hay mucha variabilidad de precio, pide 'rango orientativo' en lugar de cifra exacta para reducir el abandono."
+      },
+      {
+        "question": "¿La cualificación se hace en Instagram DM o en WhatsApp?",
+        "answer": "El DM de Instagram funciona como puerta: captura la intención y redirige. La cualificación real ocurre en WhatsApp, donde la conversación es más cómoda y el contexto ya está dado."
+      },
+      {
+        "question": "¿Y si no me responden alguna de las preguntas?",
+        "answer": "Espera antes de insistir. Si no responden en 24-48 horas, un mensaje de seguimiento breve ('¿Sigues necesitando ayuda con X?') suele ser suficiente. No rellenes tú los huecos inventando datos."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Responde en uno solo y avisa en el otro que ya lo tienes. No dupliques la conversación. Si esto ocurre con frecuencia, necesitas un punto de entrada único que centralice antes de llegar a ti."
+      },
+      {
+        "question": "¿Tengo que adaptar la plantilla a cada sector?",
+        "answer": "Solo una o dos preguntas variables. La estructura base (servicio, fecha, contexto, contacto) funciona igual para un tatuador, una esteticista o un coach. Lo que cambia es la pregunta de contexto específico."
+      }
+    ]
+  },
+  {
     "slug": "como-configurar-instagram-para-que-deriven-al-link",
     "title": "Cómo configurar Instagram para que las consultas vayan al link (y no a tus DMs)",
     "description": "Aprende a configurar tu perfil de Instagram (bio, botones de contacto, destacados y Stories) para que las consultas lleguen a tu link estructurado en vez de saturar tus DMs sin contexto.",
