@@ -1,5 +1,107 @@
 [
   {
+    "slug": "plantilla-cualificacion-inmobiliaria",
+    "title": "Plantilla de cualificación para inmobiliaria (comprar/alquilar)",
+    "description": "Preguntas exactas para separar curiosos de compradores y arrendatarios reales. Plantilla mínima y completa para cualificar consultas inmobiliarias antes de la visita.",
+    "excerpt": "Una plantilla de cualificación inmobiliaria debe confirmar intención (comprar o alquilar), zona, presupuesto y plazo antes de agendar nada. Aquí tienes la versión mínima, la completa y el microcopy listo para usar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-inmobiliaria.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "inmobiliaria",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "filtrar-clientes"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima para cualificar en inmobiliaria",
+    "quickAnswer": [
+      "**Intención confirmada** — Comprar o alquilar no es lo mismo: confirma cuál antes de cualquier otra pregunta, porque condiciona todo el flujo.",
+      "**Zona y radio** — Barrio o municipio concreto, no 'cerca del centro'. Sin zona definida, no puedes enseñar nada útil.",
+      "**Presupuesto real o rango** — No precio máximo teórico: rango habitual. Filtra el 60% de consultas sin encaje antes de invertir tiempo.",
+      "**Plazo de decisión** — 'Cuanto antes' y 'en seis meses' requieren atención distinta. Conocer el plazo te permite priorizar sin perder leads maduros.",
+      "**Perfil y condiciones** — Número de habitaciones, si tiene hipoteca preconcedida (compra) o nómina/avales (alquiler). Evita visitas que acaban en 'no cumple requisitos'.",
+      "**Canal y datos de contacto** — WhatsApp o llamada, nombre y teléfono. Sin esto el lead no existe operativamente."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación inmobiliaria debe confirmar intención (comprar o alquilar), zona, presupuesto, plazo y condiciones mínimas antes de agendar visita, para no desperdiciar tiempo en consultas sin encaje real.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: pregunta solo lo que cambia tu decisión",
+      "Plantilla mínima (versión para primer contacto)",
+      "Plantilla completa (cuando el lead ya está dentro)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Rutas por intención: compra, alquiler e información general",
+      "Errores típicos al cualificar en inmobiliaria",
+      "Implementación sin herramientas complejas",
+      "Cuándo no usar esta plantilla",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla inmobiliaria en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Plantilla mínima (5-6 preguntas)",
+        "Rutas por intención (compra / alquiler / info)",
+        "Mensaje de cierre con siguiente paso"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Intención, zona, presupuesto, plazo, perfil básico y contacto. Son 6 datos. Si no tienes todos, no puedes hacer una propuesta coherente."
+        },
+        {
+          "name": "Separa rutas por intención",
+          "text": "Compra y alquiler tienen requisitos distintos. Un único flujo mezclado despista al cliente y te da información inútil."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con resumen de lo recogido + propuesta concreta (visita, listado, siguiente llamada). El cliente sabe qué esperar. Tú no pierdes el hilo."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes consultas del tipo 'tenéis pisos en [zona]', 'qué precio tiene esto', 'quiero ver algo esta semana' o simplemente 'info' sin ningún dato adjunto. También si acabas haciendo diez mensajes de ida y vuelta para descubrir que la persona buscaba alquilar y tú solo gestionas ventas, o que su presupuesto no encaja con ninguno de tus inmuebles.</p><p>No la uses si recibes una o dos consultas al día y tienes tiempo de explorar cada caso sin estructura. Y no la uses si tu proceso de venta es completamente consultivo desde el primer contacto y cada caso es radicalmente distinto.</p><h2>Regla madre: pregunta solo lo que cambia tu decisión</h2><blockquote><p><strong>Si la respuesta no cambia qué le vas a enseñar, cuándo lo vas a ver ni si puedes atenderle, no lo preguntes al principio.</strong></p></blockquote><p>En inmobiliaria esto significa: intención, zona, presupuesto, plazo y condiciones mínimas de acceso. Todo lo demás puede esperar a la visita o a una segunda conversación. <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Filtrar consultas antes de responder</a> no es ser poco amable; es respetar tu tiempo y el del cliente.</p><h2>Plantilla mínima (versión para primer contacto)</h2><p>Esta versión está diseñada para no perder conversiones. Cinco o seis preguntas directas que se pueden responder en dos minutos. Si alguien abandona aquí sin responder, probablemente no era un lead activo.</p><h3>Plantilla mínima — compra (copia y pega)</h3><ol><li><strong>¿Buscas para comprar o para alquilar?</strong></li><li><strong>¿Qué zona o barrio tienes en mente?</strong> (si hay más de una opción, indícalas)</li><li><strong>¿Qué presupuesto manejas?</strong> (aproximado o rango)</li><li><strong>¿Para cuándo necesitas tenerlo?</strong> (plazo real, no 'cuanto antes')</li><li><strong>Perfil básico:</strong> número de habitaciones, si necesitas garaje o trastero, planta baja o sin preferencia</li><li><strong>Datos de contacto:</strong> nombre + WhatsApp o teléfono</li></ol><h3>Plantilla mínima — alquiler (copia y pega)</h3><ol><li><strong>¿Buscas para alquilar?</strong> (confirma intención)</li><li><strong>¿Qué zona?</strong></li><li><strong>¿Renta máxima mensual?</strong></li><li><strong>¿Para cuándo necesitas entrar?</strong></li><li><strong>Perfil básico:</strong> número de personas, si hay mascotas, habitaciones mínimas</li><li><strong>Datos de contacto:</strong> nombre + WhatsApp</li></ol><h2>Plantilla completa (cuando el lead ya está dentro)</h2><p>Añade estas preguntas una vez el lead ha respondido la versión mínima y quieres preparar bien la visita o la propuesta. No las pongas todas en el primer mensaje.</p><h3>Para compra — preguntas adicionales</h3><ul><li>¿Has hablado ya con tu banco o tienes hipoteca preconcedida?</li><li>¿Vendes algo primero o compras independientemente?</li><li>¿Planta importa? ¿Ascensor necesario?</li><li>¿Orientación o luz natural son prioritarias?</li><li>¿Estado del inmueble: para reformar, para entrar o sin preferencia?</li><li>¿Alguna zona que descartes completamente?</li></ul><h3>Para alquiler — preguntas adicionales</h3><ul><li>¿Tienes nómina, contrato indefinido o cuentas con aval?</li><li>¿Plazo mínimo de contrato que aceptas?</li><li>¿Necesitas plaza de garaje?</li><li>¿Amueblado, sin amueblar o indiferente?</li><li>¿Alguna restricción de comunidad que debas tener en cuenta?</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Comprar o alquilar?</td><td>Intención real confirmada</td><td>A qué ruta/flujo va el lead</td></tr><tr><td>¿Qué zona?</td><td>Viabilidad con tu cartera</td><td>Si puedes atenderle o derivar</td></tr><tr><td>¿Presupuesto o renta máxima?</td><td>Encaje con inmuebles disponibles</td><td>Si continúas o descartás</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia real vs. exploración</td><td>Prioridad de atención</td></tr><tr><td>Perfil básico (habitaciones, etc.)</td><td>Filtro de inmuebles concretos</td><td>Qué enseñar primero</td></tr><tr><td>Hipoteca preconcedida / solvencia</td><td>Viabilidad financiera</td><td>Si la visita tiene sentido ahora</td></tr><tr><td>Canal y datos de contacto</td><td>Trazabilidad del lead</td><td>Cómo dar el siguiente paso</td></tr></tbody></table><p>Esta tabla es el núcleo de la cualificación. <a href=\"/blog/matriz-filtro-intencion-requisitos-presupuesto/\">Una matriz de filtrado basada en intención, requisitos y presupuesto</a> te permite tomar decisiones en segundos sin releer toda la conversación.</p><h2>Microcopy listo para copiar</h2><p>Lo que hace que la gente abandone no es que preguntes: es que preguntes sin explicar por qué. Estos mensajes funcionan porque contextualizan las preguntas en dos palabras.</p><h3>Mensaje de entrada (primer contacto por WhatsApp o DM)</h3><blockquote><p>\"¡Hola! Para orientarte bien y no hacerte perder el tiempo, te hago <strong>cuatro preguntas rápidas</strong>. Con eso te digo si tengo algo que encaje y cómo seguimos.\"</p></blockquote><h3>Cuando preguntan precio directamente</h3><blockquote><p>\"Para darte un precio real y no uno genérico, necesito saber: <strong>zona + si es compra o alquiler + presupuesto orientativo</strong>. Con eso te doy opciones concretas.\"</p></blockquote><h3>Cuando quieren visita sin haber dado datos</h3><blockquote><p>\"Con mucho gusto. Para prepararte algo que valga la pena ver, dime: <strong>qué zona, para cuándo y rango de presupuesto</strong>. Así no te llevo a visitar algo que no encaja.\"</p></blockquote><h3>Tono más directo (cuando hay mucho volumen)</h3><blockquote><p>\"Para decirte si tengo algo para ti: zona, compra o alquiler, y presupuesto. Con eso te respondo en minutos.\"</p></blockquote><h2>Rutas por intención: compra, alquiler e información general</h2><p>La mayoría de consultas inmobiliarias caen en tres rutas. Identifica cuál es antes de responder nada.</p><h3>Ruta A — Compra activa</h3><p>Señal: pregunta por precio, disponibilidad o quiere visitar algo concreto.</p><ol><li>Confirma intención de compra</li><li>Zona + radio aceptable</li><li>Presupuesto (con o sin financiación)</li><li>Hipoteca preconcedida o estado de financiación</li><li>Plazo real de decisión</li><li>Perfil del inmueble (habitaciones, estado, extras)</li><li>Datos de contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Con lo que me dices, tengo <strong>X opciones que encajan</strong>. ¿Te mando las referencias o preferís verlas directamente? Dime cuándo tienes disponibilidad.\"</p></blockquote><h3>Ruta B — Alquiler activo</h3><p>Señal: pregunta por rentas, disponibilidad o plazos de entrada.</p><ol><li>Confirma intención de alquiler</li><li>Zona</li><li>Renta máxima mensual</li><li>Fecha de entrada</li><li>Perfil (personas, mascotas, habitaciones)</li><li>Solvencia básica (nómina / aval)</li><li>Datos de contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Bien. Con eso <strong>te busco opciones que cumplan los requisitos</strong> antes de quedar. ¿Cuándo podrías ver algo si encaja?\"</p></blockquote><h3>Ruta C — Solo información</h3><p>Señal: preguntas genéricas sobre precios de zona, proceso, requisitos.</p><ol><li>Qué información concreta busca</li><li>Si tiene intención próxima o está en fase exploratoria</li><li>Contacto solo si quiere seguimiento</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Te lo explico en pocas líneas. Si en algún momento quieres que lo miremos con datos reales de tu caso, avisas.\"</p></blockquote><p>Para preparar visitas desde esta cualificación, el siguiente paso natural es <a href=\"/blog/agendar-citas-sin-mensajes/\">agendar sin intercambiar veinte mensajes</a>: primero filtras, luego propones hueco.</p><h2>Errores típicos al cualificar en inmobiliaria</h2><ol><li><strong>No confirmar intención al inicio</strong> — Pasas diez mensajes hablando de compra y el cliente buscaba alquilar. Añade siempre esa pregunta en el primer bloque.</li><li><strong>Zona demasiado amplia sin concretar</strong> — 'Madrid' o 'sur de la ciudad' no es zona. Devuelve la pregunta con ejemplos: '¿Tienes barrios concretos o hay alguno que descartarías?'</li><li><strong>Pedir presupuesto sin contexto</strong> — Si preguntas solo '¿cuál es tu presupuesto?' sin zona ni intención previa, la respuesta no te sirve para nada. Pídelo junto con zona e intención.</li><li><strong>Preguntar por hipoteca de entrada, en frío</strong> — En el primer mensaje puede parecer un interrogatorio bancario. Ponla en la segunda ronda o tras confirmar zona y presupuesto.</li><li><strong>Agendar visita sin cualificar solvencia</strong> — En compra, una visita sin confirmar que existe financiación suele acabar en 'lo consultaré con el banco'. Es tiempo perdido para los dos.</li><li><strong>No separar leads activos de exploratorios</strong> — Quien tiene plazo de tres semanas y quien 'está mirando para el año que viene' no merecen la misma atención inmediata. La pregunta de plazo es la que hace esa separación.</li><li><strong>Bloque de preguntas demasiado largo en un solo mensaje</strong> — Más de cuatro preguntas juntas reduce la tasa de respuesta. Empieza con dos o tres; amplía si contestan.</li></ol><h2>Implementación sin herramientas complejas</h2><p>Si gestionas el volumen tú solo o con una persona de apoyo, puedes implementar esto sin software adicional.</p><h3>Paso 1: guarda las plantillas como respuestas rápidas en WhatsApp Business</h3><p>WhatsApp Business permite guardar mensajes predefinidos con atajo de teclado. Guarda la versión mínima de compra, la de alquiler y los tres microcopy de entrada. No tienes que reescribir nada.</p><h3>Paso 2: crea una nota de seguimiento con tres columnas</h3><p>Activo (plazo menor a 30 días) / En proceso (plazo 1-3 meses) / Exploratorio (sin plazo definido). Mueve leads entre columnas según lo que te respondan. No necesitas CRM para esto.</p><h3>Paso 3: estandariza el cierre de cualificación</h3><p>Cuando tengas los datos mínimos, tu siguiente mensaje debe tener exactamente estas tres partes: resumen de lo que recogiste, lo que puedes ofrecerle, y el siguiente paso concreto (enviar referencias, proponer visita, llamar). Sin ese cierre estructurado, el lead se enfría aunque hayas cualificado bien.</p><p>Si tu volumen supera las 30-40 consultas semanales entre Instagram y WhatsApp y este proceso se hace inconsistente, el problema ya no es la plantilla sino la estructura de entrada. Si quieres implementar esto sin construirlo desde cero, herramientas como <strong>Inkup</strong> hacen exactamente esto: recogen intención, zona, presupuesto y datos de contacto antes de que el cliente llegue a tu WhatsApp, con un link único que puedes poner en la bio de Instagram o en tu perfil de Google Business. El lead llega con contexto; tú empiezas desde el punto de cualificación, no desde cero. No es para todos los casos: si tu volumen es bajo o cada consulta es radicalmente distinta, probablemente no lo necesitas aún. Y no sustituye la conversación consultiva cuando el lead está listo para cerrar.</p><h2>Cuándo no usar esta plantilla</h2><ul><li>Si recibes menos de cinco consultas semanales y tienes tiempo de explorar cada caso.</li><li>Si trabajas exclusivamente con cartera propia y no gestionas entrada de nuevos leads.</li><li>Si tu proceso empieza siempre con una llamada larga y la cualificación ocurre ahí, no en texto.</li><li>Si el problema que tienes no es volumen de mensajes sino captación: si no te escriben, una plantilla de cualificación no arregla eso.</li></ul><p>Para ver cómo encaja esta plantilla en un sistema más amplio de filtrado, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas comparadas por sector y servicio</a> con las variaciones según tipo de negocio.</p>",
+    "faq": [
+      {
+        "question": "¿Pregunto el presupuesto desde el primer mensaje o espero?",
+        "answer": "Desde el primer mensaje, pero con contexto. No como cifra suelta: pide rango orientativo junto con zona e intención. Sin esos tres datos juntos, el presupuesto no te dice nada útil."
+      },
+      {
+        "question": "¿Qué hago si me escribe alguien que 'solo quiere ver' sin intención clara?",
+        "answer": "Aplica la plantilla mínima igualmente. Si no puede responder zona ni plazo aproximado, no está en posición de visitar nada. Un mensaje de dos preguntas concretas filtra sin ser borde."
+      },
+      {
+        "question": "¿Le pregunto si tiene hipoteca preconcedida antes de la visita?",
+        "answer": "Sí, en compra es una pregunta de cualificación, no un interrogatorio. Puede formularse como '¿ya has hablado con tu banco o banco de referencia?' Sin preconcesión, muchas visitas acaban en nada."
+      },
+      {
+        "question": "¿Qué diferencia hay entre cualificar para compra y para alquiler?",
+        "answer": "En compra necesitas confirmar financiación y plazo de decisión. En alquiler necesitas solvencia (nómina, aval) y disponibilidad de entrada. Los requisitos son distintos y condicionan si puedes atender el caso."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para un primer mensaje de WhatsApp?",
+        "answer": "Más de cuatro en un solo bloque espanta. Empieza con dos o tres preguntas directas. Si responde, amplías. El objetivo del primer mensaje es abrir conversación, no completar un expediente."
+      },
+      {
+        "question": "¿Qué hago si me dan una zona muy amplia, como 'Madrid'?",
+        "answer": "Devuelve una pregunta de concreción: '¿Tienes barrios o distritos preferidos, o hay alguna zona que descartarías?' Zona amplia equivale a no tener zona. No es útil para filtrar ni para proponer inmuebles."
+      },
+      {
+        "question": "¿Esta plantilla funciona si tengo volumen alto por Instagram y WhatsApp a la vez?",
+        "answer": "Funciona mejor cuando tienes un punto de entrada único que recoge los datos antes de que llegues tú. Si estás respondiendo los mismos datos por duplicado en dos canales, el problema no es la plantilla sino la estructura de entrada."
+      },
+      {
+        "question": "¿Pregunto si ya están trabajando con otra agencia?",
+        "answer": "Solo si es relevante para tu operativa (exclusividad, acuerdos). No es una pregunta de cualificación universal. En muchos casos preguntar esto en el primer contacto genera rechazo innecesario."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-abogado",
     "title": "Plantilla de cualificación para abogados (sin recopilar de más)",
     "description": "Plantilla con preguntas mínimas para que abogados filtren consultas entrantes, identifiquen el área legal y la urgencia, y lleguen a la primera llamada o cita con contexto real. Sin pedir datos sensibles por mensaje.",
