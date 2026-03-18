@@ -1,5 +1,107 @@
 [
   {
+    "slug": "plantilla-cualificacion-piercing",
+    "title": "Plantilla de cualificación para piercing (cita + requisitos)",
+    "description": "Plantilla lista para cualificar citas de piercing: zona, joyería, edad, contraindicaciones y disponibilidad. Versión mínima y completa con microcopy y tabla de decisión.",
+    "excerpt": "Antes de dar hueco para un piercing necesitas saber zona, material, si hay contraindicaciones y si el cliente cumple requisitos de edad. Aquí la plantilla mínima, la completa y el microcopy para no sonar robótico.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-piercing.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "piercing",
+      "cualificacion",
+      "gestion-consultas",
+      "citas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima para cualificar una cita de piercing",
+    "quickAnswer": [
+      "**Zona exacta del piercing** — cambia tiempo, precio y si puedes hacerlo ese día.",
+      "**Edad o autorización** — imprescindible si hay menores; sin esto no hay cita posible.",
+      "**Contraindicaciones básicas** — alergias a metales, medicación anticoagulante o piel en la zona.",
+      "**Joyería preferida** — implantgrade, titanio o acero; afecta precio y disponibilidad de material.",
+      "**Fecha y franja horaria** — con flexibilidad real para no cerrar huecos imposibles.",
+      "**Canal de contacto** — nombre y WhatsApp para confirmar y enviar instrucciones previas."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para piercing debe confirmar zona, edad o autorización, contraindicaciones, joyería y disponibilidad antes de dar hueco; así evitas citas inviables y preguntas repetidas el mismo día.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: solo preguntas que cambian la decisión",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (citas con más variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy: cómo presentar las preguntas sin sonar un formulario",
+      "Checklist de requisitos antes de confirmar hueco",
+      "Variantes por tipo de piercing",
+      "Errores típicos al cualificar citas de piercing",
+      "El siguiente paso si el volumen te supera",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para piercing",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Checklist de requisitos",
+        "Microcopy de entrada"
+      ],
+      "steps": [
+        {
+          "name": "Define tus requisitos no negociables",
+          "text": "Identifica qué datos hacen inviable la cita: edad mínima, contraindicaciones que no gestionas, zonas que no haces. Esos son tus filtros duros."
+        },
+        {
+          "name": "Elige la versión de plantilla según el canal",
+          "text": "DM de Instagram: usa la plantilla mínima y deriva a WhatsApp. WhatsApp directo: puedes usar la completa si el cliente ya mostró intención real."
+        },
+        {
+          "name": "Añade el microcopy de entrada",
+          "text": "Una frase antes de las preguntas reduce abandonos. Explica en una línea por qué preguntas, no solo qué preguntas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como 'hola quiero hacerme un piercing', 'cuánto cuesta un helix' o 'tenéis hueco esta semana' sin ningún dato más. Si abres el lunes con 20 consultas sin leer y todas dicen lo mismo, esta plantilla te ahorra la mitad del tiempo de respuesta.</p><p>No la uses todavía si recibes menos de 5 consultas semanales y puedes responder con calma. En ese caso, una respuesta personalizada corta funciona igual de bien sin necesidad de estructura.</p><h2>Regla madre: solo preguntas que cambian la decisión</h2><blockquote><p><strong>Pregunta solo lo que modifica tu respuesta.</strong> Si la contestación no cambia el precio, la disponibilidad de hueco o si aceptas el caso, no lo preguntes al inicio.</p></blockquote><p>En piercing hay tres decisiones que dependen de la información previa: si puedes hacer ese piercing ese día, cuánto cuesta y si hay algún requisito que bloquea la cita. Todo lo demás se resuelve en persona o en la confirmación.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para <a href=\"/blog/agendar-citas-sin-mensajes/\">agendar sin intercambiar 20 mensajes</a>. Si alguien abandona aquí, normalmente no tenía intención real de reservar.</p><ol><li><strong>¿Qué piercing quieres y en qué zona exacta?</strong> (lóbulo, hélix, septum, labret, etc.)</li><li><strong>¿Tienes 18 años o más?</strong> Si no, ¿puedes venir con autorización escrita de tu tutor el día de la cita?</li><li><strong>¿Alguna alergia a metales, tomas anticoagulantes o tienes alguna condición en la zona?</strong></li><li><strong>¿Qué días y franjas te vienen bien?</strong> (mañana / tarde, entre semana / fin de semana)</li><li><strong>Nombre y número de WhatsApp</strong> para confirmar la cita y enviarte indicaciones previas.</li></ol><p>Con esto tienes lo suficiente para dar hueco o pedir más información si hay algún requisito especial.</p><h2>Plantilla completa (citas con más variabilidad)</h2><p>Úsala cuando el cliente ya respondió la mínima o cuando el piercing implica joyería específica, múltiples perforaciones o zona con historial previo.</p><p>Añade a la mínima:</p><ul><li><strong>Joyería preferida:</strong> titanio implantgrade (estándar), acero quirúrgico, oro 14k u otro. Si no sabe, explícale la opción por defecto.</li><li><strong>Foto de la zona</strong> (solo si hay piercing previo en la misma zona, cicatriz visible o anatomía que afecte la técnica).</li><li><strong>Número de piezas</strong> si quiere más de un piercing en la misma sesión.</li><li><strong>Experiencia previa:</strong> si ya tiene piercings activos en esa zona, qué calibre y cuánto tiempo llevan.</li><li><strong>Presupuesto orientativo</strong> solo si ofreces rangos muy distintos según material; si no filtra de verdad, no lo pidas.</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué piercing y en qué zona?</td><td>Tipo de trabajo + tiempo estimado</td><td>Si tienes hueco suficiente y puedes hacerlo</td></tr><tr><td>¿Edad o autorización de tutor?</td><td>Viabilidad legal de la cita</td><td>Si confirmas o descartas directamente</td></tr><tr><td>¿Alergias, anticoagulantes o condición en zona?</td><td>Riesgo de contraindicación</td><td>Si necesitas derivar o pedir más info médica</td></tr><tr><td>¿Joyería preferida?</td><td>Precio y disponibilidad de material</td><td>Presupuesto final y si tienes el material</td></tr><tr><td>¿Días y franjas disponibles?</td><td>Encaje en agenda real</td><td>Qué hueco ofrecer o si propones lista de espera</td></tr><tr><td>Nombre y WhatsApp</td><td>Trazabilidad y confirmación</td><td>Envío de instrucciones previas y recordatorio</td></tr><tr><td>Foto de zona (si aplica)</td><td>Anatomía o historial previo</td><td>Si ajustas técnica o consultas antes de confirmar</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar un formulario</h2><p>Lo que genera abandono no es preguntar. Es preguntar sin explicar para qué. Una frase antes de la lista reduce la sensación de interrogatorio.</p><h3>Mensaje de entrada estándar</h3><blockquote><p>«Perfecto. Para darte hueco y mandarte las indicaciones previas, necesito 5 datos rápidos — te lleva menos de un minuto.»</p></blockquote><h3>Cuando preguntan precio sin más datos</h3><blockquote><p>«El precio depende de la zona y la joyería. Dime qué piercing quieres y te doy el número exacto en un mensaje.»</p></blockquote><h3>Cuando hay menor de edad</h3><blockquote><p>«Si tienes menos de 18, necesitas autorización escrita de tu tutor y que venga contigo el día de la cita. ¿Puedes cumplir eso?»</p></blockquote><h3>Cuando preguntan disponibilidad sin más contexto</h3><blockquote><p>«Dime qué piercing quieres y qué días te vienen bien, y te busco hueco ahora mismo.»</p></blockquote><h2>Checklist de requisitos antes de confirmar hueco</h2><p>Antes de dar fecha y hora confirmada, repasa esto. Un hueco mal confirmado cuesta más que no haberlo dado.</p><ul><li>Zona y tipo de piercing identificados.</li><li>Edad verificada o autorización confirmada si es menor.</li><li>Sin contraindicaciones que bloqueen la sesión (alergias metales, anticoagulantes, infección activa en zona).</li><li>Joyería acordada o cliente informado de la opción por defecto.</li><li>Franja de tiempo suficiente en agenda (no metas dos piercings complejos si solo tienes 20 minutos).</li><li>WhatsApp de contacto registrado para confirmar y enviar instrucciones previas.</li></ul><p>Si algún punto no está resuelto, no confirmes la cita. Pide el dato que falta antes de bloquear el hueco.</p><h2>Variantes por tipo de piercing</h2><p>No cambies toda la plantilla. Cambia solo la pregunta variable según la zona.</p><h3>Orejas (lóbulo, hélix, trago, daith, conch)</h3><ul><li>Variable clave: <strong>zona exacta dentro de la oreja + si tiene piercings activos en esa zona</strong>.</li></ul><blockquote><p>«¿Qué parte de la oreja exactamente? ¿Tienes algún piercing activo cerca de esa zona?»</p></blockquote><h3>Faciales (septum, nostril, labret, ceja)</h3><ul><li>Variable clave: <strong>lado preferido + si lleva gafas o aparato dental</strong> (afecta cicatrización en algunas zonas).</li></ul><blockquote><p>«¿Qué lado prefieres? ¿Llevas aparato dental o gafas de forma habitual?»</p></blockquote><h3>Corporales (ombligo, pezón, surface)</h3><ul><li>Variable clave: <strong>zona + foto si hay cicatriz o anatomía inusual</strong>.</li></ul><blockquote><p>«Para piercings corporales, si tienes cicatrices o piercings previos en la zona, mándame una foto antes de confirmar.»</p></blockquote><h3>Ampliaciones (stretching)</h3><ul><li>Variable clave: <strong>calibre actual + tiempo con ese calibre + objetivo de talla</strong>.</li></ul><blockquote><p>«¿Qué calibre tienes ahora y cuánto tiempo llevas con él? ¿A qué talla quieres llegar?»</p></blockquote><h2>Errores típicos al cualificar citas de piercing</h2><ol><li><strong>Confirmar hueco sin verificar edad</strong><br>Consecuencia: cliente menor llega sin autorización, pierdes el hueco y el cliente.<br>Corrección: edad es pregunta de la plantilla mínima, no de la completa.</li><li><strong>No preguntar contraindicaciones hasta el día de la cita</strong><br>Consecuencia: cliente con alergia a metales o en tratamiento llega y no puedes hacerlo.<br>Corrección: una pregunta directa en el primer mensaje lo evita.</li><li><strong>Dar precio sin saber zona ni joyería</strong><br>Consecuencia: cliente llega con expectativa de precio que no corresponde.<br>Corrección: nunca precio sin zona + material. Una línea lo explica.</li><li><strong>Preguntar todo en un mensaje</strong><br>Consecuencia: el cliente no responde o responde la mitad.<br>Corrección: plantilla mínima primero, resto en confirmación.</li><li><strong>No enviar instrucciones previas</strong><br>Consecuencia: el cliente llega con crema, perfume o ropa inadecuada para la zona.<br>Corrección: al confirmar hueco, manda las indicaciones básicas por WhatsApp. No es parte de la cualificación, pero va ligado al cierre de la cita.</li></ol><p>Si quieres ver estos errores en contexto más amplio, <a href=\"/blog/que-preguntar-antes-de-dar-hueco/\">aquí tienes una guía sobre qué preguntar antes de confirmar cualquier cita</a>.</p><h2>El siguiente paso si el volumen te supera</h2><p>Si tu problema no es saber qué preguntar, sino conseguir que siempre se pregunte lo mismo sin que dependa de tu energía o de que estés mirando el móvil, la plantilla se convierte en un flujo estructurado: rutas por tipo de piercing, preguntas mínimas automatizadas y salida a WhatsApp con el contexto ya recogido.</p><p>Ese es el momento en que tiene sentido una capa previa al chat. Si quieres ver cómo estructurar ese proceso desde el primer contacto, <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">esta guía sobre cómo filtrar consultas antes de responder por WhatsApp</a> lo explica paso a paso.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link que lanza un asistente conversacional, recoge zona, edad, contraindicaciones y disponibilidad, y te redirige la conversación a WhatsApp con todo ya ordenado. No es para todos los casos — si recibes pocas consultas semanales o cada piercing requiere una conversación inicial larga y personalizada, probablemente no lo necesitas aún.</p><p>Para negocios con patrón de consultas repetitivo y volumen suficiente para generar caos, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas de cualificación para otros sectores</a> con la misma lógica aplicada.</p>",
+    "faq": [
+      {
+        "question": "¿Tengo que preguntar contraindicaciones por escrito o con una pregunta abierta?",
+        "answer": "Por escrito, con opciones concretas. Pregunta abierta genera respuestas vagas o ninguna. Mejor: '¿Tienes alergia a metales, tomas anticoagulantes o tienes alguna condición en la zona?' Respuesta cerrada, fácil de procesar."
+      },
+      {
+        "question": "¿Qué hago si el cliente no sabe qué joyería quiere?",
+        "answer": "No bloquees la cita por eso. Explica las opciones en una línea ('usamos titanio implantgrade de serie; si quieres otro material lo miramos al confirmar') y sigue con los datos que sí importan para el hueco."
+      },
+      {
+        "question": "¿Cómo gestiono las consultas de menores sin que sea incómodo?",
+        "answer": "Preguntas directas al inicio evitan el problema al final. 'Si eres menor de 18, necesitas autorización escrita del tutor y que venga en persona el día de la cita.' Si no pueden cumplirlo, se descarta antes de ocupar el hueco."
+      },
+      {
+        "question": "Me preguntan precio antes de darme ningún dato. ¿Qué respondo?",
+        "answer": "No des cifra suelta. Devuelve: 'El precio depende de zona y joyería; dime qué piercing quieres y te lo digo en un mensaje.' Con esa respuesta la mayoría da el dato que necesitas para cotizar."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para un DM de Instagram?",
+        "answer": "Más de tres en un solo mensaje es demasiado en DM. Usa la plantilla mínima (zona, edad, disponibilidad) y cierra el resto en WhatsApp o en el flujo de confirmación."
+      },
+      {
+        "question": "¿Qué hago si el cliente responde solo una parte de la plantilla?",
+        "answer": "Responde lo que puedas con lo que tienes y pide el dato que falta de forma aislada. Un mensaje con una pregunta convierte mejor que relanzar la plantilla entera."
+      },
+      {
+        "question": "¿Pido foto de la zona antes de la cita?",
+        "answer": "Solo si la zona presenta variabilidad real que cambia tu decisión (cicatriz previa, piercing anterior mal cerrado, zona conflictiva). No pidas foto por defecto; genera fricción innecesaria en la mayoría de casos."
+      },
+      {
+        "question": "¿Esta plantilla sirve también para ampliaciones y retiradas?",
+        "answer": "Sí, con ajustes. Para ampliaciones añade calibre actual y tiempo con el piercing. Para retiradas, zona y tiempo desde la última vez. El resto de la estructura es la misma."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-entrenador-personal",
     "title": "Plantilla de cualificación para entrenador personal",
     "description": "Preguntas exactas para que un entrenador personal separe curiosos de clientes reales, entienda el objetivo y diseñe una propuesta sin intercambiar 15 mensajes. Versión mínima y completa con microcopy listo para copiar.",
