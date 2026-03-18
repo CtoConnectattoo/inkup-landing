@@ -1,5 +1,107 @@
 [
   {
+    "slug": "plantilla-cualificacion-limpieza-hogar",
+    "title": "Plantilla de cualificación para limpieza de hogar",
+    "description": "Preguntas exactas para presupuestar limpiezas sin desplazarte ni perder tiempo. Plantilla mínima y completa con tabla m² → tiempo → rango y microcopy listo para copiar.",
+    "excerpt": "Para presupuestar una limpieza de hogar sin errores, necesitas saber metros cuadrados, frecuencia, ubicación y extras antes de dar ninguna cifra. Aquí la plantilla mínima, la completa y el microcopy.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-limpieza-hogar.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "limpieza-hogar",
+      "cualificacion",
+      "plantilla",
+      "presupuestos",
+      "gestion-consultas",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 6 datos",
+    "quickAnswer": [
+      "**Metros cuadrados del espacio** — sin esto cualquier precio que des es un número al aire.",
+      "**Tipo de limpieza** — general de mantenimiento, fondo, mudanza o postvacacional cambian el tiempo y el precio.",
+      "**Frecuencia deseada** — puntual, semanal o quincenal afecta al precio por sesión y a la rentabilidad del servicio.",
+      "**Ubicación exacta** — barrio o código postal para calcular desplazamiento y confirmar que cubres la zona.",
+      "**Extras o condiciones especiales** — mascotas, niños pequeños, materiales concretos, acceso con ascensor o sin él.",
+      "**Fecha y franja horaria** — para confirmar disponibilidad antes de comprometerte con nada."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para limpieza de hogar debe recoger metros cuadrados, tipo de limpieza, frecuencia, ubicación y extras antes de dar cualquier precio o confirmar disponibilidad.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: qué datos cambian tu decisión",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (cuando el caso tiene más variables)",
+      "Tabla citable: m² → tiempo estimado → rango orientativo",
+      "Tabla pregunta → objetivo → decisión",
+      "Microcopy: cómo pedir datos sin sonar a formulario",
+      "Variantes por tipo de servicio",
+      "Errores típicos al presupuestar limpiezas",
+      "Implementación sin herramientas complejas",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para limpieza en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Lista de datos mínimos",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre estándar"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Identifica los 4-6 datos que cambian tu precio o tu disponibilidad: m², tipo, frecuencia, zona, extras, fecha."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "Instagram DM sirve como puerta; WhatsApp es donde cierras. Si recibes más de 20 consultas semanales, usa un punto de entrada único con el flujo ya definido."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Con los datos recogidos, responde con un rango claro + condiciones + siguiente paso concreto. Un mensaje, no tres."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si:</p><ul><li>Te preguntan precio sin decirte qué espacio, qué tipo de limpieza ni dónde están.</li><li>Has dado presupuestos que luego no cuadraban porque el piso era el doble de grande.</li><li>Te desplazas y al llegar el trabajo es distinto a lo acordado.</li><li>Recibes consultas por Instagram, WhatsApp y <a href=\"/blog/centralizar-consultas-google-business-profile/\">Google Business Profile</a> y respondes lo mismo tres veces.</li><li>Tu problema no es que no te escriban, sino que escriben sin datos y pierdes tiempo aclarando lo básico.</li></ul><p>No la uses todavía si:</p><ul><li>Recibes menos de cinco consultas semanales y tienes tiempo de hablar con cada una.</li><li>Trabajas solo en un edificio o comunidad con condiciones fijas: no hay variabilidad real.</li></ul><h2>Regla madre: qué datos cambian tu decisión</h2><blockquote><p><strong>Pregunta solo lo que cambia tu precio, tu disponibilidad o si aceptas el trabajo.</strong><br>Si la respuesta no mueve ninguna de esas tres cosas, no lo pidas al principio.</p></blockquote><p>En limpieza de hogar, los datos que siempre cambian la decisión son: metros cuadrados, tipo de limpieza, frecuencia, zona y extras relevantes. Todo lo demás puede esperar.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión está diseñada para no perder conversiones. Si alguien abandona aquí, probablemente no era un lead real.</p><ol><li><strong>¿Qué espacio hay que limpiar?</strong> (piso completo, solo cocina y baños, oficina, local…)</li><li><strong>¿Cuántos metros cuadrados aproximadamente?</strong> (si no sabe, pídele número de habitaciones)</li><li><strong>¿Qué tipo de limpieza necesitas?</strong> (mantenimiento general, limpieza a fondo, mudanza, postvacacional)</li><li><strong>¿Con qué frecuencia?</strong> (puntual, semanal, quincenal, mensual)</li><li><strong>¿En qué zona o barrio está el espacio?</strong></li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha aproximada o franja de días)</li></ol><blockquote><p>Con estos seis datos puedes dar un rango orientativo real y confirmar si cubres la zona. Sin ellos, cualquier precio que des puede fallar.</p></blockquote><h2>Plantilla completa (cuando el caso tiene más variables)</h2><p>Úsala cuando el cliente ya respondió la mínima o cuando el trabajo implica condiciones especiales que cambian el precio o la ejecución.</p><p>Añade a la mínima:</p><ul><li>¿Hay mascotas en el hogar? (afecta tiempo y materiales)</li><li>¿Hay niños pequeños o personas con alergias? (para decidir productos)</li><li>¿El acceso es con ascensor o escaleras? (relevante para equipos pesados)</li><li>¿Hay zonas que no se tocan o materiales especiales que requieren cuidado concreto?</li><li>¿Preferís que usemos vuestros productos o llevamos los nuestros?</li><li>¿Cómo preferís continuar? (WhatsApp, llamada, visita previa)</li></ul><h2>Tabla citable: m² → tiempo estimado → rango orientativo</h2><p>Esta tabla es una referencia general. Los rangos varían según ciudad, tipo de limpieza y condiciones. No la uses como tarifa oficial; úsala para dar contexto al cliente cuando te pide precio sin datos.</p><table><thead><tr><th>Tamaño del espacio</th><th>Tipo de limpieza</th><th>Tiempo estimado</th><th>Rango orientativo</th></tr></thead><tbody><tr><td>Hasta 50 m²</td><td>Mantenimiento general</td><td>1,5 – 2 h</td><td>Bajo-medio</td></tr><tr><td>Hasta 50 m²</td><td>Limpieza a fondo</td><td>3 – 4 h</td><td>Medio</td></tr><tr><td>50 – 90 m²</td><td>Mantenimiento general</td><td>2 – 3 h</td><td>Medio</td></tr><tr><td>50 – 90 m²</td><td>Limpieza a fondo</td><td>4 – 6 h</td><td>Medio-alto</td></tr><tr><td>90 – 150 m²</td><td>Mantenimiento general</td><td>3 – 4 h</td><td>Medio-alto</td></tr><tr><td>90 – 150 m²</td><td>Limpieza a fondo / mudanza</td><td>6 – 9 h</td><td>Alto</td></tr><tr><td>Más de 150 m²</td><td>Cualquier tipo</td><td>Presupuesto a medida</td><td>Visita o videollamada previa</td></tr></tbody></table><blockquote><p>Cuando el espacio supera los 150 m² o la limpieza es de obra o mudanza compleja, no des rango por mensaje. Propón visita o videollamada antes de comprometerte.</p></blockquote><h2>Tabla pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué espacio hay que limpiar?</td><td>Tipo de trabajo y alcance</td><td>Si encaja con tu servicio o no</td></tr><tr><td>¿Cuántos metros cuadrados?</td><td>Estimación de tiempo real</td><td>Precio orientativo y viabilidad</td></tr><tr><td>¿Qué tipo de limpieza?</td><td>Diferencia mantenimiento vs fondo vs mudanza</td><td>Precio, tiempo y equipo necesario</td></tr><tr><td>¿Con qué frecuencia?</td><td>Servicio puntual o cliente recurrente</td><td>Precio por sesión y rentabilidad</td></tr><tr><td>¿En qué zona?</td><td>Desplazamiento y cobertura</td><td>Si cubres la zona o no</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y disponibilidad</td><td>Hueco posible o lista de espera</td></tr><tr><td>¿Mascotas / condiciones especiales?</td><td>Tiempo extra y materiales</td><td>Ajuste de precio o condiciones</td></tr></tbody></table><h2>Microcopy: cómo pedir datos sin sonar a formulario</h2><p>Lo que hace que la gente abandone no es que preguntes. Es que preguntas sin explicar para qué. Estos mensajes funcionan porque conectan la pregunta con el beneficio para el cliente.</p><h3>Mensaje de entrada (cuando llega sin datos)</h3><blockquote><p>\"Para darte un precio real y no un número al aire, necesito tres datos rápidos: tamaño del espacio, qué tipo de limpieza y en qué zona estás. Con eso te respondo directo.\"</p></blockquote><h3>Respuesta al clásico 'precio limpieza'</h3><blockquote><p>\"El precio depende del tamaño y el tipo de trabajo. Dime: ¿cuántos metros cuadrados tiene el espacio y qué necesitas, mantenimiento habitual o limpieza a fondo? Con eso te doy un rango en el siguiente mensaje.\"</p></blockquote><h3>Cuando preguntan disponibilidad sin decir dónde están</h3><blockquote><p>\"Claro, dime en qué zona estás y para cuándo lo necesitas y te confirmo si tenemos hueco.\"</p></blockquote><h3>Microcopy para captar datos de extras</h3><blockquote><p>\"Última pregunta: ¿hay mascotas o algún material especial que requiera cuidado? Así ajusto el tiempo y te doy un precio sin sorpresas.\"</p></blockquote><h2>Variantes por tipo de servicio</h2><p>No cambies la plantilla entera. Cambia solo las preguntas variables según el tipo de trabajo.</p><h3>Limpieza de mantenimiento (servicio recurrente)</h3><ul><li>Variable clave: <strong>frecuencia + días disponibles + acceso al espacio</strong></li></ul><blockquote><p>\"¿Qué días te vienen bien? ¿Estarás en casa o necesitas dejar llave?\"</p></blockquote><h3>Limpieza a fondo o postvacacional</h3><ul><li>Variable clave: <strong>estado actual del espacio + plazo + si tiene mobiliario</strong></li></ul><blockquote><p>\"¿El espacio está habitado o vacío? ¿Hay fecha límite para dejarlo listo?\"</p></blockquote><h3>Limpieza de mudanza (entrada o salida)</h3><ul><li>Variable clave: <strong>si es entrada o salida + fecha de entrega de llaves + estado del inmueble</strong></li></ul><blockquote><p>\"¿Es para dejar el piso antes de entregar llaves o para dejarlo listo antes de entrar? ¿Hay fecha concreta?\"</p></blockquote><h3>Limpieza de obra o reforma</h3><ul><li>Variable clave: <strong>tipo de obra + cantidad de polvo/residuos + acceso</strong></li></ul><blockquote><p>\"¿Qué tipo de obra ha habido? ¿Ya han terminado los trabajos o aún quedan pendientes?\"</p></blockquote><h2>Errores típicos al presupuestar limpiezas</h2><ol><li><strong>Dar precio por mensaje sin preguntar los m²</strong><br>Consecuencia: llegas y el trabajo es el doble de lo esperado.<br>Corrección: nunca des cifra sin metros cuadrados y tipo de limpieza.</li><li><strong>No preguntar la zona antes de confirmar disponibilidad</strong><br>Consecuencia: te comprometes con un trabajo fuera de tu zona de cobertura.<br>Corrección: zona en la primera pregunta, siempre.</li><li><strong>No separar limpieza puntual de servicio recurrente</strong><br>Consecuencia: presupuestas como servicio único lo que podría ser cliente fijo con precio ajustado.<br>Corrección: añade la pregunta de frecuencia desde el inicio.</li><li><strong>Ignorar los extras hasta llegar</strong><br>Consecuencia: mascotas, dos plantas o materiales especiales te descolocan el tiempo.<br>Corrección: un campo de extras en la plantilla mínima evita el 90% de estas sorpresas.</li><li><strong>Enviar lista de precios genérica en respuesta a 'precio limpieza'</strong><br>Consecuencia: el cliente no sabe cuál aplica a su caso y te pregunta de nuevo.<br>Corrección: tres preguntas primero, rango personalizado después.</li></ol><h2>Implementación sin herramientas complejas</h2><p>Si recibes consultas dispersas entre Instagram, WhatsApp y Google, el primer paso no es automatizar nada: es decidir cómo quieres que entre la información. <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">Filtrar y cualificar antes de responder</a> es un hábito antes de ser un sistema.</p><h3>Paso 1: guarda la plantilla mínima como mensaje guardado en WhatsApp</h3><p>Nombre sugerido: \"Cualificación limpieza\". Con un par de toques la envías sin escribir nada nuevo.</p><h3>Paso 2: define tu regla de zona</h3><p>Antes de responder cualquier consulta, confirma zona. Si no cubres la dirección, no inviertas más tiempo. Un mensaje claro y cortés cierra eso en treinta segundos.</p><h3>Paso 3: estandariza el mensaje de cierre</h3><p>Cuando ya tienes los datos, responde con un único mensaje que incluya: rango orientativo, condiciones principales y siguiente paso concreto (visita, confirmación de fecha o pago de señal).</p><p>Si el volumen crece y la gestión manual deja de funcionar, la solución no es un CRM complejo. Lo que necesitas es que la información llegue ya estructurada antes de abrir WhatsApp. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Ver qué preguntas usar según el sector</a> te ayuda a afinar qué pedir según el tipo de servicio que ofrezcas.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un enlace único que recoge los datos de cualificación antes de redirigir al cliente a WhatsApp con el contexto ya preparado, para que el primer mensaje que envíes sea para cerrar, no para recopilar lo básico. No es para todos los casos: si solo recibes unas pocas consultas semanales o cada trabajo es completamente distinto al anterior, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántos metros cuadrados me tienen que dar para dar un precio orientativo?",
+        "answer": "Con los m² aproximados, el tipo de limpieza y si hay mascotas ya puedes dar un rango útil. No necesitas la medición exacta para el primer contacto; si el cliente no sabe los m², pídele que calcule habitaciones y si es piso completo o parcial."
+      },
+      {
+        "question": "¿Pregunto el presupuesto que tienen en mente?",
+        "answer": "En limpieza de hogar no suele funcionar bien porque la mayoría no tiene referencia. Es más eficaz dar tú un rango basado en los datos (m² + tipo) y ver si continúan. Si filtras por precio desde el principio, pierdes leads que sí podrían pagar."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo 'precio limpieza'?",
+        "answer": "No des cifra. Devuelve tres preguntas concretas: tamaño del espacio, tipo de limpieza y zona. Con eso tienes lo mínimo para dar un rango real en el siguiente mensaje."
+      },
+      {
+        "question": "¿Pregunto si tienen animales desde el principio?",
+        "answer": "Sí, en la plantilla mínima o como parte de extras. Las mascotas cambian el tiempo estimado y a veces el precio. Preguntar evita malentendidos al llegar."
+      },
+      {
+        "question": "¿Cómo separo consultas de limpieza puntual de clientes de mantenimiento habitual?",
+        "answer": "Añade una pregunta de frecuencia desde el inicio: '¿Buscas una limpieza puntual o algo regular?' Las dos rutas son válidas pero el precio por sesión, la lógica de agenda y tu rentabilidad son distintas."
+      },
+      {
+        "question": "¿Confirmo disponibilidad antes de pedir todos los datos?",
+        "answer": "No. Confirmar disponibilidad sin saber la zona y el tipo de servicio puede hacerte comprometer tiempo que luego no encaja. Recoge primero los datos mínimos y después propones hueco."
+      },
+      {
+        "question": "¿Qué hago si el cliente quiere precio exacto antes de darte ningún dato?",
+        "answer": "Explícale que el precio depende del tamaño y el tipo de trabajo, y que con tres preguntas rápidas le das un número real en lugar de un rango inútil. La mayoría acepta si lo planteas como beneficio para ellos, no como trámite."
+      },
+      {
+        "question": "¿Me llega mucha consulta por Google y por Instagram a la vez; cómo lo gestiono?",
+        "answer": "Un punto de entrada único resuelve eso. Cuando el mismo flujo de preguntas aplica igual desde Google Business Profile que desde Instagram, el resultado que recibes es siempre comparable y fácil de gestionar."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-veterinaria",
     "title": "Plantilla de cualificación para veterinaria (urgencias vs cita)",
     "description": "Plantilla para veterinarias que necesitan separar urgencias reales de citas programables antes de responder. Versión mínima, versión completa, tabla de triage y microcopy listo para copiar.",
