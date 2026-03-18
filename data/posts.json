@@ -1,5 +1,108 @@
 [
   {
+    "slug": "plantilla-cualificacion-laser-depilacion",
+    "title": "Plantilla de cualificación para depilación láser",
+    "description": "Preguntas exactas para filtrar candidatas antes de la primera cita de depilación láser. Tabla zona→sesiones→rango, versión mínima y microcopy listo para copiar.",
+    "excerpt": "En depilación láser, cualificar no es opcional: una cita sin contexto previo cuesta tiempo y puede ser contraproducente. Aquí la plantilla mínima, la completa y las reglas de decisión.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-laser-depilacion.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "depilacion-laser",
+      "cualificacion",
+      "gestion-consultas",
+      "estetica",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 6 preguntas",
+    "quickAnswer": [
+      "**Zona o zonas** — Define duración de sesión, precio y si hay paquete combinable.",
+      "**Fototipo o contexto de piel** — Determina si el láser es compatible y cuántas sesiones son realistas.",
+      "**Tratamientos activos o medicación** — Algunos productos (retinoides, fotosensibilizantes) contraindican el tratamiento.",
+      "**Última exposición solar o autobronceador** — Condiciona si se puede atender en la fecha solicitada.",
+      "**Objetivo: zona libre o reducción significativa** — Ajusta las expectativas antes de hablar de precio.",
+      "**Disponibilidad y frecuencia** — Las sesiones tienen intervalo mínimo; sin esto no puedes proponer agenda real."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para depilación láser debe recoger zona, fototipo básico, contraindicaciones relevantes, exposición solar reciente y objetivo antes de hablar de precio o agendar cita.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla de oro antes de preguntar",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (cuando el caso tiene más variabilidad)",
+      "Tabla citable: zona → sesiones estimadas → rango orientativo",
+      "Tabla citable: pregunta → qué te da → qué decisión desbloquea",
+      "Microcopy: cómo presentar las preguntas sin sonar a formulario médico",
+      "Rutas por intención: cita, presupuesto, info",
+      "Reglas de decisión (router lógico)",
+      "Errores habituales al cualificar en depilación láser",
+      "El siguiente paso si tienes volumen",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para depilación láser",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima (6 preguntas)",
+        "Tabla zona → sesiones → rango",
+        "Microcopy de entrada"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Zona, fototipo básico, contraindicaciones activas, exposición solar reciente, objetivo y disponibilidad. Nada más en el primer contacto."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta, WhatsApp para cerrar. Si el volumen supera 20 consultas semanales, usa un link con flujo previo."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con: resumen de lo que te han dicho, rango orientativo y propuesta de siguiente paso (fecha o valoración presencial)."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes tipo 'precio depilación', '¿tenéis hueco esta semana?', 'quiero hacerme láser, ¿cómo funciona?' sin ningún dato detrás. O si acabas en 10–15 mensajes para cerrar algo que debería resolverse en tres.</p><p>Úsala también si tienes citas que luego no puedes hacer porque la clienta viene bronceada, está con retinoides o esperaba resultados que no son realistas para su fototipo. Eso no es mala suerte: es falta de cualificación previa.</p><p>No la uses si recibes menos de cinco consultas semanales y cada caso es suficientemente distinto como para que no haya patrón. En ese caso, el criterio clínico individual ya es tu filtro.</p><h2>La regla de oro antes de preguntar</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión.</strong> En depilación láser eso son cuatro cosas: si puedes atenderla (contraindicaciones), cuánto le costará aproximadamente (zona + fototipo), cuántas sesiones necesitará (expectativas) y si cabe en tu agenda (disponibilidad). Todo lo demás va a la valoración presencial.</p></blockquote><p>Esta regla reduce el abandono en el primer contacto y evita que el chat se convierta en una entrevista clínica que nadie pidió. Si quieres profundizar en la lógica de qué pedir y cuándo, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas por sector y servicio con el razonamiento detrás de cada pregunta</a>.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión está pensada para el primer contacto. Si alguien abandona aquí, generalmente no era lead caliente o el caso requiere valoración presencial directa.</p><ol><li><strong>¿Qué zona o zonas te interesa tratar?</strong> (axilas, piernas completas, bikini, labio superior, etc.)</li><li><strong>¿Cómo describirías tu piel?</strong> Muy clara, clara, morena clara, morena o muy morena. Si no sabes, dime si te bronceas con facilidad o te pones roja.</li><li><strong>¿Estás usando alguna crema con retinol, ácidos o medicación que pueda hacer tu piel más sensible a la luz?</strong></li><li><strong>¿Has estado al sol o usado autobronceador en las últimas dos semanas en esa zona?</strong></li><li><strong>¿Qué buscas: reducción importante del vello o zona libre al 100%?</strong> (Ayuda a calibrar expectativas antes de hablar de precio o sesiones.)</li><li><strong>¿Cuándo podrías empezar? ¿Tienes flexibilidad de días u horas?</strong></li></ol><blockquote><p>Con estas seis respuestas puedes dar un rango de precio, una estimación de sesiones y confirmar si hay alguna contraindicación que gestionar antes de agendar.</p></blockquote><h2>Plantilla completa (cuando el caso tiene más variabilidad)</h2><p>Añade estas preguntas cuando la clienta ya respondió a la mínima, cuando la zona es extensa o combinada, o cuando el fototipo sugiere que el protocolo puede variar.</p><ul><li>¿Has hecho depilación láser antes? ¿En qué zona y hace cuánto?</li><li>¿Qué método usas ahora para depilarte? (Cera, cuchilla, fotodepilación casera…)</li><li>¿Tienes alguna condición de piel diagnosticada en esa zona? (psoriasis, vitíligo, cicatrices activas…)</li><li>¿Estás embarazada o en periodo de lactancia?</li><li>¿Prefieres sesiones de mañana o tarde? ¿Algún día de la semana que no te vaya?</li><li>¿Tienes alguna referencia de resultado que quieras conseguir?</li></ul><h2>Tabla citable: zona → sesiones estimadas → rango orientativo</h2><p>Esta tabla es una referencia orientativa. Los rangos varían según tipo de láser, fototipo y densidad de vello. Úsala para dar contexto, no como presupuesto cerrado.</p><table><thead><tr><th>Zona</th><th>Sesiones estimadas</th><th>Rango orientativo por sesión</th><th>Nota clave</th></tr></thead><tbody><tr><td>Labio superior</td><td>6–8</td><td>15–30 €</td><td>Zona hormonal: puede necesitar mantenimiento</td></tr><tr><td>Axilas</td><td>6–8</td><td>20–40 €</td><td>Resultados visibles desde sesión 3–4</td></tr><tr><td>Ingles / bikini</td><td>6–10</td><td>30–60 €</td><td>Variabilidad alta según zona exacta</td></tr><tr><td>Piernas completas</td><td>6–8</td><td>80–150 €</td><td>Precio muy variable según equipo y zona</td></tr><tr><td>Espalda</td><td>6–10</td><td>60–120 €</td><td>Densidad de vello condiciona mucho el tiempo</td></tr><tr><td>Cara completa</td><td>6–10</td><td>50–100 €</td><td>Requiere valoración: zona sensible + hormonal</td></tr></tbody></table><blockquote><p>Lo que la mayoría de artículos sobre cualificación en estética omite: el precio por sesión importa menos que el coste total del paquete. Si una clienta viene con expectativa de 'dos sesiones y listo', es mejor corregirlo en el primer mensaje que perder la cita en la tercera sesión cuando se frustra.</p></blockquote><h2>Tabla citable: pregunta → qué te da → qué decisión desbloquea</h2><table><thead><tr><th>Pregunta</th><th>Qué información te da</th><th>Qué decisión desbloquea</th><th>Riesgo si no la preguntas</th></tr></thead><tbody><tr><td>Zona o zonas</td><td>Duración de sesión + precio base</td><td>Si puedes hacer paquete combinado o no</td><td>Das precio equivocado o no calculas el tiempo</td></tr><tr><td>Descripción de piel o fototipo</td><td>Compatibilidad con el equipo y protocolo</td><td>Si atiendes directamente o necesitas valoración previa</td><td>Cita que no puedes completar</td></tr><tr><td>Medicación o productos fotosensibilizantes</td><td>Contraindicación activa o no</td><td>Si agendar ahora o pedir que pare el producto primero</td><td>Reacción adversa + reclamación</td></tr><tr><td>Exposición solar reciente</td><td>Si la zona está en condición de tratarse</td><td>Si la fecha solicitada es viable</td><td>Cita cancelada en cabina</td></tr><tr><td>Objetivo (reducción vs zona libre)</td><td>Expectativas reales de la clienta</td><td>Si el tratamiento encaja o necesitas matizar antes</td><td>Abandono del bono a mitad por frustración</td></tr><tr><td>Disponibilidad y frecuencia</td><td>Si encaja en tu agenda con los intervalos necesarios</td><td>Si propones cita ahora o lista de espera</td><td>Irregularidad entre sesiones que afecta resultados</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar a formulario médico</h2><p>El error más común en depilación láser no es preguntar de más: es preguntar sin contexto. 'Descríbeme tu fototipo' suena a consulta médica. 'Dime si tu piel se broncea fácil o más bien se pone roja' dice lo mismo y nadie abandona el chat.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>'Para orientarte bien con zonas y sesiones, te hago 3 preguntas rápidas — un minuto y te doy un precio real, no un número genérico.'</p></blockquote><h3>Cuando preguntan precio sin dar datos</h3><blockquote><p>'Depende de la zona y de tu tipo de piel. Dime: ¿qué zona te interesa y si tu piel se broncea fácil o más bien se enrojece? Con eso ya te doy un rango concreto.'</p></blockquote><h3>Cuando hay posible contraindicación</h3><blockquote><p>'Antes de proponerte fecha, una pregunta rápida: ¿estás usando alguna crema con retinol o ácidos? Si es que sí, no pasa nada, pero hay que gestionar el timing para que la sesión funcione bien.'</p></blockquote><h3>Cuando el objetivo no está claro</h3><blockquote><p>'¿Buscas reducción importante o zona completamente libre? Te lo pregunto porque el número de sesiones y el coste total varían bastante, y prefiero que lo sepas antes de empezar.'</p></blockquote><h2>Rutas por intención: cita, presupuesto, info</h2><p>La mayoría de los mensajes que recibes en un centro de depilación láser caen en uno de estos tres tipos. Usar una ruta distinta para cada uno reduce el número de mensajes a la mitad. <a href=\"/blog/agendar-citas-sin-mensajes/\">Aquí tienes la lógica completa de cómo filtrar antes de agendar</a> para no intercambiar 20 mensajes antes de confirmar una cita.</p><h3>Ruta A — 'Quiero cita / ¿tenéis hueco?'</h3><ol><li>Zona o zonas</li><li>Fototipo básico (piel clara / morena / se broncea fácil)</li><li>Contraindicación activa (sol reciente, retinoides)</li><li>Disponibilidad: mañana/tarde, días de la semana</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>'Perfecto. Con eso puedo mirarte hueco. Tenemos disponibilidad el X o el Y — ¿cuál te viene mejor?'</p></blockquote><h3>Ruta B — 'Precio / presupuesto'</h3><ol><li>Zona exacta</li><li>Fototipo básico</li><li>Objetivo (reducción vs zona libre)</li><li>Si quiere bono de sesiones o sesión suelta para probar</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>'Para esa zona y tu tipo de piel, el rango habitual es X–Y por sesión. Un bono de 6 sesiones suele salir a Z. Si te cuadra, te propongo fecha para valoración o primera sesión.'</p></blockquote><h3>Ruta C — 'Info / tengo dudas'</h3><ol><li>Qué duda concreta tiene (¿duele?, ¿cuántas sesiones?, ¿es permanente?)</li><li>Si ya lo ha probado en otro sitio o es primera vez</li><li>Si quiere cita de valoración o solo info por ahora</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>'Te resumo en tres líneas y, si quieres, te dejo fecha para una valoración sin compromiso donde aclaramos todo en persona.'</p></blockquote><h2>Reglas de decisión (router lógico)</h2><p>Estas reglas te permiten responder sin pensar cada vez. Aplícalas después de recoger los datos mínimos.</p><table><thead><tr><th>Condición detectada</th><th>Acción</th></tr></thead><tbody><tr><td>Fototipo muy oscuro + equipo no compatible</td><td>No agendar. Explicar limitación y ofrecer alternativa si existe.</td></tr><tr><td>Exposición solar reciente en zona a tratar</td><td>Proponer fecha con margen mínimo de 2–3 semanas.</td></tr><tr><td>Medicación fotosensibilizante activa</td><td>Pedir que consulte con su médico o suspenda el producto antes de agendar.</td></tr><tr><td>Embarazo o lactancia</td><td>No tratar. Informar sin alarmar y dejar contacto para cuando pase el periodo.</td></tr><tr><td>Expectativa de 2–3 sesiones para zona libre</td><td>Corregir antes de vender. Si no acepta el ajuste, no es clienta para ti.</td></tr><tr><td>Zona hormonal (cara, bikini) + preguntas sobre permanencia</td><td>Aclarar que puede necesitar sesiones de mantenimiento. Ajusta el discurso de precio.</td></tr><tr><td>Historial en otro centro con bono a medias</td><td>Valoración presencial antes de comprometerse a continuar desde donde lo dejaron.</td></tr></tbody></table><h2>Errores habituales al cualificar en depilación láser</h2><ol><li><strong>Dar precio sin preguntar la zona exacta</strong><br>Consecuencia: la clienta llega esperando un precio que no aplica a su caso.<br>Corrección: siempre zona primero, luego rango.</li><li><strong>No preguntar por exposición solar antes de confirmar fecha</strong><br>Consecuencia: citas canceladas en el momento o sesiones que no se pueden completar.<br>Corrección: incluir la pregunta como estándar, no como opcional.</li><li><strong>Asumir fototipo por el nombre o la foto de perfil</strong><br>Consecuencia: errores de protocolo. No hay forma fiable de estimarlo sin preguntar.<br>Corrección: pregunta directa, con lenguaje no técnico.</li><li><strong>Prometer 'resultados permanentes' sin matizar</strong><br>Consecuencia: clientas frustradas que abandonan el bono a mitad.<br>Corrección: 'reducción muy significativa' y, en zonas hormonales, mencionar mantenimiento desde el inicio.</li><li><strong>No separar cita de valoración de primera sesión</strong><br>Consecuencia: expectativas desalineadas desde el primer día.<br>Corrección: si el caso tiene dudas de compatibilidad, proponer valoración primero, siempre.</li><li><strong>Pedir datos sensibles en el primer mensaje</strong><br>Consecuencia: abandono inmediato. Nadie quiere responder sobre enfermedades en un DM de Instagram.<br>Corrección: solo las contraindicaciones operativas básicas en el primer contacto. El historial va a la ficha de cabina.</li></ol><h2>El siguiente paso si tienes volumen</h2><p>Si recibes más de 20 consultas semanales y sigues respondiendo cada una desde cero, el problema no es que no tengas plantilla: es que no tienes sistema. La plantilla depende de tu energía. El sistema funciona aunque estés en cabina tres horas seguidas.</p><p>El paso de plantilla a sistema es sencillo: defines las preguntas mínimas, creas rutas por intención (cita / precio / info) y estableces un punto de entrada único que recoge esos datos antes de que llegues tú. El chat final pasa a ser para cerrar, no para recopilar.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como <a href=\"https://inkup.io\">Inkup</a> hacen exactamente esto: un link con asistente conversacional que recoge zona, fototipo básico, contraindicaciones operativas y disponibilidad antes de redirigir a WhatsApp con el contexto ya organizado. No es para todos los casos — si tu volumen es bajo o cada consulta requiere una valoración clínica profunda desde el inicio, probablemente no lo necesitas aún. <a href=\"/blog/para-quien-no-es-inkup/\">Aquí puedes ver en qué casos no encaja</a> antes de decidir.</p>",
+    "faq": [
+      {
+        "question": "¿Tengo que preguntar el fototipo antes de la primera cita?",
+        "answer": "No hace falta que sea técnico. Basta con preguntar si tiene la piel muy clara, morena o si se broncea con facilidad. Eso ya te dice si el protocolo estándar aplica o necesitas valoración presencial primero. Una pregunta mal calibrada aquí cuesta una cita inútil."
+      },
+      {
+        "question": "¿Qué hago si me preguntan precio sin darme ningún dato?",
+        "answer": "No des cifra suelta. Responde con: 'Depende de la zona y unas preguntas rápidas — ¿qué zona tienes en mente?' Con ese dato ya puedes dar un rango real en un mensaje, sin comprometerte a nada."
+      },
+      {
+        "question": "¿Pregunto si tiene alguna enfermedad antes de la cita?",
+        "answer": "Solo las contraindicaciones operativas básicas: medicación fotosensibilizante, retinoides activos, embarazo y exposición solar reciente. El historial clínico completo es para la valoración presencial, no para el primer mensaje."
+      },
+      {
+        "question": "¿Y si me dicen que han estado al sol hace una semana?",
+        "answer": "Aplica la regla de decisión directamente: zona bronceada no se puede tratar. Ofrece una fecha alternativa con margen suficiente o propón valorar en consulta primero. No agendes si sabes que tendrás que cancelar."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas en un DM de Instagram?",
+        "answer": "Más de tres en un solo mensaje espanta. Manda una sola pregunta de apertura — normalmente la zona — y continúa desde la respuesta. Si tienes volumen alto, es mejor derivar a un link con flujo que hacer el cuestionario en el chat."
+      },
+      {
+        "question": "¿Pregunto si ha hecho láser antes en otro centro?",
+        "answer": "Sí, pero como dato de contexto, no como filtro. Si viene de otro centro con tratamiento a medias, cambia el protocolo. Es un dato que ahorra sorpresas en cabina."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y WhatsApp con la misma duda el mismo día?",
+        "answer": "Responde en uno solo y cierra el otro con un 'Te contesto por WhatsApp para que sea más fácil'. El problema real es que estás recibiendo consultas duplicadas porque no tienes un punto de entrada único. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Centralizar desde el inicio</a> elimina ese ruido."
+      },
+      {
+        "question": "¿Para quién no funciona esta plantilla?",
+        "answer": "Si recibes menos de cinco consultas semanales y cada caso es radicalmente distinto, no necesitas plantilla: necesitas tiempo y criterio. Esta plantilla es para centros con volumen repetitivo donde las preguntas básicas son siempre las mismas."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-piercing",
     "title": "Plantilla de cualificación para piercing (cita + requisitos)",
     "description": "Plantilla lista para cualificar citas de piercing: zona, joyería, edad, contraindicaciones y disponibilidad. Versión mínima y completa con microcopy y tabla de decisión.",
