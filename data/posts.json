@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-masajes",
+    "title": "Plantilla de cualificación para masajes (terapéutico/relajante)",
+    "description": "Preguntas exactas para asignar bien cada cita de masaje: objetivo, zona, duración y contraindicaciones básicas antes de dar hueco. Versión mínima en 5 preguntas y completa en 9.",
+    "excerpt": "Una cita de masaje mal asignada cuesta tiempo, espacio en agenda y un cliente insatisfecho. Esta plantilla te da las preguntas que cambian la decisión antes de confirmar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-masajes.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "masajes",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para masajes",
+    "quickAnswer": [
+      "**Objetivo real** — Terapéutico (contractura, dolor, recuperación) o relajante (descanso, estrés). Cambia el tipo de masaje, la presión y el tiempo.",
+      "**Zona o zona principal** — Espalda, cervicales, piernas, cuerpo completo. Sin esto no puedes estimar duración ni preparar la sesión.",
+      "**Duración preferida** — 30, 60 o 90 minutos. Si no lo preguntas, asignas un hueco incorrecto y pierdes o ganas tiempo que no tienes.",
+      "**Contraindicaciones básicas** — Embarazo, operaciones recientes, problemas circulatorios o de piel. No para hacer diagnóstico: para no agendar un caso que no puedes atender.",
+      "**Primera vez o cliente habitual** — Cambia la preparación, el tiempo de anamnesis y el tipo de trato desde el primer mensaje."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para masajes debe confirmar objetivo (terapéutico o relajante), zona, duración preferida y contraindicaciones básicas antes de asignar cualquier hueco en agenda.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para masajes: lo que cambia la cita",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (9 preguntas)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Matriz objetivo → tipo de masaje → duración orientativa",
+      "Microcopy listo para copiar",
+      "Variantes por canal (DM, WhatsApp, link)",
+      "Errores típicos al cualificar citas de masaje",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Preguntas mínimas definidas",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre estándar"
+      ],
+      "steps": [
+        {
+          "name": "Define tus 5 datos mínimos",
+          "text": "Objetivo, zona, duración, contraindicaciones y si es primera vez. Solo lo que cambia la cita."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta, WhatsApp para el cierre. Si recibes más de 20 consultas semanales, considera un link con flujo previo."
+        },
+        {
+          "name": "Estandariza el mensaje de confirmación",
+          "text": "Un mensaje con resumen de lo acordado, fecha y hora, y qué traer o evitar antes de la sesión."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si:</p><ul><li>Recibes mensajes del tipo 'quiero un masaje, ¿tenéis hueco?' sin ningún dato más.</li><li>Has confirmado citas y luego descubierto que la duración era incorrecta o que el cliente tenía una condición que cambiaba la sesión.</li><li>Tienes varios tipos de masaje (terapéutico, relajante, deportivo, prenatal) y cada uno ocupa distinto tiempo y preparación.</li><li>Tu agenda tiene huecos de 30, 60 y 90 minutos y necesitas asignar el correcto desde el primer contacto.</li></ul><p>No la uses (todavía) si:</p><ul><li>Solo recibes 2-3 consultas a la semana y respondes con calma.</li><li>Todos tus clientes son habituales y ya conoces su caso de memoria.</li><h2>Regla madre para masajes: lo que cambia la cita</h2><blockquote><p><strong>Solo pregunta lo que cambia el tipo de sesión, la duración o si puedes atender el caso.</strong><br>Todo lo demás puede esperar a que llegue o resolverse en el momento.</p></blockquote><p>En masajes, eso se reduce a cuatro variables: objetivo (terapéutico o relajante), zona, duración y contraindicaciones básicas. Si tienes esas cuatro cosas antes de confirmar, has eliminado el 90% de las citas mal asignadas. Para una guía más amplia sobre <a href=\"/blog/que-preguntar-antes-de-dar-hueco/\">qué preguntar antes de dar hueco para no equivocarte</a>, el principio es el mismo: filtra solo lo que cambia tu decisión.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Para la mayoría de casos. Si alguien abandona aquí, normalmente no era un lead con intención real de reservar.</p><ol><li><strong>¿Qué buscas con el masaje?</strong> ¿Tienes alguna zona de tensión o dolor, o buscas más relajación y desconexión?</li><li><strong>¿Qué zona quieres trabajar?</strong> (espalda, cervicales, piernas, cuerpo completo...)</li><li><strong>¿Cuánto tiempo tienes disponible?</strong> (30, 60 o 90 minutos)</li><li><strong>¿Tienes alguna condición de salud que deba conocer?</strong> (embarazo, operación reciente, problemas circulatorios, alergias a aceites o cremas)</li><li><strong>¿Es tu primera vez o ya has venido antes?</strong></li></ol><blockquote><p>Con estas cinco respuestas ya puedes asignar el hueco correcto, preparar la sesión y saber si el caso encaja.</p></blockquote><h2>Plantilla completa (9 preguntas)</h2><p>Úsala cuando el cliente ya ha respondido la versión mínima y el caso tiene más variabilidad, o cuando ofreces servicios de mayor duración o precio.</p><p>Añade a la mínima:</p><ul><li><strong>Fecha preferida y flexibilidad</strong> (mañana/tarde, esta semana/siguiente)</li><li><strong>Intensidad de presión preferida</strong> (suave, media, fuerte) — relevante sobre todo en masaje terapéutico</li><li><strong>¿Ha recibido masajes antes?</strong> Si no, ajustas explicación y expectativas</li><li><strong>Datos de contacto</strong> (nombre y teléfono para confirmación)</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué buscas con el masaje? (dolor o relax)</td><td>Tipo de sesión: terapéutico o relajante</td><td>Técnica, presión y preparación</td></tr><tr><td>¿Qué zona quieres trabajar?</td><td>Alcance de la sesión</td><td>Duración mínima necesaria</td></tr><tr><td>¿Cuánto tiempo tienes disponible?</td><td>Hueco necesario en agenda</td><td>Qué franja asignar</td></tr><tr><td>¿Tienes alguna condición de salud?</td><td>Viabilidad del servicio</td><td>Si puedes atender el caso o no</td></tr><tr><td>¿Primera vez o cliente habitual?</td><td>Tiempo de anamnesis necesario</td><td>Margen extra al inicio de sesión</td></tr><tr><td>Fecha preferida y flexibilidad</td><td>Opciones de agenda reales</td><td>Qué huecos ofrecer</td></tr><tr><td>Intensidad de presión preferida</td><td>Expectativas alineadas</td><td>Evitar insatisfacción por mal ajuste</td></tr></tbody></table><h2>Matriz objetivo → tipo de masaje → duración orientativa</h2><p>Esta matriz no sustituye tu criterio profesional. Es una guía para el primer filtro antes de agendar.</p><table><thead><tr><th>Objetivo declarado</th><th>Tipo de masaje más probable</th><th>Duración mínima recomendable</th></tr></thead><tbody><tr><td>Contractura o dolor localizado (cervicales, lumbar)</td><td>Terapéutico focalizado</td><td>45–60 min</td></tr><tr><td>Tensión generalizada + estrés</td><td>Terapéutico o mixto</td><td>60 min</td></tr><tr><td>Relajación, desconexión, bienestar</td><td>Relajante</td><td>60–90 min</td></tr><tr><td>Recuperación deportiva</td><td>Deportivo</td><td>45–60 min</td></tr><tr><td>Embarazo (si no hay contraindicación)</td><td>Prenatal</td><td>60 min</td></tr><tr><td>Sin objetivo claro o primera vez</td><td>Consultar antes de agendar</td><td>Confirmar con el cliente</td></tr></tbody></table><blockquote><p>Si el objetivo declarado no encaja con ninguna de tus modalidades, es mejor decirlo antes de confirmar que descubrirlo cuando llega.</p></blockquote><h2>Microcopy listo para copiar</h2><p>El problema no es preguntar. Es preguntar sin explicar por qué. Estos mensajes reducen la fricción sin sonar a formulario.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"¡Genial! Para asignarte el hueco que te encaje y preparar bien la sesión, necesito 2 minutos de tu tiempo. Te hago 4 preguntas rápidas.\"</p></blockquote><h3>Para cuando preguntan solo 'precio'</h3><blockquote><p>\"El precio depende del tipo de masaje y la duración. Dime qué zona tienes o qué buscas (relax o alguna molestia concreta) y cuánto tiempo tienes: con eso te doy el precio exacto y te propongo hueco.\"</p></blockquote><h3>Para pedir contraindicaciones sin sonar clínico</h3><blockquote><p>\"Una última cosa antes de confirmar: ¿tienes alguna condición de salud que deba tener en cuenta? (embarazo, operación reciente, problemas circulatorios...). Es para preparar bien la sesión y que vayas con toda la tranquilidad.\"</p></blockquote><h3>Mensaje de confirmación final</h3><blockquote><p>\"Perfecto, te confirmo: [tipo de masaje], [zona/objetivo], [duración], el [fecha] a las [hora]. Si tienes algún cambio, avísame con al menos [X horas/días] de antelación. ¡Hasta entonces!\"</p></blockquote><h2>Variantes por canal (DM, WhatsApp, link)</h2><p>La plantilla es la misma. Lo que cambia es cuándo y cómo la presentas según <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a>.</p><h3>Instagram DM</h3><p>El DM es la puerta, no el lugar donde cualificas. Si recibes el primer mensaje por DM, responde con una sola pregunta (objetivo o zona) para verificar intención y luego lleva la conversación a WhatsApp o a un link con el flujo completo.</p><h3>WhatsApp</h3><p>Aquí sí puedes hacer la cualificación completa. Usa la plantilla mínima en un mensaje con lista numerada. Evita preguntar de una en una: pierdes tiempo y la conversación se alarga innecesariamente.</p><h3>Si tienes volumen alto (más de 20 consultas semanales)</h3><p>Considera un link en bio o en tu perfil que recoja los datos antes de que la conversación llegue a ti. Cuando abres el WhatsApp ya tienes objetivo, zona, duración y contraindicaciones. La conversación empieza donde debe: en proponer hueco, no en recopilar información básica. Para ver <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes con plantillas por sector</a>, el enfoque es el mismo independientemente del canal.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que recoge objetivo, zona, duración y contraindicaciones antes de redirigir al cliente a WhatsApp con toda esa información lista. No es para todos los casos — si recibes menos de 15-20 consultas semanales o tu proceso requiere conversación larga desde el inicio, probablemente no lo necesitas aún.</p><h2>Errores típicos al cualificar citas de masaje</h2><ol><li><strong>Confirmar hueco antes de preguntar objetivo</strong><br>Consecuencia: asignas 30 minutos a un caso que necesita 90. El cliente llega y la sesión queda incompleta.<br>Corrección: pregunta objetivo y zona antes de nombrar cualquier fecha.</li><li><strong>No preguntar contraindicaciones hasta que llega</strong><br>Consecuencia: pierdes el hueco y el cliente se va sin servicio.<br>Corrección: un mensaje previo con la pregunta directa, sin rodeos.</li><li><strong>Dar precio sin confirmar duración</strong><br>Consecuencia: el cliente espera un precio que no corresponde a lo que necesita.<br>Corrección: primero objetivo y zona, luego duración, luego precio.</li><li><strong>Tratar igual a primera vez y cliente habitual</strong><br>Consecuencia: te quedas corto de tiempo con nuevos clientes que necesitan anamnesis.<br>Corrección: una pregunta simple ('¿es tu primera vez?') al inicio.</li><li><strong>Preguntar todo en mensajes separados, de uno en uno</strong><br>Consecuencia: la conversación se alarga a 15-20 mensajes para cerrar una cita simple.<br>Corrección: plantilla mínima en un solo mensaje con lista numerada.</li><li><strong>No confirmar por escrito los detalles acordados</strong><br>Consecuencia: malentendidos de horario, tipo de masaje o duración el día de la cita.<br>Corrección: mensaje de confirmación estándar con todos los datos acordados.</li></ol>",
+    "faq": [
+      {
+        "question": "¿Pregunto las contraindicaciones por WhatsApp o espero a que llegue?",
+        "answer": "Pregúntalas antes, no cuando llega. Una contraindicación grave (embarazo avanzado, trombosis reciente, herida abierta) puede impedirte dar el servicio. Perder ese hueco el día de la cita cuesta más que preguntar con antelación. Basta con una pregunta directa: '¿Tienes alguna condición de salud que deba conocer antes de la sesión?'"
+      },
+      {
+        "question": "¿Cómo diferencio si alguien quiere masaje terapéutico o relajante si no lo sabe ni él?",
+        "answer": "Pregunta por el origen, no por el tipo: '¿Tienes algún dolor o zona de tensión concreta, o buscas más desconectar y relajarte?' Con esa respuesta ya sabes qué preparar. No necesitas que el cliente conozca la terminología técnica."
+      },
+      {
+        "question": "¿Doy precio antes o después de cualificar?",
+        "answer": "Después de confirmar duración y objetivo. El precio de un masaje de 30 minutos de cervicales no es el mismo que uno de 90 minutos de cuerpo completo. Si das cifra sin esos datos, o pierdes al cliente por exceso o generas expectativas erróneas."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo 'quiero un masaje, ¿tenéis hueco?'?",
+        "answer": "No confirmes el hueco todavía. Responde con la plantilla mínima antes de comprometer agenda: '¡Claro! Para asignarte el hueco correcto, dime: ¿qué zona o molestia tienes y cuánto tiempo tienes disponible?' Esas dos preguntas ya te dan la mitad de lo que necesitas."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para una cita de masaje?",
+        "answer": "Más de 6 en el primer mensaje es demasiado. Empieza con la versión mínima (5 preguntas). Si el cliente responde y el caso tiene más complejidad, amplías en el siguiente intercambio. La fricción mata más conversiones que la falta de información."
+      },
+      {
+        "question": "¿Pregunto si es primera vez siempre?",
+        "answer": "Sí, y vale la pena aunque tengas agenda digital. Un cliente nuevo necesita más tiempo de anamnesis al inicio. Si no lo sabes antes, asignas el mismo hueco que a alguien habitual y te quedas corto de tiempo o comienzas tarde la sesión."
+      },
+      {
+        "question": "¿Cómo gestiono a alguien que quiere reservar para otra persona (regalo)?",
+        "answer": "Pide los datos de quien va a recibir el masaje, no solo de quien reserva. Objetivo, zona y contraindicaciones corresponden a la persona que vendrá. Es el error más frecuente en reservas de regalo: se agenda según quien paga, no según quien recibe."
+      },
+      {
+        "question": "¿Me llegan consultas por Instagram y WhatsApp con la misma duda el mismo día, cómo lo gestiono?",
+        "answer": "Unifica la respuesta en un punto. Si tienes volumen suficiente, un link en la bio de Instagram que recoge la información básica antes de redirigir a WhatsApp evita duplicados y te llega el lead ya cualificado, independientemente de por dónde haya entrado."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-microblading-micropigmentacion",
     "title": "Plantilla de cualificación para microblading/micropigmentación",
     "description": "Preguntas exactas para filtrar candidatas antes de la cita de microblading o micropigmentación. Incluye checklist de elegibilidad, plantilla mínima y completa, y microcopy listo para copiar.",
