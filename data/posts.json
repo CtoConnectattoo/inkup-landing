@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-veterinaria",
+    "title": "Plantilla de cualificación para veterinaria (urgencias vs cita)",
+    "description": "Plantilla para veterinarias que necesitan separar urgencias reales de citas programables antes de responder. Versión mínima, versión completa, tabla de triage y microcopy listo para copiar.",
+    "excerpt": "El primer mensaje de un dueño de mascota no siempre dice si es urgente o puede esperar. Esta plantilla separa ambos casos desde el primer contacto, con las preguntas justas y sin reemplazar el criterio clínico.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-veterinaria.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "veterinaria",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram",
+      "plantilla",
+      "cualificacion"
+    ],
+    "quickAnswerSubtitle": "Separar urgencias y preparar cita en 5 datos",
+    "quickAnswer": [
+      "**Especie y edad** — Determina el protocolo aplicable y si hay factores de riesgo por edad.",
+      "**Síntoma principal y desde cuándo** — Es el dato que separa urgencia real de consulta programable.",
+      "**Señales de alerta presentes** — Dificultad respiratoria, pérdida de consciencia, sangrado activo o convulsiones siempre van a urgencias, sin más preguntas.",
+      "**Historial básico conocido** — Vacunación al día y si tiene enfermedades previas diagnosticadas. Cambia el contexto de la cita.",
+      "**Canal y disponibilidad** — Cómo prefiere que le contacten y cuándo puede venir. Reduce la cadena de mensajes para agendar."
+    ],
+    "oneLineDefinition": "En veterinaria, cualificar es identificar urgencia, especie y síntoma general, y dar un siguiente paso claro sin reemplazar diagnóstico.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: lo que cambia el siguiente paso",
+      "Checklist de triage básico (urgencia vs cita)",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para cita programada con contexto)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy: cómo presentar las preguntas sin sonar frío",
+      "Variantes por tipo de consulta",
+      "Errores típicos al gestionar consultas en veterinaria",
+      "El siguiente paso si el volumen no para",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de triage en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Checklist de señales de alarma",
+        "Plantilla mínima (5 preguntas)",
+        "Mensaje de cierre con siguiente paso"
+      ],
+      "steps": [
+        {
+          "name": "Identifica si es urgencia o cita",
+          "text": "Usa el checklist de señales de alarma antes de cualquier otra pregunta. Si aparece una señal, el siguiente paso es siempre presencial inmediato."
+        },
+        {
+          "name": "Aplica la plantilla mínima si no es urgencia",
+          "text": "5 datos: especie y edad, síntoma y duración, historial básico, disponibilidad y canal preferido."
+        },
+        {
+          "name": "Cierra con un siguiente paso concreto",
+          "text": "Propón fecha y hora o indica el proceso para urgencias. No termines el mensaje sin una acción clara para el dueño."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si en tu veterinaria:</p><ul><li>Recibes mensajes como \"no sé si es urgente o puedo esperar\" sin ningún dato más.</li><li>Tienes que preguntar lo mismo cada vez que llega una consulta nueva (especie, síntoma, desde cuándo).</li><li>Mezclas urgencias reales con citas de revisión y las tratas igual hasta que ya estás en la consulta.</li><li>El dueño llega sin contexto y el veterinario pierde los primeros minutos reconstruyendo lo que pasó.</li></ul><p>No la uses si:</p><ul><li>Solo recibes una o dos consultas al día y tienes tiempo para hacer la entrevista entera por teléfono.</li><li>Tu proceso de admisión ya incluye un formulario presencial o digital con estos datos.</li><h2>Regla madre: lo que cambia el siguiente paso</h2><blockquote><p><strong>Solo pregunta lo que determina si es urgencia, si puede esperar o qué necesitas saber antes de la cita.</strong><br>Si la respuesta no cambia el siguiente paso, no la pidas en el primer contacto.</p></blockquote><p>En veterinaria el siguiente paso tiene tres opciones: atención inmediata, cita en las próximas horas o cita programada normal. Todo lo que no sirve para elegir entre estas tres opciones puede esperar a la exploración.</p><h2>Checklist de triage básico (urgencia vs cita)</h2><p>Antes de cualquier otra pregunta, comprueba si aparece alguna de estas señales. Si aparece una sola, el siguiente paso es siempre presencial inmediato.</p><ul><li>Dificultad para respirar o respiración muy acelerada</li><li>Pérdida de consciencia o imposibilidad de mantenerse en pie</li><li>Convulsiones activas o recientes (últimas dos horas)</li><li>Sangrado activo que no para</li><li>Vientre muy hinchado y signos de dolor intenso</li><li>Traumatismo reciente (atropello, caída desde altura, golpe fuerte)</li><li>Ingesta confirmada de tóxico o medicamento no prescrito</li><li>Dificultad extrema para orinar (especialmente gatos macho)</li><li>Animal inconsciente o que no responde a estímulos</li></ul><p>Si no aparece ninguna de estas señales, continúa con la plantilla de cualificación para cita.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para responder rápido y agendar sin cadenas de mensajes. Si alguien no responde estas cinco preguntas, raramente es un lead caliente.</p><ol><li><strong>Especie y edad del animal</strong> (perro, gato, exótico…)</li><li><strong>Síntoma principal y desde cuándo</strong> (una frase: qué observas y cuánto tiempo lleva)</li><li><strong>¿Tiene alguna de estas señales?</strong> (lista breve de alarma: dificultad respiratoria, pérdida de consciencia, convulsiones, sangrado activo)</li><li><strong>Historial básico:</strong> ¿vacunación al día? ¿alguna enfermedad previa diagnosticada?</li><li><strong>¿Cómo prefieres que te contactemos y cuándo puedes venir?</strong></li></ol><blockquote><p>Si el síntoma lleva menos de 24 horas y hay señales de alarma, no sigas con más preguntas. Indica urgencias directamente.</p></blockquote><h2>Plantilla completa (para cita programada con contexto)</h2><p>Úsala cuando el triage ya descartó urgencia y quieres que el veterinario llegue con contexto a la consulta.</p><p>Añade a la mínima:</p><ul><li>Peso aproximado del animal (útil para dosificaciones previas a la cita)</li><li>Último veterinario o clínica donde fue atendido (si es nuevo paciente)</li><li>Si toma alguna medicación actualmente</li><li>Si el síntoma ha cambiado desde que empezó (mejor, igual, peor)</li><li>Foto o vídeo si el problema es visible (lesión cutánea, postura anómala, vómito con características especiales)</li><li>Si tiene alergia conocida a algún medicamento</li></ul><p>No pidas todos estos datos en el primer mensaje. Envíalos en un segundo bloque solo cuando el dueño ya respondió la plantilla mínima y confirmó que no es urgencia.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>Especie y edad</td><td>Protocolo aplicable y factores de riesgo por edad</td><td>A qué especialista o sala deriva / si hay riesgo elevado</td></tr><tr><td>Síntoma principal y desde cuándo</td><td>Urgencia real vs puede esperar</td><td>Siguiente paso inmediato o cita programada</td></tr><tr><td>Señales de alarma presentes</td><td>Gravedad objetiva sin diagnóstico</td><td>Urgencias ahora o continúa el flujo</td></tr><tr><td>Vacunación al día + enfermedades previas</td><td>Contexto clínico mínimo</td><td>Tiempo de cita estimado / preparación del veterinario</td></tr><tr><td>Medicación actual</td><td>Interacciones o contraindicaciones básicas</td><td>Si hay que avisar antes de la cita</td></tr><tr><td>Foto o vídeo (si aplica)</td><td>Alinea expectativas visuales</td><td>Si puede resolverse en cita normal o requiere más tiempo</td></tr><tr><td>Disponibilidad y canal</td><td>Reduce mensajes para agendar</td><td>Cierra la cita en el mismo hilo</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar frío</h2><p>El dueño de una mascota en un momento de preocupación no necesita un formulario: necesita sentir que alguien competente le atiende. El microcopy es lo que convierte una lista de preguntas en esa sensación.</p><h3>Mensaje de entrada (cuando llega una consulta nueva)</h3><blockquote><p>\"Hola, te leo. Para saber cómo ayudarte mejor y darte el paso más adecuado, necesito tres datos rápidos: especie y edad de tu animal, qué está pasando y desde cuándo, y si tiene alguna de estas señales ahora mismo [lista breve]. Con eso te digo exactamente qué hacer.\"</p></blockquote><h3>Mensaje cuando el dueño escribe solo 'mi perro está mal'</h3><blockquote><p>\"Entendido. Para saber si necesita atención urgente ahora o podemos agendar cita, dime: ¿tiene dificultad para respirar, está inconsciente o ha convulsionado? ¿Desde cuándo está así?\"</p></blockquote><h3>Mensaje para pedir foto o vídeo</h3><blockquote><p>\"Si puedes, mándame una foto o vídeo breve de lo que observas. No es para diagnosticar, pero me ayuda a preparar la cita para que el tiempo con el veterinario sea más útil.\"</p></blockquote><h3>Mensaje de cierre con siguiente paso</h3><blockquote><p>\"Con lo que me cuentas no parece urgencia. Te propongo cita para [día/franja]. ¿Te viene bien o necesitas otro momento esta semana?\"</p></blockquote><p>Observa algo que la mayoría de guías omite: el microcopy más importante no es el de entrada, es el de cierre. Un mensaje sin siguiente paso concreto obliga al dueño a preguntar de nuevo y reinicia la cadena de mensajes. <a href=\"/blog/agendar-citas-sin-mensajes/\">Cerrar con fecha y opciones en el mismo mensaje</a> es lo que elimina el ida y vuelta.</p><h2>Variantes por tipo de consulta</h2><h3>Ruta A — Urgencia o posible urgencia</h3><ol><li>¿Tiene alguna señal del checklist de alarma? (sí/no)</li><li>¿Qué está pasando exactamente y desde cuándo?</li><li>Especie, edad y peso aproximado</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Con lo que me describes, recomendamos que vengas ahora. Te esperamos en [dirección]. Si en los próximos minutos empeora, llama directamente al [número].\"</p></blockquote><h3>Ruta B — Cita rutinaria o revisión</h3><ol><li>Especie y edad</li><li>Motivo de la consulta en una frase</li><li>Vacunación al día y medicación actual</li><li>Disponibilidad esta semana</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Perfecto. Te apunto para [día] a las [hora]. Si antes de la cita notas algún cambio importante, escríbenos.\"</p></blockquote><h3>Ruta C — Presupuesto o consulta informativa</h3><ol><li>Qué servicio o tratamiento consulta</li><li>Especie y edad del animal</li><li>Si ya tiene diagnóstico previo o es solo orientativo</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Para darte un precio orientativo realista necesito [dato concreto]. Si quieres, te doy el rango habitual y lo cerramos en cita si te cuadra.\"</p></blockquote><p>Si no sabes por cuál de estas rutas empieza una consulta, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">esta guía de preguntas por sector y tipo de servicio</a> puede ayudarte a decidir antes de responder.</p><h2>Errores típicos al gestionar consultas en veterinaria</h2><ol><li><strong>Tratar todas las consultas igual</strong><br>Consecuencia: una urgencia real espera detrás de tres preguntas de precio.<br>Corrección: el checklist de alarma va siempre primero, antes de cualquier otra pregunta.</li><li><strong>Pedir historial completo antes de confirmar si es urgencia</strong><br>Consecuencia: el dueño contesta diez preguntas mientras el animal empeora.<br>Corrección: triage primero, historial después y solo si no es urgencia.</li><li><strong>Responder con un diagnóstico orientativo por mensaje</strong><br>Consecuencia: expectativas incorrectas, posible responsabilidad y dueño que no viene a la cita porque cree que ya sabe lo que es.<br>Corrección: explica que el diagnóstico requiere exploración y ofrece el siguiente paso inmediatamente.</li><li><strong>Terminar el mensaje sin siguiente paso</strong><br>Consecuencia: el dueño pregunta otra vez qué hace, se reinicia la cadena.<br>Corrección: cada mensaje tuyo termina con una acción concreta para el dueño.</li><li><strong>Pedir foto o vídeo en todos los casos</strong><br>Consecuencia: fricción innecesaria cuando el síntoma no es visual.<br>Corrección: pide material visual solo si cambia la preparación de la cita o ayuda a valorar urgencia.</li><li><strong>No tener mensaje para fuera de horario</strong><br>Consecuencia: dueño con animal malo sin instrucciones, frustración y posible daño al animal.<br>Corrección: mensaje automático con checklist de alarma y número de urgencias aunque no sea el tuyo.</li></ol><h2>El siguiente paso si el volumen no para</h2><p>Si ya aplicas esta plantilla pero el problema es que hay demasiados mensajes para gestionar uno a uno, el siguiente nivel es convertirla en un flujo: un punto de entrada único que hace las preguntas de triage, separa la ruta (urgencia vs cita) y llega a tu WhatsApp con el contexto ya recogido.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas entrantes desde Instagram y WhatsApp en un asistente conversacional que captura especie, síntoma, señales de alarma y disponibilidad antes de redirigir al negocio con esa información lista. No es para todos los casos: si recibes pocas consultas o tu proceso de admisión ya es consultivo desde el primer mensaje, probablemente no lo necesitas aún. Y no reemplaza el criterio clínico del veterinario en ninguna circunstancia.</p><p>Para los casos donde el volumen ya genera confusión y se pierden consultas, <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">establecer un sistema de priorización</a> antes de responder es el cambio con más impacto inmediato.</p>",
+    "faq": [
+      {
+        "question": "¿Qué hago si me escriben 'mi perro está raro' sin más información?",
+        "answer": "Responde con el checklist de señales de alarma antes de cualquier otra pregunta. Pregunta directamente si tiene dificultad para respirar, si está inconsciente o si ha convulsionado. Con eso ya sabes si es urgencia o puedes agendar con calma."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que el dueño se impaciente?",
+        "answer": "En urgencias, dos o tres preguntas cerradas y directas. En citas programadas, cinco datos máximo en el primer contacto. El dueño no se impacienta con las preguntas: se impacienta cuando no ve que van a algún sitio."
+      },
+      {
+        "question": "¿Pregunto el historial completo antes de la cita?",
+        "answer": "No. Pide solo si la vacunación está al día y si hay alguna enfermedad previa diagnosticada. El resto lo recoge el veterinario en consulta. Pedir más antes genera fricción sin aportar nada a la decisión de agendar."
+      },
+      {
+        "question": "¿Cómo respondo cuando me piden un diagnóstico por WhatsApp?",
+        "answer": "Deja claro que el diagnóstico requiere exploración física y no es posible por mensaje. Ofrece inmediatamente el siguiente paso: cita, urgencias o indicación de si puede esperar. No dejes la pregunta sin respuesta útil aunque no sea la que esperan."
+      },
+      {
+        "question": "¿Sirve esta plantilla si atiendo gatos, perros y animales exóticos?",
+        "answer": "Sí, pero añade la especie como primera pregunta obligatoria. Los protocolos de urgencia y los tiempos de respuesta varían mucho entre especies. Con eso puedes derivar a la persona correcta desde el primer mensaje."
+      },
+      {
+        "question": "¿Qué hago con los mensajes que llegan fuera de horario?",
+        "answer": "Define un mensaje automático con el checklist de señales de alarma y el número de urgencias si lo tienes. Si no hay guardia, indica el hospital de urgencias más cercano. No dejes el mensaje vacío: un dueño con un animal malo no puede esperar a que abras."
+      },
+      {
+        "question": "¿Pido foto o vídeo antes de la cita?",
+        "answer": "Solo si el síntoma visual cambia la decisión de urgencia o el tiempo de cita. Una foto de una lesión cutánea ayuda. Una foto de un animal 'que no come bien' no suele dar información accionable antes de la exploración."
+      },
+      {
+        "question": "¿Cómo gestiono cuando me llega el mismo tipo de consulta por Instagram y WhatsApp el mismo día?",
+        "answer": "Usa la misma plantilla en ambos canales y guía a WhatsApp para cerrar. Si el volumen ya genera confusión, <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">priorizar por tipo de consulta</a> antes de responder ahorra tiempo y evita que una urgencia real se pierda entre mensajes de cita rutinaria."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-dentista-clinica",
     "title": "Plantilla de cualificación para clínica dental (captura sin saturar)",
     "description": "Preguntas exactas para asignar cita correcta en clínica dental sin saturar al paciente. Versión mínima en 5 preguntas, versión completa y microcopy listo para copiar.",
