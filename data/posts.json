@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-psicologia",
+    "title": "Plantilla de cualificación para psicólogos (captura sin invadir)",
+    "description": "Plantilla de cualificación para consultas de psicología: preguntas mínimas para preparar la primera sesión sin pedir datos sensibles por mensaje. Versión mínima, completa y microcopy listo para usar.",
+    "excerpt": "En psicología, cualificar no es hacer una anamnesis por WhatsApp. Es confirmar que la persona encaja con tu enfoque y agenda sin pedirle que se abra antes de que haya confianza.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-psicologia.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "psicologia",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "primera-sesion"
+    ],
+    "quickAnswerSubtitle": "Cualificación respetuosa en 5 preguntas",
+    "quickAnswer": [
+      "**Motivo general, no detalle clínico** — Pregunta \"¿qué te trae a consulta en general?\" nunca \"¿qué te pasó?\". La apertura ocurre en sesión, no en el chat.",
+      "**Modalidad antes de fecha** — Presencial u online cambia tu agenda y tu oferta. Pregúntalo primero para no abrir huecos en vano.",
+      "**Disponibilidad amplia, no hora exacta** — \"¿Mañanas, tardes o indistinto?\" cierra más que un calendario detallado en el primer mensaje.",
+      "**Nombre y teléfono, nada más** — No pidas fecha de nacimiento, diagnósticos previos ni medicación por mensaje. Eso es para la primera sesión.",
+      "**Informa del proceso antes de preguntar** — Una frase de contexto (\"Para preparar la cita inicial, necesito tres datos\") reduce la desconfianza sin necesidad de justificarte."
+    ],
+    "oneLineDefinition": "En psicología, cualificar es confirmar motivo general, preferencia de modalidad y disponibilidad sin pedir detalles íntimos por mensaje.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que no se puede saltar en salud mental",
+      "Plantilla mínima (3 preguntas)",
+      "Plantilla completa (7 preguntas)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Checklist de límites: qué NO pedir por mensaje",
+      "Variantes por tipo de consulta",
+      "Errores frecuentes en la cualificación inicial",
+      "El siguiente paso si el volumen te supera",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en psicología",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 3 preguntas",
+        "Microcopy de entrada",
+        "Checklist de límites"
+      ],
+      "steps": [
+        {
+          "name": "Define tu motivo de consulta aceptable",
+          "text": "Escribe en una frase qué tipo de motivo encaja con tu enfoque. Eso dicta cómo redactas la pregunta de motivo general."
+        },
+        {
+          "name": "Elige modalidad y franja horaria disponible",
+          "text": "Antes de abrir agenda, confirma online/presencial y franja. Evita intercambios innecesarios sobre huecos que no tienes."
+        },
+        {
+          "name": "Escribe el mensaje de entrada con contexto",
+          "text": "Una frase que explique para qué sirven las preguntas. Sin contexto, cualquier pregunta en salud mental genera desconfianza."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes consultas por Instagram o WhatsApp con mensajes como \"me gustaría pedir cita\", \"quiero información sobre tus servicios\" o, directamente, un párrafo largo con su situación personal. Los tres casos necesitan respuestas distintas, pero los tres pasan por el mismo filtro inicial: confirmar encaje antes de abrir agenda.</p><p>No la uses si cada consulta que recibes es genuinamente única y tu proceso de primera sesión requiere un discovery largo desde el primer mensaje. En ese caso, una plantilla rígida añade fricción sin ahorrar tiempo.</p><h2>La regla que no se puede saltar en salud mental</h2><p>En psicología, la cualificación tiene un límite que otros sectores no tienen: <strong>no pidas información clínica por mensaje antes de que haya vínculo terapéutico</strong>. No es solo una cuestión de privacidad — es que la persona no debería abrirse en un chat antes de que exista un espacio seguro para hacerlo.</p><p>Lo que sí puedes confirmar antes de la primera sesión: motivo general, modalidad, disponibilidad y datos de contacto. Nada más. Todo lo demás ocurre en consulta.</p><p>Hay una observación que la mayoría de guías omite: las personas que más detalles dan por WhatsApp antes de la primera sesión no son necesariamente las más fáciles de trabajar. A veces son personas en una fase de búsqueda activa que aún no están listas para comprometerse con un proceso. Confirmar encaje rápido y proponer fecha concreta convierte mejor que entrar en conversación clínica por mensaje.</p><h2>Plantilla mínima (3 preguntas)</h2><p>Esta versión está diseñada para máxima conversión con mínima fricción. Si alguien no responde con tres preguntas, no responderá con siete.</p><ol><li><strong>¿Qué te trae a consulta, en líneas generales?</strong> (sin pedir detalles)</li><li><strong>¿Prefieres sesión presencial u online?</strong></li><li><strong>¿Tienes más disponibilidad por las mañanas o por las tardes?</strong></li></ol><p>Con esto tienes suficiente para saber si encaja con tu enfoque, qué tipo de hueco necesitas y a qué número o enlace derivar la confirmación.</p><h2>Plantilla completa (7 preguntas)</h2><p>Úsala cuando la persona ya ha respondido la versión mínima y quieres preparar mejor la primera sesión, o cuando tu agenda tiene requisitos específicos (por ejemplo, solo atiendes ciertos motivos de consulta o tienes límites de capacidad).</p><ol><li><strong>¿Qué te trae a consulta, en líneas generales?</strong></li><li><strong>¿Es para ti o para acompañar a alguien?</strong> (adulto, menor, pareja)</li><li><strong>¿Has tenido proceso terapéutico previo?</strong> (sí / no — sin pedir detalles)</li><li><strong>¿Prefieres sesión presencial u online?</strong></li><li><strong>¿Mañanas, tardes o indistinto?</strong></li><li><strong>¿Con qué frecuencia te planteas empezar?</strong> (semanal, quincenal, aún no lo sé)</li><li><strong>Nombre y número de teléfono para confirmar la cita.</strong></li></ol><p>La pregunta sobre proceso previo merece una aclaración: pides sí o no, no qué pasó ni con quién. Eso cambia tu primera sesión (alguien con proceso previo llega con más vocabulario y expectativas más definidas), pero no necesitas el historial para abrir un hueco.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión habilita</th></tr></thead><tbody><tr><td>¿Qué te trae a consulta, en líneas generales?</td><td>Motivo general sin detalle clínico</td><td>Si encaja con tu enfoque o si derivar</td></tr><tr><td>¿Es para ti o para acompañar a alguien?</td><td>Tipo de proceso (individual, pareja, menor)</td><td>Qué tipo de hueco y duración necesitas</td></tr><tr><td>¿Has tenido proceso terapéutico previo?</td><td>Contexto de punto de partida</td><td>Cómo preparas la primera sesión</td></tr><tr><td>¿Presencial u online?</td><td>Modalidad</td><td>Qué hueco abrir en agenda</td></tr><tr><td>¿Mañanas, tardes o indistinto?</td><td>Franja horaria</td><td>Qué opciones ofrecer sin perder tiempo</td></tr><tr><td>Frecuencia prevista</td><td>Nivel de compromiso inicial</td><td>Cómo presentar el proceso en primera sesión</td></tr><tr><td>Nombre y teléfono</td><td>Trazabilidad y confirmación</td><td>Enviar confirmación y recordatorio</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Preguntar sin explicar genera desconfianza. En salud mental, más que en cualquier otro sector. Estas frases van antes de la plantilla para que la persona entienda qué está haciendo y por qué.</p><h3>Mensaje de entrada (para DM o WhatsApp)</h3><blockquote><p>\"Hola, gracias por escribir. Para preparar bien la primera sesión y encontrarte un hueco que encaje, te hago tres preguntas rápidas.\"</p></blockquote><h3>Mensaje si la persona ya ha contado su historia por mensaje</h3><blockquote><p>\"Gracias por compartirlo. Para que podamos hablarlo con calma y en el espacio adecuado, lo mejor es que lo dejemos para la primera sesión. ¿Te viene bien [fecha]?\"</p></blockquote><h3>Mensaje para confirmar encaje antes de agendar</h3><blockquote><p>\"Con lo que me cuentas, creo que puedo ayudarte. El siguiente paso es una primera sesión de 60 minutos donde vemos si tiene sentido continuar. ¿Te va bien [opción A] o [opción B]?\"</p></blockquote><h3>Mensaje si el motivo no encaja con tu enfoque</h3><blockquote><p>\"Gracias por escribirme. Por el tipo de consulta que describes, creo que otra especialidad puede ayudarte mejor. Te recomiendo [orientación general, sin diagnóstico]. Cuídate.\"</p></blockquote><p>Este último mensaje lo omite casi todo el mundo. Derivar bien es parte del proceso, no un fracaso. Y hacerlo con una frase clara ahorra tiempo a los dos.</p><h2>Checklist de límites: qué NO pedir por mensaje</h2><p>Este checklist es la otra mitad de la plantilla. Saber qué no preguntar es tan importante como saber qué preguntar. Puedes ver <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>qué preguntas usar por sector</a> para comparar con otros servicios, pero en psicología los límites son más estrictos.</p><ul><li>No pidas diagnósticos previos por mensaje.</li><li>No pidas medicación ni tratamientos actuales.</li><li>No pidas historia familiar ni eventos traumáticos.</li><li>No pidas fecha de nacimiento ni datos identificativos más allá del nombre.</li><li>No pidas valoraciones subjetivas de su estado actual (\"¿cómo te encuentras en este momento?\").</li><li>No entres en conversación clínica en el chat: si la persona empieza a abrirse, redirige a la sesión.</li><li>No solicites documentación médica antes de la primera cita.</li></ul><h2>Variantes por tipo de consulta</h2><p>No cambies toda la plantilla: cambia solo la pregunta de motivo y la pregunta de formato.</p><h3>Terapia individual adultos</h3><blockquote><p>\"¿Qué te trae a consulta, en líneas generales? ¿Presencial u online? ¿Mañanas o tardes?\"</p></blockquote><h3>Terapia de pareja</h3><blockquote><p>\"¿Qué os trae a consulta? ¿Vendríais los dos o solo uno de momento? ¿Presencial u online?\"</p></blockquote><p>La pregunta \"¿vendríais los dos?\" es operativa, no clínica. Cambias la duración del hueco y la configuración de la sala.</p><h3>Psicología infantil o con menores</h3><blockquote><p>\"¿Qué os preocupa, en líneas generales? ¿Cuántos años tiene el niño o la niña? ¿Presencial u online?\"</p></blockquote><p>La edad del menor cambia el enfoque de la primera sesión. No necesitas más.</p><h3>Orientación vocacional o coaching psicológico</h3><blockquote><p>\"¿En qué área quieres trabajar? (toma de decisiones, carrera, hábitos...) ¿Presencial u online? ¿Mañanas o tardes?\"</p></blockquote><p>Si trabajas orientación, <a href=&quot;/blog/agendar-citas-sin-mensajes/&quot;>agendar sin intercambiar 20 mensajes</a> es especialmente relevante porque muchos clientes están en fase de exploración y el volumen de consultas sin compromiso es alto.</p><h2>Errores frecuentes en la cualificación inicial</h2><ol><li><strong>Responder al contenido clínico en el chat</strong> — La persona cuenta algo íntimo y el psicólogo responde con orientación terapéutica por mensaje. Consecuencia: se abre una conversación que no tiene cierre natural y que no está en el contexto adecuado. Corrección: agradece y redirige a sesión en una frase.</li><li><strong>No separar \"quiero información\" de \"quiero cita\"</strong> — Tratar igual a quien pregunta por tarifas y a quien quiere empezar proceso. Consecuencia: perdes tiempo explicando precios a quien ya quiere agendar. Corrección: pregunta directamente al inicio: \"¿Buscas información o quieres pedir primera cita?\"</li><li><strong>Pedir demasiados datos antes de confirmar encaje</strong> — Siete preguntas a alguien que aún no sabe si le das confianza. Consecuencia: abandono antes de responder. Corrección: plantilla mínima primero, completa después si responde.</li><li><strong>No tener respuesta preparada para crisis</strong> — Alguien escribe en un momento de urgencia y no hay protocolo. Corrección: ten un mensaje fijo con recursos (teléfono de atención a la conducta suicida 024, urgencias) que puedas enviar en diez segundos.</li><li><strong>Dar precio en mitad de la cualificación</strong> — El precio antes del encaje pone el foco en el coste, no en el valor. Corrección: responde precio solo si lo preguntan, con una frase corta, y vuelve al proceso de agendado.</li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si recibes más de 20 o 25 consultas semanales entre Instagram y WhatsApp, el problema ya no es no saber qué preguntar. Es que no tienes forma de hacerlo de manera consistente sin que se te pasen mensajes o sin interrumpir el trabajo clínico cada diez minutos.</p><p>En ese punto, la plantilla en tu cabeza no es suficiente. Necesitas un flujo que recoja los datos antes de que lleguen a ti, para que cuando abras WhatsApp ya sepas con quién hablas y qué necesita. Si quieres entender si eso encaja con tu situación antes de plantearte nada, lee <a href=&quot;/blog/para-quien-no-es-inkup/&quot;>para quién no es Inkup</a> — porque hay casos en psicología donde el proceso consultivo desde el primer contacto no se puede sistematizar sin perder algo.</p><p>Si quieres implementar ese flujo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un punto de entrada único (compartible en bio o stories) con un asistente que recoge motivo general, modalidad, disponibilidad y datos de contacto antes de redirigir a WhatsApp con el contexto ya capturado. No es para todos los casos — si tu volumen es bajo o cada consulta requiere conversación exploratoria larga desde el primer mensaje, probablemente no lo necesitas aún. Y en psicología, si el primer contacto es delicado por naturaleza, vale la pena revisar cómo está configurado el flujo antes de activarlo.</p><p>También merece la pena leer <a href=&quot;/blog/los-chatbots-espantan-clientes/&quot;>si los chatbots espantan clientes</a> antes de decidir cualquier tipo de automatización en un servicio donde la confianza es el producto.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo preguntar el motivo de consulta por WhatsApp sin que sea invasivo?",
+        "answer": "Sí, si preguntas en términos generales. \"¿Qué te trae a consulta, en líneas generales?\" es suficiente para saber si encajas. Pedir detalles, historia familiar o síntomas concretos por mensaje es invasivo y clínicamente incorrecto — eso ocurre en sesión."
+      },
+      {
+        "question": "¿Debo preguntar si tiene diagnóstico previo antes de la primera cita?",
+        "answer": "No por mensaje. Un diagnóstico previo no cambia si agendar o no la primera sesión exploratoria — eso lo decides en consulta. Pedirlo por chat añade fricción innecesaria y puede inhibir a personas que aún no tienen diagnóstico formal."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para una primera toma de contacto en psicología?",
+        "answer": "Más de cuatro o cinco en el primer mensaje es demasiado. En salud mental la persona ya viene con cierta carga; un formulario largo antes de haber hablado contigo genera abandono. Empieza con tres preguntas y amplía solo si responde."
+      },
+      {
+        "question": "¿Qué hago si la persona empieza a contarme su historia completa por WhatsApp?",
+        "answer": "Agradece sin profundizar y redirige: \"Gracias por contarme esto. Para que puedas hablarlo con calma, lo mejor es que lo hagamos en la primera sesión. Te propongo [fecha/hueco].\" No respondas al contenido clínico por mensaje."
+      },
+      {
+        "question": "¿Pregunto el precio o la duración en la cualificación inicial?",
+        "answer": "No hace falta que lo preguntes tú: ellos lo preguntan. Ten preparada una respuesta corta (\"La primera sesión dura 60 minutos y cuesta X\") y cerrará sola. No incluyas esto en la plantilla de cualificación, ponlo en tu perfil o bio."
+      },
+      {
+        "question": "¿Cómo gestiono alguien que escribe en crisis?",
+        "answer": "Esto no es una consulta de agenda — es una urgencia. Responde de inmediato con recursos concretos (teléfono de crisis, urgencias) y no intentes calificar ni agendar en ese momento. Tu plantilla de cualificación no aplica aquí."
+      },
+      {
+        "question": "¿Pido el nombre completo o con el nombre de pila es suficiente?",
+        "answer": "Nombre de pila y teléfono son suficientes para el primer contacto. El nombre completo, DNI o datos administrativos los recoges en la primera sesión o al firmar el consentimiento informado."
+      },
+      {
+        "question": "¿Funciona esto mismo para orientación, coaching psicológico o terapia de pareja?",
+        "answer": "Sí, con un ajuste: cambia la pregunta de motivo general para que refleje el tipo de trabajo. En terapia de pareja añade \"¿venís los dos o solo uno?\" antes de asignar un hueco doble. El resto de la plantilla mínima es igual."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-nutricion",
     "title": "Plantilla de cualificación para nutricionistas",
     "description": "Preguntas exactas para filtrar intención y preparar la primera consulta con contexto real. Plantilla mínima en 5 preguntas, versión avanzada y microcopy listo para copiar.",
