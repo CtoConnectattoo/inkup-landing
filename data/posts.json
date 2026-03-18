@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-manicura-pedicura",
+    "title": "Plantilla de cualificación para uñas (manicura/pedicura)",
+    "description": "Preguntas exactas para evitar huecos mal agendados y consultas repetidas sobre precios y duración en manicura y pedicura. Plantilla mínima, versión completa y microcopy listo para copiar.",
+    "excerpt": "En uñas, la duración del servicio cambia según retirada, diseño y técnica. Sin esa información antes de agendar, pierdes huecos y das precios erróneos. Aquí la plantilla que lo resuelve.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-manicura-pedicura.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "manicura",
+      "pedicura",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "agenda"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para uñas",
+    "quickAnswer": [
+      "**Tipo de servicio exacto** — Manicura, pedicura, semipermanente, acrílico, gel o combinación. Sin esto no sabes cuánto tiempo reservar.",
+      "**Retirada incluida o no** — Si hay retirada de producto anterior, el hueco puede duplicarse. Es el dato que más huecos rompe si no se pregunta.",
+      "**Diseño o nivel de detalle** — Liso, nail art básico o nail art elaborado cambia el precio y el tiempo de forma significativa.",
+      "**Fecha y flexibilidad horaria** — Fecha preferida más si puede adaptarse a mañana o tarde. Así ofreces alternativa sin ida y vuelta.",
+      "**Datos de contacto y canal** — Nombre y WhatsApp o teléfono para confirmar y enviar recordatorio."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para manicura y pedicura debe confirmar tipo de servicio, retirada, diseño y fecha antes de agendar; esos cuatro datos definen la duración real del hueco y el rango de precio.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para uñas",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando hay más variabilidad)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de consulta",
+      "Reglas de duración por opción",
+      "Errores típicos en manicura y pedicura",
+      "Implementación como sistema",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Preguntas mínimas por tipo de servicio",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre con propuesta de hueco"
+      ],
+      "steps": [
+        {
+          "name": "Define las 5 preguntas mínimas",
+          "text": "Tipo de servicio, retirada, diseño, fecha y contacto. Son los datos que cambian duración y precio."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta de entrada. WhatsApp para confirmar hueco con el contexto ya recogido."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un mensaje con propuesta de hueco concreto y siguiente paso. No dejes la confirmación abierta."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como 'precio uñas', 'tenéis hueco', 'cuánto el semipermanente' sin ningún dato más. O si has agendado una cita que luego duró el doble porque nadie preguntó por la retirada. O si das un precio por DM y cuando la clienta llega el servicio es distinto al que imaginabas.</p><p>No la uses si solo recibes dos o tres consultas a la semana y tienes tiempo de preguntar con calma en cada chat. A ese volumen, la plantilla aporta poco. El problema empieza cuando el volumen hace que te saltes preguntas por ir rápido.</p><h2>Regla madre para uñas</h2><blockquote><p><strong>En uñas, la duración del servicio no la define el nombre del servicio: la define la combinación de técnica, retirada y diseño.</strong> Pregunta esos tres datos antes de confirmar hueco o dar precio. Sin ellos, cualquier respuesta que des es una estimación ciega.</p></blockquote><p>Este es el error que más huecos rompe en centros de manicura: agendar 45 minutos para algo que necesitaba 90. No es falta de profesionalidad, es falta de información en el momento de agendar. <a href=\"/blog/datos-minimos-para-agendar-cita/\">Los datos mínimos para agendar sin ida y vuelta</a> son pocos, pero tienen que ser los correctos.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión recoge lo imprescindible. Si alguien abandona aquí, normalmente no era una consulta seria.</p><ol><li><strong>¿Qué servicio buscas exactamente?</strong> (manicura, pedicura, semipermanente, acrílico, gel, combinación manos y pies…)</li><li><strong>¿Tienes producto que retirar?</strong> (semipermanente, acrílico, gel, o llegas con la uña natural)</li><li><strong>¿Quieres diseño o color liso?</strong> (liso, nail art básico, nail art elaborado — o dinos qué tienes en mente)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha preferida y si puedes mañana, tarde o tienes preferencia de franja)</li><li><strong>Nombre y WhatsApp</strong> para confirmarte el hueco.</li></ol><blockquote><p>Con estas cinco respuestas sabes cuánto tiempo reservar, puedes dar un rango de precio real y tienes el contacto para confirmar. No necesitas más para agendar.</p></blockquote><h2>Plantilla completa (cuando hay más variabilidad)</h2><p>Añade estas preguntas cuando el servicio lo justifica: clientas nuevas a las que haces ficha, servicios de alto ticket como esculpidas con diseño elaborado, o pedicuras con tratamiento de durezas.</p><ul><li>¿Es tu primera visita? (si tu proceso cambia para clientas nuevas)</li><li>¿Tienes alguna condición en uñas o piel que deba saber antes? (solo si afecta a tu decisión de agendar — no pidas datos médicos innecesarios)</li><li>¿Tienes referencias o foto de lo que buscas? (reduce malentendidos en diseños)</li><li>¿Vienes sola o con alguien más? (si agendas varias personas a la vez)</li><li>¿Tienes preferencia de profesional? (si trabajas con equipo)</li></ul><p>No añadas todas de golpe. Empieza con la mínima. La completa es para cuando la clienta ya respondió y el servicio justifica más detalle.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><p>En uñas, la cualificación debe confirmar tipo de servicio, si hay retirada, diseño o nivel y fecha; eso define duración y rango de precio antes de confirmar el hueco.</p><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio exactamente?</td><td>Tipo de trabajo + técnica</td><td>A qué ruta va (cita, presupuesto, info)</td></tr><tr><td>¿Hay retirada de producto?</td><td>Tiempo real del hueco</td><td>Cuántos minutos reservar</td></tr><tr><td>¿Diseño o liso?</td><td>Nivel de detalle + precio orientativo</td><td>Precio y tiempo definitivos</td></tr><tr><td>¿Para cuándo? + flexibilidad</td><td>Prioridad y viabilidad</td><td>Si hay hueco o propones alternativa</td></tr><tr><td>Referencias o foto</td><td>Alinea expectativas</td><td>Confirmas viabilidad del diseño</td></tr><tr><td>Nombre y WhatsApp</td><td>Trazabilidad</td><td>Confirmación y recordatorio</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Preguntar no espanta a nadie. Lo que espanta es preguntar sin explicar por qué. Estos mensajes funcionan porque son directos y dan contexto en una frase.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>«¡Hola! Para darte hueco y precio real, necesito 3 datos rápidos (menos de un minuto). ¿Me los dices?»</p></blockquote><h3>Cuando preguntan solo «precio uñas»</h3><blockquote><p>«El precio depende de la técnica, si hay retirada y si quieres diseño. Dime esas tres cosas y te doy el rango exacto ahora mismo.»</p></blockquote><h3>Cuando preguntan «¿tenéis hueco?»</h3><blockquote><p>«Sí tenemos huecos esta semana. Para reservarte uno necesito saber: qué servicio, si hay retirada y para qué día te va mejor. ¿Me lo dices?»</p></blockquote><h3>Mensaje de cierre con propuesta de hueco</h3><blockquote><p>«Con lo que me dices, te quedaría [día] a las [hora] — son aproximadamente [duración]. ¿Te va bien? Te confirmo por aquí.»</p></blockquote><h2>Variantes por tipo de consulta</h2><p><a href=\"/blog/agendar-citas-sin-mensajes/\">Agendar sin intercambiar veinte mensajes</a> depende de identificar desde el primer mensaje qué tipo de consulta es. En uñas hay tres rutas principales.</p><h3>Ruta A — «Quiero cita / ¿tenéis hueco?»</h3><ol><li>Servicio exacto + técnica</li><li>Retirada sí o no</li><li>Diseño o liso</li><li>Fecha preferida + flexibilidad de franja</li><li>Nombre y WhatsApp</li></ol><p><strong>Cierre:</strong> «Perfecto. Te propongo [día] a las [hora]. ¿Te va?»</p><h3>Ruta B — «¿Cuánto cuesta?»</h3><ol><li>Técnica exacta (semipermanente, acrílico, gel…)</li><li>Retirada incluida o no</li><li>Diseño o liso</li><li>Si quiere cita o solo saber precio</li></ol><p><strong>Cierre:</strong> «Con retirada y diseño básico, el rango está entre X y Y. Sin retirada y liso, desde Z. ¿Quieres que te busque hueco?»</p><h3>Ruta C — «Solo quiero información»</h3><ol><li>Qué información exacta busca (proceso, duración, materiales, cuidados)</li><li>Si tiene intención de reservar próximamente</li><li>Contacto si quiere que le avisemos de disponibilidad</li></ol><p><strong>Cierre:</strong> «Te lo explico en tres líneas y, si quieres, te dejo el siguiente paso para reservar cuando quieras.»</p><h2>Reglas de duración por opción</h2><p>Este bloque es el que más reduce errores de agenda. Adáptalo a tus tiempos reales — los que aquí aparecen son orientativos para que entiendas la lógica, no cifras universales.</p><table><thead><tr><th>Servicio</th><th>Sin retirada</th><th>Con retirada</th><th>Con nail art elaborado</th></tr></thead><tbody><tr><td>Manicura semipermanente</td><td>45–60 min</td><td>75–90 min</td><td>Añadir 20–40 min extra</td></tr><tr><td>Manicura acrílico/gel (relleno)</td><td>60–75 min</td><td>No aplica relleno con retirada total</td><td>Añadir 20–40 min extra</td></tr><tr><td>Manicura acrílico/gel (nuevo)</td><td>90–120 min</td><td>Si hay retirada previa: +30 min</td><td>Añadir 30–60 min extra</td></tr><tr><td>Pedicura semipermanente</td><td>60–75 min</td><td>75–90 min</td><td>Añadir 15–30 min extra</td></tr><tr><td>Pedicura con durezas</td><td>75–90 min</td><td>90–105 min</td><td>Añadir 15–30 min extra</td></tr></tbody></table><blockquote><p>Usa esta tabla como referencia para decidir qué hueco ofrecer según las respuestas de la plantilla. Sin los datos de retirada y diseño, cualquier estimación de duración es inexacta.</p></blockquote><h2>Errores típicos en manicura y pedicura</h2><ol><li><strong>No preguntar por retirada</strong> → El hueco se queda corto, la siguiente cita se retrasa, la clienta sale con prisas. Corrección: primera pregunta obligatoria, siempre.</li><li><strong>Dar precio sin saber si hay diseño</strong> → La clienta llega con idea de nail art y tú habías calculado precio de liso. Corrección: «¿Color liso o tienes algo en mente?» antes de cualquier cifra.</li><li><strong>Agendar sin confirmar técnica exacta</strong> → «Uñas» no es un servicio. Es un paraguas que incluye diez servicios distintos con duraciones y precios diferentes. Corrección: pregunta técnica antes de proponer hueco.</li><li><strong>Preguntar demasiados datos a la vez</strong> → Un mensaje con ocho preguntas genera abandono o respuestas incompletas. Corrección: plantilla mínima primero. Si responde, amplías.</li><li><strong>No proponer hueco concreto al cerrar</strong> → «¿Cuándo te viene bien?» abre una negociación larga. Corrección: propón tú una opción y pregunta si le va. Es más rápido para las dos partes.</li><li><strong>Dar precio cerrado en DM sin ver el trabajo</strong> → En diseños con nail art o en uñas dañadas, el precio puede variar al verlo en persona. Corrección: da siempre rango, no cifra fija, y aclara que puede ajustarse en cita.</li></ol><h2>Implementación como sistema</h2><p>Si el problema no es saber qué preguntar sino que esas preguntas lleguen siempre, en orden y sin depender de tu estado de ánimo ese día, la plantilla se convierte en un flujo. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Ver plantillas de cualificación por sector</a> puede ayudarte a comparar cómo otros servicios han resuelto esto.</p><h3>Paso 1: fija tus preguntas mínimas por tipo de servicio</h3><p>Manicura y pedicura no son iguales. Define las cinco preguntas mínimas para cada uno. No mezcles.</p><h3>Paso 2: decide dónde ocurre la cualificación</h3><ul><li>DM de Instagram: puerta de entrada. Envía el primer mensaje de contexto y pide que conteste las preguntas o que pase a WhatsApp.</li><li>WhatsApp: donde confirmas hueco con los datos ya recogidos. No para recopilar información desde cero.</li><li>Si recibes más de 20 consultas semanales: considera un link con flujo conversacional para que las preguntas ocurran antes de que tú intervengas. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente eso: un asistente que recoge tipo de servicio, retirada, diseño y fecha antes de redirigir a WhatsApp con el contexto ya preparado. No es para todos los casos — si tu volumen es bajo o cada clienta tiene un caso muy específico que necesita conversación desde el inicio, probablemente no lo necesitas aún.</li></ul><h3>Paso 3: estandariza el mensaje de cierre</h3><p>El objetivo es que el cierre sea un solo mensaje: propuesta de hueco concreto + duración + siguiente paso. Sin dejar el intercambio abierto. <a href=\"/blog/que-datos-pedir-antes-de-dar-precio/\">Saber qué datos pedir antes de dar precio</a> reduce también los cierres fallidos por precio mal comunicado.</p>",
+    "faq": [
+      {
+        "question": "¿Por qué no puedo dar precio directo cuando me preguntan por manicura?",
+        "answer": "Porque sin saber si hay retirada, qué técnica y qué nivel de diseño, cualquier cifra que des puede estar desfasada en 15 euros o 40 minutos. No es esquivar la pregunta: es no dar un precio que luego genera problema en cita."
+      },
+      {
+        "question": "¿Qué hago cuando me escriben solo 'precio uñas'?",
+        "answer": "Devuelve tres preguntas concretas: técnica, si hay retirada y si quiere diseño. Con eso das un rango útil en un solo mensaje. Sin esos datos, cualquier precio que des va a generar más preguntas, no menos."
+      },
+      {
+        "question": "¿Pregunto el estado de las uñas antes de la cita?",
+        "answer": "Solo si afecta a tu decisión de agendar. Si tienes casos en los que no puedes trabajar sobre ciertos estados (uñas muy dañadas, hongos, etc.), pregunta de forma directa y sin rodeos. Si es solo curiosidad, no lo incluyas en la cualificación inicial."
+      },
+      {
+        "question": "¿Cuánto tiempo debo reservar si no sé si hay retirada?",
+        "answer": "No reserves sin saberlo. La retirada puede añadir entre 20 y 40 minutos según el producto. Agendas rotas por este dato son la queja más frecuente en centros de uñas. Pregúntalo siempre, sin excepción."
+      },
+      {
+        "question": "¿La pedicura necesita plantilla diferente a la manicura?",
+        "answer": "Comparten la misma estructura base, pero en pedicura añade la pregunta sobre tratamiento de durezas o esmaltado simple, porque define el tiempo de forma clara. El resto de preguntas es idéntico."
+      },
+      {
+        "question": "¿Pregunto si es la primera vez que viene?",
+        "answer": "Solo si cambia tu proceso. Si a clientas nuevas las dedicas más tiempo o necesitas hacer ficha, pregúntalo. Si el proceso es igual para todas, ese dato no pertenece a la cualificación inicial."
+      },
+      {
+        "question": "¿Qué hago si alguien me da todos los datos pero quiere cita para hoy y no tengo hueco?",
+        "answer": "Propón la alternativa más cercana que sí tengas. Si no hay nada próximo, ofrece lista de espera con un mensaje claro: 'No tengo hueco hasta X. ¿Te apunto en lista de espera y te aviso si hay cancelación?' Eso cierra el intercambio sin dejar el lead en el aire."
+      },
+      {
+        "question": "¿Sirve esta plantilla para trabajar en domicilio?",
+        "answer": "Sí, con un campo adicional: dirección o zona. Añádelo justo después de fecha. En domicilio la ubicación afecta a la agenda igual que la duración del servicio."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-peluqueria",
     "title": "Plantilla de cualificación para peluquería (cita + servicio)",
     "description": "Preguntas mínimas para peluquería que evitan citas mal agendadas y mensajes repetidos. Plantilla por servicio (corte, color, tratamiento) con microcopy listo para copiar.",
