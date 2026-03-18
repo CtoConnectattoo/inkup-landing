@@ -1,5 +1,107 @@
 [
   {
+    "slug": "plantilla-cualificacion-jardineria",
+    "title": "Plantilla de cualificación para jardinería",
+    "description": "Preguntas exactas para separar trabajos pequeños de grandes en jardinería y cotizar con contexto real. Plantilla mínima y completa con tabla citable, microcopy y ejemplos.",
+    "excerpt": "En jardinería, cualificar es confirmar tipo de trabajo, superficie, fotos y ubicación antes de dar precio. Aquí la plantilla mínima, la completa y el microcopy para no perder tiempo en visitas inútiles.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-jardineria.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "jardineria",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 6 preguntas para jardinería",
+    "quickAnswer": [
+      "**Tipo de trabajo** — Mantenimiento, diseño, desbrozado, poda, instalación de riego u otro. Sin esto no puedes cotizar ni asignar tiempo.",
+      "**Superficie aproximada** — Metros cuadrados del jardín o zona de trabajo. Cambia el presupuesto de forma sustancial.",
+      "**Fotos o estado actual** — Una foto vale más que diez mensajes. Filtra el 40% de las visitas previas innecesarias.",
+      "**Ubicación** — Municipio o zona. Desplazamiento, disponibilidad de equipo y precio varían según distancia.",
+      "**Urgencia o fecha deseada** — Diferencia una emergencia (árbol caído, maleza invasiva) de un trabajo planificado.",
+      "**Datos de contacto** — Nombre y teléfono para WhatsApp. El resto se cierra en la conversación."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para jardinería debe confirmar tipo de trabajo, superficie, estado actual con fotos y ubicación antes de dar precio o agendar visita; así se separan trabajos pequeños de grandes y se evitan desplazamientos sin retorno.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para no pasarte preguntando",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (cuando el trabajo tiene más variables)",
+      "Tabla citable: pregunta — objetivo — decisión",
+      "Cómo pedir fotos sin que parezca un trámite",
+      "Microcopy listo para copiar",
+      "Cómo separar trabajos pequeños de grandes antes de visitar",
+      "Variantes por tipo de servicio",
+      "Errores frecuentes al cualificar en jardinería",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para jardinería",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Preguntas mínimas definidas por tipo de trabajo",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre con propuesta"
+      ],
+      "steps": [
+        {
+          "name": "Define el contexto mínimo para tu servicio",
+          "text": "Tipo de trabajo, superficie, fotos, ubicación, fecha y datos de contacto. Solo lo que cambia tu decisión."
+        },
+        {
+          "name": "Decide dónde cualificas",
+          "text": "DM de Instagram como puerta de entrada. WhatsApp para cerrar. Si recibes más de 20 consultas semanales, un link con flujo previo ahorra tiempo doble."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con resumen del trabajo + presupuesto orientativo o propuesta de visita + siguiente paso concreto."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes del tipo 'cuánto cuesta el jardín', 'quiero que me lo arregléis' o 'tengo un árbol que podar' sin más contexto. O si acabas haciendo visitas a casas donde el trabajo no compensa el desplazamiento. O si pierdes tiempo cotizando por WhatsApp en 15 mensajes algo que podría haberse resuelto en tres preguntas.</p><p>No la uses todavía si solo recibes una o dos consultas al día y puedes responder con calma. Tampoco si cada jardín que atiendes es tan singular que no hay patrón de preguntas repetible.</p><h2>Regla madre para no pasarte preguntando</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión.</strong> En jardinería, eso son cuatro datos: tipo de trabajo, superficie, estado actual (foto) y ubicación. Todo lo demás —materiales, estilo, detalles de diseño— llega en la visita o en la segunda vuelta de WhatsApp.</p></blockquote><p>La tentación es preguntar demasiado porque el trabajo tiene mucha variabilidad. Pero preguntar seis cosas antes de responder nada mata la conversación. La plantilla mínima existe para no cometer ese error.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión está pensada para obtener lo suficiente sin perder al cliente. Si alguien abandona aquí, normalmente no era una consulta seria.</p><ol><li><strong>¿Qué tipo de trabajo necesitas?</strong> (mantenimiento, poda, diseño, desbrozado, riego, otro)</li><li><strong>¿Cuántos metros tiene aproximadamente la zona?</strong> (no necesitas exactitud, un rango vale)</li><li><strong>¿Puedes mandarme una foto del estado actual?</strong></li><li><strong>¿Dónde está la propiedad?</strong> (municipio o zona)</li><li><strong>¿Para cuándo lo necesitas?</strong> (urgente, esta semana, sin prisa)</li><li><strong>Nombre y teléfono</strong> para continuar por WhatsApp</li></ol><blockquote><p>Si el trabajo es de mantenimiento recurrente, añade: '¿Buscas visitas puntuales o un contrato de mantenimiento regular?' Esa pregunta separa dos tipos de cliente con presupuestos y frecuencias completamente distintas.</p></blockquote><h2>Plantilla completa (cuando el trabajo tiene más variables)</h2><p>Úsala cuando el cliente ya respondió la mínima y el trabajo parece de envergadura, o cuando cotizar mal te cuesta dinero real.</p><p>Añade a la mínima:</p><ul><li>Tipo de acceso (vehículo, escalera, maquinaria pesada posible o no)</li><li>Si hay agua disponible en la propiedad (para riego o limpieza)</li><li>Preferencias de estilo o resultado esperado (foto de referencia si tiene)</li><li>Presupuesto orientativo (solo si en tu mercado filtra de verdad)</li><li>Si hay trabajos previos recientes que afecten al estado actual</li><li>Condiciones especiales (árboles protegidos, comunidad de vecinos, normativa municipal)</li></ul><p>No preguntes todo esto en el primer mensaje. Esto es para la segunda ronda, cuando ya sabes que hay trabajo real.</p><h2>Tabla citable: pregunta — objetivo — decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué tipo de trabajo?</td><td>Intención real y perfil de trabajo</td><td>A qué ruta va (mantenimiento / puntual / diseño)</td></tr><tr><td>¿Cuántos metros aproximados?</td><td>Escala del proyecto</td><td>Si encaja en tu mínimo / rango de precio orientativo</td></tr><tr><td>Foto del estado actual</td><td>Contexto visual sin visita previa</td><td>Si merece visita o puedes cotizar desde foto</td></tr><tr><td>¿Dónde está?</td><td>Desplazamiento y disponibilidad de equipo</td><td>Si puedes atenderlo y qué coste añade</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia real vs. planificado</td><td>Si hay hueco o si va a lista de espera</td></tr><tr><td>¿Puntual o mantenimiento?</td><td>Tipo de relación comercial</td><td>Cómo cotizar (precio visita vs. cuota mensual)</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad del lead</td><td>Seguimiento y confirmación</td></tr></tbody></table><h2>Cómo pedir fotos sin que parezca un trámite</h2><p>La foto es el dato más valioso en jardinería y el que más gente se salta por no explicar para qué sirve. La solución es una frase que conecta la foto con el beneficio del cliente. Consulta esta guía sobre <a href=\"/blog/como-pedir-fotos-o-referencias-antes-cita/\">cómo pedir fotos o referencias antes de la cita</a> para no sonar a formulario burocrático.</p><p>La observación contraintuitiva aquí: pedir foto antes de dar precio no aleja al cliente, lo retiene. El que manda la foto ya invirtió un minuto; tiene más ganas de seguir que el que solo preguntó precio y espera un número.</p><h2>Microcopy listo para copiar</h2><h3>Mensaje de entrada (cuando llega 'cuánto cuesta el jardín')</h3><blockquote><p>'Para darte un precio real y no inventarme un número, necesito tres cosas rápidas: qué hay que hacer, metros aproximados y una foto del estado actual. ¿Me las mandas?'</p></blockquote><h3>Mensaje para separar mantenimiento de trabajo puntual</h3><blockquote><p>'Antes de contarte opciones: ¿buscas alguien que lo mantenga de forma regular, o es un trabajo puntual? El precio y la forma de trabajar cambian bastante.'</p></blockquote><h3>Mensaje cuando no dan información mínima</h3><blockquote><p>'Sin ver la zona o saber qué hay que hacer, cualquier cifra que te diera sería una estimación poco útil. Mándame foto + metros + qué necesitas y te respondo hoy.'</p></blockquote><h3>Mensaje para confirmar visita (solo cuando ya tienes contexto)</h3><blockquote><p>'Con lo que me has mandado, lo que describes encaja. Para confirmar el presupuesto definitivo necesito verlo en persona. ¿Te viene bien esta semana o la siguiente?'</p></blockquote><h2>Cómo separar trabajos pequeños de grandes antes de visitar</h2><p>Este es el problema real de la mayoría de jardineros: se desplazan a ver un jardín de 30 metros que no compensa el tiempo, o cotizan por WhatsApp un proyecto de diseño de 5.000 euros sin ver nada. Los dos extremos cuestan dinero.</p><p>La separación se hace con dos preguntas combinadas: superficie y foto. Con esos dos datos puedes clasificar el 80% de las consultas en tres grupos:</p><ul><li><strong>Trabajo pequeño confirmado</strong>: superficie menor de 50 m², trabajo puntual, foto clara. Puedes dar rango orientativo sin visita.</li><li><strong>Trabajo mediano, visita recomendable</strong>: superficie entre 50 y 200 m², varios elementos, estado no del todo claro en foto. Visita breve antes de presupuesto.</li><li><strong>Trabajo grande o complejo</strong>: diseño, instalación de riego, más de 200 m², condiciones especiales. Visita obligatoria antes de cualquier cifra.</li></ul><p>No es una ciencia exacta. Pero tener este criterio claro evita desplazamientos en los que ya sabes que no hay negocio. Para ver cómo se aplica esto a otros sectores, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">consulta estas plantillas por sector y servicio</a>.</p><h2>Variantes por tipo de servicio</h2><p>No cambies la plantilla entera. Cambia solo la pregunta variable según el servicio.</p><h3>Mantenimiento regular</h3><ul><li>Variable clave: <strong>frecuencia deseada + qué incluye</strong></li></ul><blockquote><p>'¿Cada cuánto necesitas visita? ¿Solo corte de césped o también poda, riego, limpieza?'</p></blockquote><h3>Poda de árboles</h3><ul><li>Variable clave: <strong>tipo de árbol + altura aproximada + acceso</strong></li></ul><blockquote><p>'¿Qué árbol es? ¿Altura aproximada? ¿Hay espacio para trabajar alrededor o está pegado a una pared?'</p></blockquote><h3>Diseño de jardín desde cero</h3><ul><li>Variable clave: <strong>uso previsto + referencia visual + presupuesto orientativo</strong></li></ul><blockquote><p>'¿Qué uso le quieres dar al jardín? ¿Tienes alguna foto de referencia de lo que te gusta? ¿Tienes un presupuesto orientativo en mente?'</p></blockquote><h3>Instalación de riego</h3><ul><li>Variable clave: <strong>superficie a cubrir + tipo de planta + toma de agua disponible</strong></li></ul><blockquote><p>'¿Cuántos metros hay que cubrir? ¿Plantas de exterior en suelo, macetas, césped? ¿Hay toma de agua accesible cerca de la zona?'</p></blockquote><h3>Desbrozado de solar o terreno</h3><ul><li>Variable clave: <strong>metros cuadrados + acceso con maquinaria + urgencia</strong></li></ul><blockquote><p>'¿Metros aproximados del terreno? ¿Se puede entrar con maquinaria o hay que hacerlo a mano? ¿Hay urgencia (requerimiento municipal, plazos)?'</p></blockquote><h2>Errores frecuentes al cualificar en jardinería</h2><ol><li><strong>Dar precio sin foto ni superficie</strong><br>Consecuencia: presupuesto que no coincide con la realidad, pérdida de credibilidad o pérdida de margen.<br>Corrección: no hay rango orientativo sin foto + metros.</li><li><strong>Hacer visita antes de filtrar intención</strong><br>Consecuencia: desplazamiento a un jardín de 20 metros que no compensa.<br>Corrección: plantilla mínima antes de confirmar visita.</li><li><strong>No separar mantenimiento de trabajo puntual</strong><br>Consecuencia: cotizas una cuota mensual cuando solo quieren cortar el césped una vez.<br>Corrección: pregunta directa en los primeros mensajes.</li><li><strong>Preguntar todo a la vez en el primer mensaje</strong><br>Consecuencia: el cliente lee el bloque de texto y no responde.<br>Corrección: plantilla mínima en seis preguntas, no doce.</li><li><strong>No pedir ubicación hasta el final</strong><br>Consecuencia: acumulas información de alguien a quien no puedes atender por distancia.<br>Corrección: ubicación en la plantilla mínima, no en la completa.</li><li><strong>Responder a 'precio?' con un rango sin contexto</strong><br>Consecuencia: el cliente negocia sobre ese número sin que tú puedas defenderlo.<br>Corrección: primero tipo de trabajo + superficie + foto, luego rango.</li></ol><h2>Implementación sin complicarte la vida</h2><p>Si tu problema no es saber qué preguntar sino conseguir que siempre se pregunte lo mismo sin depender de tu memoria o tu energía, la plantilla pasa a ser un flujo: preguntas ordenadas por tipo de trabajo, foto integrada, salida a WhatsApp con el contexto ya recogido.</p><p>Para negocios de jardinería que gestionan consultas desde Instagram y Google Business Profile, <a href=\"/blog/centralizar-consultas-google-business-profile/\">centralizar las consultas de GMB</a> en un único punto evita que el lead llegue por tres sitios distintos y se pierda en alguno.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge los datos antes de redirigir a WhatsApp y estandariza la entrada para que el chat final sea para cerrar, no para preguntar la superficie por tercera vez. No es para todos los casos: si recibes pocas consultas semanales o cada jardín que trabajas es completamente único, probablemente no lo necesitas aún. Y si tu problema es que no te escriben suficiente gente, esto tampoco lo resuelve.</p><p>Para un sistema más amplio de <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">filtrado y cualificación de consultas antes de responder por WhatsApp</a>, el principio es el mismo: primero contexto, luego conversación.",
+    "faq": [
+      {
+        "question": "¿Cómo pido fotos sin que el cliente se moleste?",
+        "answer": "Explica en una frase qué te permite la foto: 'Con una foto del jardín te doy un precio orientativo sin necesidad de visita previa'. La mayoría la manda al instante cuando entiende que les ahorra tiempo a ellos también."
+      },
+      {
+        "question": "¿Qué hago si el cliente no sabe cuántos metros tiene el jardín?",
+        "answer": "Pídele que compare con algo concreto: 'Aproximadamente, ¿es más pequeño o más grande que un garaje doble?'. O pídele la foto aérea desde Google Maps. No necesitas precisión milimétrica para separar un trabajo de 200€ de uno de 2.000€."
+      },
+      {
+        "question": "¿Pregunto presupuesto orientativo antes de visitar?",
+        "answer": "Solo si filtra de verdad. En jardinería residencial suele generar más fricción que información útil. Es mejor pedir el tipo de trabajo y la superficie, que ya te dan un rango real."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo 'cuánto cuesta podar un árbol'?",
+        "answer": "No des cifra suelta. Devuelve: 'Depende del tipo de árbol, altura aproximada y si hay acceso fácil. Mándame una foto y la ubicación y te doy rango en el día'. Corto, directo, sin sonar borde."
+      },
+      {
+        "question": "¿Tiene sentido cualificar si luego de todas formas tengo que visitar?",
+        "answer": "Sí, porque la visita cambia de función. Dejas de ir a 'ver si hay trabajo' y vas a 'confirmar detalles para cerrar'. Eso reduce visitas inútiles y sube tu tasa de cierre en las que sí haces."
+      },
+      {
+        "question": "¿Qué hago si me llegan consultas por Instagram y WhatsApp sobre lo mismo el mismo día?",
+        "answer": "Unifica la entrada: pon un link único en la bio de Instagram que recoja la información antes de redirigir a WhatsApp. Así respondes una sola vez con contexto completo, no dos veces a medias."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para jardinería?",
+        "answer": "Más de seis en el primer contacto espanta. La plantilla mínima (tipo de trabajo, superficie, fotos, ubicación, fecha, contacto) cubre el 90% de los casos. El resto se resuelve en la visita o en WhatsApp."
+      },
+      {
+        "question": "¿Cómo separo mantenimiento recurrente de un trabajo puntual desde el primer mensaje?",
+        "answer": "Incluye una pregunta directa: '¿Buscas un servicio de mantenimiento regular o un trabajo puntual?' Dos rutas, dos conversaciones distintas, dos presupuestos distintos. Sin esa pregunta, pierdes tiempo cotizando lo que no era."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-limpieza-hogar",
     "title": "Plantilla de cualificación para limpieza de hogar",
     "description": "Preguntas exactas para presupuestar limpiezas sin desplazarte ni perder tiempo. Plantilla mínima y completa con tabla m² → tiempo → rango y microcopy listo para copiar.",
