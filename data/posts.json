@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-microblading-micropigmentacion",
+    "title": "Plantilla de cualificación para microblading/micropigmentación",
+    "description": "Preguntas exactas para filtrar candidatas antes de la cita de microblading o micropigmentación. Incluye checklist de elegibilidad, plantilla mínima y completa, y microcopy listo para copiar.",
+    "excerpt": "En micropigmentación, cualificar es validar elegibilidad antes de hablar de precio o reservar. Aquí la plantilla mínima, la completa y el microcopy para aplicarlo desde hoy.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-microblading-micropigmentacion.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "micropigmentacion",
+      "microblading",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "estetica"
+    ],
+    "quickAnswerSubtitle": "Checklist de elegibilidad + plantilla en 6 preguntas",
+    "quickAnswer": [
+      "**Elegibilidad antes que precio** — pregunta contraindicaciones y condiciones de piel antes de dar cualquier cifra o fecha disponible.",
+      "**Zona y objetivo exacto** — cejas, labios o eyeliner tienen procesos distintos; no mezcles la cualificación.",
+      "**Tono de piel y color existente** — determina si es primera vez, retoque o corrección, lo que cambia precio y sesiones.",
+      "**Medicación y condiciones médicas** — algunas contraindican el procedimiento por completo; detectarlas al inicio evita cancelaciones el día de la cita.",
+      "**Fotos antes de la cita** — una imagen de la zona ahorra dos mensajes de ida y vuelta y te permite dar una respuesta útil.",
+      "**Fecha y flexibilidad** — sin esto no puedes confirmar hueco; pídela junto con el contexto, no después."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para microblading y micropigmentación debe validar elegibilidad médica, zona, objetivo y condición actual antes de hablar de precio o agendar.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para micropigmentación",
+      "Checklist de elegibilidad (el filtro previo a todo)",
+      "Plantilla mínima (6 preguntas)",
+      "Plantilla completa (para casos con más variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy listo para copiar",
+      "Rutas por intención",
+      "Errores típicos al cualificar en este sector",
+      "El siguiente paso si tienes volumen"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Checklist de elegibilidad",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre con siguiente paso"
+      ],
+      "steps": [
+        {
+          "name": "Filtra por elegibilidad primero",
+          "text": "Antes de preguntar fecha o dar precio, descarta contraindicaciones: medicación anticoagulante, embarazo, enfermedades autoinmunes, queloides o piel muy sensible."
+        },
+        {
+          "name": "Recoge zona, objetivo y estado actual",
+          "text": "Zona exacta (cejas, labios, eyeliner) + si es primera vez o retoque/corrección + foto de la zona si es posible."
+        },
+        {
+          "name": "Cierra con fecha y siguiente paso",
+          "text": "Un mensaje con disponibilidad orientativa + propuesta de cita de valoración o reserva directa según tu flujo habitual."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes del tipo 'hola, cuánto cuesta el microblading', 'tenéis hueco para cejas', 'quiero hacerme los labios' — sin más contexto — y terminas haciendo entre 10 y 20 preguntas antes de saber si la persona es candidata viable.</p><p>También úsala si has tenido alguna vez a alguien en camilla que no podías atender por una contraindicación que nadie preguntó antes. Ese momento cuesta dinero, tiempo y reputación.</p><p>No la uses si recibes menos de dos o tres consultas al día y puedes responder con calma. A ese volumen, el proceso manual funciona. El problema aparece cuando el volumen supera tu capacidad de respuesta y los mensajes buenos se mezclan con los que nunca iban a convertir.</p><h2>Regla madre para micropigmentación</h2><blockquote><p><strong>En micropigmentación, cualificar es validar elegibilidad primero, zona y objetivo segundo, y fecha tercero. El precio va al final.</strong></p><p>Si inviertes ese orden — precio primero, contexto después — generas expectativas rotas, consultas abandonadas y reservas que luego cancelas tú o cancela ella.</p></blockquote><p>La mayoría de artículos sobre cualificación de clientes omiten algo importante en este sector: las preguntas médicas no son opcionales ni son burocracia. Son el filtro más eficiente que tienes. Una clienta que toma anticoagulantes no es tu clienta ahora mismo, y cuanto antes lo sepas, mejor para las dos.</p><h2>Checklist de elegibilidad (el filtro previo a todo)</h2><p>Antes de preguntar zona, fecha o dar precio, confirma estas condiciones. Si alguna aplica, el proceso se detiene aquí.</p><ul><li>¿Toma medicación anticoagulante (ibuprofeno habitual, aspirina, warfarina u otros)?</li><li>¿Está embarazada o en período de lactancia?</li><li>¿Tiene tendencia a formar queloides o cicatrices hipertróficas?</li><li>¿Tiene enfermedades autoinmunes activas o en tratamiento?</li><li>¿Está en tratamiento con isotretinoína (Roaccutane) o lo ha tomado en los últimos 12 meses?</li><li>¿Tiene diabetes no controlada?</li><li>¿Ha recibido quimioterapia o radioterapia recientemente?</li><li>¿Tiene alguna alergia conocida a pigmentos, anestésicos tópicos o metales?</li></ul><p>Este checklist no sustituye el consentimiento informado que firmas en la cita. Sirve para no llegar a esa cita con alguien que no puede hacerse el procedimiento.</p><h2>Plantilla mínima (6 preguntas)</h2><p>Esta versión recoge lo justo para saber si la candidata es viable y para darte un contexto mínimo con el que responder de forma útil. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Ver plantillas de cualificación por otros sectores.</a></p><ol><li><strong>¿Qué servicio te interesa exactamente?</strong> (cejas — microblading o micropigmentación —, labios, eyeliner u otro)</li><li><strong>¿Es primera vez o tienes trabajo previo en esa zona?</strong> (si hay trabajo anterior, ¿de qué técnica y hace cuánto?)</li><li><strong>¿Tienes alguna de estas condiciones?</strong> (lista las del checklist de elegibilidad de forma resumida)</li><li><strong>¿Puedes enviarme una foto de la zona?</strong> (luz natural, sin filtros)</li><li><strong>¿Para cuándo lo necesitas aproximadamente?</strong> (¿tienes flexibilidad de días/horario?)</li><li><strong>Nombre y WhatsApp para continuar por allí.</strong></li></ol><blockquote><p>Con estas seis preguntas ya sabes: si puede hacerse el procedimiento, qué trabajo implica, cuándo podría ser y por dónde seguir. Todo lo demás va en la cita de valoración o en el siguiente mensaje.</p></blockquote><h2>Plantilla completa (para casos con más variabilidad)</h2><p>Úsala cuando la candidata ya pasó el filtro mínimo y el caso tiene complejidad: corrección sobre trabajo previo, tono de piel muy claro u oscuro, o trabajos con varias sesiones implicadas.</p><p>Añade a la plantilla mínima:</p><ul><li>Técnica anterior (si hay trabajo previo): ¿sabe qué pigmento usaron? ¿Se ha sometido a algún proceso de eliminación?</li><li>Tono de piel natural (sin maquillaje): ayuda a estimar el pigmento y prever el resultado.</li><li>Objetivo concreto: ¿qué quiere conseguir? ¿Forma, densidad, color, corrección de simetría?</li><li>Referencias visuales: fotos de resultados que le gusten (aunque no sean exactamente lo que quiere, orientan el estilo).</li><li>Disponibilidad de franjas: mañana o tarde, días de la semana con más flexibilidad.</li><li>Condiciones de piel si las conoce: piel grasa, sensible, tendencia a rojeces o cicatrización lenta.</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué servicio exactamente?</td><td>Tipo de procedimiento + complejidad técnica</td><td>Si encaja en tu especialización y qué sesiones implica</td></tr><tr><td>¿Primera vez o trabajo previo?</td><td>Punto de partida real</td><td>Precio orientativo + sesiones + si necesitas verlo antes</td></tr><tr><td>Contraindicaciones</td><td>Elegibilidad médica</td><td>Si puedes atenderla o no (sin foto ni fecha necesaria)</td></tr><tr><td>Foto de la zona</td><td>Estado actual de la zona</td><td>Estimación fiable + detección de trabajo difícil de corregir</td></tr><tr><td>Fecha y flexibilidad</td><td>Encaje en agenda</td><td>Si hay hueco o propones lista de espera</td></tr><tr><td>Objetivo concreto</td><td>Expectativa real</td><td>Si el resultado que busca es viable con tu técnica</td></tr><tr><td>Referencias visuales</td><td>Estilo esperado</td><td>Alineación de expectativas antes de la cita</td></tr><tr><td>Datos de contacto</td><td>Canal para continuar</td><td>Confirmación de reserva o valoración</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que frena la conversación no es preguntar. Es preguntar sin explicar por qué. En micropigmentación, las preguntas médicas se perciben como profesionalidad cuando las presentas bien.</p><h3>Mensaje de entrada (respuesta al primer mensaje)</h3><blockquote><p>«Para orientarte bien y confirmar que el procedimiento es viable para ti, necesito hacerte unas preguntas rápidas. Te lleva menos de dos minutos.»</p></blockquote><h3>Mensaje para pedir la foto</h3><blockquote><p>«¿Puedes enviarme una foto de la zona en luz natural y sin maquillaje? Con eso puedo darte información mucho más útil que sin verla.»</p></blockquote><h3>Mensaje para las contraindicaciones</h3><blockquote><p>«Antes de ver fechas, necesito confirmar un punto importante: ¿tienes alguna de estas condiciones? [lista]. No es burocracia — algunas contraindican el procedimiento y prefiero saberlo ahora.»</p></blockquote><h3>Mensaje para dar precio orientativo</h3><blockquote><p>«Para [zona] en primera vez, el rango habitual es [X–Y]. El precio exacto lo confirmo tras ver la foto y el caso concreto, porque depende de [sesiones / trabajo previo / complejidad].»</p></blockquote><h3>Microcopy para tono más cercano</h3><blockquote><p>«¡Genial que te interese! Para decirte si puedo ayudarte y qué implicaría, necesito tres cosas: zona exacta, si tienes algo previo en esa zona y una foto. ¿Me la mandas?»</p></blockquote><h2>Rutas por intención</h2><p>La mayoría de mensajes que recibes caen en una de estas tres rutas. Identifica cuál es y aplica solo las preguntas que corresponden.</p><h3>Ruta A — «Quiero cita / ¿tenéis hueco?»</h3><ol><li>Servicio exacto</li><li>Primera vez o trabajo previo</li><li>Contraindicaciones (checklist)</li><li>Foto de la zona</li><li>Fecha y flexibilidad</li><li>Datos de contacto</li></ol><p>Cierre: «Perfecto. Con esto confirmo disponibilidad y te propongo [fecha/hora].»</p><h3>Ruta B — «¿Cuánto cuesta?»</h3><ol><li>Zona exacta</li><li>Primera vez o retoque/corrección</li><li>Foto de la zona (si hay trabajo previo, obligatoria)</li><li>Contraindicaciones si el interés es real</li></ol><p>Cierre: «Para [zona] en [primera vez/retoque], el rango orientativo es [X–Y]. Si quieres seguir, dime cuándo tienes disponibilidad.»</p><h3>Ruta C — Solo información</h3><ol><li>Qué quiere saber exactamente (proceso, duración, cuidados, resultados)</li><li>Si está considerando reservar o solo recopilando información</li></ol><p>Cierre: «Te resumo lo esencial. Si en algún momento quieres valorar si eres candidata, dime y lo miramos.» <a href=\"/blog/agendar-citas-sin-mensajes/\">Cómo pasar de consulta a reserva sin acumular mensajes.</a></p><h2>Errores típicos al cualificar en este sector</h2><ol><li><strong>Dar precio antes de ver la foto</strong> — Acabas dando un número que luego no se sostiene cuando ves el caso real. Solución: foto primero, rango después.</li><li><strong>No preguntar contraindicaciones hasta la cita</strong> — Pierdes el hueco, ella pierde el desplazamiento. Dos minutos de filtro previo evitan esto. Solución: checklist en el primer intercambio.</li><li><strong>Mezclar la ruta de «primera vez» con la de «corrección»</strong> — Son procesos distintos en tiempo, sesiones y precio. Solución: pregunta explícitamente si hay trabajo previo en la primera respuesta.</li><li><strong>Pedir referencias visuales sin explicar para qué</strong> — Algunas candidatas no entienden por qué las pides y no las mandan. Solución: «Para orientar el estilo y asegurarme de que puedo conseguir lo que buscas.»</li><li><strong>No pedir la foto y luego encontrarte con un trabajo difícil de corregir</strong> — Hay casos que necesitan eliminación previa o que simplemente no son viables con tu técnica. Sin foto, no lo sabes hasta que la tienes delante. Solución: foto como requisito, no como opcional.</li><li><strong>Responder precio en DM sin ningún dato</strong> — Genera conversaciones largas y expectativas que luego no cuadran. Solución: mini-plantilla de respuesta (zona + primera vez o retoque + foto).</li></ol><h2>El siguiente paso si tienes volumen</h2><p>Si recibes más de 20 o 25 consultas semanales por Instagram y WhatsApp combinados, el problema deja de ser saber qué preguntar. El problema es garantizar que siempre se pregunta, aunque estés en mitad de una sesión o hayas desconectado el fin de semana.</p><p>En ese punto, la plantilla que tienes en la cabeza — o guardada en notas — necesita convertirse en un flujo: un punto de entrada único que recoja zona, contraindicaciones, foto y fecha antes de que el chat llegue a ti, para que cuando lo abras ya tengas el contexto y solo necesites confirmar o proponer hueco.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como <strong>Inkup</strong> hacen exactamente esto: un link compartible en bio o stories que abre un asistente conversacional, recoge los datos que defines tú (incluyendo el checklist de elegibilidad y la solicitud de foto), filtra las consultas que no encajan y redirige a WhatsApp con el contexto ya recogido. No es para todos los casos — si tu volumen es bajo o cada consulta es tan distinta que no hay patrón, probablemente no lo necesitas aún. Pero si pierdes reservas porque no llegas a responder a tiempo, o si repites las mismas preguntas diez veces al día, tiene sentido mirarlo. <a href=\"/blog/para-quien-no-es-inkup/\">Aquí puedes ver en qué casos no encaja.</a></p>",
+    "faq": [
+      {
+        "question": "¿Pregunto contraindicaciones por DM o espero a la cita?",
+        "answer": "Por DM, antes de reservar. Si una clienta tiene queloides, toma isotretinoína o está embarazada, no tiene sentido que bloquee hueco. Dos preguntas directas al inicio te ahorran una cancelación el mismo día de la cita."
+      },
+      {
+        "question": "¿Pido fotos antes de dar precio?",
+        "answer": "Sí, siempre que el servicio lo justifique. En correcciones o retoques sobre trabajo previo, sin foto no puedes valorar sesiones ni precio. En primera vez sin trabajo anterior, una foto sigue ayudando a estimar tono y densidad. <a href=\"/blog/como-pedir-fotos-o-referencias-antes-cita/\">Cómo pedirlas sin que resulte brusco</a>."
+      },
+      {
+        "question": "¿Qué hago si me preguntan precio sin darme ningún dato?",
+        "answer": "No des cifra suelta. Devuelve una mini-plantilla: zona + si es primera vez o retoque + foto. Con eso puedes dar un rango útil y no un número que luego no cuadra."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para no espantar a la candidata?",
+        "answer": "Son demasiadas cuando no explicas por qué las haces. Con microblading y micropigmentación, las preguntas médicas se entienden si dices que son para confirmar que el procedimiento es viable. La gente no se va; agradece que seas seria."
+      },
+      {
+        "question": "¿Qué hago si no me responde a la pregunta de contraindicaciones?",
+        "answer": "No reserves. Escribe: 'Para confirmar la cita necesito que me confirmes estos puntos antes. Si tienes alguna duda, lo hablamos.' Sin confirmación explícita, la reserva queda en pausa."
+      },
+      {
+        "question": "¿La plantilla cambia si es corrección sobre trabajo de otra profesional?",
+        "answer": "Sí. En correcciones añade: técnica anterior (si la sabe), cuánto tiempo lleva el trabajo, si ya se ha hecho sesiones de eliminación y una foto obligatoria. Sin foto, no puedes evaluar el caso."
+      },
+      {
+        "question": "¿Pregunto presupuesto orientativo a la clienta?",
+        "answer": "No en este sector. El precio lo defines tú según zona, sesiones y complejidad. En lugar de preguntar presupuesto, informa el rango después de recibir la zona y el estado actual: 'Para cejas en primera vez, el rango habitual es X-Y según densidad y sesiones necesarias.'"
+      },
+      {
+        "question": "¿Cómo gestiono los mensajes cuando me llegan por Instagram y WhatsApp al mismo tiempo con la misma consulta?",
+        "answer": "Responde por el canal donde llegó primero y cierra el otro con: 'Te estoy respondiendo por [canal]. Por aquí continuamos.' Tener un link único de entrada <a href=\"/blog/agendar-citas-sin-mensajes/\">evita este cruce desde el inicio</a>."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-manicura-pedicura",
     "title": "Plantilla de cualificación para uñas (manicura/pedicura)",
     "description": "Preguntas exactas para evitar huecos mal agendados y consultas repetidas sobre precios y duración en manicura y pedicura. Plantilla mínima, versión completa y microcopy listo para copiar.",
