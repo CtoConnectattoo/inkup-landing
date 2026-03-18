@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-dentista-clinica",
+    "title": "Plantilla de cualificación para clínica dental (captura sin saturar)",
+    "description": "Preguntas exactas para asignar cita correcta en clínica dental sin saturar al paciente. Versión mínima en 5 preguntas, versión completa y microcopy listo para copiar.",
+    "excerpt": "En dental, cualificar es identificar motivo general, urgencia y disponibilidad sin pedir diagnósticos por chat. Aquí la plantilla mínima, la completa y el microcopy por tono.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-dentista-clinica.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "clinica-dental",
+      "gestion-consultas",
+      "whatsapp",
+      "cualificacion",
+      "citas"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para clínica dental",
+    "quickAnswer": [
+      "**Motivo general de consulta** — No un diagnóstico; solo si busca revisión, urgencia, estética o tratamiento específico. Con eso asignas al profesional correcto.",
+      "**Urgencia o plazo** — Si tiene dolor activo o solo quiere cita ordinaria. Cambia toda la lógica de priorización.",
+      "**Si es paciente nuevo o de la casa** — Los pacientes existentes tienen historial; los nuevos necesitan primera visita. Son flujos distintos.",
+      "**Disponibilidad horaria** — Franja general (mañana/tarde) y días posibles. Evita el ping-pong de WhatsApp para cuadrar agenda.",
+      "**Datos de contacto** — Nombre y teléfono. Nada más en el primer contacto."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para clínica dental debe capturar motivo general, urgencia, tipo de paciente y disponibilidad antes de asignar cita, sin pedir diagnósticos ni información clínica sensible por chat.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita saturar al paciente",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando el caso lo pide)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Matriz de urgencia: cómo priorizar sin diagnóstico",
+      "Microcopy listo para copiar",
+      "Rutas por intención: urgencia, revisión, estética, ortodoncia",
+      "Errores típicos en recepción dental (y cómo corregirlos)",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en clínica dental en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Motivo y urgencia",
+        "Tipo de paciente",
+        "Disponibilidad y contacto"
+      ],
+      "steps": [
+        {
+          "name": "Define los 5 datos mínimos",
+          "text": "Motivo general, urgencia, paciente nuevo o existente, franja horaria y contacto. Solo estos cinco cambian la decisión de asignación."
+        },
+        {
+          "name": "Decide el canal de entrada",
+          "text": "WhatsApp o Instagram DM como puerta. Si el volumen supera 20 consultas semanales, un link con flujo previo evita que recepción gestione datos básicos manualmente."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con confirmación de cita, profesional asignado y recordatorio de documentación necesaria. Un solo mensaje, no una cadena."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si en tu clínica se dan estas situaciones:</p><ul><li>Recepción empieza la semana con 15 o 20 mensajes sin leer entre WhatsApp e Instagram, varios de ellos sin más contexto que 'buenos días' o 'quiero cita'.</li><li>El mismo paciente pregunta precio, disponibilidad y cómo llegar en mensajes distintos y sin orden.</li><li>Asignáis cita y luego descubrís que el paciente necesitaba un profesional diferente o más tiempo del reservado.</li><li>Recepción invierte 10 o 15 minutos por consulta recogiendo datos que podrían estar antes del primer mensaje manual.</li></ul><p>No la uses (todavía) si:</p><ul><li>Recibes menos de 5 consultas nuevas a la semana y cada una se gestiona sin prisa.</li><li>Ya tienes un sistema de cita online que recoge estos datos automáticamente y funciona bien.</li></ul><h2>La regla que evita saturar al paciente</h2><blockquote><p><strong>Pregunta solo lo que cambia la asignación.</strong><br>En dental, la asignación depende de: tipo de consulta (urgencia, revisión, estética, ortodoncia), si es paciente nuevo o existente, y disponibilidad. Todo lo demás —historia clínica detallada, radiografías, diagnóstico— ocurre en consulta, no en WhatsApp.</p></blockquote><p>Lo contraintuitivo aquí: muchas clínicas piden demasiado en el primer contacto pensando que así llega el paciente más preparado. El efecto real es el contrario. El paciente abandona el chat, llama a la competencia o llega a la cita sin haber respondido nada porque se agobió. <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">Separar urgencias de consultas ordinarias</a> es la única decisión que no puede esperar al primer mensaje.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está diseñada para máxima conversión. Si alguien abandona aquí, normalmente no tenía intención real de reservar.</p><ol><li><strong>¿Qué motivo te trae? (revisión, dolor/urgencia, blanqueamiento, ortodoncia, implante u otro)</strong></li><li><strong>¿Tienes dolor o molestia activa ahora mismo?</strong> (sí / no / leve)</li><li><strong>¿Eres paciente de la clínica o sería tu primera visita?</strong></li><li><strong>¿Qué franja te viene mejor?</strong> (mañanas / tardes / indiferente) y ¿qué días tienes disponibles esta semana o la próxima?</li><li><strong>Nombre y número de teléfono</strong> para confirmar la cita.</li></ol><blockquote><p>Con estas cinco preguntas ya sabes: a quién asignas, cuánto tiempo reservas, si es urgente y cómo contactar para confirmar. No necesitas más para dar el siguiente paso.</p></blockquote><h2>Plantilla completa (cuando el caso lo pide)</h2><p>Úsala cuando el motivo implica tratamiento largo (ortodoncia, implantes, carillas) o cuando el presupuesto es parte de la decisión del paciente antes de reservar.</p><p>Añade a la mínima:</p><ul><li><strong>¿Tienes seguro dental o vienes como particular?</strong> (si trabajas con aseguradoras)</li><li><strong>¿Tienes alguna preferencia de profesional?</strong> (si el paciente ya conoce la clínica)</li><li><strong>¿Has tenido tratamiento similar antes?</strong> (para casos de ortodoncia o implantes: orienta el tiempo de la primera visita)</li><li><strong>¿Tienes alguna alergia o condición que debamos saber antes de la cita?</strong> (solo si es imprescindible para preparar la visita; si no, recógelo en recepción)</li></ul><p>No añadas más. Cada pregunta extra por encima de estas reduce la tasa de respuesta. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Ver qué preguntas filtran de verdad según el tipo de servicio</a>.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué motivo te trae?</td><td>Tipo de consulta + profesional adecuado</td><td>A quién asignas y cuánto tiempo reservas</td></tr><tr><td>¿Tienes dolor activo?</td><td>Urgencia real</td><td>Si prioriza sobre otras citas pendientes</td></tr><tr><td>¿Paciente nuevo o existente?</td><td>Si tiene historial o necesita primera visita</td><td>Tipo de cita y duración estimada</td></tr><tr><td>¿Franja y días disponibles?</td><td>Compatibilidad con agenda</td><td>Qué hueco ofrecer en el primer mensaje</td></tr><tr><td>¿Seguro o particular?</td><td>Ruta de gestión y tarifas</td><td>Profesional asignado y cobertura aplicable</td></tr><tr><td>Nombre y teléfono</td><td>Trazabilidad y confirmación</td><td>Cierre de cita y recordatorio</td></tr></tbody></table><h2>Matriz de urgencia: cómo priorizar sin diagnóstico</h2><p>Esta matriz resuelve la pregunta más difícil de recepción: qué citas van antes. Se basa en lo que el paciente comunica, no en diagnóstico clínico.</p><table><thead><tr><th>Señal del paciente</th><th>Prioridad</th><th>Acción</th></tr></thead><tbody><tr><td>Dolor intenso, inflamación visible, no puede comer</td><td>Urgente</td><td>Ofrece el mismo día o primeras horas del siguiente</td></tr><tr><td>Dolor leve, molestia intermitente, sensibilidad</td><td>Preferente</td><td>Hueco en los próximos 2-3 días</td></tr><tr><td>Revisión, limpieza, cita de control</td><td>Ordinaria</td><td>Primera disponibilidad sin forzar agenda</td></tr><tr><td>Presupuesto para tratamiento estético o largo</td><td>Sin urgencia</td><td>Primera visita de valoración en semana o dos</td></tr></tbody></table><p>Lo que la mayoría de guías sobre gestión dental omite: el paciente que dice 'tengo una muela rota pero no me duele' está más cerca de urgencia preferente que de revisión ordinaria. La ausencia de dolor no descarta urgencia en dental. Recepción no diagnostica, pero sí prioriza con sentido común.</p><h2>Microcopy listo para copiar</h2><p>La plantilla falla cuando se usa sin presentación. Lo que genera abandono no es preguntar: es preguntar de golpe y sin contexto.</p><h3>Mensaje de entrada (para WhatsApp o Instagram DM)</h3><blockquote><p>«Hola, gracias por escribirnos. Para darte cita con el profesional adecuado y sin que tengamos que ir y venir con mensajes, te hago 4 preguntas rápidas (menos de 1 minuto).»</p></blockquote><h3>Mensaje cuando el paciente pregunta precio sin contexto</h3><blockquote><p>«El precio depende del tratamiento y de tu situación concreta, así que prefiero no darte un número al aire. Dime qué buscas y si eres paciente nuestro o sería la primera vez, y te doy un rango real.»</p></blockquote><h3>Mensaje para distinguir urgencia de cita ordinaria</h3><blockquote><p>«¿Tienes dolor o molestia activa ahora mismo, o buscas cita sin prisa? Con eso te busco el hueco que te corresponde.»</p></blockquote><h3>Mensaje de cierre de cita (una sola respuesta)</h3><blockquote><p>«Perfecto. Te apuntamos el [día] a las [hora] con [profesional]. Si necesitas cancelar o cambiar, avísanos con al menos 24 horas. ¿Alguna duda antes de venir?»</p></blockquote><h2>Rutas por intención: urgencia, revisión, estética, ortodoncia</h2><p><a href=\"/blog/agendar-citas-sin-mensajes/\">El problema de agendar citas por chat</a> no es el volumen: es que cada tipo de consulta necesita una ruta diferente y recepción las gestiona todas igual.</p><h3>Ruta A — Urgencia o dolor</h3><ol><li>Confirma que hay dolor o molestia activa</li><li>Pregunta disponibilidad inmediata (hoy, mañana mañana)</li><li>Asigna el primer hueco disponible o lista de espera del día</li><li>Confirma con nombre y teléfono</li></ol><h3>Ruta B — Revisión o limpieza</h3><ol><li>Confirma que es revisión periódica o primera vez</li><li>Pregunta franja y días disponibles</li><li>Ofrece dos opciones concretas (no «dime cuándo puedes»)</li><li>Cierra con confirmación y recordatorio de qué traer</li></ol><h3>Ruta C — Tratamiento estético (blanqueamiento, carillas, diseño de sonrisa)</h3><ol><li>Confirma qué tratamiento le interesa</li><li>Pregunta si ha tenido tratamiento similar antes</li><li>Explica que el primer paso es visita de valoración sin compromiso</li><li>Recoge disponibilidad y cierra cita de valoración</li></ol><h3>Ruta D — Ortodoncia o implantes</h3><ol><li>Confirma si es consulta de información o ya tiene diagnóstico previo</li><li>Pregunta si es paciente existente o nuevo</li><li>Si tiene seguro, confirma cobertura antes de asignar</li><li>Cierra primera visita de valoración con tiempo suficiente (45-60 min)</li></ol><h2>Errores típicos en recepción dental (y cómo corregirlos)</h2><ol><li><strong>Pedir historia clínica por WhatsApp</strong><br>Consecuencia: el paciente no responde o da datos incompletos que generan confusión en consulta.<br>Corrección: la historia clínica se recoge en la primera visita. Por chat solo motivo, urgencia y disponibilidad.</li><li><strong>No preguntar si hay dolor antes de asignar hueco</strong><br>Consecuencia: una urgencia entra en slot de revisión de 20 minutos y no da tiempo.<br>Corrección: la pregunta de urgencia va siempre en el primer mensaje de cualificación.</li><li><strong>Dar precio exacto sin contexto de la boca del paciente</strong><br>Consecuencia: el paciente llega con expectativa de precio que no es real y hay fricción en recepción.<br>Corrección: rango + explicación de por qué varía + visita de valoración como siguiente paso.</li><li><strong>No distinguir paciente nuevo de existente</strong><br>Consecuencia: se asigna hueco corto a un paciente nuevo que necesita primera visita completa, o al revés.<br>Corrección: es la tercera pregunta de la plantilla mínima, siempre.</li><li><strong>Cerrar cita sin confirmar franja del paciente</strong><br>Consecuencia: el paciente no puede a esa hora, hay que repetir todo el proceso.<br>Corrección: ofrece dos opciones concretas basadas en la franja que ya te dio, no una pregunta abierta.</li><li><strong>Responder al 'precio de ortodoncia' con un número suelto por WhatsApp</strong><br>Consecuencia: el paciente compara ese número con otra clínica sin contexto y elige por precio.<br>Corrección: explica que el presupuesto sale de la valoración y ofrece la visita de valoración como primer paso real.</li></ol>",
+    "faq": [
+      {
+        "question": "¿Puedo preguntar síntomas por WhatsApp para cualificar?",
+        "answer": "Síntomas muy generales sí: dolor, sangrado, molestia con frío o calor. Eso orienta la urgencia sin rozar diagnóstico. No pidas descripción clínica detallada por chat: no es el canal adecuado y genera responsabilidad innecesaria."
+      },
+      {
+        "question": "¿Qué hago si el paciente dice que tiene dolor pero no puede venir hasta la semana que viene?",
+        "answer": "Ofrece el primer hueco disponible y deja claro que si el dolor empeora debe llamar ese mismo día. No decidas por él. Registra la consulta como urgencia diferida y priorízala sobre revisiones ordinarias."
+      },
+      {
+        "question": "¿Cómo manejo el clásico 'cuánto cuesta una limpieza' sin dar precio y perder al paciente?",
+        "answer": "Da un rango real si lo tienes ('entre X y Y según el estado de la boca') y explica que el precio exacto sale en la primera visita. No escondas el precio: esconder genera desconfianza. Aporta el contexto que justifica la variación."
+      },
+      {
+        "question": "¿Le pregunto si tiene seguro dental antes de asignar cita?",
+        "answer": "Sí, si trabajas con aseguradoras. Es un dato de ruteado, no de cualificación clínica. Pregúntalo junto con el motivo: '¿Vienes por seguro o particular?' Cambia el profesional asignado y los tiempos disponibles."
+      },
+      {
+        "question": "¿Qué hago si me escriben por Instagram y por WhatsApp el mismo día con la misma duda?",
+        "answer": "Responde en el canal donde te llegó primero y cierra el otro con una línea breve: 'Ya te contesté por WhatsApp, cualquier duda allí.' Si tienes volumen suficiente, un link único de entrada elimina este duplicado desde el origen."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para el primer mensaje de recepción dental?",
+        "answer": "Más de 5 en el primer bloque generan abandono. Empieza con motivo, urgencia y si es paciente nuevo. Con eso ya puedes proponer hueco. El resto lo recoges en la confirmación o en la propia cita."
+      },
+      {
+        "question": "¿Pido el DNI o número de seguro por WhatsApp antes de la cita?",
+        "answer": "Solo si es imprescindible para la gestión del seguro antes de la visita. Si no es obligatorio antes de la cita, recógelo en recepción el día que viene. Pedir datos sensibles por chat aumenta fricción sin beneficio real."
+      },
+      {
+        "question": "¿Cómo gestiono los mensajes que llegan fuera de horario?",
+        "answer": "Configura un mensaje automático con horario de atención y, si tienes link de cualificación, inclúyelo ahí. El paciente deja sus datos cuando tiene tiempo y tú los revisas al abrir. Evita dejar el mensaje en visto sin respuesta visible."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-limpieza-facial-tratamientos",
     "title": "Plantilla de cualificación para tratamientos faciales",
     "description": "Preguntas exactas para cualificar consultas de tratamientos faciales antes de dar precio o agendar cita. Plantilla mínima, completa y microcopy listo para copiar.",
