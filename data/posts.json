@@ -1,5 +1,107 @@
 [
   {
+    "slug": "plantilla-cualificacion-servicios-digitales",
+    "title": "Plantilla de cualificación para servicios digitales",
+    "description": "Plantilla para separar leads sin presupuesto en servicios digitales. Preguntas mínimas, versión completa y microcopy listo para usar antes de responder.",
+    "excerpt": "En servicios digitales, el tiempo se pierde en leads que nunca iban a comprar. Esta plantilla te ayuda a separar los que tienen presupuesto, objetivo claro y decisión real de los que solo están mirando.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-servicios-digitales.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "servicios-digitales",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "instagram"
+    ],
+    "quickAnswerSubtitle": "Preguntas mínimas para separar leads reales de curiosos en servicios digitales",
+    "quickAnswer": [
+      "**Objetivo concreto** — Qué quiere conseguir exactamente, en una frase. Sin esto no puedes valorar si puedes ayudar.",
+      "**Alcance del servicio** — Qué entra y qué no entra en lo que pide. Evita malentendidos antes de presupuestar.",
+      "**Presupuesto orientativo** — Un rango, no una cifra exacta. Filtra rápido sin hacer la conversación incómoda.",
+      "**Plazo o urgencia** — Para cuándo lo necesita. Descarta incompatibilidades de agenda antes de invertir tiempo.",
+      "**Quién decide** — Si hay más personas involucradas en la decisión. Evita avanzar con alguien que no puede cerrar.",
+      "**Canal preferido** — Cómo quiere continuar la conversación. Reduce fricción en el cierre."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para servicios digitales debe confirmar objetivo, alcance y presupuesto orientativo antes de hacer ninguna propuesta, para separar leads con decisión real de los que solo están explorando.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que ordena todo",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para servicios de mayor ticket)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy para no sonar a formulario de empresa grande",
+      "Cómo manejar el clásico '¿cuánto cobras?'",
+      "Variantes por tipo de servicio digital",
+      "Errores frecuentes al cualificar en servicios digitales",
+      "Implementación sin herramientas complejas",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Contexto mínimo del servicio",
+        "Canal de entrada (DM, WhatsApp o link)",
+        "Mensaje de cierre estandarizado"
+      ],
+      "steps": [
+        {
+          "name": "Define tus 4-5 datos mínimos",
+          "text": "Objetivo, alcance, presupuesto orientativo, plazo y quién decide. Solo lo que cambia tu respuesta."
+        },
+        {
+          "name": "Decide dónde aplicas la plantilla",
+          "text": "DM de Instagram como puerta, WhatsApp para cerrar. Si el volumen lo justifica, un link con flujo previo."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un solo mensaje con resumen de lo que entendiste, rango orientativo si aplica y propuesta de siguiente paso."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes consultas de servicios digitales donde el primer mensaje es 'hola, ¿cuánto cobras por X?' sin más contexto. O si terminas en 20 mensajes de ida y vuelta para descubrir que el lead tenía un presupuesto incompatible desde el principio. O si avanzas en propuestas que luego no cierran porque 'lo tiene que consultar con alguien'.</p><p>No la uses si recibes menos de 5 consultas a la semana y puedes responder con calma a cada una. Tampoco si cada proyecto es radicalmente distinto y no hay patrón de preguntas repetible. En esos casos, una plantilla rígida genera más fricción que la que resuelve.</p><h2>La regla que ordena todo</h2><blockquote><p><strong>Pregunta solo lo que cambia tu respuesta.</strong><br>Si la respuesta del cliente no modifica (1) si aceptas el proyecto, (2) el precio orientativo, (3) el plazo o (4) el siguiente paso que propones... no la pidas en el primer contacto.</p></blockquote><p>En servicios digitales esto es especialmente relevante porque la tentación es preguntar todo desde el inicio para parecer profesional. El efecto es el contrario: el lead siente que está rellenando un formulario de empresa grande y se va. Puedes leer más sobre <a href=\"/blog/cuantas-preguntas-pedir-cliente/\">cuántas preguntas son demasiadas y cuándo reducirlas</a> sin perder información útil.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para máxima conversión. Si alguien abandona aquí, normalmente no tenía intención real de contratar.</p><ol><li><strong>¿Qué necesitas exactamente?</strong> (servicio concreto, no categoría)</li><li><strong>¿Qué objetivo quieres conseguir con esto?</strong> (1 frase)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo orientativo)</li><li><strong>¿Tienes un rango de presupuesto en mente?</strong> (aunque sea aproximado)</li><li><strong>¿Cómo prefieres continuar?</strong> WhatsApp, llamada o email</li></ol><blockquote><p>Si el servicio implica más de una persona tomando la decisión, añade una sexta: '¿Hay alguien más que deba estar en esta conversación?'</p></blockquote><h2>Plantilla completa (para servicios de mayor ticket)</h2><p>Úsala cuando el lead ya respondió la mínima, o cuando el ticket es alto y un error de cualificación cuesta caro. No empieces por aquí.</p><p>Añade a la mínima:</p><ul><li><strong>Alcance detallado:</strong> qué entra y qué no entra en lo que pide</li><li><strong>Quién decide:</strong> si hay socios, responsables de marketing, dirección u otros involucrados</li><li><strong>Experiencia previa:</strong> si ha trabajado antes con alguien en esto y qué pasó</li><li><strong>Criterio de éxito:</strong> cómo sabrá que el proyecto ha ido bien</li><li><strong>Restricciones conocidas:</strong> tecnología, plataformas, accesos, condiciones específicas del sector</li><li><strong>Datos de contacto completos:</strong> nombre, empresa (si aplica), teléfono</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué necesitas exactamente?</td><td>Intención real y tipo de trabajo</td><td>Si encaja con lo que ofreces</td></tr><tr><td>¿Qué objetivo quieres conseguir?</td><td>Contexto para presupuestar y proponer</td><td>Si puedes dar resultado prometible</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y viabilidad de agenda</td><td>Si hay hueco real o no</td></tr><tr><td>¿Tienes rango de presupuesto?</td><td>Filtro de compatibilidad económica</td><td>Si tiene sentido avanzar o no</td></tr><tr><td>¿Quién más decide?</td><td>Mapa de decisión real</td><td>A quién incluir en la propuesta</td></tr><tr><td>Alcance detallado</td><td>Reduce errores y malentendidos</td><td>Si necesitas subcontratar, ajustar precio o descartar</td></tr><tr><td>Criterio de éxito</td><td>Expectativas explícitas</td><td>Si puedes garantizar lo que espera</td></tr><tr><td>Canal preferido</td><td>Reduce fricción en el cierre</td><td>Cómo cerrar sin perder velocidad</td></tr></tbody></table><h2>Microcopy para no sonar a formulario de empresa grande</h2><p>Lo que destruye conversiones en servicios digitales no es preguntar, es preguntar sin explicar por qué. Estos son los mensajes que funcionan.</p><h3>Mensaje de entrada (tras el primer 'hola' o '¿cuánto cobras?')</h3><blockquote><p>'Para darte una respuesta útil y no un número al aire, te hago 3 preguntas rápidas. Te lleva menos de un minuto.'</p></blockquote><h3>Cuando piden precio sin contexto</h3><blockquote><p>'El precio depende del alcance y el objetivo. Dime qué necesitas exactamente, para cuándo y qué quieres conseguir con esto. Con eso te doy un rango real, no inventado.'</p></blockquote><h3>Para servicios de alto ticket donde el ciclo es largo</h3><blockquote><p>'Antes de preparar cualquier propuesta, necesito entender bien lo que buscas. Son 5 preguntas. Si vemos que encajamos, te propongo una llamada corta para terminar de afinar.'</p></blockquote><h3>Versión para separar leads con y sin presupuesto</h3><blockquote><p>'Para saber si podemos trabajar juntos, dime: qué necesitas, para cuándo y si tienes un rango de inversión en mente, aunque sea orientativo. Con eso ya sé si tiene sentido continuar.'</p></blockquote><h2>Cómo manejar el clásico '¿cuánto cobras?'</h2><p>Es la consulta más frecuente y la que más tiempo roba si no tienes respuesta estandarizada. La respuesta correcta no es dar precio, es <a href=\"/blog/cualificar-filtrar-consultas-clientes/\">cualificar antes de responder</a>.</p><p>Hay tres situaciones distintas:</p><ul><li><strong>No saben lo que necesitan:</strong> Necesitan orientación antes que precio. Pregunta objetivo primero.</li><li><strong>Saben lo que quieren pero no tienen presupuesto:</strong> El precio que des los alejará o atraerá leads sin fit. Pide rango antes de dar cifra.</li><li><strong>Tienen presupuesto y buscan proveedor:</strong> Aquí sí puedes dar rango orientativo rápido para filtrar. Si encaja, avanzas.</li></ul><p>La regla práctica: nunca des precio antes de tener servicio + objetivo + plazo. Con esos tres datos puedes dar un rango útil en dos líneas.</p><h2>Variantes por tipo de servicio digital</h2><p>No cambies la plantilla entera. Cambia solo 1-2 preguntas variables según el servicio.</p><h3>Diseño web o desarrollo</h3><ul><li>Variable clave: <strong>tipo de web + funcionalidades imprescindibles + si hay web previa</strong></li></ul><blockquote><p>'¿Qué tipo de web necesitas? ¿Hay alguna funcionalidad sin la que no funciona el negocio? ¿Tienes web ahora o es de cero?'</p></blockquote><h3>Gestión de redes sociales o contenido</h3><ul><li>Variable clave: <strong>canales + frecuencia esperada + si hay material propio (fotos, vídeos)</strong></li></ul><blockquote><p>'¿Qué canales? ¿Cuántas publicaciones a la semana tienes en mente? ¿Tienes material visual propio o hay que generarlo?'</p></blockquote><h3>Consultoría, mentoría o formación</h3><ul><li>Variable clave: <strong>objetivo específico + nivel actual + disponibilidad horaria</strong></li></ul><blockquote><p>'¿Qué quieres conseguir exactamente al terminar? ¿Desde dónde partes ahora? ¿Cuántas horas a la semana puedes dedicarle?'</p></blockquote><h3>SEO, publicidad o analítica</h3><ul><li>Variable clave: <strong>objetivo de negocio detrás + histórico previo + accesos disponibles</strong></li></ul><blockquote><p>'¿Cuál es el objetivo de negocio real detrás de esto? ¿Has trabajado antes en esto con alguien? ¿Tienes acceso a Analytics, Search Console, Ads?'</p></blockquote><p>Para ver más variantes por sector y servicio, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">consulta la guía de preguntas para filtrar clientes con plantillas por tipo de negocio</a>.</p><h2>Errores frecuentes al cualificar en servicios digitales</h2><ol><li><strong>Dar precio antes de entender el alcance</strong><br>Consecuencia: el lead se ancla al número antes de entender el valor.<br>Corrección: servicio + objetivo + plazo primero, precio después.</li><li><strong>No preguntar quién decide</strong><br>Consecuencia: llegas a propuesta y aparece un tercero que lo veta.<br>Corrección: pregúntalo en la primera ronda en proyectos de ticket medio-alto.</li><li><strong>Plantilla mínima y completa al mismo tiempo</strong><br>Consecuencia: el lead siente que está rellenando un formulario de empresa grande.<br>Corrección: mínima primero, completa solo si hay respuesta y hay avance real.</li><li><strong>Preguntar sin explicar por qué</strong><br>Consecuencia: el lead no entiende la lógica y abandona o miente.<br>Corrección: una frase de microcopy antes de cada bloque de preguntas.</li><li><strong>Confundir cualificación con discovery</strong><br>Consecuencia: intentas resolver el proyecto entero antes de saber si hay encaje.<br>Corrección: la plantilla filtra. El discovery profundo ocurre en llamada, después de cualificar.</li><li><strong>No tener respuesta para el 'no tengo presupuesto claro'</strong><br>Consecuencia: la conversación queda abierta sin avanzar ni cerrarse.<br>Corrección: 'Sin problema, dime cuánto es lo máximo que tendrías para esto y vemos si encajamos.'</li></ol><h2>Implementación sin herramientas complejas</h2><p>Esta plantilla se puede implementar hoy en WhatsApp o en DM de Instagram sin ninguna herramienta adicional. Son tres pasos.</p><h3>Paso 1: define tu contexto mínimo personal</h3><p>Escribe en un documento los 4-5 datos que siempre necesitas antes de poder responder. No los de otros servicios, los tuyos. Esos son tus preguntas de la plantilla mínima.</p><h3>Paso 2: elige dónde ocurre la cualificación</h3><ul><li>Si la mayoría de consultas entran por Instagram DM: usa el DM como puerta y deriva a WhatsApp o a un link con las preguntas.</li><li>Si entran por WhatsApp directamente: usa el mensaje de entrada estandarizado antes de responder nada más.</li><li>Si tienes más de 20-30 consultas semanales y el volumen ya no lo controlas solo: tiene sentido un punto de entrada único que recoja los datos antes de llegar a ti.</li></ul><h3>Paso 3: estandariza el cierre</h3><p>Tu objetivo es que el cierre sea siempre un único mensaje con tres partes: (1) resumen de lo que entendiste, (2) si encaja o no y por qué, (3) propuesta de siguiente paso.</p><blockquote><p>'Con lo que me cuentas, el proyecto encajaría en un rango de X-Y dependiendo del alcance exacto. Si quieres avanzar, el siguiente paso sería una llamada de 20 minutos para afinar. ¿Te viene bien esta semana?'</p></blockquote><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: recogen los datos clave del lead antes de que llegue a tu WhatsApp, con un link que puedes poner en la bio de Instagram, en stories o en Google Business. El lead responde las preguntas mínimas, tú recibes la conversación ya con contexto. No es para todos los casos — si tu volumen es bajo o cada consulta es tan distinta que no hay patrón, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Cuándo pido el presupuesto sin que sea incómodo?",
+        "answer": "Pídelo después de entender el objetivo y el alcance, nunca antes. Con contexto, la pregunta es lógica: 'Para saber si podemos encajar, ¿tienes un rango orientativo en mente?' Un rango es menos intimidante que una cifra exacta."
+      },
+      {
+        "question": "Me preguntan precio antes de contarme nada, ¿qué hago?",
+        "answer": "No des cifra sin contexto. Devuelve la pregunta: 'Para darte un número útil, dime qué necesitas exactamente y para cuándo.' Si no responden eso, raramente eran leads reales."
+      },
+      {
+        "question": "¿Pregunto quién decide desde el inicio o espero?",
+        "answer": "En servicios digitales con ticket medio-alto, pregunta en la primera ronda. Perder dos semanas con alguien que luego dice 'lo tengo que consultar con mi socio' es el error más caro de este sector."
+      },
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que abandonen?",
+        "answer": "Con 3-5 preguntas bien explicadas casi nadie abandona si tiene intención real. El abandono ocurre cuando preguntas sin explicar para qué sirve la respuesta. El microcopy importa tanto como las preguntas."
+      },
+      {
+        "question": "¿Aplica esta plantilla si vendo servicios recurrentes (mensualidades)?",
+        "answer": "Sí, con un ajuste: añade 'duración esperada del proyecto o compromiso mínimo' como dato. Un lead que busca algo puntual y tú solo ofreces retainer necesita saberlo antes, no después de la propuesta."
+      },
+      {
+        "question": "¿Qué hago si el lead responde todo bien pero luego desaparece?",
+        "answer": "Eso no es un problema de cualificación, es de seguimiento. La plantilla filtra intención inicial; el seguimiento es otra capa. Si desaparecen después de responder todo, revisa el tiempo entre su respuesta y tu propuesta."
+      },
+      {
+        "question": "¿Uso la misma plantilla para presupuesto y para llamada de descubrimiento?",
+        "answer": "No. Para presupuesto escrito, la plantilla completa funciona bien. Para una llamada de descubrimiento, usa solo la mínima antes: el objetivo es confirmar que tiene sentido hablar, no recopilar todo antes de la llamada."
+      },
+      {
+        "question": "¿Puedo enviar esta plantilla por DM de Instagram directamente?",
+        "answer": "Puedes, pero en formato lista corta (1-2-3), nunca como párrafo. El DM aguanta poco texto antes de parecer spam. Si tienes volumen alto de consultas por Instagram, tiene más sentido derivar a un punto de entrada único que cualifique antes de llegar a ti."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-belleza",
     "title": "Plantilla de cualificación para belleza",
     "description": "Preguntas exactas para filtrar y cualificar clientes en centros de estética, peluquerías y salones de belleza. Plantilla mínima + completa + microcopy listo para copiar.",
