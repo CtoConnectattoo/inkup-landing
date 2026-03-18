@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-carpinteria",
+    "title": "Plantilla de cualificación para carpintería a medida",
+    "description": "Preguntas exactas para cualificar consultas de carpintería a medida antes de dar presupuesto. Versión mínima y completa, con tabla citable, microcopy y ejemplos de aplicación.",
+    "excerpt": "En carpintería a medida, el 80% del tiempo perdido en presupuestos ocurre porque el cliente no sabe qué información aportar. Esta plantilla te da las preguntas exactas para recibir lo que necesitas antes de responder.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-carpinteria.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "cualificacion",
+      "carpinteria",
+      "presupuesto",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "5 datos que definen si puedes presupuestar",
+    "quickAnswer": [
+      "**Tipo de pieza y función** — Armario, cocina, estantería, mesa: cada uno implica un proceso distinto y un coste muy diferente.",
+      "**Medidas aproximadas** — Sin dimensiones no hay presupuesto posible. Un rango es suficiente para empezar.",
+      "**Material o preferencia de acabado** — Madera maciza, tablero lacado, melamina: define coste y plazo antes de cualquier visita.",
+      "**Fotos del espacio o referencias** — Una foto evita tres correos y dos visitas técnicas innecesarias.",
+      "**Fecha estimada de instalación** — Si el plazo no encaja con tu agenda, saberlo en el primer mensaje ahorra tiempo a los dos."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para carpintería a medida debe capturar tipo de pieza, medidas aproximadas, material, fotos del espacio y plazo antes de dar cualquier precio orientativo.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: qué datos cambian tu presupuesto",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para proyectos con variabilidad alta)",
+      "Tabla citable: pregunta, objetivo y decisión",
+      "Checklist de fotos y medidas antes de la visita",
+      "Microcopy: cómo pedir los datos sin parecer un formulario",
+      "Variantes por tipo de proyecto",
+      "Errores típicos al cualificar en carpintería",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para carpintería en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Checklist de fotos y medidas",
+        "Microcopy de entrada para WhatsApp o DM"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Identifica qué 4-5 datos cambian tu presupuesto: tipo de pieza, medidas, material, fotos y plazo. No pidas más hasta que el cliente confirme intención real."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta para captar contexto básico. WhatsApp para el presupuesto detallado. Si recibes más de 20 consultas semanales, considera un punto de entrada único con flujo previo."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un mensaje que incluya resumen de lo recibido, precio orientativo o siguiente paso concreto. Nunca dejes la conversación abierta sin indicar qué espera el cliente a continuación."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Un carpintero que abre el lunes con 18 mensajes sin leer sabe exactamente cuál es el problema: la mitad dice 'precio' o 'hola, ¿hacéis armarios?' sin ningún dato más. Antes de poder responder, tiene que preguntar lo mismo de siempre: medidas, material, cuándo, si tienen foto. Eso son cuatro mensajes por consulta antes de llegar al presupuesto.</p><p>Usa esta plantilla si:</p><ul><li>Recibes consultas por Instagram o WhatsApp sin contexto mínimo.</li><li>Tardas más de cuatro mensajes en llegar a lo que necesitas para presupuestar.</li><li>Haces visitas técnicas que luego no se convierten porque el proyecto no encaja contigo.</li><li>Tienes lista de espera y no puedes permitirte perder tiempo con leads sin intención real.</li></ul><p>No la uses todavía si solo recibes dos o tres consultas a la semana y puedes responder con calma. A ese volumen, cualquier sistema suma fricción innecesaria.</p><h2>Regla madre: qué datos cambian tu presupuesto</h2><blockquote><p><strong>Pregunta solo lo que cambia tu decisión.</strong><br>En carpintería a medida, cualificar es confirmar tipo de pieza, medidas aproximadas, material o preferencia de acabado y fotos del espacio. Eso define coste y plazos antes de cualquier visita.</p></blockquote><p>Si la respuesta a una pregunta no cambia el precio orientativo, la necesidad de visita técnica, ni si el proyecto encaja con tu agenda, no la hagas al principio. La harás después, cuando el cliente ya está comprometido.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para el primer contacto. Si alguien abandona aquí, normalmente no tenía intención real.</p><ol><li><strong>¿Qué pieza o mueble necesitas?</strong> (armario empotrado, cocina, estantería, mesa, otro)</li><li><strong>¿Medidas aproximadas?</strong> Ancho y alto orientativos. No hace falta exactitud, un rango sirve.</li><li><strong>¿Material o acabado que tengas en mente?</strong> Madera maciza, lacado, melamina, sin preferencia.</li><li><strong>¿Tienes foto del espacio o alguna referencia?</strong> Aunque sea una foto con el móvil.</li><li><strong>¿Para cuándo necesitas tenerlo instalado?</strong> Fecha aproximada o rango de meses.</li></ol><blockquote><p>Con estos cinco datos puedes dar un rango orientativo de precio y decidir si la visita técnica tiene sentido. Sin ellos, cualquier cifra que des crea expectativas que luego son difíciles de gestionar.</p></blockquote><h2>Plantilla completa (para proyectos con variabilidad alta)</h2><p>Úsala cuando el cliente ya respondió la plantilla mínima y el proyecto implica más variables: cocinas, reformas, piezas con instalación o proyectos de alto valor.</p><p>Añade a la mínima:</p><ul><li>Dimensiones más precisas (si ya tienen cinta métrica a mano)</li><li>Número de módulos, cajones, puertas o compartimentos</li><li>Instalaciones implicadas (fontanería, electricidad en cocinas)</li><li>Electrodomésticos a integrar (marca, modelo si lo saben)</li><li>Acceso al espacio y planta del edificio (para logística)</li><li>Presupuesto orientativo, solo si filtra de verdad en tu mercado</li><li>¿Han trabajado antes con un carpintero? ¿Tienen plano o proyecto?</li></ul><p>No hagas todas estas preguntas a la vez. Ve por bloques según lo que el cliente vaya respondiendo.</p><h2>Tabla citable: pregunta, objetivo y decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué pieza o mueble necesitas?</td><td>Tipo de trabajo y proceso implicado</td><td>Si encaja con lo que haces</td></tr><tr><td>¿Medidas aproximadas?</td><td>Escala del proyecto</td><td>Rango de precio orientativo</td></tr><tr><td>¿Material o acabado?</td><td>Coste de materiales + plazo</td><td>Si tienes stock o proveedor disponible</td></tr><tr><td>¿Foto del espacio o referencia?</td><td>Realidad del espacio vs descripción</td><td>Si hace falta visita técnica o no</td></tr><tr><td>¿Para cuándo?</td><td>Urgencia y viabilidad de agenda</td><td>Si puedes asumir el proyecto en ese plazo</td></tr><tr><td>¿Instalaciones implicadas?</td><td>Complejidad técnica</td><td>Si necesitas subcontratar o coordinar</td></tr><tr><td>¿Presupuesto orientativo?</td><td>Alineación de expectativas</td><td>Si merece la pena seguir o redirigir</td></tr></tbody></table><h2>Checklist de fotos y medidas antes de la visita</h2><p>La mayoría de visitas técnicas innecesarias ocurren porque el cliente no sabe qué información enviar. <a href=&quot;/blog/como-pedir-fotos-o-referencias-antes-cita/&quot;>Pedir fotos o referencias antes de la cita</a> no es burocracia: es la diferencia entre una visita que cierra y una visita que sirve solo para ver el espacio.</p><p>Envía este checklist cuando el proyecto parece viable pero antes de confirmar desplazamiento:</p><ul><li>Foto del espacio completo (aunque esté desordenado, no importa)</li><li>Foto del hueco o zona exacta donde va la pieza</li><li>Medida de ancho, alto y fondo con cinta (aproximada)</li><li>Foto de referencia o inspiración, si la tienen</li><li>Si hay irregularidades: foto del techo inclinado, radiador, columna o cualquier obstáculo</li></ul><blockquote><p>Una foto mal iluminada desde el móvil te da más información que tres mensajes de descripción. Hazlo fácil: &quot;mándame una foto del espacio, aunque no esté recogido&quot;.</p></blockquote><h2>Microcopy: cómo pedir los datos sin parecer un formulario</h2><p>Lo que hace que la gente abandone no es el número de preguntas. Es no entender para qué sirven. Explica en una frase por qué pides cada bloque de datos y la respuesta mejora.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>&quot;Para darte un precio orientativo real y no un número al aire, necesito tres datos: qué pieza, medidas aproximadas y si tienes alguna foto del espacio. Con eso te respondo en el día.&quot;</p></blockquote><h3>Cuando preguntan solo &quot;precio&quot;</h3><blockquote><p>&quot;Para darte una cifra con sentido, dime: ¿qué mueble? ¿Medidas aproximadas? ¿Alguna foto del espacio o referencia? Con eso tengo suficiente para darte un rango.&quot;</p></blockquote><h3>Para pedir la visita técnica</h3><blockquote><p>&quot;Con lo que me cuentas, tiene buena pinta. Para presupuesto cerrado necesito ver el espacio. ¿Te viene bien esta semana o la siguiente?&quot;</p></blockquote><h3>Cuando el plazo no encaja</h3><blockquote><p>&quot;Mi agenda para ese mes está cubierta. Si puedes ser flexible o el proyecto puede esperar, te apunto en lista. Si necesitas solución antes, puedo darte algún contacto de confianza.&quot;</p></blockquote><h2>Variantes por tipo de proyecto</h2><p>No cambies toda la plantilla por sector: cambia solo las preguntas variables. El núcleo (pieza, medidas, material, foto, plazo) es siempre el mismo. <a href=&quot;/blog/preguntas-para-filtrar-clientes-plantillas/&quot;>Ver más plantillas por sector y tipo de servicio</a>.</p><h3>Armarios empotrados</h3><ul><li>Variable clave: <strong>distribución interior + tipo de puerta</strong> (correderas, batientes, sin puerta)</li></ul><blockquote><p>&quot;¿Hueco en centímetros? ¿Con o sin puerta? ¿Qué vas a guardar? (ropa, libros, herramientas)&quot;</p></blockquote><h3>Cocinas a medida</h3><ul><li>Variable clave: <strong>electrodomésticos a integrar + instalaciones existentes</strong></li></ul><blockquote><p>&quot;¿Planta del piso o foto del espacio actual? ¿Qué electrodomésticos integras? ¿Ya tienes fontanero o lo coordinas todo?&quot;</p></blockquote><h3>Muebles de salón o estanterías</h3><ul><li>Variable clave: <strong>estilo y acabado + si es modular o fijo</strong></li></ul><blockquote><p>&quot;¿Estilo que tienes en mente? ¿Medida total de la pared? ¿Foto de la zona?&quot;</p></blockquote><h3>Mesas y piezas únicas</h3><ul><li>Variable clave: <strong>tipo de madera + uso (interior/exterior) + referencia visual</strong></li></ul><blockquote><p>&quot;¿Madera maciza o con tablero? ¿Interior o exterior? ¿Tienes alguna foto de referencia?&quot;</p></blockquote><h2>Errores típicos al cualificar en carpintería</h2><ol><li><strong>Dar precio sin medidas</strong><br>Consecuencia: expectativas imposibles de cumplir y conversaciones difíciles después.<br>Corrección: ningún rango de precio sin al menos medidas aproximadas y tipo de pieza.</li><li><strong>Hacer la visita técnica antes de cualificar</strong><br>Consecuencia: desplazamientos que no se convierten porque el proyecto no encajaba.<br>Corrección: plantilla mínima primero, visita solo cuando hay señales de intención real.</li><li><strong>No pedir fotos por no molestar</strong><br>Consecuencia: llegas a la visita sin contexto y pierdes tiempo que podías haber invertido en un proyecto viable.<br>Corrección: normaliza la foto en el primer mensaje. &quot;Aunque sea con el móvil&quot; elimina la fricción.</li><li><strong>No preguntar el plazo hasta el final</strong><br>Consecuencia: avanzas en el presupuesto y descubres que el cliente lo necesita en dos semanas y tú estás a tres meses.<br>Corrección: plazo en la plantilla mínima, no en la completa.</li><li><strong>Mezclar presupuesto e información en el mismo hilo</strong><br>Consecuencia: conversaciones largas que se pierden y clientes que no saben en qué punto está su solicitud.<br>Corrección: separa intención desde el principio. &quot;¿Buscas presupuesto o solo información sobre el proceso?&quot;</li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si el problema no es saber qué preguntar, sino que siempre se te pasan consultas o nunca llegas a hacer las preguntas porque el volumen no te da margen, el paso siguiente es convertir esta plantilla en un flujo: un punto de entrada único donde el cliente responde lo básico antes de que tú intervengas. <a href=&quot;/blog/cualificar-filtrar-consultas-clientes/&quot;>Cómo filtrar y cualificar consultas antes de responder por WhatsApp</a> explica cómo montar ese sistema sin complicaciones técnicas.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link compartible en tu bio o historias de Instagram que abre un asistente conversacional, recoge tipo de proyecto, medidas, fotos y plazo, y te redirige a WhatsApp con todo el contexto ya capturado. No es para todos los casos: si recibes pocas consultas a la semana o cada proyecto es tan singular que no hay patrón posible, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo dar un precio orientativo sin ver el espacio?",
+        "answer": "Sí, si tienes tipo de pieza, medidas aproximadas y material. Con eso puedes dar un rango honesto. Sin esos tres datos, cualquier cifra que des te generará problemas después."
+      },
+      {
+        "question": "¿Cómo pido las medidas sin que el cliente se agobe?",
+        "answer": "Pide un rango, no una cota exacta: 'ancho aproximado, alto aproximado'. Explica en una frase por qué lo necesitas: 'para saber si encaja en mi agenda y darte un precio real'. La mayoría responde bien cuando entiende para qué sirve el dato."
+      },
+      {
+        "question": "¿Qué hago si el cliente dice 'precio' sin más?",
+        "answer": "No des cifra. Devuelve tres preguntas cortas: tipo de mueble, medidas aproximadas y si tiene alguna referencia. Con eso puedes dar un rango útil en lugar de un número al aire que luego genera fricción."
+      },
+      {
+        "question": "¿Siempre hace falta visita técnica antes de presupuestar?",
+        "answer": "No siempre. Piezas estándar con medidas claras y material definido se pueden presupuestar sin visita. La visita es necesaria cuando hay irregularidades en el espacio, instalaciones implicadas o el cliente no sabe describir lo que quiere."
+      },
+      {
+        "question": "¿Cómo filtro a alguien que solo está comparando precios sin intención real?",
+        "answer": "Pide fecha estimada de instalación. Alguien con proyecto real tiene un plazo en mente, aunque sea amplio. Quien solo compara precios suele esquivar esa pregunta o dar una fecha indefinida."
+      },
+      {
+        "question": "¿Qué hago si el cliente no tiene fotos del espacio?",
+        "answer": "Pídele que te envíe aunque sea una foto con el móvil del hueco o la pared. No hace falta plano técnico. Una foto mal encuadrada te da más información que tres párrafos de descripción."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para el primer mensaje?",
+        "answer": "Más de cinco en el primer contacto genera abandono. Empieza con la plantilla mínima. Si responde, amplías. Si no responde a las preguntas básicas, probablemente no era un lead con intención real."
+      },
+      {
+        "question": "¿Funciona esta plantilla para presupuestos de cocinas completas?",
+        "answer": "Sí, pero añade preguntas de instalación (encimera, electrodomésticos, fontanería) y visita técnica obligatoria antes de presupuesto cerrado. La plantilla te da el contexto mínimo para decidir si merece la pena hacer esa visita."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-electricista-fontanero",
     "title": "Plantilla de cualificación para fontanero/electricista (urgencia + contexto)",
     "description": "Plantilla con preguntas exactas para que fontaneros y electricistas identifiquen urgencia, tipo de incidencia y contexto antes de desplazarse. Versión mínima, completa y matriz de prioridad incluidas.",
