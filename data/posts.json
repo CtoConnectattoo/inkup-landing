@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-nutricion",
+    "title": "Plantilla de cualificación para nutricionistas",
+    "description": "Preguntas exactas para filtrar intención y preparar la primera consulta con contexto real. Plantilla mínima en 5 preguntas, versión avanzada y microcopy listo para copiar.",
+    "excerpt": "Una plantilla de cualificación para nutricionistas debe pedir solo los datos que cambian tu respuesta: objetivo, contexto de hábitos, restricciones médicas básicas, disponibilidad y modalidad. Aquí tienes la versión mínima, la avanzada y el microcopy para no sonar a formulario.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-nutricion.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "nutricion",
+      "cualificacion",
+      "whatsapp",
+      "instagram",
+      "plantilla",
+      "gestion-consultas"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para nutricionistas",
+    "quickAnswer": [
+      "**Objetivo concreto** — Qué quiere conseguir el cliente: perder peso, ganar masa, gestionar patología, mejorar hábitos. Sin esto no puedes valorar si encaja contigo.",
+      "**Contexto de hábitos** — Una frase sobre su punto de partida: horarios, cocina, trabajo, actividad física. Cambia completamente cómo orientas la primera sesión.",
+      "**Restricciones médicas básicas** — Patologías diagnosticadas, alergias o intolerancias confirmadas. Solo las que cambian tu decisión de aceptar o derivar.",
+      "**Disponibilidad y modalidad** — Presencial u online, franjas posibles. Evita tres rondas de mensajes para cuadrar la primera cita.",
+      "**Cómo ha llegado hasta ti** — Referido, Instagram, Google. No es curiosidad: te dice qué expectativas trae y cómo de informado viene."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para nutricionistas debe capturar objetivo, contexto de hábitos, restricciones médicas básicas, disponibilidad y modalidad antes de la primera respuesta manual, para que la consulta empiece con información útil y no con preguntas de diagnóstico básico.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: pregunta solo lo que cambia tu decisión",
+      "Plantilla mínima (5 preguntas, máxima conversión)",
+      "Plantilla avanzada (cuando el caso tiene más variabilidad)",
+      "Tabla citable: pregunta, objetivo, decisión",
+      "Microcopy para no sonar a formulario",
+      "Tres rutas por intención: objetivo, patología, seguimiento",
+      "Ejemplos adaptados por tipo de consulta",
+      "Errores típicos al cualificar en nutrición",
+      "El siguiente paso si el volumen te supera",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Canal de entrada (Instagram DM o WhatsApp)",
+        "Plantilla mínima con 5 preguntas",
+        "Mensaje de cierre estándar"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Decide qué 5 datos cambian tu respuesta: objetivo, hábitos básicos, restricciones, disponibilidad y modalidad. Nada más en la primera ronda."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta de entrada, WhatsApp como canal de cierre. Si recibes más de 20 consultas semanales, considera un flujo con link único."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con resumen de lo que entendiste, si encaja contigo y el siguiente paso concreto: fecha de primera sesión o lista de espera."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes como \"quiero perder peso, ¿qué precio tienes?\", \"tengo el colesterol alto y no sé por dónde empezar\" o \"una amiga me ha recomendado, ¿cómo funciona?\" — sin más contexto.</p><p>Úsala también si acabas la primera sesión dándote cuenta de que podrías haberla preparado mucho mejor con solo tres datos que el cliente te podría haber dado antes.</p><p>No la uses todavía si recibes menos de 5 consultas semanales y tienes margen de responder con calma. Con ese volumen, la conversación directa funciona bien. El sistema aparece cuando el volumen genera caos, no antes.</p><h2>Regla madre: pregunta solo lo que cambia tu decisión</h2><blockquote><p><strong>Si la respuesta no cambia si aceptas el caso, cómo orientas la primera sesión o qué precio orientativo das, no la pidas en la cualificación.</strong></p></blockquote><p>En nutrición esto significa que el peso exacto, las analíticas completas o el historial alimentario detallado no son datos de cualificación. Son datos de consulta. Lo que sí cambia tu decisión antes de confirmar una cita: el objetivo real, si hay restricciones médicas que te obliguen a derivar y si el cliente puede venir cuando tienes hueco.</p><p>Si quieres revisar cómo aplica esta lógica a otros tipos de servicio, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas de cualificación por sector</a> con la misma estructura.</p><h2>Plantilla mínima (5 preguntas, máxima conversión)</h2><p>Esta versión está pensada para no perder al cliente en la puerta. Si alguien abandona aquí, normalmente no era un lead con intención real.</p><ol><li><strong>¿Cuál es tu objetivo principal?</strong> (perder peso, ganar masa muscular, gestionar una patología, mejorar hábitos generales, otro)</li><li><strong>Cuéntame en una frase tu punto de partida:</strong> horarios, si cocinas en casa, si haces ejercicio, si hay algo concreto que no funciona.</li><li><strong>¿Tienes alguna restricción médica diagnosticada?</strong> (diabetes, enfermedad renal, TCA, alergias o intolerancias confirmadas — solo lo relevante)</li><li><strong>¿Buscas consulta presencial u online?</strong> ¿Tienes disponibilidad por las mañanas, tardes o fines de semana?</li><li><strong>Nombre y teléfono o email</strong> para confirmarte la cita.</li></ol><blockquote><p>Si tu práctica está enfocada en patología, añade una pregunta de derivación: \"¿Tienes seguimiento médico activo para esto?\" Esa respuesta determina si puedes trabajar en paralelo o necesitas coordinación previa.</p></blockquote><h2>Plantilla avanzada (cuando el caso tiene más variabilidad)</h2><p>Úsala cuando el lead ya ha respondido la plantilla mínima y hay señales de que el caso necesita más contexto antes de la primera sesión: patología compleja, objetivo de rendimiento deportivo, historial de dietas previas que han fallado.</p><p>Añade a la mínima:</p><ul><li>¿Has seguido algún plan nutricional antes? ¿Qué ocurrió?</li><li>¿Hay alimentos que no puedas o no quieras incluir por preferencia (no por alergia)?</li><li>¿Tienes analítica reciente? (si tu proceso la requiere antes de la primera sesión)</li><li>¿Practicas deporte con regularidad? ¿Con qué frecuencia e intensidad?</li><li>¿Qué presupuesto orientativo tienes para el seguimiento mensual?</li></ul><p>Esta versión solo tiene sentido cuando la primera ya está contestada. Pedir todo de golpe al primer mensaje genera abandono.</p><h2>Tabla citable: pregunta, objetivo, decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Cuál es tu objetivo principal?</td><td>Intención real y tipo de trabajo</td><td>Si encaja contigo o necesitas derivar</td></tr><tr><td>Punto de partida en una frase</td><td>Contexto de hábitos y estilo de vida</td><td>Cómo orientas la primera sesión</td></tr><tr><td>¿Restricción médica diagnosticada?</td><td>Límites clínicos básicos</td><td>Si puedes atenderle o necesitas coordinación médica</td></tr><tr><td>Presencial u online + disponibilidad</td><td>Viabilidad logística inmediata</td><td>Si hay hueco o va a lista de espera</td></tr><tr><td>Nombre y contacto</td><td>Trazabilidad del lead</td><td>Confirmar cita o seguimiento</td></tr><tr><td>¿Ha seguido planes anteriores?</td><td>Historial de adherencia</td><td>Cómo planteas el enfoque y las expectativas</td></tr><tr><td>Presupuesto orientativo</td><td>Filtro de viabilidad económica</td><td>Si propones seguimiento mensual o sesión puntual</td></tr></tbody></table><h2>Microcopy para no sonar a formulario</h2><p>Lo que aleja a los clientes no es que preguntes. Es preguntar sin explicar para qué.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"¡Hola! Para decirte si puedo ayudarte y cómo, te hago 4 preguntas rápidas. Te lleva un minuto y así la primera sesión la aprovechamos del todo.\"</p></blockquote><h3>Cuando preguntan directamente por precio</h3><blockquote><p>\"El precio depende del tipo de seguimiento que necesitas. Dime: ¿cuál es tu objetivo principal y si buscas presencial u online? Con eso te digo exactamente qué te encaja y qué coste tiene.\"</p></blockquote><h3>Cuando el mensaje inicial es solo 'hola' o 'info'</h3><blockquote><p>\"¡Hola! Cuéntame qué buscas y te digo si puedo ayudarte. ¿Tienes algún objetivo concreto en mente?\"</p></blockquote><h3>Para separar intención desde el inicio</h3><blockquote><p>\"¿Buscas empezar un plan nutricional, gestionar algo concreto de salud o tienes dudas sobre cómo funciona el proceso? Te oriento según lo que necesites.\"</p></blockquote><h2>Tres rutas por intención: objetivo, patología, seguimiento</h2><p>La mayoría de consultas entrantes en nutrición encajan en una de estas tres rutas. Identifica cuál es antes de responder.</p><h3>Ruta A — Objetivo de composición corporal o hábitos</h3><p>El lead quiere perder peso, ganar masa o mejorar hábitos sin patología de fondo.</p><ol><li>Objetivo concreto</li><li>Punto de partida en una frase (hábitos, actividad)</li><li>Disponibilidad y modalidad</li><li>Contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Con lo que me dices, creo que puedo ayudarte bien. El siguiente paso es una primera consulta de valoración. ¿Tienes disponibilidad X o Y?\"</p></blockquote><h3>Ruta B — Gestión de patología</h3><p>Diabetes, SOP, enfermedad renal, TCA, digestivo. El caso requiere más contexto antes de confirmar.</p><ol><li>Patología diagnosticada y si tiene seguimiento médico activo</li><li>Objetivo dentro de la gestión de esa patología</li><li>Restricciones o condicionantes médicos ya conocidos</li><li>Disponibilidad y modalidad</li><li>Contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Trabajo con casos como el tuyo. Para la primera sesión necesito que traigas el último informe médico si tienes. ¿Cuándo podrías?\"</p></blockquote><h3>Ruta C — Seguimiento o revisión de un plan previo</h3><p>El cliente ya ha trabajado con otro profesional o contigo antes y busca continuar o ajustar.</p><ol><li>Qué se hizo antes y por qué no continúa</li><li>Objetivo actual</li><li>Si tiene materiales del trabajo anterior (plan, analíticas)</li><li>Disponibilidad</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>\"Perfecto. Con esa información arrancamos sin empezar de cero. ¿Te viene bien una sesión de revisión la semana que viene?\"</p></blockquote><p>Si el reto no es saber qué preguntar sino cuadrar la cita sin que se convierta en 15 mensajes de ida y vuelta, <a href=\"/blog/agendar-citas-sin-mensajes/\">aquí tienes cómo filtrar antes de agendar para reducir la cadena a tres mensajes</a>.</p><h2>Ejemplos adaptados por tipo de consulta</h2><p>No cambies la plantilla entera. Cambia solo las preguntas variables según el perfil de cliente que más recibes.</p><h3>Consulta de pérdida de peso</h3><ul><li>Variable clave: <strong>objetivo de peso orientativo + historial de dietas</strong></li></ul><blockquote><p>\"¿Tienes un objetivo concreto en mente? ¿Has seguido algún plan antes y qué pasó?\"</p></blockquote><h3>Consulta de rendimiento deportivo</h3><ul><li>Variable clave: <strong>deporte, frecuencia, objetivo de rendimiento o composición</strong></li></ul><blockquote><p>\"¿Qué deporte practicas y con qué frecuencia? ¿Buscas mejorar rendimiento, recuperación o composición corporal?\"</p></blockquote><h3>Consulta de patología digestiva</h3><ul><li>Variable clave: <strong>diagnóstico, síntomas principales, si tiene seguimiento médico</strong></li></ul><blockquote><p>\"¿Tienes diagnóstico confirmado o estás en proceso de estudio? ¿Qué síntomas te generan más problema en el día a día?\"</p></blockquote><h3>Consulta de alimentación infantil o embarazo</h3><ul><li>Variable clave: <strong>edad del niño o semana de gestación, contexto familiar, preocupación concreta</strong></li></ul><blockquote><p>\"¿Qué edad tiene tu hijo o en qué semana estás? ¿Hay algo concreto que te preocupe o que no esté funcionando?\"</p></blockquote><p>Para ver cómo se estructura la recogida de datos mínimos en otros tipos de cita, <a href=\"/blog/datos-minimos-para-agendar-cita/\">aquí tienes el checklist de datos mínimos para agendar sin ida y vuelta</a>.</p><h2>Errores típicos al cualificar en nutrición</h2><ol><li><strong>Pedir el peso o el porcentaje de grasa en el primer mensaje</strong><br>Consecuencia: abandono o respuesta defensiva antes de haber generado confianza.<br>Corrección: deja los datos físicos para la primera sesión.</li><li><strong>Confundir cualificación con anamnesis</strong><br>Consecuencia: el cliente siente que ya ha hecho la consulta antes de pagarla.<br>Corrección: en la cualificación recoges contexto mínimo. La anamnesis ocurre en sesión.</li><li><strong>No preguntar la modalidad al principio</strong><br>Consecuencia: tres mensajes más para descubrir que el cliente solo puede hacer online y tú no tienes formato online.<br>Corrección: presencial u online es una de las primeras preguntas.</li><li><strong>Dar precio de seguimiento sin saber qué necesita</strong><br>Consecuencia: el cliente compara solo por precio, sin contexto de valor.<br>Corrección: primero objetivo y modalidad, luego precio orientativo con el formato que encaja.</li><li><strong>No filtrar expectativas poco realistas antes de la primera cita</strong><br>Consecuencia: primera sesión incómoda o cliente insatisfecho desde el inicio.<br>Corrección: la pregunta de objetivo concreto lo revela. Si el objetivo no es compatible con lo que haces, dilo antes de confirmar.</li><li><strong>Preguntar demasiado en Instagram DM</strong><br>Consecuencia: la conversación se alarga, el lead pierde interés o se pierde en el hilo.<br>Corrección: el DM es la puerta. Con dos preguntas de contexto mínimo mandas al lead a WhatsApp o a un punto estructurado donde la conversación tiene sentido.</li></ol><h2>El siguiente paso si el volumen te supera</h2><p>Si tu problema ya no es saber qué preguntar sino que la plantilla depende de que tú estés disponible para enviarla — que si estás en consulta no la mandas, que si abres el lunes con 34 mensajes sin leer no sabes cuáles son urgentes y cuáles son curiosos — el problema es estructural, no de contenido.</p><p>En ese punto, lo que necesitas es que la cualificación ocurra antes de que tú intervengas: un flujo que recoge objetivo, restricciones y disponibilidad, filtra los que no encajan y te llega a WhatsApp con el contexto ya ordenado. Tú entras a cerrar, no a preguntar lo básico.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que puedes poner en tu bio o en tus stories, que lleva al cliente por las preguntas de cualificación y te redirige a WhatsApp con el resumen. No es para todos los casos — si recibes pocas consultas o tu proceso requiere conversación larga desde el primer mensaje, probablemente no lo necesitas aún.</p>",
+    "faq": [
+      {
+        "question": "¿Pido el peso o el IMC antes de la primera consulta?",
+        "answer": "No. El peso sin contexto no te da información útil y puede generar rechazo inmediato en personas con historial complicado. Pregunta el objetivo y deja que el diagnóstico físico ocurra en la primera sesión."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo con 'quiero bajar de peso, ¿cuánto cobras?'",
+        "answer": "No des tarifa suelta. Devuelve una mini-plantilla: objetivo concreto, contexto en una frase, si hay alguna restricción médica y si busca presencial u online. Con eso puedes dar un rango orientativo y valorar si encaja."
+      },
+      {
+        "question": "¿Pregunto si tiene analíticas recientes antes de la primera cita?",
+        "answer": "Solo si tu proceso de trabajo las requiere antes de la sesión inicial. Si no, es un dato que recoge mejor en consulta. Pedirlo en la cualificación añade fricción sin ventaja real."
+      },
+      {
+        "question": "¿La cualificación se hace por Instagram DM o por WhatsApp?",
+        "answer": "El DM funciona como puerta: recibes el primer mensaje y mandas al lead a un punto donde la conversación tiene estructura. WhatsApp es donde se cierra. Preguntar todo en DM alarga la cadena y baja la tasa de respuesta."
+      },
+      {
+        "question": "¿Cómo filtro a alguien que busca resultados imposibles o tiene expectativas poco realistas?",
+        "answer": "La pregunta de objetivo concreto lo revela antes de la primera sesión. Si el objetivo es claramente incompatible con lo que ofreces, es mejor decirlo en el mensaje de cualificación que en la primera cita pagada."
+      },
+      {
+        "question": "¿Pido información sobre patologías diagnosticadas antes de aceptar al cliente?",
+        "answer": "Solo las que determinan si puedes atenderle o necesitas derivar. Diabetes, trastorno de conducta alimentaria diagnosticado, enfermedad renal. No pidas un historial médico completo: eso es para la primera sesión."
+      },
+      {
+        "question": "¿Qué hago si el cliente no responde alguna de las preguntas?",
+        "answer": "Si no responde una pregunta que cambia tu decisión (por ejemplo, si hay restricciones médicas relevantes), pídela de forma directa antes de confirmar la cita. Si no responde preguntas opcionales, sigue adelante."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas para cualificar en nutrición?",
+        "answer": "Más de 6 en la primera ronda. Si necesitas más de 6 datos antes de responder, probablemente estás mezclando cualificación con anamnesis. La anamnesis ocurre en la primera sesión, no antes."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-masajes",
     "title": "Plantilla de cualificación para masajes (terapéutico/relajante)",
     "description": "Preguntas exactas para asignar bien cada cita de masaje: objetivo, zona, duración y contraindicaciones básicas antes de dar hueco. Versión mínima en 5 preguntas y completa en 9.",
