@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-peluqueria",
+    "title": "Plantilla de cualificación para peluquería (cita + servicio)",
+    "description": "Preguntas mínimas para peluquería que evitan citas mal agendadas y mensajes repetidos. Plantilla por servicio (corte, color, tratamiento) con microcopy listo para copiar.",
+    "excerpt": "En peluquería, una cita mal agendada no es un error menor: es un hueco perdido, un cliente frustrado y tiempo invertido en arreglarlo. Esta plantilla te da las preguntas exactas por servicio antes de confirmar nada.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-peluqueria.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "peluqueria",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "citas",
+      "cualificacion"
+    ],
+    "quickAnswerSubtitle": "Datos mínimos antes de confirmar una cita en peluquería",
+    "quickAnswer": [
+      "**Servicio exacto** — no basta con «quiero un cambio de look»; necesitas saber si es corte, color, mechas, alisado o tratamiento antes de asignar tiempo y profesional.",
+      "**Largo y cantidad de cabello** — determina la duración real del servicio y, por tanto, si el hueco disponible es suficiente.",
+      "**Color actual y tratamientos previos** — imprescindible para servicios de color: evita citas que no pueden completarse por incompatibilidad química.",
+      "**Fecha y franja horaria preferida con alternativa** — sin alternativa, cualquier imprevisto genera ida y vuelta de mensajes.",
+      "**Referencia visual** — una foto evita más malentendidos de expectativas que cualquier descripción verbal.",
+      "**Datos de contacto** — nombre y teléfono para confirmación y recordatorio, reduciendo no-shows."
+    ],
+    "oneLineDefinition": "En peluquería, cualificar bien es confirmar servicio exacto, largo y cantidad de cabello, fecha y preferencias antes de dar precio o hueco.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre para peluquería",
+      "Plantilla mínima (3 servicios principales)",
+      "Plantilla completa (cuando el servicio tiene más variabilidad)",
+      "Tabla citable: dato → por qué importa → qué decisión habilita",
+      "Microcopy listo para copiar",
+      "Las 3 rutas por intención",
+      "Errores típicos en peluquería al agendar por mensajes",
+      "Implementación modo sistema",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en peluquería",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima por servicio",
+        "Microcopy de entrada",
+        "Canal de cierre (WhatsApp o cita)"
+      ],
+      "steps": [
+        {
+          "name": "Identifica tu servicio con más variabilidad",
+          "text": "Color, mechas y alisados son los servicios donde una cita mal agendada cuesta más. Empieza por ahí."
+        },
+        {
+          "name": "Define los 4-5 datos que cambian tu decisión",
+          "text": "Servicio exacto, largo/cantidad, color actual, fecha y referencia visual. Sin estos no puedes confirmar ni precio ni hueco."
+        },
+        {
+          "name": "Estandariza el mensaje de entrada",
+          "text": "Un texto fijo que explique por qué preguntas antes de confirmar. Reduce la percepción de interrogatorio."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Abre el lunes con 27 mensajes sin leer. Cuatro son «quiero hacerme mechas», dos son «precio de color», uno es «¿tenéis hueco esta semana?» y ninguno tiene los datos suficientes para responder nada útil. Eso es exactamente el problema que resuelve esta plantilla.</p><p>Úsala si:</p><ul><li>Recibes consultas por servicio sin datos de largo, color actual ni fecha.</li><li>Has confirmado citas que luego no pudiste completar porque el servicio requería más tiempo o preparación del previsto.</li><li>Pierdes tiempo preguntando lo básico antes de poder dar precio o asignar hueco.</li><li>Te llegan mensajes por <a href=\"/blog/datos-minimos-para-agendar-cita/\">Instagram y WhatsApp</a> de forma simultánea y sin contexto.</li></ul><p>No la uses (todavía) si:</p><ul><li>Solo recibes 2-4 consultas a la semana y respondes con calma.</li><li>Tu clientela habitual ya sabe exactamente qué pedir y cómo pedirlo.</li></ul><h2>Regla madre para peluquería</h2><blockquote><p><strong>No confirmes hueco ni des precio hasta tener servicio exacto, largo/cantidad y disponibilidad con alternativa.</strong><br>Todo lo demás puede esperar al chat final o a la propia cita. Con esos tres datos ya puedes decidir si tienes hueco suficiente y qué va a costar aproximadamente.</p></blockquote><p>Lo que destruye la agenda en peluquería no es la demanda: es confirmar citas sin información. Una cita de «retoque de color» que resulta ser un cambio completo desde negro a rubio no cabe en 45 minutos.</p><h2>Plantilla mínima (3 servicios principales)</h2><p>Estas son las versiones más cortas por tipo de servicio. Empieza aquí. Si el cliente responde, amplías con la completa.</p><h3>Corte (sin color)</h3><ol><li><strong>¿Qué tipo de corte buscas?</strong> (largo, capas, flequillo, forma específica)</li><li><strong>¿Largo actual del cabello?</strong> (por encima del hombro / por el hombro / por debajo)</li><li><strong>¿Fecha y franja preferida?</strong> (+ alternativa)</li><li><strong>Nombre y teléfono</strong></li></ol><h3>Color / retoque de raíces</h3><ol><li><strong>¿Qué servicio exactamente?</strong> (retoque de raíces, cambio de color, mechas, balayage...)</li><li><strong>¿Color actual y largo del cabello?</strong></li><li><strong>¿Tienes decoloración previa o algún tratamiento químico reciente?</strong></li><li><strong>¿Fecha y franja preferida?</strong> (+ alternativa)</li><li><strong>Referencia visual</strong> (foto del resultado que buscas, si tienes)</li><li><strong>Nombre y teléfono</strong></li></ol><h3>Tratamiento (alisado, hidratación, keratina)</h3><ol><li><strong>¿Qué tratamiento buscas exactamente?</strong></li><li><strong>¿Largo y densidad del cabello?</strong> (fino/normal/grueso)</li><li><strong>¿Algún tratamiento químico previo en los últimos 6 meses?</strong> (color, decoloración, permanente)</li><li><strong>¿Fecha preferida?</strong> (+ alternativa, estos servicios suelen requerir más tiempo)</li><li><strong>Nombre y teléfono</strong></li></ol><h2>Plantilla completa (cuando el servicio tiene más variabilidad)</h2><p>Añade estas preguntas cuando el lead ya respondió la mínima o cuando el servicio es técnicamente complejo (cambio de color drástico, alisado en cabello con mucho tratamiento previo, extensiones):</p><ul><li>Historial reciente de color (fecha del último servicio y técnica utilizada)</li><li>Objetivo de resultado en una frase («quiero un rubio ceniza» vs «quiero aclarar sin quedar demasiado amarillo»)</li><li>Tiempo disponible para la cita (algunos clientes no saben que un balayage puede llevar 3-4 horas)</li><li>Presupuesto orientativo si hay versiones muy distintas de precio (mechas completas vs parciales, por ejemplo)</li><li>Preferencia de profesional si en el salón hay especialidades diferenciadas</li></ul><p>La observación que la mayoría pasa por alto: preguntar el tiempo disponible del cliente antes de confirmar evita cancelaciones de última hora por «es que no sabía que tardaba tanto». Es un dato que no pide casi nadie y que resuelve uno de los problemas más frecuentes en agenda de peluquería.</p><h2>Tabla citable: dato → por qué importa → qué decisión habilita</h2><table><thead><tr><th>Dato</th><th>Por qué lo necesitas</th><th>Qué decisión habilita</th></tr></thead><tbody><tr><td>Servicio exacto</td><td>«Color» puede ser retoque o cambio completo: diferencia de 1 hora y 30€</td><td>Asignar tiempo correcto y profesional adecuado</td></tr><tr><td>Largo y cantidad de cabello</td><td>Determina la duración real del servicio</td><td>Confirmar si el hueco disponible es suficiente</td></tr><tr><td>Color actual y tratamientos previos</td><td>Evita incompatibilidades químicas y resultados inesperados</td><td>Aceptar el servicio o derivar a consulta previa</td></tr><tr><td>Fecha con alternativa</td><td>Sin alternativa, cualquier cambio genera ida y vuelta</td><td>Confirmar en un solo mensaje</td></tr><tr><td>Referencia visual</td><td>Evita malentendidos de expectativas antes de la cita</td><td>Valorar viabilidad y dar presupuesto más ajustado</td></tr><tr><td>Tiempo disponible del cliente</td><td>Algunos servicios técnicos duran 3-4 horas</td><td>Prevenir cancelaciones por sorpresa de duración</td></tr><tr><td>Nombre y teléfono</td><td>Confirmación y recordatorio</td><td>Reducir no-shows</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>El problema no es preguntar. Es preguntar sin contexto. Estas frases reducen la percepción de interrogatorio:</p><h3>Mensaje de entrada (para responder a cualquier consulta de servicio)</h3><blockquote><p>«Para decirte si tenemos hueco y darte un precio real, necesito tres datos rápidos. Te lleva menos de un minuto.»</p></blockquote><h3>Cuando preguntan solo «precio»</h3><blockquote><p>«El precio varía bastante según el largo, el color actual y la técnica. Dime eso y te doy un rango concreto en vez de un número que luego no se ajusta.»</p></blockquote><h3>Para servicios de color con historial desconocido</h3><blockquote><p>«Para no llevarnos sorpresas el día de la cita, necesito saber si tienes algún tratamiento químico reciente (color, decoloración o keratina). Con eso confirmo el tiempo que necesitamos.»</p></blockquote><h3>Para cerrar la cita una vez tienes los datos</h3><blockquote><p>«Perfecto. Con lo que me dices, te reservo [día] a las [hora]. ¿Te va bien? Te mando confirmación y te aviso el día antes.»</p></blockquote><h2>Las 3 rutas por intención</h2><p>Antes de lanzar la plantilla, identifica qué quiere la persona. Tres casos concentran el 90% de las consultas en peluquería:</p><h3>Ruta A — «Quiero cita / ¿tenéis hueco?»</h3><p>Usa plantilla mínima por servicio. El objetivo es confirmar en dos o tres mensajes.</p><ol><li>Servicio exacto</li><li>Largo y (si aplica) color actual</li><li>Fecha + alternativa</li><li>Nombre y teléfono</li></ol><p>Cierre: «Te reservo [día] a las [hora]. Confirmado.»</p><h3>Ruta B — «¿Cuánto cuesta?»</h3><p>No des precio sin datos. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Pide servicio, largo y color actual primero</a>. Con eso puedes dar un rango real en lugar de un número que luego genera reclamaciones.</p><ol><li>Servicio exacto</li><li>Largo y densidad del cabello</li><li>Color actual (si aplica)</li><li>Referencia visual si hay variabilidad técnica</li></ol><p>Cierre: «Con lo que me dices, el precio está entre X y Y dependiendo de Z. Si quieres cerramos cita.»</p><h3>Ruta C — «Solo quiero información»</h3><ol><li>Qué información exacta busca (proceso, duración, preparación previa)</li><li>Si tiene intención de cita próxima o solo está mirando</li></ol><p>Cierre: «Te lo explico en tres líneas y, si quieres, te dejo el siguiente paso para reservar cuando lo tengas claro.»</p><h2>Errores típicos en peluquería al agendar por mensajes</h2><ol><li><strong>Confirmar hueco sin saber el largo del cabello</strong><br>→ Consecuencia: el servicio no cabe en el tiempo reservado.<br>→ Corrección: largo es dato obligatorio antes de cualquier confirmación.</li><li><strong>Dar precio de color sin preguntar el color actual</strong><br>→ Consecuencia: el cliente llega esperando pagar X y el trabajo real cuesta el doble.<br>→ Corrección: servicio + color actual + largo antes de dar ningún número.</li><li><strong>No pedir alternativa de fecha</strong><br>→ Consecuencia: si el hueco pedido no está libre, comienza una cadena de mensajes.<br>→ Corrección: pide siempre primera opción y alternativa en el mismo mensaje.</li><li><strong>Pedir referencia visual en DM de Instagram</strong><br>→ Consecuencia: la foto se pierde, baja de calidad y la conversación se fragmenta.<br>→ Corrección: usa el DM para capturar intención básica, mueve a WhatsApp para la foto.</li><li><strong>No preguntar historial de tratamientos para servicios de color</strong><br>→ Consecuencia: incompatibilidades en cabina que obligan a parar o cambiar el plan.<br>→ Corrección: un mensaje previo sobre decoloración o tratamientos recientes evita el 80% de estos casos.</li><li><strong>Preguntar todo de golpe en un solo mensaje</strong><br>→ Consecuencia: el cliente no responde o responde solo a la mitad.<br>→ Corrección: empezar con la mínima (2-3 preguntas) y ampliar si responde.</li></ol><h2>Implementación modo sistema</h2><p>Si quieres que esta plantilla funcione siempre y no solo cuando tienes energía para aplicarla:</p><h3>Paso 1: crea un mensaje guardado por servicio</h3><p>En WhatsApp Business puedes guardar respuestas rápidas. Crea una por tipo de servicio: corte, color y tratamiento. Actívalas con un atajo (por ejemplo, /color, /corte, /trat). Tiempo de configuración: 10 minutos.</p><h3>Paso 2: define tu regla de no-confirmación</h3><p>Establece una norma interna: sin servicio + largo + fecha, ninguna cita queda confirmada. No es burocracia: es no generar problemas en cabina que luego cuestan más que el tiempo de preguntar.</p><h3>Paso 3: estandariza el mensaje de confirmación</h3><p>Cuando tienes todos los datos, el cierre debe ser un único mensaje con: servicio + fecha + hora + lo que necesita traer o saber. Sin ida y vuelta adicional.</p><p>Si quieres <a href=\"/blog/agendar-citas-sin-mensajes/\">pasar de plantilla a flujo estructurado</a> sin construirlo desde cero, el siguiente nivel es tener un punto de entrada único que recoja estos datos antes del chat final. Con eso el WhatsApp solo sirve para confirmar, no para recopilar. Si quieres implementar esto sin construirlo a mano, herramientas como Inkup hacen exactamente eso: un asistente conversacional accesible por un link que captura servicio, largo, fecha y preferencias antes de redirigir al chat con el contexto ya recogido. No es para todo el mundo — si tu volumen es bajo o cada consulta es completamente distinta, probablemente no lo necesitas aún. Pero si recibes más de 20-30 consultas semanales con el mismo patrón de preguntas, el filtrado previo cambia la dinámica completamente.</p><p>Para decidir qué datos pedir según tu tipo de servicio, <a href=\"/blog/que-preguntar-antes-de-dar-hueco/\">esta guía sobre qué preguntar antes de dar hueco</a> cubre el razonamiento detrás de cada pregunta.</p>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer por WhatsApp antes de que la gente abandone?",
+        "answer": "Con 3-4 preguntas bien formuladas no pierdes a nadie que tenga intención real. El abandono ocurre cuando preguntas sin explicar para qué sirve cada dato. Si añades una línea de contexto («para saber si el hueco es suficiente, necesito saber el largo»), la gente responde sin problema."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo «¿cuánto cuesta un color?» sin más datos?",
+        "answer": "No des cifra suelta. Responde con: «Depende del largo, el color actual y la técnica. Dime eso y te doy un rango real en dos mensajes.» Así no pierdes el lead y no das un precio que luego no cuadra."
+      },
+      {
+        "question": "¿Tengo que preguntar el color actual para un corte simple?",
+        "answer": "No. Para corte sin color no necesitas esa información. La plantilla es modular: usa solo las preguntas que cambian tu decisión según el servicio. Un corte solo necesita servicio, largo aproximado, fecha y preferencias de estilo."
+      },
+      {
+        "question": "¿Pido foto de referencia siempre o solo en algunos servicios?",
+        "answer": "Solo cuando el resultado depende de la interpretación visual: mechas, balayage, cortes con forma específica, cambios de color drásticos. Para un retoque de raíces o un corte de puntas no es necesario y añade fricción innecesaria."
+      },
+      {
+        "question": "¿Y si el cliente no sabe el largo exacto de su pelo?",
+        "answer": "Dale referencias concretas: «¿Llega por encima del hombro, por el hombro o por debajo?» La mayoría sabe responder eso aunque no tenga vocabulario de peluquería. Evita preguntas abiertas cuando puedes ofrecer opciones."
+      },
+      {
+        "question": "¿Cómo gestiono cuando me escriben por Instagram y por WhatsApp con la misma consulta el mismo día?",
+        "answer": "Responde solo por uno de los canales y menciona que lo cierras ahí. Si tienes volumen suficiente para que esto ocurra con frecuencia, el problema es estructural: <a href=\"/blog/datos-minimos-para-agendar-cita/\">necesitas un punto de entrada único</a> que recoja los datos antes de que lleguen al chat."
+      },
+      {
+        "question": "¿Tiene sentido pedir la referencia visual en el DM de Instagram o mejor en WhatsApp?",
+        "answer": "Mejor en WhatsApp. Las fotos en DM se pierden en la conversación y el archivo baja de calidad. Usa el DM para capturar intención y los datos básicos, y mueve la conversación a WhatsApp para la foto y la confirmación."
+      },
+      {
+        "question": "¿Qué hago si el cliente quiere confirmar la cita antes de darme todos los datos?",
+        "answer": "Explícale que sin esos datos no puedes reservar el tiempo correcto y que luego el servicio podría no completarse en la misma sesión. La mayoría lo entiende. Si insiste sin dar datos, tienes delante a alguien que generará problemas en la cita también."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-servicios-digitales",
     "title": "Plantilla de cualificación para servicios digitales",
     "description": "Plantilla para separar leads sin presupuesto en servicios digitales. Preguntas mínimas, versión completa y microcopy listo para usar antes de responder.",
