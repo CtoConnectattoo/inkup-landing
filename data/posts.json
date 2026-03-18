@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-entrenador-personal",
+    "title": "Plantilla de cualificación para entrenador personal",
+    "description": "Preguntas exactas para que un entrenador personal separe curiosos de clientes reales, entienda el objetivo y diseñe una propuesta sin intercambiar 15 mensajes. Versión mínima y completa con microcopy listo para copiar.",
+    "excerpt": "Una plantilla de cualificación para entrenador personal debe capturar objetivo, experiencia previa, disponibilidad y condicionantes antes de proponer cualquier plan o precio. Aquí la versión mínima, la completa y los scripts para no sonar robótico.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-entrenador-personal.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "entrenador-personal",
+      "cualificacion",
+      "plantilla",
+      "gestion-consultas",
+      "whatsapp",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "5 datos que cambian tu propuesta",
+    "quickAnswer": [
+      "**Objetivo concreto** — Perder peso, ganar músculo, preparar carrera, rehabilitar lesión. Sin esto no puedes diseñar nada.",
+      "**Experiencia previa** — Si nunca ha entrenado, tu propuesta de intensidad y formato cambia por completo.",
+      "**Disponibilidad real** — Días y franjas que puede cumplir de verdad, no las que quiere en teoría.",
+      "**Condicionantes físicos** — Lesiones activas, restricciones médicas o limitaciones de movilidad que cambian el plan.",
+      "**Modalidad y presupuesto orientativo** — Presencial, online o híbrido. Y si el rango de inversión encaja contigo antes de dedicar tiempo."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para entrenador personal debe capturar objetivo, experiencia, disponibilidad, condicionantes físicos y modalidad antes de hacer cualquier propuesta de plan o precio.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: pregunta solo lo que cambia tu propuesta",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando el lead ya está dentro)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy para no sonar robótico",
+      "Variantes por tipo de consulta",
+      "Implementación sin herramientas complejas",
+      "Errores típicos al cualificar como entrenador personal",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Canal de entrada (DM o WhatsApp)",
+        "Plantilla mínima con 5 preguntas",
+        "Mensaje de cierre estándar"
+      ],
+      "steps": [
+        {
+          "name": "Define tu contexto mínimo",
+          "text": "5 datos que siempre necesitas: objetivo, experiencia, disponibilidad, condicionantes y modalidad/presupuesto."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta, WhatsApp para cerrar. Si el volumen crece, usa un link con flujo previo."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje con resumen del caso, propuesta concreta y siguiente paso claro (primera sesión, llamada o propuesta por escrito)."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te reconoces en alguna de estas situaciones:</p><ul><li>Recibes mensajes tipo \"quiero empezar a entrenar\", \"cuánto cobras\" o \"¿haces online?\" sin más contexto.</li><li>Tardas 10 o 15 mensajes en entender qué necesita alguien antes de poder decirle si puedes ayudarle.</li><li>Terminas enviando propuestas genéricas porque no tienes los datos para personalizar.</li><li>Se te mezclan en WhatsApp los leads serios con los que solo curiosean y no sabes a quién priorizar.</li></ul><p>No la uses todavía si recibes menos de 3 o 4 consultas a la semana y puedes responder con calma. Con ese volumen, una conversación libre funciona bien. El sistema empieza a tener sentido cuando el caos aparece, no antes.</p><h2>Regla madre: pregunta solo lo que cambia tu propuesta</h2><blockquote><p><strong>Si la respuesta no cambia tu plan, tu precio o si aceptas el caso, no lo preguntes al inicio.</strong></p></blockquote><p>En entrenamiento personal, los datos que de verdad cambian tu decisión son cinco: objetivo real, experiencia previa, disponibilidad, condicionantes físicos y modalidad. Todo lo demás puede esperar a la primera sesión o llamada. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Saber qué preguntas hacer para filtrar clientes según el servicio</a> es lo que separa un proceso eficiente de uno que consume tiempo sin convertir.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para no perder a nadie que tenga intención real. Si alguien abandona aquí, casi nunca era un lead serio.</p><ol><li><strong>¿Cuál es tu objetivo principal?</strong> (Perder peso, ganar masa muscular, mejorar resistencia, preparar una prueba deportiva, rehabilitar lesión, otro)</li><li><strong>¿Tienes experiencia entrenando?</strong> (Sin experiencia / algo de gimnasio / llevo tiempo entrenando / vengo de otro entrenador)</li><li><strong>¿Qué disponibilidad real tienes?</strong> Días a la semana y franjas (mañana, tarde, noche)</li><li><strong>¿Tienes alguna lesión activa o condicionante físico que deba saber antes de diseñar nada?</strong></li><li><strong>¿Buscas entrenamiento presencial, online o te es indiferente?</strong> Y si tienes un rango de inversión mensual en mente, indícalo (esto me ayuda a ofrecerte el formato que más te encaja).</li></ol><blockquote><p>Con estos cinco datos puedes diseñar una propuesta real o saber en 30 segundos si el caso encaja contigo. Sin ellos, cualquier respuesta es improvisación.</p></blockquote><h2>Plantilla completa (cuando el lead ya está dentro)</h2><p>Úsala cuando el cliente ya respondió la plantilla mínima y hay interés claro, o cuando tu servicio tiene mucha variabilidad (alta competición, rehabilitación, público muy específico).</p><p>Añade a la mínima:</p><ul><li>Objetivo secundario o a medio plazo (qué quiere conseguir en 3 o 6 meses)</li><li>Historial de lesiones relevantes (no solo las activas)</li><li>Acceso a material o instalaciones (gym propio, en casa, acceso a box, piscina)</li><li>Preferencias de metodología si las tiene (funcional, fuerza, HIIT, pilates, otro)</li><li>Si hay algún evento o fecha límite (boda, competición, viaje)</li><li>Datos de contacto completos si aún no los tienes</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Cuál es tu objetivo principal?</td><td>Dirección del plan y tipo de trabajo</td><td>Si encaja con tu especialidad y qué metodología proponer</td></tr><tr><td>¿Tienes experiencia entrenando?</td><td>Punto de partida real</td><td>Intensidad inicial, formato y ritmo de progresión</td></tr><tr><td>¿Qué disponibilidad tienes?</td><td>Frecuencia semanal posible</td><td>Si el plan que necesita es viable con su agenda</td></tr><tr><td>¿Tienes lesión o condicionante físico?</td><td>Restricciones y riesgos</td><td>Si puedes aceptar el caso o necesitas derivar</td></tr><tr><td>¿Presencial, online o indiferente?</td><td>Formato del servicio</td><td>Qué producto ofrecer y a qué precio</td></tr><tr><td>Rango de inversión orientativo</td><td>Filtro de encaje económico</td><td>Si merece la pena avanzar o hay desajuste desde el inicio</td></tr><tr><td>Evento o fecha límite</td><td>Urgencia y horizonte temporal</td><td>Si hay tiempo suficiente para resultados reales</td></tr></tbody></table><p>Esta tabla es el núcleo de la cualificación. <a href=\"/blog/matriz-filtro-intencion-requisitos-presupuesto/\">Una matriz de filtrado que cruce intención, requisitos y presupuesto</a> te permite tomar decisiones en segundos, no en conversaciones largas.</p><h2>Microcopy para no sonar robótico</h2><p>El problema no es preguntar. Es preguntar sin explicar por qué. Estos mensajes funcionan porque ponen el beneficio del cliente en el centro, no tu proceso.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"¡Perfecto! Para decirte si puedo ayudarte y cómo, necesito 5 datos rápidos. Te lleva menos de 2 minutos y con eso te respondo con algo concreto, no con un PDF genérico.\"</p></blockquote><h3>Cuando preguntan solo \"precio\" o \"cuánto cobras\"</h3><blockquote><p>\"El precio depende del formato y de lo que necesitas exactamente. Para darte una cifra que tenga sentido (y no un número al aire), dime: objetivo + disponibilidad + si buscas presencial u online. Con eso te respondo en el día.\"</p></blockquote><h3>Cuando el mensaje es solo \"quiero empezar a entrenar\"</h3><blockquote><p>\"Genial, te ayudo. Para saber por dónde empezar contigo, cuéntame: ¿qué objetivo tienes y cuánta disponibilidad real tienes a la semana? Con eso ya me hago una idea y te propongo algo concreto.\"</p></blockquote><h3>Versión tono más directo (para perfiles que prefieren sin rodeos)</h3><blockquote><p>\"Para hacerte una propuesta real necesito 5 datos: objetivo, experiencia previa, disponibilidad, si tienes alguna lesión y si buscas presencial u online. Respóndeme esto y en pocas horas te digo qué haría contigo.\"</p></blockquote><h2>Variantes por tipo de consulta</h2><p>No todas las consultas son iguales. Aquí las tres rutas más habituales en entrenamiento personal.</p><h3>Ruta A — \"Quiero empezar desde cero\"</h3><p>Prioriza experiencia previa y condicionantes antes que objetivo. Alguien sin base necesita un enfoque completamente distinto al de alguien que lleva tiempo en el gym.</p><ol><li>¿Has entrenado antes? (Y si sí, cuánto tiempo y con qué regularidad)</li><li>¿Tienes alguna lesión o limitación física?</li><li>¿Qué quieres conseguir?</li><li>¿Cuántos días a la semana puedes entrenar de verdad?</li><li>¿Presencial u online?</li></ol><h3>Ruta B — \"Tengo un objetivo concreto\" (competición, evento, fecha límite)</h3><p>Prioriza fecha límite y nivel actual. La urgencia cambia el plan por completo.</p><ol><li>¿Cuál es el evento y en qué fecha?</li><li>¿Cuál es tu nivel actual de entrenamiento?</li><li>¿Cuántos días puedes entrenar de aquí a esa fecha?</li><li>¿Tienes lesión activa o algo que limite la preparación?</li><li>¿Buscas presencial, online o solo planificación?</li></ol><h3>Ruta C — \"Tengo una lesión y quiero retomar\"</h3><p>Este caso requiere más cuidado. Antes de proponer nada, necesitas saber si tiene alta médica y qué restricciones tiene.</p><ol><li>¿Qué lesión es y cuándo ocurrió?</li><li>¿Tienes alta médica o autorización para retomar el ejercicio?</li><li>¿Qué restricciones concretas tienes?</li><li>¿Cuál era tu nivel antes de la lesión?</li><li>¿Qué objetivo tienes ahora?</li></ol><blockquote><p>Si no tiene alta médica, no propongas plan todavía. Es un límite profesional, no una excusa para no cerrar la venta.</p></blockquote><h2>Implementación sin herramientas complejas</h2><p>Si ahora mismo gestionas todo a mano, este proceso te funciona desde hoy sin cambiar nada:</p><h3>Paso 1: guarda la plantilla mínima como respuesta guardada en WhatsApp</h3><p>WhatsApp Business permite guardar respuestas rápidas. Guarda el mensaje de entrada y la plantilla mínima. Así la mandas en dos toques sin reescribir nada.</p><h3>Paso 2: decide dónde ocurre la cualificación</h3><p>Si te llegan por Instagram DM: usa el DM solo para el primer mensaje de bienvenida y redirige a WhatsApp para la cualificación completa. No hagas todo en DM: los hilos se pierden y la conversación se fragmenta. <a href=\"/blog/agendar-citas-sin-mensajes/\">Cómo agendar sin intercambiar 20 mensajes</a> empieza exactamente aquí: filtra antes de abrir la agenda.</p><h3>Paso 3: estandariza el cierre</h3><p>Una vez tienes los cinco datos, tu mensaje de cierre debe tener tres partes: resumen de lo que entendiste, propuesta concreta (qué formato, a qué precio orientativo) y siguiente paso claro (primera sesión, llamada de 15 minutos o propuesta por escrito).</p><p>Si el volumen de consultas crece y este proceso manual se vuelve un cuello de botella, el siguiente paso lógico es crear un flujo previo que recoja esos datos antes de que llegue a tu WhatsApp. Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link con un asistente conversacional que captura los datos clave (objetivo, disponibilidad, condicionantes, modalidad) y redirige a tu WhatsApp con toda esa información ya recogida. No es para todos los casos: si recibes pocas consultas o tu proceso de venta requiere mucha conversación desde el inicio, probablemente no lo necesitas aún.</p><h2>Errores típicos al cualificar como entrenador personal</h2><ol><li><strong>Preguntar todo a la vez en un solo mensaje largo</strong><br>Consecuencia: el cliente lo lee, se agobia y no responde.<br>Corrección: plantilla mínima primero. Si responde, amplías.</li><li><strong>No preguntar por lesiones antes de proponer un plan</strong><br>Consecuencia: propuesta inadecuada, primera sesión problemática o rechazo de cliente que no encajaba.<br>Corrección: lesiones y condicionantes siempre en la plantilla mínima, no en la completa.</li><li><strong>Dar precio antes de tener el contexto</strong><br>Consecuencia: precio que no encaja, comparación sin base, cliente que descarta sin entender el valor.<br>Corrección: primero objetivo y formato, luego rango de precio con contexto.</li><li><strong>Asumir que \"online\" y \"presencial\" tienen el mismo proceso de cualificación</strong><br>Consecuencia: propuestas inadecuadas para el formato pedido.<br>Corrección: la modalidad es uno de los primeros datos, no el último.</li><li><strong>No separar intención real de objetivo declarado</strong><br>Consecuencia: diseñas un plan para \"perder peso\" cuando en realidad el cliente quiere recuperar hábito tras una lesión.<br>Corrección: añade una pregunta de contexto: \"¿qué te llevó a buscar entrenador ahora?\"</li><li><strong>Olvidar preguntar la disponibilidad real</strong><br>Consecuencia: el cliente dice que puede 4 días y a las tres semanas se descuelga porque su agenda no lo permite.<br>Corrección: pregunta días Y franjas, y valida si eso es sostenible a medio plazo.</li></ol>",
+    "faq": [
+      {
+        "question": "¿Cuántas preguntas puedo hacer antes de que el cliente se vaya?",
+        "answer": "Con 3 a 5 preguntas bien elegidas no pierdes a nadie que tenga intención real. Si alguien abandona en la segunda pregunta, generalmente era un curioso sin compromiso. El problema no es la cantidad: es no explicar por qué preguntas."
+      },
+      {
+        "question": "¿Pregunto el presupuesto desde el principio o espero?",
+        "answer": "Pregúntalo si tu oferta tiene rangos de precio muy distintos (online vs presencial, sesiones sueltas vs pack mensual). Si todos tus servicios tienen un precio similar, no lo pidas al inicio: genera fricción sin aportarte información útil."
+      },
+      {
+        "question": "Me preguntan precio sin darme ningún dato. ¿Qué respondo?",
+        "answer": "No des cifra suelta. Devuelve una mini-plantilla: objetivo + disponibilidad + modalidad. Con eso puedes dar un rango honesto. Sin esos datos, cualquier precio que digas es un número al aire que puede espantarles o crear expectativas falsas."
+      },
+      {
+        "question": "¿La cualificación la hago en Instagram DM o en WhatsApp?",
+        "answer": "El DM funciona como puerta: un primer mensaje corto que pide 2 datos y redirige. WhatsApp es donde cierras. Si haces toda la cualificación en DM, la conversación se rompe y el hilo se pierde."
+      },
+      {
+        "question": "¿Qué hago si el cliente tiene una lesión y no sé si puedo ayudarle?",
+        "answer": "Captura el dato (tipo de lesión, si tiene alta médica) antes de comprometerte a nada. Si la lesión requiere derivación a fisio o médico, es mejor saberlo en el segundo mensaje que en la primera sesión."
+      },
+      {
+        "question": "¿Cómo separo a alguien que quiere entrenamiento online de alguien que quiere presencial?",
+        "answer": "Pregúntalo directamente como una de las primeras preguntas: es un dato que cambia el precio, la metodología y tu disponibilidad. No asumas nada por el canal desde el que te escriben."
+      },
+      {
+        "question": "Me escriben con el mismo objetivo todos (perder peso). ¿Tiene sentido cualificar si la respuesta es siempre la misma?",
+        "answer": "Sí, porque el objetivo declarado no es el objetivo real. Detrás de 'perder peso' hay contextos completamente distintos: una persona sedentaria sin experiencia, alguien que lleva dos años entrenando y no avanza, o alguien con restricción médica. La cualificación revela esa diferencia."
+      },
+      {
+        "question": "¿Incluyo consentimiento de datos en esta plantilla?",
+        "answer": "Si recoges nombre, teléfono y datos de salud (lesiones, condicionantes), sí necesitas indicar cómo usas esa información. No tiene que ser un párrafo legal: una línea al final del mensaje de bienvenida es suficiente para cumplir con lo básico y generar confianza."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-psicologia",
     "title": "Plantilla de cualificación para psicólogos (captura sin invadir)",
     "description": "Plantilla de cualificación para consultas de psicología: preguntas mínimas para preparar la primera sesión sin pedir datos sensibles por mensaje. Versión mínima, completa y microcopy listo para usar.",
