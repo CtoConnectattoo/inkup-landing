@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-electricista-fontanero",
+    "title": "Plantilla de cualificación para fontanero/electricista (urgencia + contexto)",
+    "description": "Plantilla con preguntas exactas para que fontaneros y electricistas identifiquen urgencia, tipo de incidencia y contexto antes de desplazarse. Versión mínima, completa y matriz de prioridad incluidas.",
+    "excerpt": "Antes de coger la furgoneta, necesitas saber qué hay, dónde está y si puede esperar. Esta plantilla te da las preguntas exactas para decidirlo en menos de dos minutos.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-electricista-fontanero.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "cualificacion",
+      "fontanero",
+      "electricista",
+      "urgencias",
+      "servicios-tecnicos"
+    ],
+    "quickAnswerSubtitle": "Urgencia, tipo de incidencia, ubicación y disponibilidad antes de responder",
+    "quickAnswer": [
+      "**Urgencia real o percibida** — Pregunta si hay agua saliendo, luz cortada o riesgo activo. No toda urgencia es urgencia.",
+      "**Tipo de incidencia exacto** — Gotera, bajante, diferencial, enchufe, caldera. Sin esto no puedes estimar ni priorizar.",
+      "**Ubicación y acceso** — Municipio, piso/local y si hay ascensor o restricciones de aparcamiento. Cambia el coste del desplazamiento.",
+      "**Disponibilidad del cliente** — Cuándo puede estar en casa. Evita desplazarte y no encontrar a nadie.",
+      "**Fotos o vídeo si aplica** — Una imagen del cuadro eléctrico o de la fuga te dice más que cinco mensajes.",
+      "**Si ya han intentado arreglarlo** — Saber qué tocaron antes evita diagnósticos erróneos en visita."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para fontaneros y electricistas debe capturar urgencia, tipo de avería, ubicación, acceso y disponibilidad antes de agendar visita, para priorizar sin desplazamientos inútiles.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Regla madre: primero el riesgo, luego el resto",
+      "Plantilla mínima (versión urgencia)",
+      "Plantilla completa (versión presupuesto o trabajo programado)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Matriz de prioridad por urgencia",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de servicio",
+      "Errores típicos al atender llamadas y mensajes",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Lista de preguntas mínimas",
+        "Canal de entrada (WhatsApp o DM)",
+        "Criterio de urgencia propio"
+      ],
+      "steps": [
+        {
+          "name": "Define tu escala de urgencia",
+          "text": "Establece 3 niveles: urgencia real (riesgo activo), urgencia percibida (molestia grave) y trabajo programado. Con eso priorizas sin improvisar."
+        },
+        {
+          "name": "Aplica la plantilla mínima antes de responder",
+          "text": "5 preguntas: tipo de incidencia, nivel de urgencia, ubicación, disponibilidad y si tienen fotos. Con eso decides si vas hoy, mañana o presupuestas sin visita."
+        },
+        {
+          "name": "Cierra con propuesta concreta",
+          "text": "Un mensaje: qué vas a hacer, cuándo y qué necesitas del cliente. Sin idas y venidas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes del tipo \"se me ha ido la luz\", \"tengo una gotera\", \"me ha saltado el diferencial\" sin ningún dato más. También si acabas desplazándote y no hay nadie en casa, o si llegas a una avería con el material equivocado porque no tenías contexto. Y si recibes consultas mezcladas entre urgencias reales, trabajos programados y gente que solo quiere precio sin intención de contratar.</p><p>No la uses si cada avería es tan específica que no hay patrón posible, o si tu volumen es tan bajo que cualificar manualmente no te cuesta nada. <a href=\"/blog/para-quien-no-es-inkup/\">Si no tienes caos real, no necesitas sistema</a>.</p><h2>Regla madre: primero el riesgo, luego el resto</h2><p>En servicios técnicos, la primera pregunta no es el precio ni la disponibilidad. Es si hay riesgo activo. Un diferencial que ha saltado puede ser una molestia o puede haber humedad en el cuadro. Una gotera puede ser un grifo que gotea o una tubería que está cediendo. La primera pregunta siempre es: <strong>¿hay riesgo activo ahora mismo?</strong> Con eso decides si priorizas la llamada o la metes en cola ordinaria.</p><p>Lo que la mayoría de plantillas de este tipo omiten: <strong>la urgencia percibida por el cliente casi nunca coincide con la urgencia técnica real</strong>. Eso no hace al cliente irresponsable, hace al técnico el único que puede clasificar correctamente. Por eso cualificar antes de comprometerse no es frialdad, es profesionalidad.</p><h2>Plantilla mínima (versión urgencia)</h2><p>Cinco preguntas. Suficientes para decidir si vas hoy, mañana o pides más información antes de comprometerte.</p><ol><li><strong>¿Qué está pasando exactamente?</strong> (síntoma, no diagnóstico)</li><li><strong>¿Hay agua saliendo ahora, luz cortada o algún riesgo activo?</strong> (sí/no + descripción breve)</li><li><strong>¿Dónde es? </strong> Municipio, calle y si es piso, local o unifamiliar.</li><li><strong>¿Cuándo puedes estar en casa?</strong> (franja horaria o disponibilidad)</li><li><strong>¿Puedes mandar una foto o vídeo del problema?</strong></li></ol><p>Con esas cinco respuestas puedes clasificar el caso, estimar material aproximado y comprometerte con un horario realista. Sin ellas, cualquier respuesta que des es un compromiso a ciegas.</p><h2>Plantilla completa (versión presupuesto o trabajo programado)</h2><p>Úsala cuando no hay urgencia o cuando el cliente pide presupuesto para un trabajo de mayor alcance: instalación, reforma parcial, obra nueva o mantenimiento programado.</p><ol><li><strong>¿Qué trabajo necesitas?</strong> (descripción del alcance)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha o plazo orientativo)</li><li><strong>¿Dónde es?</strong> Municipio, dirección y tipo de inmueble.</li><li><strong>¿Hay acceso fácil?</strong> Ascensor, aparcamiento, portería, horarios de comunidad.</li><li><strong>¿Sabes si hay alguna condición especial?</strong> Instalación antigua, reformas previas, materiales específicos.</li><li><strong>¿Ya han intentado arreglarlo antes?</strong> Qué hicieron y cuándo.</li><li><strong>¿Tienes fotos, planos o presupuestos anteriores?</strong></li><li><strong>Datos de contacto:</strong> nombre y teléfono o correo para confirmar.</li></ol><p>Esta versión también sirve para <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">filtrar a quien solo está comparando precios</a> sin intención real de contratar: quien tiene un trabajo serio responde estas preguntas sin problema.</p><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué está pasando exactamente?</td><td>Tipo de avería o trabajo</td><td>Si es tu especialidad / qué material necesitas</td></tr><tr><td>¿Hay riesgo activo ahora?</td><td>Nivel de urgencia real</td><td>Prioridad: hoy / mañana / programado</td></tr><tr><td>¿Dónde es? (municipio + tipo de inmueble)</td><td>Viabilidad del desplazamiento</td><td>Si aceptas / coste aproximado de traslado</td></tr><tr><td>¿Cuándo puedes estar en casa?</td><td>Disponibilidad real del cliente</td><td>Evita desplazarte sin encontrar a nadie</td></tr><tr><td>Foto o vídeo del problema</td><td>Diagnóstico visual previo</td><td>Material a llevar / si necesitas visita o no</td></tr><tr><td>¿Han tocado algo antes?</td><td>Historial de intervenciones</td><td>Evita diagnósticos incorrectos en visita</td></tr><tr><td>Acceso y condiciones del inmueble</td><td>Logística del trabajo</td><td>Tiempo estimado / recursos necesarios</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad del caso</td><td>Confirmación y seguimiento</td></tr></tbody></table><h2>Matriz de prioridad por urgencia</h2><p>Antes de responder, clasifica el caso en uno de estos tres niveles. No hace falta que el cliente lo sepa, pero tú sí tienes que tenerlo claro antes de comprometerte con un horario.</p><table><thead><tr><th>Nivel</th><th>Señales</th><th>Acción</th></tr></thead><tbody><tr><td><strong>Urgencia real</strong></td><td>Agua saliendo sin control, cuadro eléctrico con humo u olor, corte de suministro total, riesgo de daño estructural</td><td>Respuesta en menos de 30 minutos, desplazamiento prioritario</td></tr><tr><td><strong>Urgencia prioritaria</strong></td><td>Sin agua caliente, sin calefacción en invierno, circuito parcial cortado, gotera activa pero contenida</td><td>Cita en las próximas 24 horas</td></tr><tr><td><strong>Trabajo programado</strong></td><td>Presupuesto, instalación nueva, mantenimiento, mejoras, averías antiguas sin riesgo</td><td>Cita en 2–7 días o envío de presupuesto</td></tr></tbody></table><p>Lo que la mayoría de técnicos hacen mal aquí: responden en el orden en que llegan los mensajes, no en el orden de urgencia real. <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">Priorizar correctamente es la diferencia entre un desplazamiento rentable y uno en vacío</a>.</p><h2>Microcopy listo para copiar</h2><p>Lo que hace que el cliente responda rápido no es la pregunta, es cómo la introduces. Estos mensajes están pensados para WhatsApp o DM de Instagram.</p><h3>Mensaje de entrada cuando llega una consulta sin contexto</h3><blockquote><p>Hola, para ayudarte lo antes posible necesito 3 datos rápidos: ¿qué está pasando exactamente?, ¿hay algún riesgo activo ahora mismo (agua saliendo, luz cortada)?, y ¿dónde estás? Con eso te digo si puedo ir hoy o te propongo la mejor opción.</p></blockquote><h3>Mensaje cuando alguien pregunta precio sin dar información</h3><blockquote><p>Para darte un precio realista necesito saber qué hay que hacer, dónde es y si es urgente o puede esperar. Cuéntame y te respondo con un rango claro, sin rodeos.</p></blockquote><h3>Mensaje para confirmar visita</h3><blockquote><p>Perfecto. Paso el [día] entre las [hora] y las [hora]. Confirma que puedes estar en casa y, si puedes, mándame una foto del problema antes para ir con el material que toca.</p></blockquote><h3>Mensaje para derivar a presupuesto sin visita</h3><blockquote><p>Con lo que me dices puedo hacerte un presupuesto orientativo sin necesidad de visita previa. Mándame [foto/medidas/descripción] y te lo tengo en [plazo].</p></blockquote><h2>Variantes por tipo de servicio</h2><p>No cambies toda la plantilla por sector. Cambia solo las 1–2 preguntas variables que son específicas de cada tipo de trabajo.</p><h3>Fontanería (averías)</h3><ul><li>Variable clave: <strong>¿Hay agua saliendo? ¿Puedes cerrar la llave de paso?</strong></li><li>Añade: ¿Es vivienda propia o comunidad? (cambia la gestión)</li></ul><h3>Electricidad (averías)</h3><ul><li>Variable clave: <strong>¿Qué ha saltado? ¿Diferencial, magnetotérmico o hay olor/humo?</strong></li><li>Añade: ¿La instalación es antigua o tiene certificado reciente?</li></ul><h3>Calderas y climatización</h3><ul><li>Variable clave: <strong>Marca y modelo si está visible + código de error si aparece en pantalla</strong></li><li>Añade: ¿Tiene contrato de mantenimiento en vigor?</li></ul><h3>Instalaciones nuevas o presupuestos</h3><ul><li>Variable clave: <strong>Planos o dimensiones + si hay proyecto de obra o es reforma libre</strong></li><li>Añade: ¿Hay otros gremios involucrados? (coordina plazos)</li></ul><p>Si trabajas los dos oficios (fontanería y electricidad), usa la misma plantilla mínima para ambos. La pregunta de riesgo activo es universal. Solo cambian las preguntas de diagnóstico según el síntoma que describa el cliente.</p><h2>Errores típicos al atender llamadas y mensajes</h2><ol><li><strong>Comprometerse con horario sin saber dónde es</strong><br>Consecuencia: llegas tarde a otra cita o no te da tiempo. Corrección: pide municipio y dirección antes de confirmar hora.</li><li><strong>Dar precio sin ver ni foto</strong><br>Consecuencia: el cliente llega con expectativa de ese precio aunque el trabajo sea el doble. Corrección: da siempre rango orientativo condicionado a visita.</li><li><strong>Tratar toda urgencia igual</strong><br>Consecuencia: te desplazas para una avería que podía esperar y pierdes un cliente real con emergencia. Corrección: aplica la matriz de prioridad antes de cada respuesta.</li><li><strong>No pedir foto antes de ir</strong><br>Consecuencia: llegas sin el material correcto, vuelves al almacén, el cliente espera. Corrección: pide foto siempre que sea visible y el cliente pueda hacerla.</li><li><strong>Responder en orden de llegada, no de urgencia</strong><br>Consecuencia: el cliente con avería seria espera mientras atiendes a alguien que quiere presupuesto para dentro de tres meses. Corrección: clasifica primero, responde después.</li><li><strong>No confirmar que el cliente puede estar en casa</strong><br>Consecuencia: desplazamiento en vacío. Corrección: antes de confirmar visita, pide confirmación explícita de disponibilidad.</li></ol><p>Si quieres ver esto aplicado a la gestión completa de consultas, no solo a la cualificación inicial, el siguiente paso es <a href=\"/blog/agendar-citas-sin-mensajes/\">tener un flujo que filtre antes de agendar</a>, para que cuando llegues a la conversación de cierre ya tengas todos los datos encima de la mesa.</p><h2>El siguiente paso (si lo necesitas)</h2><p>Si el problema no es saber qué preguntar sino que siempre se te olvida preguntar algo, llegas a visitas sin contexto o tienes a alguien en el equipo que no sigue el mismo criterio, la plantilla se convierte en flujo: preguntas estandarizadas, clasificación automática por urgencia y llegada a WhatsApp con el resumen ya hecho.</p><p>Si quieres implementar eso sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único que abre un asistente conversacional, recoge tipo de incidencia, urgencia, ubicación y disponibilidad, y redirige al chat de WhatsApp con el contexto listo para que puedas decidir antes de responder. No es para todos los casos: si cada avería es completamente distinta o si tu volumen es tan bajo que cualificas sin esfuerzo, probablemente no lo necesitas aún.",
+    "faq": [
+      {
+        "question": "¿Cómo sé si es urgencia real o el cliente está exagerando?",
+        "answer": "Pregunta directamente: ¿hay agua saliendo ahora mismo o hay algún riesgo eléctrico activo? Si la respuesta es sí, es urgencia. Si el problema lleva días o solo es incómodo, puedes gestionarlo como trabajo prioritario pero no de emergencia. El cliente no miente, pero tampoco sabe distinguir urgencia técnica de urgencia emocional."
+      },
+      {
+        "question": "¿Qué hago si me manda un audio de tres minutos explicando la avería?",
+        "answer": "Escucha el audio, extrae los datos clave y responde con la plantilla mínima solo para lo que no quedó claro. No respondas con otro audio: devuelve texto estructurado con la propuesta. Ahorra tiempo a los dos."
+      },
+      {
+        "question": "¿Pido fotos antes de ir o es mejor verlo en persona?",
+        "answer": "Pide fotos siempre que puedas. Un vídeo del cuadro eléctrico, de la fuga o del tramo afectado te permite llegar con el material correcto y reducir visitas de diagnóstico. No sustituye la visita en casos complejos, pero elimina desplazamientos para averías simples."
+      },
+      {
+        "question": "¿Cómo gestiono que me escriban por Instagram y WhatsApp con la misma avería a la vez?",
+        "answer": "Responde por el canal donde llegó primero y pide que continúen por WhatsApp. No intentes mantener dos conversaciones paralelas sobre el mismo caso: se generan errores y el cliente recibe información inconsistente. Un solo hilo, un solo canal."
+      },
+      {
+        "question": "¿Qué hago si el cliente no sabe qué le pasa exactamente?",
+        "answer": "No le pidas que lo diagnostique: eso es tu trabajo. Pregunta por síntomas, no por causa. '¿Qué ocurre exactamente?' y '¿Desde cuándo?' son suficientes para arrancar. Con las fotos y esos dos datos ya puedes orientar el tipo de visita."
+      },
+      {
+        "question": "¿Tiene sentido usar esta plantilla si solo recibo 5 consultas al día?",
+        "answer": "Con ese volumen no necesitas sistema. Puedes responder manualmente y adaptarte a cada caso. Esta plantilla empieza a rentabilizar cuando recibes 15 o más consultas, tienes varios operarios o los desplazamientos en falso te están costando tiempo real."
+      },
+      {
+        "question": "¿Pregunto precio por mensaje o espero a la visita?",
+        "answer": "Da siempre un rango orientativo si tienes suficiente contexto. 'La revisión de caldera suele estar entre X y Y, dependiendo de lo que encontremos' es mejor que no decir nada. Evita dar precio cerrado sin ver el trabajo, pero no dejes al cliente sin referencia si pregunta."
+      },
+      {
+        "question": "¿Cómo filtro a quien llama solo para comparar precios sin intención real?",
+        "answer": "Pide contexto mínimo antes de dar precio: tipo de trabajo, ubicación y cuándo necesita que esté hecho. Quien solo compara precios suele desaparecer cuando tiene que responder esas preguntas. No es ser borde, es cualificar."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-jardineria",
     "title": "Plantilla de cualificación para jardinería",
     "description": "Preguntas exactas para separar trabajos pequeños de grandes en jardinería y cotizar con contexto real. Plantilla mínima y completa con tabla citable, microcopy y ejemplos.",
