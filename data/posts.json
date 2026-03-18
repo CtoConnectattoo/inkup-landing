@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-servicios-mascotas",
+    "title": "Plantilla de cualificación para servicios de mascotas (peluquería/cuidadores)",
+    "description": "Preguntas exactas para evitar citas inviables en peluquería canina y servicios de cuidado de mascotas. Plantilla mínima, versión completa y tabla raza/tamaño→duración→precio para copiar hoy.",
+    "excerpt": "En servicios de mascotas, cualificar es confirmar especie, tamaño/raza, servicio y fecha antes de dar hueco. Aquí la plantilla mínima, la completa y el microcopy listo para usar.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-servicios-mascotas.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "plantilla",
+      "mascotas",
+      "cualificacion",
+      "gestion-consultas",
+      "whatsapp",
+      "servicios"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para servicios de mascotas",
+    "quickAnswer": [
+      "**Especie y raza** — Define si puedes atenderla y qué equipamiento necesitas.",
+      "**Tamaño y peso aproximado** — Determina duración estimada, precio orientativo y si hay plazas disponibles.",
+      "**Servicio exacto** — Baño, corte, desparasitación, guardería o visita a domicilio: cada uno tiene condiciones distintas.",
+      "**Fecha y flexibilidad** — Confirma si tienes hueco real antes de abrir conversación larga.",
+      "**Estado de salud o comportamiento relevante** — Alergias, movilidad reducida o agresividad cambian el enfoque del servicio, no son datos opcionales."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para servicios de mascotas debe capturar especie, raza, tamaño, servicio exacto, estado de salud básico y fecha antes de confirmar cualquier cita o presupuesto.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita el 80% de los problemas",
+      "Plantilla mínima (5 preguntas, copia y pega)",
+      "Plantilla completa (para servicios con más variabilidad)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Tabla de referencia: tamaño → duración → rango de precio",
+      "Microcopy listo para no sonar robótico",
+      "Variantes por tipo de servicio",
+      "Errores típicos al cualificar en este sector",
+      "El siguiente paso si el volumen ya no lo gestionas tú solo",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para mascotas en 3 pasos",
+      "totalTimeMinutes": 25,
+      "tools": [
+        "Datos mínimos del animal",
+        "Canal de entrada (DM o WhatsApp)",
+        "Mensaje de cierre estandarizado"
+      ],
+      "steps": [
+        {
+          "name": "Define tu contexto mínimo por servicio",
+          "text": "Para peluquería: especie, raza, tamaño, servicio y fecha. Para cuidadores o guardería: añade vacunación, convivencia con otros animales y días de estancia."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram sirve como puerta. WhatsApp es donde cierras. Si recibes más de 20 consultas semanales, un link con flujo previo evita que repitas las mismas preguntas cada vez."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Una vez tienes los datos: un solo mensaje con resumen de lo que puedes ofrecer, fecha disponible y siguiente paso. Sin rondas adicionales."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes como 'precio del baño', 'tenéis hueco esta semana', 'cuánto cobráis por un golden' o simplemente 'info' — sin más contexto. También si terminas enviando 10 mensajes para confirmar algo que debería resolverse en dos.</p><p>Úsala también si alguna vez has dado cita y luego descubierto que el animal era el doble de grande de lo esperado, que tenía problema de comportamiento que no te avisaron, o que el servicio que pedían no era el que tú ofreces.</p><p>No la uses todavía si recibes menos de 5 consultas semanales y respondes sin agobio. A ese volumen, la plantilla mental ya te funciona.</p><h2>La regla que evita el 80% de los problemas</h2><blockquote><p><strong>En servicios de mascotas, cualificar es confirmar especie, tamaño/raza, servicio y fecha. Eso define duración, precio y si puedes atenderlo.</strong></p><p>Si no tienes esos cuatro datos, cualquier cifra que des es un número al aire y cualquier cita que confirmes es un riesgo.</p></blockquote><p>Lo que la mayoría de peluqueros y cuidadores omite: el comportamiento del animal es tan importante como la raza. Un labrador tranquilo y uno con ansiedad severa no son la misma cita. Preguntar esto antes no es excesivo; es lo que separa una agenda manejable de una tarde de imprevistos.</p><h2>Plantilla mínima (5 preguntas, copia y pega)</h2><p>Esta versión está diseñada para no perder conversiones. Si alguien no responde a estas cinco preguntas, normalmente no era un cliente activo.</p><ol><li><strong>¿Qué animal es y de qué raza?</strong> (o tamaño aproximado si es mestizo)</li><li><strong>¿Qué servicio necesitas exactamente?</strong> (baño solo, baño + corte, corte de uñas, guardería, visita a domicilio…)</li><li><strong>¿Para cuándo lo necesitas?</strong> (fecha y si tienes flexibilidad de días/horario)</li><li><strong>¿Hay algo que deba saber del animal?</strong> (comportamiento con extraños, problemas de salud, experiencia previa con peluquería)</li><li><strong>¿Nombre y teléfono de contacto?</strong></li></ol><blockquote><p>Si tu servicio incluye animales de distintas especies (perros, gatos, conejos), añade la especie como primera pregunta antes de la raza. Cambia las condiciones del servicio.</p></blockquote><h2>Plantilla completa (para servicios con más variabilidad)</h2><p>Úsala cuando el cliente ya mostró intención (respondió a la mínima) o cuando el servicio tiene mucha variabilidad y un error de planificación te cuesta media tarde.</p><p>Añade a la mínima:</p><ul><li>Peso aproximado (si el precio varía por kilos, como en algunas peluquerías)</li><li>Estado actual del pelaje (sin peinar desde hace tiempo, con nudos, pelo largo sin mantenimiento)</li><li>Vacunación al día (obligatorio para guardería o servicios con más animales)</li><li>Convivencia con otros perros (para guardería o daycare)</li><li>Foto de referencia del animal (para estimar pelaje real y confirmar tamaño)</li><li>Dirección si hay servicio a domicilio o recogida</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>Raza o tamaño</td><td>Duración estimada y precio orientativo</td><td>Si tienes hueco real ese día / rango de precio</td></tr><tr><td>Servicio exacto</td><td>Tipo de trabajo y materiales necesarios</td><td>Si lo ofreces / si hay condiciones específicas</td></tr><tr><td>Fecha y flexibilidad</td><td>Viabilidad de agenda</td><td>Confirmar o proponer alternativa</td></tr><tr><td>Comportamiento o salud</td><td>Riesgo operativo y tiempo real necesario</td><td>Si aceptas el caso / si necesitas más tiempo</td></tr><tr><td>Estado del pelaje (foto)</td><td>Confirmación visual de lo que te llega</td><td>Ajustar precio si hay trabajo extra</td></tr><tr><td>Vacunación</td><td>Cumplimiento de requisito operativo</td><td>Si puedes admitirlo en guardería/daycare</td></tr><tr><td>Contacto</td><td>Trazabilidad y confirmación</td><td>Enviar confirmación / recordatorio</td></tr></tbody></table><h2>Tabla de referencia: tamaño → duración → rango de precio</h2><p>Esta tabla es orientativa. Úsala para dar rangos honestos, no para fijar precios sin ver el animal. El estado del pelaje puede doblar el tiempo estimado.</p><table><thead><tr><th>Tamaño</th><th>Ejemplos de raza</th><th>Duración estimada (baño + corte)</th><th>Rango orientativo</th></tr></thead><tbody><tr><td>Muy pequeño (&lt;5 kg)</td><td>Chihuahua, Yorkshire, Maltés</td><td>45–90 min</td><td>Precio base bajo</td></tr><tr><td>Pequeño (5–10 kg)</td><td>Bichón, Cocker mini, Schnauzer mini</td><td>1,5–2 h</td><td>Precio base medio-bajo</td></tr><tr><td>Mediano (10–25 kg)</td><td>Cocker, Springer, Border Collie</td><td>2–3 h</td><td>Precio base medio</td></tr><tr><td>Grande (25–40 kg)</td><td>Golden, Labrador, Husky</td><td>2,5–4 h</td><td>Precio base medio-alto</td></tr><tr><td>Muy grande (&gt;40 kg)</td><td>Pastor Alemán, San Bernardo, Terranova</td><td>3–5 h o más</td><td>Precio base alto / consultar</td></tr></tbody></table><blockquote><p>Nota: los rangos de precio dependen de tu zona, tu tarifa y el estado del animal. No incluyas cifras en tus mensajes sin ver una foto o confirmar el estado del pelaje. Es mejor dar un rango con condición que un precio fijo que luego tengas que revisar.</p></blockquote><h2>Microcopy listo para no sonar robótico</h2><p>Lo que hace que la gente abandone no es que preguntes: es que preguntas sin dar contexto. Estas frases añaden el contexto en dos palabras.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>\"¡Hola! Para decirte disponibilidad y precio real, necesito 3 datos rápidos sobre tu peludo. ¿Me los dices?\"</p></blockquote><h3>Cuando preguntan solo 'precio'</h3><blockquote><p>\"El precio varía según raza, tamaño y servicio. Dime raza (o tamaño aproximado) + qué servicio buscas y te doy el rango exacto.\"</p></blockquote><h3>Cuando preguntan por hueco sin dar datos</h3><blockquote><p>\"Para mirarte hueco necesito saber la raza y el servicio, porque el tiempo varía bastante. ¿Qué animal tienes y qué necesitas?\"</p></blockquote><h3>Para servicios de guardería</h3><blockquote><p>\"Para la guardería necesito confirmar vacunación al día y convivencia con otros perros. ¿Me dices si está al día y cómo se lleva con otros?\"</p></blockquote><h2>Variantes por tipo de servicio</h2><p>No cambies toda la plantilla. Cambia solo las preguntas variables según el servicio.</p><h3>Peluquería canina o felina</h3><p>Variable clave: raza + estado del pelaje + comportamiento en peluquería.</p><blockquote><p>\"¿Raza? ¿Cómo tiene el pelaje ahora (fotico si puedes)? ¿Ha ido a peluquería antes y cómo fue?\"</p></blockquote><p>Si quieres comparar cómo estructurar esto por canal, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">aquí tienes plantillas por sector y tipo de servicio</a> que puedes adaptar directamente.</p><h3>Guardería o daycare</h3><p>Variable clave: vacunación + convivencia + días y horario.</p><blockquote><p>\"¿Está vacunado y desparasitado? ¿Se lleva bien con otros perros? ¿Qué días y horario necesitas?\"</p></blockquote><h3>Cuidador a domicilio o paseador</h3><p>Variable clave: dirección + rutina del animal + si convive con otros animales en casa.</p><blockquote><p>\"¿Zona? ¿Cuántos paseos al día y duración? ¿Hay más mascotas en casa?\"</p></blockquote><h3>Adiestramiento</h3><p>Variable clave: edad del animal + problema concreto + historial previo.</p><blockquote><p>\"¿Edad? ¿Qué comportamiento quieres trabajar exactamente? ¿Ha tenido adiestramiento antes?\"</p></blockquote><p>Para este tipo de servicio, <a href=\"/blog/que-preguntar-antes-de-dar-hueco/\">preguntar antes de dar hueco</a> no es opcional: un caso mal evaluado al inicio se convierte en sesiones improductivas para los dos.</p><h2>Errores típicos al cualificar en este sector</h2><ol><li><strong>Dar precio sin ver foto ni confirmar estado del pelaje</strong><br>Consecuencia: llegas al animal y el trabajo real es el doble de lo presupuestado.<br>Corrección: exige foto como parte del proceso estándar, no como excepción.</li><li><strong>Confirmar cita sin preguntar por comportamiento</strong><br>Consecuencia: un animal con ansiedad o agresividad te puede desmontar la agenda entera.<br>Corrección: incluye la pregunta de comportamiento en la plantilla mínima, no en la completa.</li><li><strong>Aceptar guardería sin confirmar vacunación</strong><br>Consecuencia: problema sanitario o conflicto con otros clientes.<br>Corrección: vacunación al día es un requisito de entrada, no una pregunta opcional.</li><li><strong>Responder con precio exacto cuando el cliente dice 'golden retriever'</strong><br>Consecuencia: el golden llega sin peinar desde hace meses y el precio no cuadra.<br>Corrección: da siempre rango con condición: 'entre X e Y dependiendo del estado del pelaje'.</li><li><strong>No preguntar la especie cuando ofreces servicios para distintos animales</strong><br>Consecuencia: conversación entera sobre un gato cuando solo atiendes perros, o viceversa.<br>Corrección: especie va antes que raza, siempre.</li><li><strong>Pedir demasiados datos en el primer mensaje</strong><br>Consecuencia: el cliente no responde o responde a medias.<br>Corrección: plantilla mínima primero (5 preguntas). Completa solo si ya hay intención clara.</li></ol><h2>El siguiente paso si el volumen ya no lo gestionas tú solo</h2><p>Si recibes más de 20 consultas semanales entre Instagram y WhatsApp, el problema no es saber qué preguntar: es que tienes que repetirlo veinte veces. Esa repetición tiene un coste real en tiempo y en errores.</p><p>La solución conceptual es un punto de entrada único que recoja los datos básicos antes de que tú entres en la conversación. Así cuando llegas al chat, ya sabes la raza, el servicio, la fecha y el estado del animal. La conversación empieza en el paso 2, no en el cero.</p><p>Puedes construirlo manualmente con un formulario de Google y un link en bio. Funciona. Requiere tiempo de configuración y mantenimiento.</p><p>Si quieres implementarlo sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único con asistente conversacional que captura los datos clave (especie, raza, servicio, fecha, comportamiento) antes de redirigir a WhatsApp con el contexto ya recogido. No es un CRM, no gestiona tu agenda y no reemplaza tu criterio para aceptar o rechazar un caso — si tu venta requiere ver al animal antes de comprometerte, ese paso sigue siendo tuyo. Pero el filtrado inicial y la recogida de datos básicos puede ocurrir sin que tú estés delante.</p><p>Si tu volumen es bajo o cada caso es verdaderamente único, probablemente no lo necesitas aún. <a href=\"/blog/agendar-citas-sin-mensajes/\">Aquí hay más detalle sobre cómo reducir los mensajes previos a la cita</a> si quieres optimizar el proceso antes de añadir capas.</p>",
+    "faq": [
+      {
+        "question": "¿Tengo que preguntar el peso exacto o vale con el tamaño?",
+        "answer": "Para peluquería, el tamaño orientativo (pequeño, mediano, grande) suele bastar para dar un rango de precio y tiempo. El peso exacto importa más en guardería o transporte, donde hay límites físicos reales. Define qué dato cambia tu respuesta y pide ese."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo 'precio del baño' sin decirme la raza?",
+        "answer": "No des cifra suelta. Devuelve dos preguntas: raza o tamaño aproximado y si incluye corte o solo baño. Con eso puedes dar un rango real en un solo mensaje de respuesta."
+      },
+      {
+        "question": "¿Pregunto si el animal es agresivo o espero a verlo en persona?",
+        "answer": "Pregúntalo antes, siempre. Un animal con historial de mordeduras o estrés extremo cambia tu protocolo, tu tiempo y en algunos casos si puedes atenderlo. No es un dato incómodo: es operativo."
+      },
+      {
+        "question": "¿Cómo gestiono las consultas cuando me preguntan por Instagram y por WhatsApp a la vez?",
+        "answer": "Usa un punto de entrada único: un link en bio que recoja los datos básicos antes de llegar a ti. Así la conversación de WhatsApp empieza con la información ya recogida, no desde cero. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Aquí tienes plantillas por sector y canal</a> si quieres comparar enfoques."
+      },
+      {
+        "question": "¿Pido la cartilla de vacunación antes de dar cita?",
+        "answer": "Para guardería y servicios con otros animales, sí: es un requisito operativo, no un capricho. Para peluquería individual, depende de tu política. Si es obligatorio en tu caso, ponlo en el flujo de cualificación como condición, no como pregunta opcional."
+      },
+      {
+        "question": "¿Y si el cliente se molesta porque le hago muchas preguntas antes de darle precio?",
+        "answer": "Explica en una frase por qué preguntas: 'Para darte un precio real y no un número al aire, necesito saber la raza y el servicio.' La mayoría entiende. Quien se marcha con eso probablemente buscaba el precio más bajo del barrio, no tu servicio."
+      },
+      {
+        "question": "¿Cómo evito dar cita y que luego el animal sea mucho más grande de lo que dijeron?",
+        "answer": "Pide foto de referencia como parte de la cualificación. No como decoración: como confirmación visual del tamaño y estado del pelaje. Un golden retriever con pelaje sin tratar en meses no es lo mismo que uno con mantenimiento regular."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas antes de confirmar una cita?",
+        "answer": "Si tardas más de 3 mensajes en tener los datos básicos, ya son demasiadas. La plantilla mínima de 5 preguntas se puede enviar en un solo mensaje estructurado. Si el cliente no responde, tenías un curioso, no un cliente."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-coche-taller",
     "title": "Plantilla de cualificación para taller mecánico",
     "description": "Preguntas exactas para organizar citas y presupuestos en un taller mecánico sin intercambiar mensajes de ida y vuelta. Plantilla mínima, completa y microcopy listo para copiar.",
