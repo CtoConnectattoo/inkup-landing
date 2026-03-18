@@ -1,5 +1,105 @@
 [
   {
+    "slug": "plantilla-cualificacion-abogado",
+    "title": "Plantilla de cualificación para abogados (sin recopilar de más)",
+    "description": "Plantilla con preguntas mínimas para que abogados filtren consultas entrantes, identifiquen el área legal y la urgencia, y lleguen a la primera llamada o cita con contexto real. Sin pedir datos sensibles por mensaje.",
+    "excerpt": "Antes de la primera llamada, un abogado necesita saber tres cosas: área general, urgencia y si el caso encaja. Esta plantilla recoge eso sin pedir más de lo necesario.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-abogado.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "cualificacion",
+      "abogados",
+      "gestion-consultas",
+      "whatsapp",
+      "plantilla",
+      "servicios-legales"
+    ],
+    "quickAnswerSubtitle": "Plantilla mínima en 5 preguntas para abogados",
+    "quickAnswer": [
+      "**Área legal general** — Identifica si el caso es civil, laboral, penal, familiar o mercantil antes de entrar en detalles.",
+      "**Urgencia real** — Saber si hay un plazo activo (demanda, despido, vencimiento) define si la consulta es prioritaria o puede esperar.",
+      "**Contexto en una frase** — Qué ha pasado y qué necesita el cliente, sin entrar en hechos concretos por mensaje.",
+      "**Disponibilidad** — Cuándo puede hacer la primera llamada o cita; sin esto no hay siguiente paso posible.",
+      "**Datos de contacto mínimos** — Nombre y teléfono o email para confirmar y hacer seguimiento."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para abogados recoge área legal, urgencia, contexto mínimo y disponibilidad antes de la primera llamada, sin solicitar hechos concretos ni datos sensibles por mensaje.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "Lo que no debes preguntar por mensaje (y por qué)",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando el caso requiere más contexto)",
+      "Tabla citable: pregunta → objetivo → decisión",
+      "Microcopy: cómo presentar las preguntas sin sonar a formulario",
+      "Variantes por área legal",
+      "Reglas de decisión: qué hacer con cada respuesta",
+      "Errores frecuentes al cualificar en legal",
+      "El siguiente paso si el volumen no para"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación para abogados en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Canal de entrada (Instagram DM o WhatsApp)",
+        "Plantilla mínima de 5 preguntas",
+        "Mensaje de cierre con propuesta de llamada"
+      ],
+      "steps": [
+        {
+          "name": "Define los datos que cambian tu decisión",
+          "text": "Área legal, urgencia, contexto en una frase, disponibilidad y contacto. Solo eso. Si la respuesta no cambia si aceptas o no el caso, no la pidas aquí."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "Instagram DM como puerta de entrada, WhatsApp para cerrar la cita. Si el volumen es alto, un link con flujo conversacional evita que el DM se convierta en expediente."
+        },
+        {
+          "name": "Estandariza el cierre con propuesta concreta",
+          "text": "Un mensaje que resume lo que entendiste, confirma que el área encaja y propone dos opciones de horario para llamada. Sin ese cierre, la cualificación queda en el aire."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Un abogado que trabaja solo o con equipo pequeño recibe mensajes como estos todos los días: «necesito un abogado», «tengo un problema con mi empresa», «me han despedido, ¿qué hago?», «info sobre divorcio». Ninguno de esos mensajes tiene la información mínima para decidir si el caso encaja, si es urgente o si merece una llamada hoy.</p><p>Esta plantilla sirve si:</p><ul><li>Recibes consultas por Instagram, WhatsApp o formulario web y tardas más de lo razonable en responder porque no tienes contexto.</li><li>Acabas en 10 o 15 mensajes para entender algo que podrías haber resuelto en dos preguntas bien hechas.</li><li>Tienes dificultades para separar los casos que encajan con tu área de los que no.</li><li>Te llegan consultas urgentes mezcladas con preguntas genéricas y no sabes cuál priorizar. Si ese es tu problema habitual, también puede ayudarte ver <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">cómo priorizar consultas urgentes frente a curiosos sin ser borde</a>.</li></ul><p>No la uses todavía si solo recibes dos o tres consultas semanales y tienes tiempo de responder cada una con calma. A ese volumen, cualquier sistema añade más fricción de la que elimina.</p><h2>Lo que no debes preguntar por mensaje (y por qué)</h2><p>Aquí está la observación que la mayoría de guías omiten: en legal, el riesgo de pedir demasiado es mayor que en otros sectores. No porque los clientes sean más sensibles, sino porque los hechos concretos de un caso son materia jurídica. Si alguien te describe su situación en detalle por WhatsApp y tú respondes con cualquier tipo de valoración, estás dando criterio jurídico fuera del marco de una consulta formal.</p><p>Por mensaje, no pidas nunca:</p><ul><li>Los hechos concretos del caso (quién hizo qué, cuándo, cómo).</li><li>Documentación (contratos, sentencias, notificaciones).</li><li>Nombres de las otras partes involucradas.</li><li>Datos económicos específicos (deudas, salarios, cantidades exactas).</li></ul><p>Todo eso va a la primera consulta. Por mensaje solo necesitas lo suficiente para decidir si hay siguiente paso y cuál es.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para máxima conversión y mínima fricción. Si alguien abandona aquí, probablemente no tenía intención real de contratar.</p><ol><li><strong>¿En qué área legal necesitas ayuda?</strong> (laboral, familiar, civil, penal, mercantil, inmobiliario, otro)</li><li><strong>¿Hay algún plazo activo?</strong> (demanda recibida, despido, vencimiento, vista, otro)</li><li><strong>Cuéntame en una frase qué ha pasado y qué necesitas.</strong> (solo el contexto general, sin entrar en detalles)</li><li><strong>¿Cuándo podrías hacer una llamada o consulta?</strong> (mañana, esta semana, próxima semana — mañana o tarde)</li><li><strong>Nombre y teléfono o email de contacto.</strong></li></ol><blockquote><p>Si tienes varias áreas de práctica, la primera pregunta ya filtra los casos que no son para ti sin tener que entrar en conversación larga.</p></blockquote><h2>Plantilla completa (cuando el caso requiere más contexto)</h2><p>Úsala cuando el cliente ya respondió la mínima y el caso parece encajar, o cuando tu práctica tiene mucha variabilidad interna (por ejemplo, dentro de laboral: despido, ERE, accidente laboral, acoso, reclamación de cantidad).</p><p>Añade a la mínima:</p><ul><li>Área específica dentro de la rama general (si aplica)</li><li>Si ha habido comunicación previa con la otra parte o con otro abogado</li><li>Si tiene documentación relevante lista para la consulta (sin pedirla por mensaje)</li><li>Preferencia de formato: llamada, videollamada o presencial</li><li>Si ya fue a otro abogado previamente (para casos de segunda opinión o cambio de representación)</li></ul><h2>Tabla citable: pregunta → objetivo → decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿En qué área legal necesitas ayuda?</td><td>Encaje con tu especialidad</td><td>Acepto / derivo / descarto</td></tr><tr><td>¿Hay algún plazo activo?</td><td>Urgencia real del caso</td><td>Prioridad de respuesta y de agenda</td></tr><tr><td>Contexto en una frase</td><td>Tipo de problema general</td><td>Si merece llamada o solo info</td></tr><tr><td>¿Cuándo puedes llamar?</td><td>Disponibilidad del cliente</td><td>Propuesta de hueco concreto</td></tr><tr><td>Datos de contacto</td><td>Trazabilidad y seguimiento</td><td>Confirmación y recordatorio</td></tr><tr><td>Área específica (plantilla completa)</td><td>Profundidad del caso</td><td>Estimación de dedicación</td></tr><tr><td>¿Ha habido comunicación previa?</td><td>Estado del conflicto</td><td>Si hay urgencia oculta</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar a formulario</h2><p>Lo que corta la conversación no es preguntar. Es preguntar sin explicar por qué. En legal esto es especialmente importante porque el cliente ya llega con estrés o desconfianza.</p><h3>Mensaje de entrada (respuesta al primer contacto genérico)</h3><blockquote><p>«Hola, gracias por escribirme. Para poder decirte si puedo ayudarte y cuál sería el mejor siguiente paso, necesito entender el caso mínimamente. Te hago 3 preguntas rápidas.»</p></blockquote><h3>Cuando preguntan directamente por precio o consulta</h3><blockquote><p>«El coste depende del caso y de lo que necesites. Para darte una respuesta útil, antes dime: ¿en qué área es? ¿Hay algún plazo activo? Y en una frase, ¿qué ha pasado? Con eso te explico cómo trabajamos y qué tiene sentido.»</p></blockquote><h3>Cuando el mensaje es demasiado vago («necesito un abogado»)</h3><blockquote><p>«Claro, con gusto te ayudo si puedo. ¿De qué área se trata? (laboral, familiar, civil, penal, mercantil…) Con eso ya te digo si es mi especialidad y qué haríamos.»</p></blockquote><h3>Cuando hay urgencia explícita («me han demandado», «tengo una vista»)</h3><blockquote><p>«Entendido, eso tiene preferencia. Dime cuándo es la vista o el plazo y un número de teléfono: te llamo hoy o mañana a primera hora para valorar.»</p></blockquote><h2>Variantes por área legal</h2><p>No cambies la plantilla entera por sector. Cambia solo la pregunta de contexto para que sea más específica.</p><h3>Laboral</h3><ul><li>Variable clave: tipo de relación laboral + qué ha ocurrido (despido, sanción, accidente, impago) + fecha del hecho</li></ul><blockquote><p>«¿Eres trabajador por cuenta ajena? ¿Qué ha pasado y cuándo? ¿Hay carta de despido u otro documento recibido?»</p></blockquote><h3>Familiar</h3><ul><li>Variable clave: situación actual (casados, separados, con o sin acuerdo previo) + hijos menores sí/no</li></ul><blockquote><p>«¿Estáis casados o en pareja de hecho? ¿Hay hijos menores? ¿Existe ya algún acuerdo o proceso en curso?»</p></blockquote><h3>Civil / deudas / contratos</h3><ul><li>Variable clave: si hay contrato firmado, cuantía aproximada, si ya hubo reclamación previa</li></ul><blockquote><p>«¿Hay algo firmado (contrato, pagaré, acuerdo)? ¿Ha habido reclamación previa? ¿Cuál es la cuantía aproximada?»</p></blockquote><h3>Penal</h3><ul><li>Variable clave: si es como denunciante o como investigado, si hay citación judicial activa</li></ul><blockquote><p>«¿Eres tú quien quiere denunciar o has recibido alguna citación o denuncia? ¿Hay algún plazo o fecha ya fijada?»</p></blockquote><p>Para ver cómo funciona esta lógica de variantes en otros sectores, puedes consultar <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">qué preguntas hacer para filtrar clientes: plantillas por sector y servicio</a>.</p><h2>Reglas de decisión: qué hacer con cada respuesta</h2><p>La cualificación no termina con las preguntas. Termina cuando decides qué haces con la respuesta.</p><table><thead><tr><th>Condición</th><th>Acción</th></tr></thead><tbody><tr><td>Área fuera de tu especialidad</td><td>Deriva con nombre de compañero o indicación de área. No des info sobre el fondo.</td></tr><tr><td>Hay plazo activo (vista, demanda, vencimiento)</td><td>Responde hoy. Propón llamada en las próximas horas.</td></tr><tr><td>No hay plazo, caso encaja</td><td>Propón dos opciones de horario para primera consulta esta semana o la próxima.</td></tr><tr><td>El contexto es demasiado vago para decidir</td><td>Pide solo un dato más. No hagas otra ronda completa de preguntas.</td></tr><tr><td>El cliente no da disponibilidad ni contacto</td><td>Espera 24 horas y manda un mensaje de cierre con propuesta de horario. Si no responde, archiva.</td></tr><tr><td>El caso parece complejo o de alto encargo</td><td>Deriva a primera consulta presencial. No valores por mensaje.</td></tr></tbody></table><h2>Errores frecuentes al cualificar en legal</h2><ol><li><strong>Pedir los hechos del caso por mensaje antes de la consulta.</strong> El cliente lo ve como trabajo gratuito o como burocracia. Y tú no puedes valorar nada sin el expediente completo. Reserva eso para la primera llamada.</li><li><strong>Responder con criterio jurídico al primer mensaje.</strong> «En ese caso normalmente se puede reclamar» es un error aunque sea bienintencionado. Sin contexto completo, cualquier valoración puede ser incorrecta y genera expectativa.</li><li><strong>No separar urgencia de importancia.</strong> Un cliente que escribe en mayúsculas «URGENTE» no siempre tiene un plazo real. Pregunta cuándo es el plazo antes de reorganizar tu agenda.</li><li><strong>Dar precio antes de entender el caso.</strong> El honorario depende del tipo de asunto, la complejidad y la dedicación prevista. Dar cifra suelta sin ese contexto lleva a expectativas imposibles de gestionar.</li><li><strong>Ignorar el mensaje más de 24 horas sin acuse de recibo.</strong> En legal el cliente no espera: busca otro abogado o toma decisiones sin asesoramiento. Un mensaje de «recibido, te respondo en X horas» es suficiente para mantenerlo.</li><li><strong>Cualificar con demasiadas preguntas a la vez.</strong> Mandar un bloque de ocho preguntas de golpe paraliza. La plantilla mínima va en un mensaje limpio, con formato de lista numerada, no en un párrafo.</li></ol><h2>El siguiente paso si el volumen no para</h2><p>Si ya tienes la plantilla clara y el problema es que no siempre se aplica — porque dependes de tu energía o del momento en que lees el mensaje — el paso siguiente es convertirla en un flujo: un punto de entrada único que recoge la información antes de que llegues tú. Así la primera conversación real es para valorar el caso, no para preguntar el área y la urgencia por tercera vez.</p><p>Antes de dar ese paso, vale la pena leer <a href=\"/blog/agendar-citas-sin-mensajes/\">cómo agendar citas sin intercambiar 20 mensajes</a>: explica la lógica de filtrar antes de agendar, que es exactamente lo que hace esta plantilla pero con estructura de sistema.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: un link único con un asistente conversacional que recoge área, urgencia, contexto y disponibilidad antes de redirigir al cliente a WhatsApp con esa información ya lista. No es para todos los casos — si tu volumen es bajo o cada caso requiere discovery humano desde el primer minuto, probablemente no lo necesitas aún. Y si ya tienes un sistema de gestión de despacho con flujos integrados, tampoco aporta nada nuevo. Pero si recibes más de 20 consultas semanales y la mitad llegan sin contexto, el tiempo que ahorras en preguntas repetidas justifica el cambio. Para saber si encaja con tu situación concreta, también puedes ver <a href=\"/blog/para-quien-no-es-inkup/\">para quién no es Inkup</a>.</p>",
+    "faq": [
+      {
+        "question": "¿Puedo preguntar los hechos del caso por WhatsApp antes de la consulta?",
+        "answer": "No deberías. Los hechos concretos pertenecen a la consulta jurídica, no al filtrado previo. Por mensaje solo necesitas área, urgencia y contexto de una frase. El resto lo recoges en la llamada o cita, donde puedes también informar sobre confidencialidad y honorarios."
+      },
+      {
+        "question": "¿Qué hago si alguien me escribe directamente con los detalles del caso en el primer mensaje?",
+        "answer": "No respondas sobre el fondo. Agradece la información, confirma que ves el mensaje y redirige a la llamada o cita donde podrás analizarlo correctamente. Responder con criterio jurídico por WhatsApp sin contexto completo es un riesgo innecesario."
+      },
+      {
+        "question": "¿Cómo pregunto el presupuesto sin que parezca que solo me importa el dinero?",
+        "answer": "No preguntes presupuesto en la cualificación inicial. Preguntar cuánto quieren gastar antes de entender el caso suele cortar la conversación. El honorario se discute en la primera consulta, cuando ya tienes contexto suficiente para justificarlo."
+      },
+      {
+        "question": "¿Qué hago si el caso no encaja con mi área?",
+        "answer": "Dilo directo y, si puedes, da una referencia. 'Este caso pertenece al área de penal y yo me centro en derecho laboral. Te puedo recomendar a un compañero si quieres.' Es más útil que ignorar el mensaje o dar una respuesta vaga."
+      },
+      {
+        "question": "¿Cuánto tiempo debo tardar en responder una consulta entrante?",
+        "answer": "En legal, la urgencia percibida es alta aunque el caso no sea urgente. Si tardas más de 24 horas en responder, el cliente busca otro abogado. No tienes que resolver nada en ese primer contacto; solo confirmar que has recibido el mensaje y dar un siguiente paso concreto."
+      },
+      {
+        "question": "¿Sirve esta plantilla si trabajo solo sin secretaría?",
+        "answer": "Es exactamente para ese caso. Si trabajas solo, cada consulta que entra sin contexto te interrumpe dos veces: cuando la lees y cuando tienes que preguntar lo básico. La plantilla hace que la segunda interrupción desaparezca."
+      },
+      {
+        "question": "¿Pido ya en el primer mensaje si tiene documentación?",
+        "answer": "No. Pedir documentos antes de la primera llamada genera fricción sin aportar nada: no puedes valorarlos sin contexto completo, y el cliente siente que está haciendo trámites antes de saber si confía en ti. Los documentos van después de la primera consulta."
+      },
+      {
+        "question": "¿Qué diferencia hay entre cualificación y primera consulta?",
+        "answer": "La cualificación determina si hay caso, si encaja contigo y cuál es el siguiente paso. La primera consulta analiza el fondo. Mezclarlas en el primer mensaje es el error más común: intentas resolver el caso antes de saber si merece tu tiempo."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-carpinteria",
     "title": "Plantilla de cualificación para carpintería a medida",
     "description": "Preguntas exactas para cualificar consultas de carpintería a medida antes de dar presupuesto. Versión mínima y completa, con tabla citable, microcopy y ejemplos de aplicación.",
