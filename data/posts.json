@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-limpieza-facial-tratamientos",
+    "title": "Plantilla de cualificación para tratamientos faciales",
+    "description": "Preguntas exactas para cualificar consultas de tratamientos faciales antes de dar precio o agendar cita. Plantilla mínima, completa y microcopy listo para copiar.",
+    "excerpt": "Antes de dar precio o hueco, necesitas saber tipo de piel, objetivo y historial básico. Aquí la plantilla mínima, la tabla de decisión y el microcopy para no sonar a formulario.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-limpieza-facial-tratamientos.jpg",
+    "author": "Carlos Núñez",
+    "authorSlug": "carlos-nunez",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "estetica",
+      "plantilla",
+      "cualificacion",
+      "tratamientos-faciales",
+      "gestion-consultas",
+      "whatsapp"
+    ],
+    "quickAnswerSubtitle": "5 datos antes de dar precio o agendar",
+    "quickAnswer": [
+      "**Objetivo del tratamiento** — Qué quiere mejorar exactamente: hidratación, manchas, acné, poros, anti-edad. Sin esto, cualquier precio es un número al aire.",
+      "**Tipo de piel y condición actual** — Seca, grasa, mixta, sensible, con rosácea o en tratamiento médico. Cambia el protocolo y el precio.",
+      "**Historial básico relevante** — Si usa retinol, ácidos, si está embarazada o ha tenido reacciones recientes. No es un interrogatorio: es evitar contraindicaciones.",
+      "**Fecha y flexibilidad** — Para cuándo lo necesita y si tiene franja preferida. Confirma viabilidad antes de comprometerte a hueco.",
+      "**Primera vez o cliente recurrente** — Cambia el tiempo de sesión, el precio y el protocolo de entrada."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para tratamientos faciales debe capturar objetivo, tipo de piel, historial mínimo, fecha y si es primera visita antes de dar precio o confirmar cita.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita el error más caro",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (cuando el caso lo requiere)",
+      "Tabla citable: pregunta, objetivo, decisión",
+      "Microcopy listo para copiar",
+      "Variantes por tipo de consulta",
+      "Errores habituales al cualificar tratamientos",
+      "Implementación: de plantilla a flujo",
+      "Errores típicos y cómo corregirlos",
+      "Preguntas frecuentes"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Microcopy de entrada",
+        "Mensaje de cierre con propuesta"
+      ],
+      "steps": [
+        {
+          "name": "Define tus datos mínimos",
+          "text": "Objetivo + tipo de piel + historial básico + fecha + si es primera vez. Solo lo que cambia tu respuesta."
+        },
+        {
+          "name": "Decide dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta, WhatsApp para cerrar. Si recibes más de 20 consultas semanales, un link con flujo previo ahorra tiempo."
+        },
+        {
+          "name": "Estandariza el cierre",
+          "text": "Un mensaje: resumen de lo recibido + protocolo sugerido + siguiente paso (hueco o videollamada breve)."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si te llegan mensajes del tipo 'precio limpieza', 'tenéis hueco esta semana', 'quiero mejorar mi piel' o simplemente 'info' sin ningún dato más. También si acabas invirtiendo varios mensajes para entender qué necesita realmente la persona antes de poder decirle algo útil.</p><p>No la uses si recibes menos de tres consultas a la semana y tienes tiempo para hacer el diagnóstico en conversación libre. Con bajo volumen, una plantilla rígida añade fricción sin aportar nada.</p><h2>La regla que evita el error más caro</h2><p>En tratamientos faciales, dar precio sin diagnóstico mínimo no es solo arriesgado para el resultado: es arriesgado para la conversión. La persona que recibe un número sin contexto lo compara directamente con el precio de la clínica de al lado. La que recibe primero una pregunta sobre su objetivo percibe que hay criterio detrás.</p><blockquote><p><strong>Pregunta solo lo que cambia tu protocolo o tu precio.</strong> Si la respuesta no modifica lo que vas a proponer, no la pidas en el primer contacto.</p></blockquote><p>En estética facial, los datos que siempre cambian algo son: objetivo, tipo de piel o condición actual, historial mínimo relevante y si es primera visita. Todo lo demás puede esperar a la cita.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está pensada para <a href=\"/blog/como-cualificar-consultas-en-estetica/\">cualificar en estética</a> sin perder conversión. Cinco datos, un solo bloque de texto o mensaje estructurado.</p><ol><li><strong>¿Qué quieres mejorar o tratar?</strong> (manchas, hidratación, poros, acné, anti-edad, otro)</li><li><strong>¿Cómo describirías tu tipo de piel ahora mismo?</strong> (seca, grasa, mixta, sensible, con rojeces)</li><li><strong>¿Usas retinol, ácidos o algún tratamiento en piel ahora? ¿Alguna alergia o reacción reciente?</strong></li><li><strong>¿Para cuándo buscas la cita?</strong> (esta semana, el mes que viene, sin prisa)</li><li><strong>¿Es la primera vez que haces este tipo de tratamiento con nosotras?</strong></li></ol><blockquote><p>Con estos cinco datos puedes dar un precio orientativo real, sugerir el protocolo adecuado y confirmar disponibilidad. Sin ellos, cualquier respuesta es provisional.</p></blockquote><h2>Plantilla completa (cuando el caso lo requiere)</h2><p>Añade estas preguntas cuando el tratamiento es de mayor intensidad, hay historial que puede contraindicar algo o la persona ya respondió a la mínima y quieres preparar mejor la sesión.</p><ul><li>¿Has hecho este tratamiento antes? ¿Dónde y cuándo fue la última vez?</li><li>¿Tienes diagnóstico dermatológico previo? (rosácea, dermatitis, psoriasis, otro)</li><li>¿Estás embarazada o en periodo de lactancia?</li><li>¿Qué resultado esperarías después de la primera sesión? (expectativa de partida)</li><li>¿Prefieres mañana o tarde? ¿Tienes alguna franja que no puedas?</li><li>¿Cómo prefieres continuar: WhatsApp, llamada o email?</li></ul><p>No uses la plantilla completa desde el primer mensaje. Es para cuando ya hay intención confirmada y quieres preparar la sesión con más precisión.</p><h2>Tabla citable: pregunta, objetivo, decisión</h2><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>¿Qué quieres mejorar?</td><td>Objetivo real del tratamiento</td><td>Qué protocolo proponer</td></tr><tr><td>¿Cómo es tu piel ahora?</td><td>Tipo y condición actual</td><td>Si el tratamiento aplica y a qué intensidad</td></tr><tr><td>¿Usas retinol, ácidos o tienes alergias?</td><td>Contraindicaciones básicas</td><td>Si necesitas más información antes de agendar</td></tr><tr><td>¿Para cuándo buscas la cita?</td><td>Urgencia y flexibilidad</td><td>Si hay hueco real o propones lista de espera</td></tr><tr><td>¿Primera vez o recurrente?</td><td>Tiempo de sesión necesario + precio</td><td>Duración y precio correcto desde el inicio</td></tr><tr><td>¿Qué resultado esperas?</td><td>Expectativa de partida</td><td>Si necesitas ajustar expectativas antes de cerrar</td></tr><tr><td>Canal y contacto</td><td>Dónde cerrar la conversación</td><td>Seguimiento sin perder el lead</td></tr></tbody></table><h2>Microcopy listo para copiar</h2><p>Lo que hace que alguien abandone no es que le preguntes: es que le preguntes sin explicar para qué. Estos mensajes funcionan porque contextualizan la pregunta en una frase.</p><h3>Mensaje de entrada (DM o WhatsApp)</h3><blockquote><p>\"Hola, gracias por escribir. Para recomendarte el tratamiento adecuado y darte un precio real, te hago <strong>3 preguntas rápidas</strong>. Te lleva menos de un minuto.\"</p></blockquote><h3>Cuando preguntan solo precio</h3><blockquote><p>\"El precio depende del protocolo y eso lo marca tu tipo de piel y objetivo. Dime: <strong>¿qué quieres mejorar + si tienes piel sensible o en tratamiento ahora</strong>? Con eso te respondo directo.\"</p></blockquote><h3>Cuando hay posible contraindicación</h3><blockquote><p>\"Para asegurarme de que el tratamiento es el más adecuado para ti, dime si usas retinol, ácidos o tienes alguna alergia reciente. No es un formulario médico, solo necesito saberlo para no equivocarme de protocolo.\"</p></blockquote><h3>Mensaje de cierre con propuesta</h3><blockquote><p>\"Con lo que me dices, el tratamiento más adecuado sería [X]. El precio para tu caso es [Y]. ¿Te viene bien [fecha] a [hora]?\"</p></blockquote><h2>Variantes por tipo de consulta</h2><p>Hay tres entradas habituales en tratamientos faciales. Cada una merece una ruta distinta, no la misma plantilla completa para todas.</p><h3>Ruta A — 'Quiero una limpieza facial'</h3><ol><li>Tipo de piel + objetivo (¿qué te molesta de tu piel ahora?)</li><li>Si es primera vez</li><li>Fecha preferida + flexibilidad</li></ol><p>Cierre: \"Para tu tipo de piel, la limpieza que hacemos incluye X. Precio: Y. ¿Te viene bien esta semana?\"</p><h3>Ruta B — 'Tengo manchas / acné / quiero algo anti-edad'</h3><ol><li>Zona afectada y desde cuándo</li><li>Si ha hecho tratamiento antes (cuál, cuándo)</li><li>Si usa activos en casa (retinol, vitamina C, ácidos)</li><li>Expectativa de resultado</li><li>Fecha</li></ol><p>Cierre: \"Con ese historial, lo que suelo recomendar es [protocolo]. Te explico en 2 líneas cómo funciona y cuántas sesiones suelen necesitarse.\"</p><h3>Ruta C — 'Info' o 'Quiero saber qué hacéis'</h3><ol><li>¿Qué te preocupa de tu piel ahora mismo?</li><li>¿Buscas algo puntual o un tratamiento continuado?</li></ol><p>Cierre: \"Según lo que me dices, te puede interesar [X]. ¿Quieres que te explique cómo funciona o prefieres directamente ver hueco?\"</p><p>Para ver cómo adaptar este enfoque a otros servicios de estética, <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">consulta las plantillas por sector y servicio</a>.</p><h2>Errores habituales al cualificar tratamientos</h2><ol><li><strong>Dar precio sin saber el tipo de piel</strong> — El precio cambia según protocolo. Un número sin contexto invita a comparar, no a reservar.</li><li><strong>Preguntar historial médico completo en el primer mensaje</strong> — No es necesario. Dos preguntas concretas sobre activos y alergias son suficientes para el primer filtro.</li><li><strong>No separar primera visita de cliente recurrente</strong> — La primera visita suele requerir más tiempo. Si no lo sabes antes, pierdes tiempo o subcobras.</li><li><strong>Responder con párrafo largo cuando preguntan precio</strong> — Nadie lee bloques de texto en un DM. Una pregunta devuelta vale más que tres párrafos de explicación.</li><li><strong>Preguntar todo en un solo mensaje</strong> — Más de tres preguntas juntas bajan drásticamente la tasa de respuesta. Empieza con las dos o tres más decisivas.</li></ol><h2>Implementación: de plantilla a flujo</h2><p>Si recibes más de veinte consultas semanales sobre tratamientos faciales, la plantilla en tu cabeza o guardada en notas deja de escalar. El problema no es saber qué preguntar: es que no siempre lo preguntas, o lo preguntas a medias, o lo preguntas después de haber dado el precio.</p><p>El salto siguiente es convertir esta plantilla en un flujo estructurado: rutas por intención (limpieza, manchas, anti-edad, info), preguntas mínimas por ruta y salida a WhatsApp con el contexto ya recogido. Así el chat final sirve para cerrar, no para recopilar datos que deberías tener antes.</p><p>Si quieres entender cómo construir ese flujo sin montar infraestructura técnica, <a href=\"/blog/como-pedir-presupuesto-sin-espantar/\">este artículo sobre cómo pedir datos sin espantar</a> cubre la parte de tono y estructura del mensaje previo.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: centralizan las consultas desde Instagram y WhatsApp en un link con asistente conversacional que captura objetivo, tipo de piel, historial básico y fecha antes de redirigir a WhatsApp con el contexto ya listo. No es para todos los casos — si recibes menos de veinte consultas semanales o cada caso es completamente único, probablemente no lo necesitas aún.</p><h2>Errores típicos y cómo corregirlos</h2><table><thead><tr><th>Error</th><th>Consecuencia</th><th>Corrección</th></tr></thead><tbody><tr><td>Dar precio antes de conocer tipo de piel</td><td>Comparación directa con competencia, sin contexto</td><td>Da rango amplio + pide dos datos antes del precio exacto</td></tr><tr><td>Preguntar historial médico completo</td><td>Parece formulario, baja conversión</td><td>Dos preguntas concretas: activos en uso + alergias recientes</td></tr><tr><td>No preguntar si es primera vez</td><td>Precio y tiempo de sesión incorrectos</td><td>Incluirlo siempre en la plantilla mínima</td></tr><tr><td>Más de tres preguntas en el primer mensaje</td><td>Abandono o respuesta incompleta</td><td>Empieza con las dos más decisivas, continúa si responde</td></tr><tr><td>No separar intención (info vs cita vs presupuesto)</td><td>Respuesta genérica que no avanza la conversación</td><td>Primera pregunta: ¿buscas cita o quieres info primero?</td></tr></tbody></table>",
+    "faq": [
+      {
+        "question": "¿Puedo dar precio antes de saber el tipo de piel?",
+        "answer": "No si el precio varía según protocolo. Da un rango amplio ('entre X y Y dependiendo de lo que veamos') y explica que el precio exacto requiere conocer objetivo y condición. Eso no espanta a quien de verdad quiere reservar."
+      },
+      {
+        "question": "¿Cómo pregunto el historial sin que parezca un cuestionario médico?",
+        "answer": "Agrupa en una sola pregunta: '¿Usas retinol, ácidos o algún tratamiento en piel ahora mismo? ¿Alguna alergia o reacción reciente?' Una pregunta, dos datos. No hace falta historial completo en el primer mensaje."
+      },
+      {
+        "question": "¿Qué hago si me escriben solo 'precio limpieza facial'?",
+        "answer": "No des cifra suelta. Responde: 'Para darte un precio real, dime qué quieres mejorar y si tienes piel sensible o en tratamiento. Con eso te respondo directo.' Tres segundos de lectura, un dato que cambia todo."
+      },
+      {
+        "question": "¿Pregunto presupuesto orientativo en estética facial?",
+        "answer": "En la mayoría de casos no filtra bien: la gente no sabe cuánto debería costar. Mejor preguntar '¿has hecho este tratamiento antes?' para separar a quien ya tiene referencia de quien va a ciegas."
+      },
+      {
+        "question": "¿La plantilla cambia si es limpieza básica versus tratamiento anti-edad?",
+        "answer": "Sí en 1-2 preguntas variables. En limpieza: objetivo + tipo de piel + primera vez. En anti-edad: añade historial de tratamientos previos y expectativa de resultado. El núcleo es el mismo."
+      },
+      {
+        "question": "¿Cuántas preguntas son demasiadas en un DM de Instagram?",
+        "answer": "Más de tres en un solo mensaje rompe la conversación. Haz una pregunta, espera respuesta, continúa. O redirige a WhatsApp o a un link donde el flujo esté estructurado."
+      },
+      {
+        "question": "¿Pregunto si está embarazada o con tratamiento médico desde el primer mensaje?",
+        "answer": "Solo si afecta directamente al servicio que ofreces y si es un dato que siempre necesitas. En ese caso, intégralo de forma natural: '¿Alguna condición que deba saber antes de recomendarte protocolo?' Es suficiente."
+      },
+      {
+        "question": "¿Qué hago si responde a la plantilla con datos incompletos?",
+        "answer": "Pide solo el dato que falta, no repitas la plantilla entera. 'Perfecto, ¿y tienes la piel sensible o en algún tratamiento ahora?' Una pregunta concreta tiene mucha más tasa de respuesta que un bloque de texto."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-laser-depilacion",
     "title": "Plantilla de cualificación para depilación láser",
     "description": "Preguntas exactas para filtrar candidatas antes de la primera cita de depilación láser. Tabla zona→sesiones→rango, versión mínima y microcopy listo para copiar.",
