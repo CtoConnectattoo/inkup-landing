@@ -1,5 +1,106 @@
 [
   {
+    "slug": "plantilla-cualificacion-coche-taller",
+    "title": "Plantilla de cualificación para taller mecánico",
+    "description": "Preguntas exactas para organizar citas y presupuestos en un taller mecánico sin intercambiar mensajes de ida y vuelta. Plantilla mínima, completa y microcopy listo para copiar.",
+    "excerpt": "Antes de responder 'tráelo el martes', necesitas modelo, año, síntoma y urgencia. Aquí la plantilla mínima para talleres, la completa y los mensajes listos para WhatsApp e Instagram.",
+    "image": "https://stobyerrcmbzhbnybmjw.supabase.co/storage/v1/object/public/blog-images/plantilla-cualificacion-coche-taller.jpg",
+    "author": "María Hidalgo",
+    "authorSlug": "maria-hidalgo",
+    "publishedAt": "2026-03-18",
+    "readingTime": "11 min",
+    "tags": [
+      "taller-mecanico",
+      "gestion-consultas",
+      "whatsapp",
+      "plantilla",
+      "cualificacion",
+      "citas"
+    ],
+    "quickAnswerSubtitle": "Datos mínimos del vehículo antes de confirmar cita o presupuesto",
+    "quickAnswer": [
+      "**Marca, modelo y año** — Sin esto no puedes confirmar disponibilidad de piezas ni estimar tiempo de trabajo.",
+      "**Síntoma o avería general** — Una frase basta: 'ruido al frenar', 'luz de motor encendida', 'no arranca'. Define si es diagnóstico, reparación o revisión.",
+      "**Urgencia real** — Si el coche no rueda, la gestión es distinta a un ruido molesto. Cambia la prioridad de la agenda.",
+      "**Disponibilidad del cliente** — Días y franjas concretos antes de proponer hueco. Evita la ida y vuelta de fechas.",
+      "**Kilómetros aproximados** — Relevante para mantenimientos y para detectar si el vehículo tiene historial de intervenciones predecible.",
+      "**Datos de contacto** — Nombre y teléfono para confirmar la cita y avisar cuando el coche esté listo."
+    ],
+    "oneLineDefinition": "Una plantilla de cualificación para taller mecánico debe capturar modelo, año, síntoma, urgencia y disponibilidad antes de confirmar cualquier cita o dar un presupuesto orientativo.",
+    "sections": [
+      "Cuándo usar esta plantilla",
+      "La regla que evita el 80% de los mensajes de ida y vuelta",
+      "Plantilla mínima (5 preguntas)",
+      "Plantilla completa (para presupuestos y averías complejas)",
+      "Tabla citable: pregunta, qué te da, qué decisión desbloquea",
+      "Microcopy: cómo presentar las preguntas sin sonar a formulario",
+      "Rutas por intención: cita, presupuesto, urgencia",
+      "Implementación sin herramientas nuevas",
+      "Errores típicos al cualificar en un taller",
+      "FAQs"
+    ],
+    "sources": [],
+    "howTo": {
+      "name": "Implementar la plantilla de cualificación en un taller en 3 pasos",
+      "totalTimeMinutes": 20,
+      "tools": [
+        "Plantilla mínima de 5 preguntas",
+        "Canal de entrada (WhatsApp o DM)",
+        "Mensaje de cierre con propuesta de hueco"
+      ],
+      "steps": [
+        {
+          "name": "Define los datos mínimos de tu taller",
+          "text": "Modelo/año, síntoma, urgencia, disponibilidad y contacto. Si no tienes estos 5 datos, no puedes confirmar nada."
+        },
+        {
+          "name": "Elige dónde ocurre la cualificación",
+          "text": "DM de Instagram como puerta, WhatsApp para cerrar. Si el volumen supera los 20 mensajes diarios, considera un punto de entrada único con el flujo ya preparado."
+        },
+        {
+          "name": "Estandariza el mensaje de cierre",
+          "text": "Un único mensaje con: resumen de lo que lleva el coche, hueco propuesto y siguiente paso (confirmación o dirección). Sin preguntas nuevas."
+        }
+      ]
+    },
+    "featured": false,
+    "content": "<h2>Cuándo usar esta plantilla</h2><p>Úsala si recibes mensajes como 'precio del cambio de aceite', 'tenéis hueco esta semana', 'mi coche hace un ruido' o 'cuánto cuesta una ITV' sin ningún dato más. Esos mensajes te obligan a preguntar lo básico antes de poder responder nada útil.</p><p>También encaja si terminas confirmando citas después de 10 mensajes cuando podría hacerse en 3. O si abres el lunes con 20 mensajes sin leer y no sabes cuál es urgente y cuál puede esperar hasta el jueves.</p><p>No la necesitas si recibes menos de 5 consultas semanales y tienes tiempo de gestionar cada una con calma. Y no te sirve si tu taller ya tiene un sistema de citas online con formulario propio que los clientes usan.</p><h2>La regla que evita el 80% de los mensajes de ida y vuelta</h2><blockquote><p><strong>Pregunta solo lo que cambia tu respuesta.</strong><br>En un taller, lo que cambia la respuesta es: qué coche es, qué le pasa, qué urgencia tiene y cuándo puede traerlo. Si la respuesta del cliente no modifica el hueco que propones, el precio que das o si aceptas el caso, no lo preguntes al principio.</p></blockquote><p>Esta regla parece obvia. La mayoría de talleres la ignora porque responde desde la costumbre, no desde el sistema. El resultado es una conversación de 12 mensajes para acordar una cita de revisión de neumáticos.</p><p>Para ver cómo se aplica esto más allá del taller, <a href=\"/blog/datos-minimos-para-agendar-cita/\">el checklist de datos mínimos para agendar una cita sin ida y vuelta</a> resume el principio con ejemplos de varios sectores.</p><h2>Plantilla mínima (5 preguntas)</h2><p>Esta versión está diseñada para el primer contacto. No la sobrecargues. Si alguien abandona aquí, normalmente no tenía intención real de traer el coche.</p><ol><li><strong>Marca, modelo y año del vehículo</strong> (ej: Seat León 2018)</li><li><strong>¿Qué le pasa o qué necesita?</strong> Una frase: síntoma, avería o tipo de servicio (ej: 'luz de motor encendida' o 'revisión de 60.000 km')</li><li><strong>¿Puede circular con normalidad o es urgente?</strong> (Sí / No / Tiene dudas)</li><li><strong>¿Qué días y franjas te vienen bien esta semana o la siguiente?</strong></li><li><strong>Nombre y teléfono de contacto</strong></li></ol><blockquote><p>Si el servicio es mantenimiento preventivo, añade kilómetros actuales. Si implica piezas específicas, añade si tiene garantía activa. Pero solo cuando ya tienes los 5 datos base.</p></blockquote><h2>Plantilla completa (para presupuestos y averías complejas)</h2><p>Úsala cuando el cliente ya respondió a la mínima y la avería requiere más contexto para presupuestar, o cuando el trabajo implica piezas con variabilidad de precio alta.</p><p>Añade a la mínima:</p><ul><li>Kilómetros actuales del vehículo</li><li>Si tiene seguro con asistencia en carretera o garantía del fabricante activa</li><li>Historial relevante: ¿se ha intervenido antes en esa zona? ¿cuándo fue el último mantenimiento?</li><li>Fotos o vídeo del síntoma si aplica (ruido, fuga visible, testigo encendido)</li><li>Si tiene preferencia de marca de piezas (original, equivalente, económica)</li></ul><p>No hagas esta lista en el primer mensaje. Es para cuando el caso ya está abierto y el cliente ha mostrado intención real.</p><h2>Tabla citable: pregunta, qué te da, qué decisión desbloquea</h2><p>En un taller, cualificar es confirmar modelo y año, síntoma general, urgencia y disponibilidad; así asignas cita y evitas preguntas repetidas en el momento de la recepción.</p><table><thead><tr><th>Pregunta</th><th>Qué te da</th><th>Qué decisión desbloquea</th></tr></thead><tbody><tr><td>Marca, modelo y año</td><td>Compatibilidad de piezas, tiempo estimado de trabajo</td><td>Si puedes aceptar el servicio y en qué plazo</td></tr><tr><td>Síntoma o servicio en una frase</td><td>Tipo de intervención (diagnóstico, reparación, mantenimiento)</td><td>Cuánto tiempo reservar en agenda y qué operario asignar</td></tr><tr><td>¿Puede circular o es urgente?</td><td>Prioridad real</td><td>Si va a agenda normal o necesita hueco ese mismo día</td></tr><tr><td>Disponibilidad (días y franjas)</td><td>Cruce con tu agenda real</td><td>Qué hueco proponer sin segunda vuelta</td></tr><tr><td>Kilómetros actuales</td><td>Estado de mantenimiento previsible</td><td>Si anticipes revisiones adicionales o no</td></tr><tr><td>Garantía o seguro activo</td><td>Cambia el canal de gestión</td><td>Si gestionas directamente o derivas a aseguradora</td></tr><tr><td>Nombre y teléfono</td><td>Trazabilidad</td><td>Confirmar cita y avisar cuando el coche esté listo</td></tr></tbody></table><h2>Microcopy: cómo presentar las preguntas sin sonar a formulario</h2><p>Lo que hace que un cliente abandone no es que preguntes. Es que preguntes sin explicar para qué. Estos mensajes funcionan porque dan un motivo en la misma frase.</p><h3>Mensaje de entrada (WhatsApp o DM)</h3><blockquote><p>«Para decirte si tenemos hueco y darte un precio aproximado, necesito 3 datos rápidos: marca/modelo/año, qué le pasa o qué necesita, y qué días puedes traerlo.»</p></blockquote><h3>Cuando preguntan solo 'precio' sin más datos</h3><blockquote><p>«El precio varía según el modelo y el estado. Dime marca/modelo/año y qué necesita (ej: cambio de frenos delanteros, revisión de 30.000 km) y te doy un rango real.»</p></blockquote><h3>Cuando la avería es vaga ('hace un ruido')</h3><blockquote><p>«Para reservarte el tiempo justo, dime: ¿cuándo ocurre el ruido (al frenar, al arrancar, en curva)? ¿Desde cuándo? Y si el coche puede circular sin problema o prefieres no arriesgar.»</p></blockquote><h3>Para separar urgente de no urgente</h3><blockquote><p>«¿El coche está en condiciones de circular o prefieres no usarlo hasta verlo? Con eso te digo si te buscamos hueco esta semana o si podemos planificarlo con más calma.»</p></blockquote><p>Si quieres ver cómo gestionar esta separación de forma sistemática, <a href=\"/blog/como-priorizar-consultas-urgentes-vs-curiosos/\">aquí tienes un criterio para priorizar consultas urgentes sin tener que decidirlo cada vez</a>.</p><h2>Rutas por intención: cita, presupuesto, urgencia</h2><p>La mayoría de mensajes que recibe un taller caben en tres rutas. Define las tres y no improvises cada vez.</p><h3>Ruta A — «¿Tenéis hueco? / Quiero traer el coche»</h3><ol><li>Marca, modelo, año</li><li>Qué servicio o síntoma</li><li>Días y franjas disponibles</li><li>Teléfono de contacto</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Te apunto el martes a las 9:00. Tráelo en ayunas si es diagnóstico (sin conducción previa desde al menos 1 hora) o a cualquier hora si es mantenimiento. ¿Confirmas?»</p></blockquote><h3>Ruta B — «¿Cuánto cuesta / precio de…?»</h3><ol><li>Marca, modelo, año</li><li>Servicio exacto (no 'frenos', sino 'frenos delanteros' o 'todos')</li><li>Kilómetros si es mantenimiento</li><li>Si tiene preferencia de piezas (original / equivalente)</li><li>Cuándo lo necesita</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Con lo que me dices, el rango orientativo para ese modelo está entre X y Y dependiendo del estado que tenga al verlo. Si quieres lo miramos sin compromiso: dime cuándo puedes traerlo.»</p></blockquote><h3>Ruta C — Urgencia (no puede circular o tiene miedo de hacerlo)</h3><ol><li>Confirmar que no puede o no quiere circular</li><li>Ubicación actual del vehículo</li><li>Síntoma exacto</li><li>Marca, modelo, año</li><li>Teléfono</li></ol><p><strong>Cierre tipo:</strong></p><blockquote><p>«Entendido. Si no puedes moverlo, dime dónde está y buscamos solución. Si puedes traerlo despacio, te espero esta mañana antes de las X.»</p></blockquote><p>Para profundizar en cómo estructurar el proceso de citas sin acumular mensajes, <a href=\"/blog/agendar-citas-sin-mensajes/\">esta guía sobre cómo agendar citas sin intercambiar 20 mensajes</a> cubre el flujo completo desde el primer contacto hasta la confirmación.</p><h2>Implementación sin herramientas nuevas</h2><p>Esta plantilla funciona sin ninguna aplicación adicional. Solo necesitas tenerla clara antes de abrir WhatsApp.</p><h3>Paso 1: guarda los tres mensajes de entrada en notas rápidas</h3><p>WhatsApp Business permite respuestas rápidas con barra diagonal. Guarda el mensaje de entrada, el de precio y el de urgencia. Los activas en un segundo sin escribir nada.</p><h3>Paso 2: decide qué datos anotas para que la recepción no repita preguntas</h3><p>Si tú recibes los mensajes y otra persona recibe el coche, los datos que capturaste en WhatsApp deben llegar al taller. Una nota en el nombre del contacto, una hoja de entrada o una carpeta de conversaciones por fecha. Lo que funcione en tu taller, pero que no exija volver a preguntar lo mismo en ventanilla.</p><h3>Paso 3: define el mensaje de confirmación de cita</h3><p>Un único mensaje con: fecha y hora confirmada, qué debe traer el cliente (llaves, documentación, si necesita dejar el coche), y un teléfono o forma de avisar cuando esté listo. Sin preguntas nuevas en ese mensaje.</p><p>Si el volumen ya supera los 20-30 mensajes diarios y este proceso manual se te va de las manos, el siguiente paso lógico es un punto de entrada único que capture estos datos antes de que lleguen a ti. <a href=\"/blog/preguntas-para-filtrar-clientes-plantillas/\">Aquí tienes plantillas de preguntas por sector</a> si quieres ver cómo se estructura eso en otros tipos de negocio de servicios.</p><p>Si quieres implementar esto sin construirlo desde cero, herramientas como Inkup hacen exactamente esto: ofrecen un link compartible (en la bio de Instagram, en WhatsApp, en Google Business Profile) que abre un asistente conversacional, captura los datos del vehículo antes de que tú respondas manualmente y redirige la conversación a WhatsApp con el contexto ya recogido. No es para todos los casos: si recibes pocas consultas al día o tu proceso requiere hablar con el cliente desde el primer mensaje, probablemente no lo necesitas aún.</p><h2>Errores típicos al cualificar en un taller</h2><ol><li><strong>Confirmar cita sin saber el modelo</strong><br>→ Consecuencia: llegas al día de la cita sin piezas o sin tiempo suficiente reservado.<br>→ Corrección: no confirmes hueco hasta tener marca/modelo/año como mínimo.</li><li><strong>Dar precio sin datos del vehículo</strong><br>→ Consecuencia: precio que luego no cuadra con la realidad, fricción en el momento de la entrega.<br>→ Corrección: siempre «rango orientativo sujeto a revisión» hasta ver el coche.</li><li><strong>No preguntar urgencia</strong><br>→ Consecuencia: un coche que no debería circular acaba en lista de espera normal, o un caso rutinario ocupa un hueco urgente.<br>→ Corrección: una sola pregunta binaria (¿puede circular sin problema?) ordena la prioridad antes de mirar la agenda.</li><li><strong>Preguntar kilómetros y garantía en el primer mensaje</strong><br>→ Consecuencia: el cliente siente que está rellenando un formulario de seguro y abandona.<br>→ Corrección: reserva esos datos para la plantilla completa, cuando ya hay intención confirmada.</li><li><strong>Agendar sin confirmar disponibilidad real del cliente</strong><br>→ Consecuencia: no-shows o cambios de última hora que desorganizan el día.<br>→ Corrección: propón dos opciones concretas y espera confirmación explícita antes de apuntar la cita.</li><li><strong>No dejar registro del diagnóstico previo al teléfono</strong><br>→ Consecuencia: quien recibe el coche en el taller no tiene contexto y vuelve a preguntar lo mismo al cliente.<br>→ Corrección: traslada los datos clave de la conversación de WhatsApp al sistema de entrada del taller, aunque sea una nota manual.</li></ol>",
+    "faq": [
+      {
+        "question": "¿Cuántos datos pido antes de confirmar una cita en el taller?",
+        "answer": "Con 5 basta para la mayoría de casos: marca/modelo/año, síntoma en una frase, urgencia, disponibilidad y teléfono. Si la avería es compleja o implica piezas, añades kilómetros y si tiene garantía o seguro. Más que eso antes de la primera respuesta aumenta el abandono."
+      },
+      {
+        "question": "¿Qué hago si el cliente solo me manda 'precio del cambio de frenos'?",
+        "answer": "No des cifra suelta. Responde con tres datos que necesitas: marca/modelo/año, si son delanteros o traseros, y cuándo quiere traerlo. Con eso das un rango real y detectas si tienes las piezas."
+      },
+      {
+        "question": "¿Pido el número de bastidor desde el principio?",
+        "answer": "No. Es demasiado fricción para el primer contacto. Pide marca, modelo y año. El bastidor lo solicitas cuando la cita ya está confirmada o cuando la reparación lo requiere específicamente."
+      },
+      {
+        "question": "¿Cómo gestiono a alguien que dice que su coche 'hace un ruido raro' sin más?",
+        "answer": "Pide una frase más concreta: cuándo ocurre (al frenar, al arrancar, en curva), desde cuándo y si se mueve o está parado. No necesitas diagnóstico exacto, solo suficiente para asignar tiempo en agenda y anticipar si necesitas elevar el coche o hacer prueba de ruta."
+      },
+      {
+        "question": "¿Pregunto si el coche está en garantía o tiene seguro de asistencia?",
+        "answer": "Sí, pero en la plantilla completa, no en la mínima. Cambia el flujo de trabajo y puede derivar la gestión a otro canal. Es el tipo de dato que ahorras al preguntar una vez bien."
+      },
+      {
+        "question": "¿Cómo priorizo si me escriben tres personas el mismo día con averías distintas?",
+        "answer": "La urgencia declarada ordena la lista: coche que no arranca o no es apto para circular va primero. Ruido, testigo o mantenimiento va a agenda normal. Definir este criterio antes de recibir los mensajes es lo que evita decidir bajo presión."
+      },
+      {
+        "question": "¿La plantilla funciona igual para Instagram DM y WhatsApp?",
+        "answer": "El contenido es el mismo, el tono cambia ligeramente. En DM de Instagram mantén el primer mensaje corto (1-2 preguntas máximo) y guía al cliente a WhatsApp para cerrar. En WhatsApp puedes enviar las 5 preguntas en un solo mensaje si usas formato lista."
+      },
+      {
+        "question": "¿Qué hago cuando el cliente ya ha estado en el taller y vuelve con la misma avería?",
+        "answer": "Trato aparte. La plantilla es para el primer contacto o nuevas consultas. Si es cliente recurrente con historial conocido, el flujo se acorta: confirmas síntoma y disponibilidad, sin volver a pedir modelo ni año."
+      }
+    ]
+  },
+  {
     "slug": "plantilla-cualificacion-inmobiliaria",
     "title": "Plantilla de cualificación para inmobiliaria (comprar/alquilar)",
     "description": "Preguntas exactas para separar curiosos de compradores y arrendatarios reales. Plantilla mínima y completa para cualificar consultas inmobiliarias antes de la visita.",
