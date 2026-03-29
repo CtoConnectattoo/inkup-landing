@@ -11,15 +11,15 @@ import { HowToFormGuide } from "@/components/how-to-form-guide"
 import { WhatsAppTemplates } from "@/components/whatsapp-templates"
 
 export const metadata: Metadata = {
-  title: "Cómo hacer un formulario en WhatsApp paso a paso | Inkup",
+  title: "Cómo hacer un formulario en WhatsApp gratis en 5 minutos (sin programar) | Inkup",
   description:
-    "Descubre cómo hacer un formulario para WhatsApp sin saber programar. Guía rápida para ahorrar tiempo y organizar tus consultas. Gratis y sin web.",
+    "Crea un formulario en WhatsApp en menos de 10 minutos: sin código, sin web y sin coste. Filtra consultas, recoge datos y llega a cada cliente con contexto antes de responder.",
   keywords:
     "cómo hacer un formulario en whatsapp, formulario whatsapp, crear formulario sin código, whatsapp business, formulario online, inkup",
   openGraph: {
-    title: "Cómo hacer un formulario en WhatsApp paso a paso | Inkup",
+    title: "Cómo hacer un formulario en WhatsApp gratis en 5 minutos (sin programar) | Inkup",
     description:
-      "Descubre cómo hacer un formulario para WhatsApp sin saber programar. Guía rápida para ahorrar tiempo y organizar tus consultas. Gratis y sin web.",
+      "Crea un formulario en WhatsApp en menos de 10 minutos: sin código, sin web y sin coste. Filtra consultas, recoge datos y llega a cada cliente con contexto antes de responder.",
     url: "https://inkup.io/como-hacer-un-formulario-en-whatsapp",
     siteName: "Inkup",
     images: [
