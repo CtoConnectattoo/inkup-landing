@@ -2,7 +2,6 @@ import type { Metadata } from "next"
 import Script from "next/script"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
-import { WhatsAppFormSteps } from "@/components/whatsapp-form-steps"
 import { WhatsAppFormTestimonials } from "@/components/whatsapp-form-testimonials"
 import { WhatsAppFormFAQ } from "@/components/whatsapp-form-faq"
 import { WhatsAppFormCTA } from "@/components/whatsapp-form-cta"
@@ -245,7 +244,6 @@ export default function ComoHacerFormularioWhatsAppPage() {
 
         {/* Original guide/components for depth and social proof */}
         <HowToFormGuide />
-        <WhatsAppFormSteps />
         <WhatsAppFormTestimonials />
         <WhatsAppFormFAQ />
         <WhatsAppFormCTA />

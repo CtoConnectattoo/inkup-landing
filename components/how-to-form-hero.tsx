@@ -18,12 +18,10 @@ export function HowToFormHero() {
             className="space-y-6"
           >
             <h1 className="text-4xl md:text-5xl font-bold text-black leading-tight">
-              Cómo hacer un formulario en WhatsApp de forma fácil y sin código
+              Cómo hacer un formulario en WhatsApp: guía completa para negocios de servicios
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              Muchas personas buscan una forma de recibir consultas por WhatsApp sin tener que contestar mensajes
-              repetidos una y otra vez. Aquí te explicamos cómo puedes hacerlo tú misma, sin saber programar ni tener
-              una web.
+              Si recibes mensajes como "hola", "¿cuánto cuesta?" o "¿tenéis hueco?" sin más información, esta guía es para ti. Te explicamos qué es un formulario de WhatsApp, las distintas formas de crearlo y cuál tiene más sentido según tu caso, sin necesidad de saber programar ni tener web.
             </p>
 
             <div className="space-y-4">
