@@ -110,7 +110,7 @@ export function HowToFormGuide() {
             viewport={{ once: true }}
             className="mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-black mb-6">
+            <h2 id="que-es" className="text-3xl md:text-4xl font-bold text-black mb-6">
               ¿Qué es exactamente un formulario de WhatsApp?
             </h2>
             <div className="prose prose-lg max-w-none text-gray-700">
@@ -158,7 +158,7 @@ export function HowToFormGuide() {
             viewport={{ once: true }}
             className="mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-black mb-4">
+            <h2 id="para-que-sectores" className="text-3xl md:text-4xl font-bold text-black mb-4">
               ¿Para qué negocios tiene sentido?
             </h2>
             <p className="text-lg text-gray-600 mb-8">
@@ -185,7 +185,7 @@ export function HowToFormGuide() {
             viewport={{ once: true }}
             className="mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-black mb-3">
+            <h2 id="3-formas" className="text-3xl md:text-4xl font-bold text-black mb-3">
               Las 3 formas reales de hacerlo (con honestidad)
             </h2>
             <p className="text-lg text-gray-600 mb-8">
@@ -251,7 +251,7 @@ export function HowToFormGuide() {
             viewport={{ once: true }}
             className="mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold text-black mb-8">
+            <h2 id="comparativa" className="text-3xl md:text-4xl font-bold text-black mb-8">
               Comparativa rápida
             </h2>
             <div className="overflow-x-auto">
