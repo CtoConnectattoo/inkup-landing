@@ -14,20 +14,20 @@ export function Footer() {
       {/* EU Funding Banner — encima del footer */}
       <section className="bg-white border-t border-gray-200">
         <div className="container mx-auto px-4 py-10 flex flex-col gap-8">
-          <div className="flex flex-wrap items-center justify-center gap-x-8 gap-y-6 md:gap-x-12">
+          <div className="flex flex-col items-center gap-y-10 lg:flex-row lg:justify-between lg:items-center lg:gap-y-0">
             <Image
               src="/images/financiacion/01-union-europea.png"
               alt="Financiado por la Unión Europea - NextGenerationEU"
               width={1200}
               height={352}
-              className="object-contain h-12 md:h-14 lg:h-16 w-auto"
+              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
             />
             <Image
               src="/images/financiacion/02-plan-recuperacion.png"
               alt="Plan de Recuperación, Transformación y Resiliencia"
               width={1920}
               height={1080}
-              className="object-contain h-12 md:h-14 lg:h-16 w-auto"
+              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
             />
             <Image
               src="/images/financiacion/03-gobierno-espana.gif"
@@ -35,21 +35,21 @@ export function Footer() {
               width={251}
               height={72}
               unoptimized
-              className="object-contain h-12 md:h-14 lg:h-16 w-auto"
+              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
             />
             <Image
               src="/images/financiacion/04-junta-andalucia.png"
               alt="Junta de Andalucía"
               width={3840}
               height={2170}
-              className="object-contain h-12 md:h-14 lg:h-16 w-auto"
+              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
             />
             <Image
               src="/images/financiacion/05-agencia-digital-andalucia.png"
               alt="Agencia Digital de Andalucía"
               width={735}
               height={480}
-              className="object-contain h-12 md:h-14 lg:h-16 w-auto"
+              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
             />
           </div>
           <div className="text-base text-gray-700 text-left leading-relaxed space-y-3">
