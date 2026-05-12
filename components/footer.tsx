@@ -112,8 +112,8 @@ export function Footer() {
         </div>
 
         {/* EU Funding Logos */}
-        <div className="pt-8 border-t border-gray-700/50 flex flex-col items-center gap-6 mb-8">
-          <div className="bg-white rounded-lg p-4 w-full max-w-4xl">
+        <div className="pt-8 border-t border-gray-700/50 flex flex-col gap-6 mb-8">
+          <div className="bg-white rounded-lg p-4 w-full">
             <Image
               src="/images/logos-financiacion-eu.jpeg"
               alt="Financiado por la Unión Europea - NextGenerationEU, Plan de Recuperación, Transformación y Resiliencia, Gobierno de España - Ministerio para la Transformación Digital y de la Función Pública, Junta de Andalucía, Agencia Digital de Andalucía"
@@ -122,7 +122,7 @@ export function Footer() {
               className="object-contain w-full h-auto"
             />
           </div>
-          <div className="max-w-4xl text-xs text-gray-400 text-center leading-relaxed space-y-2">
+          <div className="text-xs text-gray-400 text-left leading-relaxed space-y-2">
             <p>
               Empresa beneficiaria de una ayuda para el “Desarrollo e implantación de soluciones digitales con aplicación sectorial en el marco del proyecto Redes de Emprendimiento Digital en Andalucía, correspondiente al Programa Redes Territoriales de Especialización Tecnológica (RETECH)”.
             </p>
