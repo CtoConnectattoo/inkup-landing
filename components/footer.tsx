@@ -30,11 +30,10 @@ export function Footer() {
               className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
-              src="/images/financiacion/03-gobierno-espana.gif"
+              src="/images/financiacion/03-gobierno-espana.png"
               alt="Gobierno de España - Ministerio para la Transformación Digital y de la Función Pública"
-              width={251}
-              height={72}
-              unoptimized
+              width={1280}
+              height={290}
               className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
