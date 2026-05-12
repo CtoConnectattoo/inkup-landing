@@ -20,14 +20,14 @@ export function Footer() {
               alt="Financiado por la Unión Europea - NextGenerationEU"
               width={1200}
               height={352}
-              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
+              className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
               src="/images/financiacion/02-plan-recuperacion.png"
               alt="Plan de Recuperación, Transformación y Resiliencia"
               width={1920}
               height={1080}
-              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
+              className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
               src="/images/financiacion/03-gobierno-espana.gif"
@@ -35,21 +35,21 @@ export function Footer() {
               width={251}
               height={72}
               unoptimized
-              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
+              className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
               src="/images/financiacion/04-junta-andalucia.png"
               alt="Junta de Andalucía"
               width={3840}
               height={2170}
-              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
+              className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
             <Image
               src="/images/financiacion/05-agencia-digital-andalucia.png"
               alt="Agencia Digital de Andalucía"
               width={735}
               height={480}
-              className="object-contain h-20 lg:h-16 xl:h-20 2xl:h-24 w-auto"
+              className="object-contain w-full h-auto lg:w-auto lg:h-16 xl:h-20 2xl:h-24"
             />
           </div>
           <div className="text-base text-gray-700 text-left leading-relaxed space-y-3">
