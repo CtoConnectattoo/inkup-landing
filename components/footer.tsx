@@ -112,31 +112,25 @@ export function Footer() {
         </div>
 
         {/* EU Funding Logos */}
-        <div className="pt-8 border-t border-gray-700/50 flex flex-col sm:flex-row justify-center items-center gap-8 mb-8">
-          <Image
-            src="/images/logo-prtr.jpg"
-            alt="Plan de Recuperación, Transformación y Resiliencia"
-            width={100}
-            height={120}
-            className="object-contain"
-          />
-          <Image
-            src="/images/logo-next-generation-eu.jpg"
-            alt="Financiado por la Unión Europea - NextGenerationEU"
-            width={160}
-            height={80}
-            className="object-contain"
-          />
-          <div className="flex flex-col sm:flex-row items-center gap-4">
+        <div className="pt-8 border-t border-gray-700/50 flex flex-col items-center gap-6 mb-8">
+          <div className="bg-white rounded-lg p-4 w-full max-w-4xl">
             <Image
-              src="/images/agencia-digital-andalucia.png"
-              alt="Agencia Digital de Andalucía"
-              width={80}
-              height={80}
-              className="object-contain"
+              src="/images/logos-financiacion-eu.jpeg"
+              alt="Financiado por la Unión Europea - NextGenerationEU, Plan de Recuperación, Transformación y Resiliencia, Gobierno de España - Ministerio para la Transformación Digital y de la Función Pública, Junta de Andalucía, Agencia Digital de Andalucía"
+              width={1600}
+              height={211}
+              className="object-contain w-full h-auto"
             />
-            <p className="text-xs text-gray-400 max-w-[220px] text-center sm:text-left leading-relaxed">
-              Proyecto subvencionado por la Agencia Digital de Andalucía de la Consejería de Industria, Energía y Minas (Junta de Andalucía)
+          </div>
+          <div className="max-w-4xl text-xs text-gray-400 text-center leading-relaxed space-y-2">
+            <p>
+              Empresa beneficiaria de una ayuda para el “Desarrollo e implantación de soluciones digitales con aplicación sectorial en el marco del proyecto Redes de Emprendimiento Digital en Andalucía, correspondiente al Programa Redes Territoriales de Especialización Tecnológica (RETECH)”.
+            </p>
+            <p>
+              Proyecto cofinanciado por el Plan de Recuperación, Transformación y Resiliencia y financiado por la Unión Europea – NextGenerationEU (C13I1), a través de la Agencia Digital de Andalucía.
+            </p>
+            <p>
+              Beneficiario: CONNECTATTOO S.L. · Expediente: D4HED200020252894
             </p>
           </div>
         </div>
