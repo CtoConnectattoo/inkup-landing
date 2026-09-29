@@ -45,6 +45,13 @@ export default function RootLayout({
         </Script>
         {/* End Google Tag Manager */}
 
+        {/* FirstPromoter: afiliados. Deja la cookie de referido en inkup.io para que hi.inkup.io la lea */}
+        <Script id="firstpromoter-init" strategy="afterInteractive">
+          {`(function(w){w.fpr=w.fpr||function(){w.fpr.q = w.fpr.q||[];w.fpr.q[arguments[0]=='set'?'unshift':'push'](arguments);};})(window);
+fpr("init", {cid:"v4wckafv"}); fpr("click");`}
+        </Script>
+        <Script src="https://cdn.firstpromoter.com/fpr.js" strategy="afterInteractive" />
+
         {/* Google Analytics 4 Tag */}
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-7V30HZHN39" strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">
