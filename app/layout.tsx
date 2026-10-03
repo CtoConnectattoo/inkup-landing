@@ -11,9 +11,9 @@ import Script from "next/script"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Inkup - Más citas, menos ruido",
+  title: "Inkup - Consultas completas en tu WhatsApp",
   description:
-    "Atiende a tus clientes al instante, personaliza tu asistente y gestiona todas tus consultas en un solo lugar.",
+    "Un enlace para artistas, estudios y piercers: tu cliente responde unas preguntas y se le abre WhatsApp contigo con el mensaje ya escrito. Estilo, zona, tamaño, referencias y cuándo, en un solo mensaje.",
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
