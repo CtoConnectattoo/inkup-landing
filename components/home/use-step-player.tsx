@@ -25,6 +25,8 @@ interface Options {
 export function useStepPlayer<S>(initial: S, steps: Step<S>[], opts: Options = {}) {
   const [state, setState] = React.useState<S>(initial)
   const [status, setStatus] = React.useState<PlayerStatus>("idle")
+  // Se incrementa en cada reinicio para relanzar la cola aunque ya estuviera reproduciendo
+  const [run, setRun] = React.useState(0)
   const index = React.useRef(0)
   const timer = React.useRef<ReturnType<typeof setTimeout> | null>(null)
   const stepsRef = React.useRef(steps)
@@ -42,6 +44,7 @@ export function useStepPlayer<S>(initial: S, steps: Step<S>[], opts: Options = {
     index.current = 0
     setState(initial)
     setStatus("playing")
+    setRun((r) => r + 1)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [clear])
 
@@ -68,7 +71,7 @@ export function useStepPlayer<S>(initial: S, steps: Step<S>[], opts: Options = {
     if (status === "playing") schedule()
     else clear()
     return clear
-  }, [status, schedule, clear])
+  }, [status, run, schedule, clear])
 
   const play = React.useCallback(() => {
     if (status === "done") restart()
