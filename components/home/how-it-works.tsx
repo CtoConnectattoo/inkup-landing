@@ -6,7 +6,7 @@ const STEPS = [
   {
     k: "1 · Tu enlace",
     title: "Cada artista o estudio tiene su enlace",
-    text: "Se crea en un minuto desde tu Instagram. Lo pones en la bio, en las respuestas automáticas y donde ya te escriben.",
+    text: "Se crea en 1 minuto. Lo pones en la bio de Instagram, en las respuestas automáticas y donde ya te escriben.",
     art: (
       <span className="link-chip">
         <i />

@@ -16,7 +16,7 @@ export function FinalCta() {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Crea tu asistente desde tu Instagram, pon el enlace en la bio y empieza a recibir consultas completas en tu
+            Crea tu asistente en 1 minuto, pon el enlace en la bio y empieza a recibir consultas completas en tu
             WhatsApp.
           </p>
           <Button size="lg" className="h-14 text-lg px-8" asChild>
