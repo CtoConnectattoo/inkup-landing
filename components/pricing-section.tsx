@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { PricingToggle } from "./pricing-toggle"
 
-interface PricingTier {
+export interface PricingTier {
   name: string
   monthlyPrice: number
   annualPrice: number
@@ -30,6 +30,8 @@ interface PricingSectionProps {
   subtitle?: string
   customTiers?: PricingTier[]
   defaultPeriod?: "monthly" | "annual"
+  /** Texto bajo las tarjetas (condiciones de la prueba, etc.) */
+  note?: React.ReactNode
 }
 
 const pricingTiers: PricingTier[] = [
@@ -87,6 +89,7 @@ export function PricingSection({
   subtitle,
   customTiers,
   defaultPeriod = "annual",
+  note,
 }: PricingSectionProps) {
   const [isAnnual, setIsAnnual] = React.useState(defaultPeriod === "annual")
   const pathname = usePathname()
@@ -176,7 +179,7 @@ export function PricingSection({
                         </div>
                       )}
                       <div className="flex items-baseline">
-                        <span className="text-4xl font-bold text-white">$</span>
+                        <span className="text-4xl font-bold text-white">€</span>
                         <span className="text-5xl font-bold text-white">
                           {effectivePeriod ? tier.annualPrice : tier.monthlyPrice}
                         </span>
@@ -232,6 +235,7 @@ export function PricingSection({
             </Card>
           ))}
         </div>
+        {note && <p className="mt-8 text-center text-sm text-muted-foreground max-w-2xl mx-auto">{note}</p>}
       </div>
     </section>
   )
