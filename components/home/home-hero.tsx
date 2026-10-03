@@ -38,7 +38,7 @@ export function HomeHero() {
             </Button>
           </div>
           <p className="text-sm text-muted-foreground">
-            Listo en un minuto desde tu Instagram · 7 días de prueba · Nada que instalar
+            Listo en 1 minuto · 7 días de prueba · Nada que instalar
           </p>
 
           <div className="pt-2 flex flex-col items-center lg:items-start gap-2">

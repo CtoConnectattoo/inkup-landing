@@ -17,7 +17,7 @@ const FAQS = [
   },
   {
     q: "¿Cómo funciona la prueba gratuita?",
-    a: "Te registras con tu Instagram y tu asistente queda listo en un minuto. Tienes 7 días para usarlo sin límite de consultas. Añades la tarjeta al empezar, pero hoy no pagas nada: el primer cobro es al terminar la prueba, y puedes cancelar desde tu cuenta en cualquier momento.",
+    a: "Te registras y tu asistente queda listo en 1 minuto. Tienes 7 días para usarlo sin límite de consultas. Añades la tarjeta al empezar, pero hoy no pagas nada: el primer cobro es al terminar la prueba, y puedes cancelar desde tu cuenta en cualquier momento.",
   },
   {
     q: "¿Funciona con mi WhatsApp personal o con WhatsApp Business?",
@@ -33,7 +33,7 @@ const FAQS = [
   },
   {
     q: "¿Hay que saber de tecnología?",
-    a: "No. Se crea desde tu Instagram en un minuto y la propia app te guía para poner el enlace en la bio y en las respuestas automáticas. Si te atascas, estamos en WhatsApp.",
+    a: "No. Se crea en 1 minuto y la propia app te guía para poner el enlace en la bio y en las respuestas automáticas. Si te atascas, estamos en WhatsApp.",
   },
 ]
 
