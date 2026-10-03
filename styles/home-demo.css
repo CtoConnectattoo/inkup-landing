@@ -938,3 +938,11 @@
 .demo.small .stats b {
   font-size: 14px;
 }
+
+/* animaciones sueltas para la demo del panel */
+.demo .pop {
+  animation: demo-pop 0.35s ease-out both;
+}
+.demo .press {
+  animation: demo-press 0.5s ease-out;
+}
