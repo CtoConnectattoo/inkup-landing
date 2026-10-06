@@ -2,7 +2,8 @@ import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
 import { ScrollReset } from "@/components/scroll-reset"
-import { NewsletterPopup } from "@/components/newsletter-popup"
+// Popup de entrenamiento gratuito desactivado de momento. Para reactivarlo, descomentar este import y el <NewsletterPopup /> de abajo.
+// import { NewsletterPopup } from "@/components/newsletter-popup"
 import { WhatsAppWidget } from "@/components/whatsapp-widget"
 import { CookieConsent } from "@/components/cookie-consent"
 import type React from "react"
@@ -102,7 +103,7 @@ fpr("init", {cid:"v4wckafv"}); fpr("click");`}
 
         <ScrollReset />
         {children}
-        <NewsletterPopup />
+        {/* <NewsletterPopup /> */}
         {/* WhatsApp widget */}
         <WhatsAppWidget />
         {/* Cookie Consent component */}
