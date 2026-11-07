@@ -5,161 +5,137 @@ export const manychatData: AlternativaData = {
   competitorName: 'ManyChat',
   competitorSlug: 'manychat',
 
-  h1: 'Alternativa a ManyChat para negocios de servicios: menos configuración, más consultas gestionadas',
-  metaTitle: 'Alternativa a ManyChat para negocios de servicios | Inkup',
-  metaDescription: 'ManyChat vs Inkup: dos herramientas para dos problemas distintos. Si tu problema es gestionar consultas inbound desde Instagram, esta comparativa explica la diferencia.',
-  lastVerified: 'Marzo 2026',
+  h1: 'Alternativa a ManyChat en español: lo mismo en Instagram, con precio fijo',
+  metaTitle: 'Alternativa a ManyChat en español, con precio fijo | Inkup',
+  metaDescription:
+    'Comentario → DM, respuestas a historias y palabras clave en Instagram, como ManyChat, pero en español, sin pagar por contacto y con paso a WhatsApp.',
+  lastVerified: 'Noviembre 2026',
 
   tldr: {
-    title: 'ManyChat vs Inkup: dos herramientas para dos problemas distintos',
+    title: 'ManyChat vs Inkup en 30 segundos',
     items: [
       {
-        emphasis: 'ManyChat es un constructor de flujos: ',
-        text: 'necesitas diseñar, configurar y mantener la lógica antes de obtener valor.',
+        emphasis: 'Hacen lo mismo en Instagram: ',
+        text: 'comentario → DM, respuesta a historias y palabras clave en DM.',
       },
       {
-        emphasis: 'Inkup es plug-and-play: ',
-        text: 'el flujo ya está construido para negocios de servicios. Conectas y funciona en minutos.',
+        emphasis: 'Inkup es en español de verdad: ',
+        text: 'interfaz, plantillas y soporte por WhatsApp.',
       },
       {
-        emphasis: 'El precio de ManyChat escala por contactos: ',
-        text: 'impredecible para negocios con picos estacionales.',
+        emphasis: 'Precio fijo: ',
+        text: 'ManyChat cobra por contactos activos desde marzo de 2026; Inkup no cobra por contacto.',
       },
       {
-        emphasis: 'El flujo IG DM → WhatsApp no es nativo en ManyChat: ',
-        text: 'requiere configuración adicional.',
+        emphasis: 'El paso a WhatsApp ya viene hecho: ',
+        text: 'el asistente abre WhatsApp con la consulta escrita.',
       },
       {
-        emphasis: 'Inkup no hace marketing outbound: ',
-        text: 'si necesitas broadcasts masivos, ManyChat es la mejor opción.',
+        emphasis: 'Si necesitas campañas masivas y flujos complejos multicanal, ',
+        text: 'ManyChat sigue siendo más completo.',
       },
     ],
   },
 
   problemSection: `
-    <p>Cada semana, miles de negocios de servicios —tatuadores, estudios de estética, fotógrafos—
-    abren Instagram y se encuentran con el mismo problema: decenas de mensajes de consulta, todos diferentes,
-    todos requiriendo una respuesta manual que tarda entre 5 y 15 minutos cada una.</p>
-    <p>Tanto ManyChat como Inkup intentan resolver algo relacionado con este problema.
-    Pero desde ángulos completamente distintos.</p>
+    <p>Si vendes o atiendes por Instagram, lo has vivido: un Reel funciona y te llenan los comentarios de "precio", "info" o "link". Contestarlos a mano llega tarde, y cada respuesta tardía es un cliente que se enfría.</p>
+    <p>ManyChat popularizó la solución: que alguien comente una palabra y reciba un DM automático. El problema para muchos negocios en España y LATAM es otro: está en inglés, se configura con flujos y su precio sube con cada contacto.</p>
   `,
 
   competitorSection: `
-    <p>ManyChat es una plataforma de marketing conversacional. Su propuesta de valor es darte
-    las herramientas para construir flujos automatizados en Instagram, WhatsApp y Facebook Messenger.
-    Tú diseñas la conversación; ManyChat la ejecuta.</p>
-    <p>Donde ManyChat brilla de verdad es en el marketing outbound: sequences automáticas post-compra,
-    campañas de reactivación, broadcasts a listas de contactos. Para marcas con equipo de marketing
-    y base de datos grande, es una herramienta muy potente.</p>
-    <p>El precio sigue un modelo freemium que escala por número de contactos activos.
-    El plan Pro empieza en ~$15/mes para 500 contactos y sube rápidamente con el volumen.</p>
+    <p>ManyChat es una plataforma de marketing conversacional muy completa para Instagram, WhatsApp, Messenger y TikTok. Permite construir flujos visuales, secuencias, difusiones y conectar con muchas herramientas.</p>
+    <p>Desde marzo de 2026 su precio depende de los contactos activos, y el plan gratuito permite 25. Para marcas con equipo de marketing y bases de datos grandes es una herramienta potente; para un negocio pequeño, suele ser más de lo que necesita y más caro de lo que espera.</p>
   `,
 
   differenceSection: `
-    <p>Inkup parte de un supuesto distinto: el problema de los negocios de servicios no es
-    la falta de herramientas para construir flujos. Es que no tienen tiempo para construirlos.</p>
-    <p>El flujo ya está construido. Cuando alguien escribe por Instagram DM o WhatsApp,
-    Inkup recoge la consulta, hace las preguntas relevantes según el tipo de negocio
-    y entrega un resumen organizado. Sin que hayas tocado un editor de flujos.</p>
-    <p>La diferencia de tiempo es real: ManyChat requiere horas de configuración inicial
-    para obtener el primer valor. Inkup funciona en minutos desde el registro.</p>
+    <p>Inkup se centra en lo que de verdad usan la mayoría de negocios en Instagram: responder al momento a comentarios, historias y DMs con una palabra clave. Lo eliges, escribes el mensaje y funciona.</p>
+    <p>La diferencia está en lo que pasa después: si el cliente quiere precio o cita, el asistente de Inkup le hace las preguntas necesarias y le abre WhatsApp contigo con todo ya escrito. Y todo queda en un panel que puedes exportar.</p>
+    <p>Además, puedes crear y gestionar tus automatizaciones hablando con ChatGPT o Claude gracias al conector de Inkup.</p>
   `,
 
   comparativaRows: [
+    { criterio: 'Comentario → DM automático', inkup: 'yes', competitor: 'yes', inkupNote: 'En todos los planes' },
+    { criterio: 'Respuesta automática a historias', inkup: 'yes', competitor: 'yes' },
+    { criterio: 'Palabras clave en DM', inkup: 'yes', competitor: 'yes' },
     {
-      criterio: 'Tipo de producto',
+      criterio: 'Interfaz y soporte en español',
       inkup: 'yes',
       competitor: 'partial',
-      inkupNote: 'Producto terminado plug-and-play',
-      competitorNote: 'Constructor de flujos conversacionales',
-    },
-    {
-      criterio: 'Setup sin conocimientos técnicos',
-      inkup: 'yes',
-      competitor: 'no',
-      inkupNote: 'Minutos',
-      competitorNote: 'Requiere diseñar y configurar flujos',
-    },
-    {
-      criterio: 'Flujo nativo IG DM → WhatsApp',
-      inkup: 'yes',
-      competitor: 'partial',
-      competitorNote: 'Configurable, no nativo',
-    },
-    {
-      criterio: 'Precio predecible para microempresa',
-      inkup: 'yes',
-      competitor: 'no',
-      competitorNote: 'Escala por número de contactos activos',
-    },
-    {
-      criterio: 'Soporte en español nativo',
-      inkup: 'yes',
-      competitor: 'no',
+      inkupNote: 'Soporte por WhatsApp',
       competitorNote: 'Principalmente en inglés',
     },
     {
-      criterio: 'Precualificación inbound',
+      criterio: 'Precio fijo sin pagar por contacto',
+      inkup: 'yes',
+      competitor: 'no',
+      competitorNote: 'Cobra por contactos activos',
+    },
+    {
+      criterio: 'Paso a WhatsApp con la consulta escrita',
       inkup: 'yes',
       competitor: 'partial',
-      competitorNote: 'Solo si configuras el flujo tú mismo',
+      inkupNote: 'Incluido',
+      competitorNote: 'Hay que configurarlo',
+    },
+    { criterio: 'Panel de consultas con exportación', inkup: 'yes', competitor: 'yes' },
+    {
+      criterio: 'Gestionar automatizaciones desde ChatGPT o Claude',
+      inkup: 'yes',
+      competitor: 'no',
+      inkupNote: 'Conector MCP',
     },
     {
-      criterio: 'Broadcasts y campañas outbound',
+      criterio: 'Difusiones y campañas masivas',
       inkup: 'no',
       competitor: 'yes',
-      inkupNote: 'No es el propósito de Inkup',
+      inkupNote: 'No es el foco de Inkup',
     },
-    {
-      criterio: 'Gestión de equipo multiagente',
-      inkup: 'no',
-      competitor: 'yes',
-      inkupNote: 'Inkup es para 1-5 personas',
-    },
-    {
-      criterio: 'Mantenimiento técnico requerido',
-      inkup: 'no',
-      competitor: 'yes',
-      inkupNote: 'Ninguno',
-      competitorNote: 'Los flujos hay que actualizarlos manualmente',
-    },
+    { criterio: 'Flujos visuales complejos multicanal', inkup: 'no', competitor: 'yes' },
   ],
 
   whenCompetitorWins: [
     {
-      scenario: 'Tu negocio tiene una base de datos de clientes y quieres hacer campañas de reactivación',
-      explanation: 'ManyChat está diseñado para esto. Broadcasts, sequences automáticas, retargeting conversacional.',
+      scenario: 'Haces campañas masivas y secuencias de email/SMS',
+      explanation: 'ManyChat tiene difusiones y secuencias que Inkup no ofrece.',
     },
     {
-      scenario: 'Tu equipo tiene alguien dedicado a marketing con tiempo para configurar y mantener flujos',
-      explanation: 'La flexibilidad de ManyChat tiene sentido cuando hay alguien que puede aprovecharla.',
+      scenario: 'Necesitas flujos complejos en varios canales a la vez',
+      explanation: 'El constructor visual de ManyChat da más control.',
     },
     {
-      scenario: 'Necesitas integraciones avanzadas con tu CRM o plataforma de ecommerce',
-      explanation: 'ManyChat tiene un ecosistema de integraciones más amplio para escenarios complejos.',
+      scenario: 'Tu equipo trabaja en inglés y ya tiene ManyChat montado',
+      explanation: 'Cambiar puede no compensar.',
     },
   ],
 
   faqs: [
     {
-      question: '¿Se puede usar Inkup y ManyChat al mismo tiempo?',
-      answer: 'Sí. ManyChat gestiona campañas outbound y broadcasts; Inkup filtra el inbound antes de que llegue a tu WhatsApp. Son capas complementarias, no excluyentes.',
+      question: '¿Inkup hace lo mismo que ManyChat en Instagram?',
+      answer:
+        'En lo principal, sí: comentario → DM, respuestas a historias y palabras clave en DM. No tiene difusiones masivas ni el constructor de flujos multicanal.',
     },
     {
-      question: '¿ManyChat funciona sin saber programar?',
-      answer: 'ManyChat no requiere código, pero sí requiere diseñar y configurar flujos conversacionales. Para la mayoría de negocios de servicios sin equipo técnico, el tiempo de configuración inicial es una barrera real.',
+      question: '¿Cuánto cuesta frente a ManyChat?',
+      answer:
+        'Inkup cuesta desde 12 €/mes + IVA con pago anual (29 €/mes + IVA en mensual) y no cobra por contacto. ManyChat cobra según tus contactos activos.',
     },
     {
-      question: '¿Inkup tiene broadcasts como ManyChat?',
-      answer: 'No. Inkup está diseñado para gestionar consultas entrantes, no para enviar mensajes masivos. Si necesitas broadcasts, ManyChat es la herramienta correcta.',
+      question: '¿Hay versión gratis?',
+      answer:
+        'Inkup tiene 7 días de prueba sin límite de consultas. ManyChat tiene un plan gratuito limitado a 25 contactos.',
     },
     {
-      question: '¿ManyChat vale la pena para un estudio de tatuajes?',
-      answer: 'Depende del uso. Si el estudio quiere hacer campañas de retargeting o sequences post-consulta, ManyChat tiene sentido. Si el problema es gestionar el volumen de consultas inbound sin dedicarle horas, Inkup resuelve ese problema de forma más directa.',
+      question: '¿Está en español?',
+      answer: 'Sí: la herramienta, las plantillas y el soporte por WhatsApp.',
     },
     {
-      question: '¿Por qué Inkup es más predecible en precio que ManyChat para negocios pequeños?',
-      answer: 'ManyChat escala por número de contactos activos, lo que lo hace impredecible para negocios con picos estacionales. Inkup tiene precio fijo por plan independientemente del volumen de consultas.',
+      question: '¿Puedo pasarme desde ManyChat?',
+      answer: 'Sí. Recrea tus palabras clave y mensajes en Inkup; normalmente son pocas automatizaciones.',
+    },
+    {
+      question: '¿Sirve para mi sector?',
+      answer:
+        'Sirve para cualquier negocio que recibe mensajes por Instagram: tiendas, estética, clínicas, academias, fitness, restaurantes, coaches, agencias o tatuaje.',
     },
   ],
 }
