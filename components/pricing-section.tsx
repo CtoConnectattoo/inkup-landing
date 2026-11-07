@@ -32,6 +32,10 @@ interface PricingSectionProps {
   defaultPeriod?: "monthly" | "annual"
   /** Texto bajo las tarjetas (condiciones de la prueba, etc.) */
   note?: React.ReactNode
+  /** Texto tras "/mes", p. ej. "+ IVA". Si no se indica, no se muestra nada. */
+  priceSuffix?: string
+  /** Línea bajo el precio cuando está en modo anual, p. ej. "con pago anual". */
+  annualNote?: string
 }
 
 const pricingTiers: PricingTier[] = [
@@ -90,6 +94,8 @@ export function PricingSection({
   customTiers,
   defaultPeriod = "annual",
   note,
+  priceSuffix,
+  annualNote,
 }: PricingSectionProps) {
   const [isAnnual, setIsAnnual] = React.useState(defaultPeriod === "annual")
   const pathname = usePathname()
@@ -183,8 +189,9 @@ export function PricingSection({
                         <span className="text-5xl font-bold text-white">
                           {effectivePeriod ? tier.annualPrice : tier.monthlyPrice}
                         </span>
-                        <span className="ml-2 text-gray-300">/mes</span>
+                        <span className="ml-2 text-gray-300">/mes{priceSuffix ? ` ${priceSuffix}` : ""}</span>
                       </div>
+                      {effectivePeriod && annualNote && <div className="text-sm text-gray-400">{annualNote}</div>}
                       {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
                         <div className="text-emerald-400 font-semibold text-sm">
                           Ahorras €

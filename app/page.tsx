@@ -8,7 +8,8 @@ import { Footer } from "@/components/footer"
 import { ReviewSection } from "@/components/review-section"
 import { TestimonialVideos } from "@/components/testimonial-videos"
 import { SuccessCaseSection } from "@/components/success-case-section"
-import { PricingSection, type PricingTier } from "@/components/pricing-section"
+import { PricingSection } from "@/components/pricing-section"
+import { HOME_TIERS } from "@/data/plans"
 
 import { HomeHero } from "@/components/home/home-hero"
 import { ProblemSection } from "@/components/home/problem-section"
@@ -17,38 +18,6 @@ import { ShareSection } from "@/components/home/share-section"
 import { PanelSection } from "@/components/home/panel-section"
 import { HomeFaq } from "@/components/home/home-faq"
 import { FinalCta } from "@/components/home/final-cta"
-
-/* Planes tal y como existen hoy en hi.inkup.io (config/plans.ts de la app). */
-const HOME_TIERS: PricingTier[] = [
-  {
-    name: "Profesional",
-    monthlyPrice: 29,
-    annualPrice: 12,
-    ctaLabel: "Empezar la prueba gratis",
-    features: [
-      "100 consultas al mes",
-      "Hasta 5 asistentes",
-      "Selectores con imágenes y 5 idiomas",
-      "Panel de consultas con exportación",
-      "Cancela cuando quieras",
-    ],
-  },
-  {
-    name: "Premium",
-    monthlyPrice: 49,
-    annualPrice: 19,
-    isPopular: true,
-    badgeText: "Más elegido",
-    ctaLabel: "Empezar la prueba gratis",
-    features: [
-      "1.000 consultas al mes",
-      "Hasta 10 asistentes",
-      "Sin marca de agua de Inkup",
-      "Soporte prioritario",
-      "Todo lo del plan Profesional",
-    ],
-  },
-]
 
 export default function LandingPage() {
   return (
@@ -87,6 +56,8 @@ export default function LandingPage() {
         <div id="precios" className="scroll-mt-20">
           <PricingSection
             customTiers={HOME_TIERS}
+            priceSuffix="+ IVA"
+            annualNote="con pago anual"
             title="Prueba 7 días gratis. Después, elige tu plan."
             subtitle="Hoy no pagas nada. Cancela desde tu cuenta cuando quieras."
             note="Al crear tu asistente añades una tarjeta para activar la prueba, pero no se cobra nada hasta que terminan los 7 días. Sin permanencia: cancelas desde tu cuenta en un clic."
