@@ -5,14 +5,13 @@ import { SolutionsHero } from "@/components/solutions-hero"
 import { SolutionsGrid } from "@/components/solutions-grid"
 
 export const metadata: Metadata = {
-  title: "Soluciones de Inkup | Automatización IA para Estudios y Artistas",
+  title: "Soluciones de Inkup: automatiza Instagram en tu negocio",
   description:
-    "Descubre soluciones personalizadas de Inkup para diferentes tipos de negocios y casos de uso específicos. Automatiza tus consultas con IA y crece más rápido.",
-  keywords: "inkup soluciones, asistente IA tatuajes, automatización estudios, consultas automáticas tatuajes",
+    "Respuestas automáticas en Instagram y paso a WhatsApp para tiendas, estética, clínicas, academias, fitness, restaurantes, tatuaje y más. Elige tu caso.",
   openGraph: {
-    title: "Soluciones de Inkup | Automatización IA para Estudios y Artistas",
+    title: "Soluciones de Inkup: automatiza Instagram en tu negocio",
     description:
-      "Descubre soluciones personalizadas de Inkup para diferentes tipos de negocios y casos de uso específicos. Automatiza tus consultas con IA y crece más rápido.",
+      "Respuestas automáticas en Instagram y paso a WhatsApp para tiendas, estética, clínicas, academias, fitness, restaurantes, tatuaje y más. Elige tu caso.",
     url: "https://inkup.io/soluciones",
     siteName: "Inkup",
     images: [

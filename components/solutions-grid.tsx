@@ -1,10 +1,23 @@
 "use client"
 
+import type React from "react"
 import Link from "next/link"
 import { ArrowRight, Brush, Building, MessageSquare, Calendar, Users, CircleDot, Zap } from "lucide-react"
 import { motion } from "framer-motion"
 
-const businessTypes = [
+const SECTORS = [
+  "Tiendas",
+  "Estética y belleza",
+  "Clínicas",
+  "Academias y formación",
+  "Fitness",
+  "Restaurantes",
+  "Coaches y creadores",
+  "Agencias",
+]
+
+/* Tatuaje es un sector más: sus páginas siguen publicadas y enlazadas aquí. */
+const tattooPages = [
   {
     title: "Para Estudios de Tatuaje",
     description: "Gestiona múltiples artistas, centraliza consultas y optimiza la agenda del estudio.",
@@ -52,93 +65,86 @@ const useCases = [
   },
 ]
 
+type Item = (typeof useCases)[number]
+
+function SectionTitle({ children }: { children: React.ReactNode }) {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+      viewport={{ once: true }}
+      className="mb-8"
+    >
+      <h2 className="text-2xl font-semibold text-gray-500 mb-2 uppercase">{children}</h2>
+      <div className="h-1 w-16 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full"></div>
+    </motion.div>
+  )
+}
+
+function ItemList({ items, tone }: { items: Item[]; tone: "purple" | "pink" }) {
+  const hover = tone === "pink" ? "hover:border-pink-300" : "hover:border-purple-300"
+  const icon = tone === "pink" ? "bg-pink-100 text-pink-600" : "bg-purple-100 text-purple-600"
+  return (
+    <div className="space-y-8">
+      {items.map((item, index) => (
+        <motion.div
+          key={item.href}
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, delay: index * 0.1 }}
+          viewport={{ once: true }}
+        >
+          <Link
+            href={item.href}
+            className={`group block p-6 border border-gray-200 rounded-lg transition-all hover:shadow-md ${hover}`}
+          >
+            <div className="flex items-start gap-4">
+              <div className={`rounded-full p-3 ${icon}`}>{item.icon}</div>
+              <div className="flex-1">
+                <h3 className="text-xl font-semibold mb-2 flex items-center">
+                  {item.title}{" "}
+                  <ArrowRight className="ml-2 h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity" />
+                </h3>
+                <p className="text-muted-foreground">{item.description}</p>
+              </div>
+            </div>
+          </Link>
+        </motion.div>
+      ))}
+    </div>
+  )
+}
+
 export function SolutionsGrid() {
   return (
     <section className="py-16 md:py-24">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-16 lg:gap-24">
-          {/* Por Tipo de Negocio */}
+          {/* Por necesidad: vale para cualquier negocio */}
           <div>
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-              viewport={{ once: true }}
-              className="mb-8"
-            >
-              <h2 className="text-2xl font-semibold text-gray-500 mb-2">POR TIPO DE NEGOCIO</h2>
-              <div className="h-1 w-16 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full"></div>
-            </motion.div>
-
-            <div className="space-y-8">
-              {businessTypes.map((item, index) => (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, y: 20 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.5, delay: index * 0.1 }}
-                  viewport={{ once: true }}
-                >
-                  <Link
-                    href={item.href}
-                    className="block p-6 border border-gray-200 rounded-lg hover:border-purple-300 transition-all hover:shadow-md"
-                  >
-                    <div className="flex items-start gap-4">
-                      <div className="rounded-full p-3 bg-purple-100 text-purple-600">{item.icon}</div>
-                      <div className="flex-1">
-                        <h3 className="text-xl font-semibold mb-2 flex items-center group-hover:text-purple-600">
-                          {item.title}{" "}
-                          <ArrowRight className="ml-2 h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity" />
-                        </h3>
-                        <p className="text-muted-foreground">{item.description}</p>
-                      </div>
-                    </div>
-                  </Link>
-                </motion.div>
-              ))}
-            </div>
+            <SectionTitle>Por necesidad</SectionTitle>
+            <ItemList items={useCases} tone="pink" />
           </div>
 
-          {/* Por Caso de Uso */}
+          {/* Por sector */}
           <div>
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-              viewport={{ once: true }}
-              className="mb-8"
-            >
-              <h2 className="text-2xl font-semibold text-gray-500 mb-2">POR CASO DE USO</h2>
-              <div className="h-1 w-16 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full"></div>
-            </motion.div>
-
-            <div className="space-y-8">
-              {useCases.map((item, index) => (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, y: 20 }}
-                  whileInView={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.5, delay: index * 0.1 }}
-                  viewport={{ once: true }}
+            <SectionTitle>Por sector</SectionTitle>
+            <p className="text-muted-foreground mb-4">
+              Inkup sirve para cualquier negocio que vende o atiende por Instagram:
+            </p>
+            <ul className="flex flex-wrap gap-2 mb-10">
+              {SECTORS.map((sector) => (
+                <li
+                  key={sector}
+                  className="px-4 py-2 rounded-full border border-gray-200 bg-white text-sm font-medium text-gray-700"
                 >
-                  <Link
-                    href={item.href}
-                    className="block p-6 border border-gray-200 rounded-lg hover:border-pink-300 transition-all hover:shadow-md"
-                  >
-                    <div className="flex items-start gap-4">
-                      <div className="rounded-full p-3 bg-pink-100 text-pink-600">{item.icon}</div>
-                      <div className="flex-1">
-                        <h3 className="text-xl font-semibold mb-2 flex items-center group-hover:text-pink-600">
-                          {item.title}{" "}
-                          <ArrowRight className="ml-2 h-4 w-4 opacity-0 group-hover:opacity-100 transition-opacity" />
-                        </h3>
-                        <p className="text-muted-foreground">{item.description}</p>
-                      </div>
-                    </div>
-                  </Link>
-                </motion.div>
+                  {sector}
+                </li>
               ))}
-            </div>
+            </ul>
+            <h3 className="text-lg font-semibold mb-4">Tatuaje y piercing</h3>
+            <ItemList items={tattooPages} tone="purple" />
           </div>
         </div>
       </div>

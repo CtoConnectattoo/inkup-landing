@@ -101,13 +101,21 @@ export function Footer() {
                       Funcionalidades
                     </Link>
                   </li>
-                  <li></li>
                   <li>
-                    <Link href="/#precios" className="text-gray-400 hover:text-white transition-colors text-sm">
+                    <Link href="/precios" className="text-gray-400 hover:text-white transition-colors text-sm">
                       Precios
                     </Link>
                   </li>
-                  <li></li>
+                  <li>
+                    <Link href="/soluciones" className="text-gray-400 hover:text-white transition-colors text-sm">
+                      Soluciones por sector
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/alternativas" className="text-gray-400 hover:text-white transition-colors text-sm">
+                      Alternativas a ManyChat
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

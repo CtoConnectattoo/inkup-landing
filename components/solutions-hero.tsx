@@ -13,15 +13,14 @@ export function SolutionsHero() {
           className="text-center max-w-3xl mx-auto"
         >
           <h1 className="text-4xl md:text-5xl font-bold tracking-tighter mb-6">
-            Soluciones{" "}
+            Automatiza tu Instagram,{" "}
             <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              personalizadas
-            </span>{" "}
-            para tu negocio
+              sea cual sea tu negocio
+            </span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8">
-            Descubre cómo Inkup puede adaptarse a tus necesidades específicas y ayudarte a crecer, independientemente
-            del tipo de negocio que tengas.
+            Respuestas automáticas a comentarios, historias y DMs, y clientes que te llegan a WhatsApp con la consulta
+            escrita. Elige por lo que necesitas o por tu sector.
           </p>
         </motion.div>
       </div>
