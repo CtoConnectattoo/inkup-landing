@@ -14,23 +14,23 @@ export function HomeHero() {
       <div className="grid gap-12 lg:grid-cols-[1.05fr_0.95fr] lg:gap-16 items-center max-w-6xl mx-auto">
         <div className="space-y-6 text-center lg:text-left">
           <p className="text-sm font-semibold uppercase tracking-wider text-purple-600">
-            Para artistas, estudios y piercers
+            El ManyChat en español
           </p>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-[1.05]">
-            Un enlace que convierte el «¿cuánto cuesta?» en una{" "}
+            Respuestas automáticas en Instagram que te dejan el cliente{" "}
             <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              consulta completa por WhatsApp
+              listo en WhatsApp
             </span>
           </h1>
           <p className="text-xl text-muted-foreground max-w-xl mx-auto lg:mx-0">
-            Tu cliente abre tu enlace y responde unas preguntas. Al enviar, se le abre WhatsApp contigo con el mensaje
-            ya escrito: estilo, zona, tamaño, referencias y cuándo.
+            Cuando alguien comenta, responde a una historia o te escribe una palabra clave, Inkup le contesta por DM al
+            momento. Y si quiere precio o cita, le abre WhatsApp contigo con todo ya escrito.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start">
             <Button size="lg" className="h-14 text-lg px-6" asChild>
               <a href={SIGNUP_URL}>
-                Crear mi asistente gratis <ArrowRight className="ml-2" />
+                Empezar la prueba gratis <ArrowRight className="ml-2" />
               </a>
             </Button>
             <Button size="lg" variant="outline" className="h-14 text-lg px-6" asChild>
@@ -38,7 +38,7 @@ export function HomeHero() {
             </Button>
           </div>
           <p className="text-sm text-muted-foreground">
-            Listo en 1 minuto · 7 días de prueba · Nada que instalar
+            En español · Precio fijo, sin pagar por contacto · 7 días de prueba
           </p>
 
           <div className="pt-2 flex flex-col items-center lg:items-start gap-2">

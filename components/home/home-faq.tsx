@@ -1,56 +1,95 @@
-"use client"
+import Link from "next/link"
+import type React from "react"
 
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
 
-const FAQS = [
+type Faq = {
+  q: string
+  /** Texto plano para el JSON-LD */
+  a: string
+  /** Versión con enlaces para la página (si no se indica, se usa `a`) */
+  content?: React.ReactNode
+}
+
+const FAQS: Faq[] = [
   {
-    q: "¿Es un bot dentro de WhatsApp?",
-    a: "No. Tu asistente es un enlace que se abre como cualquier otro, con forma de chat. Al terminar, tu cliente pulsa «Enviar por WhatsApp» y se le abre WhatsApp contigo con el mensaje ya escrito. Desde ahí, es una conversación normal entre tu cliente y tú.",
+    q: "¿Cómo pongo un mensaje automático en Instagram?",
+    a: "Conectas tu Instagram a Inkup, eliges qué lo dispara (un comentario, una respuesta a historia o una palabra en DM) y escribes el mensaje. Desde ese momento, cada persona que lo active recibe tu DM al instante.",
   },
   {
-    q: "¿Contesta en mi lugar?",
-    a: "No. Solo recoge la información necesaria para dar precio. El presupuesto y la conversación los llevas tú.",
+    q: "¿Es como ManyChat?",
+    a: "Sí, hace lo principal que se usa de ManyChat en Instagram (comentario → DM, historias y palabras clave), pero en español, con precio fijo y con el paso a WhatsApp ya incluido. No cobramos por contacto.",
+    content: (
+      <>
+        Sí, hace lo principal que se usa de ManyChat en Instagram (comentario → DM, historias y palabras clave), pero en
+        español, con precio fijo y con el paso a WhatsApp ya incluido. No cobramos por contacto.{" "}
+        <Link href="/alternativas/manychat" className="text-purple-600 underline underline-offset-2">
+          Ver la comparativa con ManyChat
+        </Link>
+        .
+      </>
+    ),
   },
   {
-    q: "¿Mi cliente tiene que instalar o registrarse en algo?",
-    a: "No. El enlace se abre directamente en el móvil, sin registro ni descarga. Solo necesita tener WhatsApp.",
+    q: "¿Se nota que es automático?",
+    a: "El mensaje lo escribes tú, con tu tono. Lo que cambia es que llega al momento.",
   },
   {
-    q: "¿Cómo funciona la prueba gratuita?",
-    a: "Te registras y tu asistente queda listo en 1 minuto. Tienes 7 días para usarlo sin límite de consultas. Añades la tarjeta al empezar, pero hoy no pagas nada: el primer cobro es al terminar la prueba, y puedes cancelar desde tu cuenta en cualquier momento.",
+    q: "¿Qué diferencia hay con las respuestas automáticas gratis de Instagram?",
+    a: "Las de Meta funcionan desde el escritorio, con pocas palabras exactas y cierto retraso. Inkup responde al momento y añade el paso a WhatsApp con la consulta completa y un panel con todos tus contactos.",
   },
   {
-    q: "¿Funciona con mi WhatsApp personal o con WhatsApp Business?",
-    a: "Con los dos. Solo necesitamos tu número para que las consultas te lleguen ahí. No hace falta la API de WhatsApp ni ninguna integración.",
+    q: "¿Contesta en WhatsApp por mí?",
+    a: "No. En Instagram responde de forma automática; en WhatsApp te llega el cliente con su consulta escrita y la conversación la llevas tú.",
   },
   {
-    q: "¿Se adapta al idioma de mi cliente?",
-    a: "Sí. El asistente se muestra en español, inglés, francés, portugués o italiano según el idioma del móvil de tu cliente, y puede cambiarlo sobre la marcha. El mensaje te llega a ti en tu idioma.",
+    q: "¿Es seguro para mi cuenta?",
+    a: "Sí. Inkup se conecta a tu Instagram con la API oficial de Meta.",
   },
   {
-    q: "¿Sirve para estudios con varias personas o para piercing?",
-    a: "Sí. Para artistas independientes, estudios y piercers. Las preguntas se adaptan a tus estilos y servicios, y un estudio puede tener varios asistentes.",
+    q: "¿Cuánto cuesta?",
+    a: "Desde 12 €/mes + IVA con pago anual. 7 días de prueba y sin permanencia. Tienes todos los planes en inkup.io/precios.",
+    content: (
+      <>
+        Desde 12 €/mes + IVA con pago anual. 7 días de prueba y sin permanencia.{" "}
+        <Link href="/precios" className="text-purple-600 underline underline-offset-2">
+          Ver precios
+        </Link>
+        .
+      </>
+    ),
   },
   {
-    q: "¿Hay que saber de tecnología?",
-    a: "No. Se crea en 1 minuto y la propia app te guía para poner el enlace en la bio y en las respuestas automáticas. Si te atascas, estamos en WhatsApp.",
+    q: "¿Funciona en mi país?",
+    a: "Sí. Tenemos clientes en 15 países y el asistente funciona en 5 idiomas.",
   },
 ]
+
+const FAQ_SCHEMA = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: FAQS.map((f) => ({
+    "@type": "Question",
+    name: f.q,
+    acceptedAnswer: { "@type": "Answer", text: f.a },
+  })),
+}
 
 export function HomeFaq() {
   return (
     <section className="py-16 md:py-24 bg-gray-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(FAQ_SCHEMA) }} />
       <div className="container mx-auto px-4">
         <div className="text-center max-w-3xl mx-auto mb-12 space-y-4">
           <p className="text-sm font-semibold uppercase tracking-wider text-purple-600">Dudas frecuentes</p>
-          <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Lo que suelen preguntar</h2>
+          <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Preguntas frecuentes sobre Inkup</h2>
         </div>
         <div className="max-w-3xl mx-auto">
           <Accordion type="single" collapsible className="w-full">
             {FAQS.map((f, i) => (
               <AccordionItem key={f.q} value={`item-${i}`}>
                 <AccordionTrigger className="text-left text-lg">{f.q}</AccordionTrigger>
-                <AccordionContent className="text-base text-muted-foreground">{f.a}</AccordionContent>
+                <AccordionContent className="text-base text-muted-foreground">{f.content ?? f.a}</AccordionContent>
               </AccordionItem>
             ))}
           </Accordion>

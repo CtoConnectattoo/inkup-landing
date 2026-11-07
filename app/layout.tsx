@@ -11,10 +11,27 @@ import Script from "next/script"
 
 const inter = Inter({ subsets: ["latin"] })
 
+const SITE_TITLE = "Respuestas automáticas en Instagram en español | Inkup"
+const SITE_DESCRIPTION =
+  "El ManyChat en español: responde comentarios, historias y DMs de Instagram y recibe en WhatsApp clientes listos. Precio fijo, sin pagar por contacto."
+
 export const metadata: Metadata = {
-  title: "Inkup - Consultas completas en tu WhatsApp",
-  description:
-    "Un enlace para artistas, estudios y piercers: tu cliente responde unas preguntas y se le abre WhatsApp contigo con el mensaje ya escrito. Estilo, zona, tamaño, referencias y cuándo, en un solo mensaje.",
+  metadataBase: new URL("https://inkup.io"),
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    url: "https://inkup.io",
+    siteName: "Inkup",
+    locale: "es_ES",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "any" },
@@ -23,7 +40,6 @@ export const metadata: Metadata = {
     apple: { url: "/favicon.png", type: "image/png" },
     shortcut: { url: "/favicon.png", type: "image/png" },
   },
-    generator: 'v0.app'
 }
 
 export default function RootLayout({

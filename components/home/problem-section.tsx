@@ -1,15 +1,30 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Check, X } from "lucide-react"
+import { X } from "lucide-react"
 
 const DMS = [
-  { text: "Hola! cuánto costaría un tattoo?", when: "hace 2 h" },
-  { text: "Holaa tienes hueco este mes?", when: "hace 3 h" },
-  { text: "Precio de esto 👇 (foto)", when: "ayer" },
-  { text: "hola, haces fine line?", when: "ayer" },
+  { text: "PRECIO", when: "comentó tu Reel · hace 2 h" },
+  { text: "info del bono de 10 sesiones?", when: "hace 3 h" },
+  { text: "¿Tienes talla M? 👇 (foto)", when: "ayer" },
+  { text: "LINK", when: "respondió a tu historia · ayer" },
   { text: "Buenas, info de precios porfa", when: "hace 2 días" },
-  { text: "Cuánto por una frase en el antebrazo", when: "hace 3 días" },
+  { text: "¿Hay hueco para una cita esta semana?", when: "hace 3 días" },
+]
+
+const PROBLEMS = [
+  {
+    title: "«Precio», «info», «link»… cien veces.",
+    text: "Cada comentario que contestas a mano llega tarde, y muchos no los contestas.",
+  },
+  {
+    title: "Diez mensajes para dar un precio o una cita.",
+    text: "El cliente pregunta, tú preguntas, y se enfría por el camino.",
+  },
+  {
+    title: "Herramientas en inglés que cobran por contacto.",
+    text: "Cuanto mejor te va, más pagas.",
+  },
 ]
 
 export function ProblemSection() {
@@ -25,34 +40,18 @@ export function ProblemSection() {
             className="space-y-6"
           >
             <p className="text-sm font-semibold uppercase tracking-wider text-purple-600">El problema</p>
-            <h2 className="text-3xl md:text-4xl font-bold tracking-tight">
-              Quien tatúa no puede contestar DMs con la aguja en la mano.
-            </h2>
+            <h2 className="text-3xl md:text-4xl font-bold tracking-tight">¿Sigues contestando Instagram a mano?</h2>
             <ul className="space-y-4">
-              <li className="flex gap-4 items-start">
-                <span className="flex-shrink-0 w-7 h-7 rounded-full bg-red-100 text-red-600 flex items-center justify-center">
-                  <X className="w-4 h-4" strokeWidth={3} />
-                </span>
-                <p className="text-lg text-muted-foreground">
-                  Llegan decenas de «¿cuánto cuesta?» sin estilo, zona ni tamaño.
-                </p>
-              </li>
-              <li className="flex gap-4 items-start">
-                <span className="flex-shrink-0 w-7 h-7 rounded-full bg-red-100 text-red-600 flex items-center justify-center">
-                  <X className="w-4 h-4" strokeWidth={3} />
-                </span>
-                <p className="text-lg text-muted-foreground">
-                  Cada precio exige cinco mensajes de ida y vuelta. Muchos clientes se van antes.
-                </p>
-              </li>
-              <li className="flex gap-4 items-start">
-                <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 text-white flex items-center justify-center">
-                  <Check className="w-4 h-4" strokeWidth={3} />
-                </span>
-                <p className="text-lg font-medium">
-                  Con Inkup, el primer mensaje que te llega ya trae todo lo necesario para dar precio.
-                </p>
-              </li>
+              {PROBLEMS.map((p) => (
+                <li key={p.title} className="flex gap-4 items-start">
+                  <span className="flex-shrink-0 w-7 h-7 rounded-full bg-red-100 text-red-600 flex items-center justify-center">
+                    <X className="w-4 h-4" strokeWidth={3} />
+                  </span>
+                  <p className="text-lg text-muted-foreground">
+                    <strong className="text-foreground font-semibold">{p.title}</strong> {p.text}
+                  </p>
+                </li>
+              ))}
             </ul>
           </motion.div>
 

@@ -4,52 +4,64 @@ import { motion } from "framer-motion"
 
 const STEPS = [
   {
-    k: "1 · Tu enlace",
-    title: "Cada artista o estudio tiene su enlace",
-    text: "Se crea en 1 minuto. Lo pones en la bio de Instagram, en las respuestas automáticas y donde ya te escriben.",
+    k: "1 · Tú lo configuras",
+    title: "Elige la palabra y el mensaje",
+    text: "Por ejemplo: quien comente PRECIO recibe tu enlace por DM. Funciona en comentarios, respuestas a historias y DMs.",
     art: (
-      <span className="link-chip">
-        <i />
-        hi.inkup.io/getinked-malaga
-      </span>
+      <div className="mini-chat">
+        <div className="m">Si comentan…</div>
+        <div className="m me">PRECIO</div>
+        <div className="m">…enviar por DM:</div>
+        <div className="m me">¡Hola! Aquí tienes los precios 👉</div>
+      </div>
     ),
   },
   {
-    k: "2 · Tu cliente",
-    title: "Responde con botones e imágenes",
-    text: "Dentro del asistente, sin registro ni descarga. Menos de un minuto. Selectores visuales de estilo, zona y tamaño, en cinco idiomas.",
+    k: "2 · Inkup responde",
+    title: "Inkup responde al momento",
+    text: "Cada persona recibe su DM, aunque te comenten cien a la vez.",
     art: (
       <div className="mini-chat">
-        <div className="m">¿Qué estilo buscas?</div>
-        <div className="m me">Fine line</div>
-        <div className="m">¿Zona y tamaño?</div>
-        <div className="m me">Antebrazo, 10 cm</div>
-        <div className="m">¿Referencias? 📎</div>
+        <div className="m me">PRECIO</div>
+        <div className="m">¡Hola! Aquí tienes los precios 👉</div>
+        <div className="m me">INFO</div>
+        <div className="m">Te lo cuento todo por aquí 👇</div>
       </div>
     ),
   },
   {
     k: "3 · Tu WhatsApp",
-    title: "Recibes la cotización completa en un mensaje",
-    text: "Todo lo que necesitas para dar precio llega de una vez. Te ahorras horas de DMs preguntando estilo, zona, tamaño y referencias.",
+    title: "El cliente llega a WhatsApp con todo escrito",
+    text: "Si quiere precio o cita, el asistente le pregunta lo necesario y le abre WhatsApp contigo con el mensaje listo. Tú solo das precio.",
     art: (
       <div className="quote">
         <div className="q-msg">
           <b>Lucía</b> · 12:35
           <ul>
-            <li>Servicio: Tatuaje</li>
-            <li>Estilo: Fine line</li>
-            <li>Zona y tamaño: Antebrazo, 10 cm</li>
-            <li>Cuándo: Este mes</li>
-            <li>Referencias: 1 imagen</li>
+            <li>Servicio: Limpieza facial</li>
+            <li>Cuándo: Esta semana</li>
+            <li>Horario: Por la tarde</li>
+            <li>Primera vez: Sí</li>
           </ul>
         </div>
         <div className="q-save">
-          ✓ Todo lo necesario para cotizar<small>Sin ida y vuelta de preguntas</small>
+          ✓ Consulta completa<small>Sin ida y vuelta de preguntas</small>
         </div>
       </div>
     ),
   },
+]
+
+const SECTORS = [
+  "Tiendas",
+  "Estética y belleza",
+  "Clínicas",
+  "Academias y formación",
+  "Fitness",
+  "Restaurantes",
+  "Coaches y creadores",
+  "Agencias",
+  "Tatuaje y piercing",
 ]
 
 export function HowItWorks() {
@@ -64,13 +76,7 @@ export function HowItWorks() {
           className="text-center max-w-3xl mx-auto mb-12 space-y-4"
         >
           <p className="text-sm font-semibold uppercase tracking-wider text-purple-600">Cómo funciona</p>
-          <h2 className="text-3xl md:text-4xl font-bold tracking-tight">
-            Tres pasos. Empieza en tu enlace,{" "}
-            <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              termina en tu WhatsApp
-            </span>
-            .
-          </h2>
+          <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Así funciona</h2>
         </motion.div>
 
         <div className="demo grid gap-6 md:grid-cols-3 max-w-6xl mx-auto">
@@ -91,6 +97,36 @@ export function HowItWorks() {
               <p className="text-muted-foreground">{s.text}</p>
             </motion.article>
           ))}
+        </div>
+
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
+          viewport={{ once: true }}
+          className="max-w-6xl mx-auto mt-6 rounded-2xl bg-gradient-to-r from-purple-50 to-pink-50 border border-purple-100 p-6 md:p-8 text-center md:text-left"
+        >
+          <h3 className="text-xl font-bold leading-tight mb-2">Y si prefieres, pídeselo a ChatGPT</h3>
+          <p className="text-muted-foreground">
+            Con el conector de Inkup creas, pausas o revisas tus automatizaciones de Instagram hablando con ChatGPT o
+            Claude.
+          </p>
+        </motion.div>
+
+        <div className="max-w-6xl mx-auto mt-12 text-center">
+          <h3 className="text-sm font-semibold uppercase tracking-wider text-purple-600 mb-4">
+            Para cualquier negocio que vende o atiende por Instagram
+          </h3>
+          <ul className="flex flex-wrap justify-center gap-2">
+            {SECTORS.map((sector) => (
+              <li
+                key={sector}
+                className="px-4 py-2 rounded-full border border-gray-200 bg-white text-sm font-medium text-gray-700"
+              >
+                {sector}
+              </li>
+            ))}
+          </ul>
         </div>
       </div>
     </section>
