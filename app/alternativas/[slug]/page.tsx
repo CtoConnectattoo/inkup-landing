@@ -6,14 +6,7 @@ import { ComparativaTable } from "@/components/alternativas/ComparativaTable"
 import { TLDRBlock } from "@/components/alternativas/TLDRBlock"
 import { FAQAccordion } from "@/components/alternativas/FAQAccordion"
 import { WhenCompetitorWins } from "@/components/alternativas/WhenCompetitorWins"
-import { manychatData } from "@/data/alternativas/manychat"
-import { landbotData } from "@/data/alternativas/landbot"
-import type { AlternativaData } from "@/data/alternativas/types"
-
-const alternativasMap: Record<string, AlternativaData> = {
-  manychat: manychatData,
-  landbot: landbotData,
-}
+import { ALTERNATIVAS_MAP as alternativasMap } from "@/data/alternativas"
 
 interface PageProps {
   params: { slug: string }
