@@ -1,0 +1,157 @@
+{
+  "$schema": "https://raw.githubusercontent.com/CtoConnectattoo/seo-geo-kit/main/schema/config.schema.json",
+  "project": "inkup",
+  "repo": "CtoConnectattoo/inkup-landing",
+  "brand": {
+    "name": "Inkup",
+    "mentionPatterns": [
+      "inkup"
+    ]
+  },
+  "site": "https://inkup.io",
+  "sitemaps": [
+    "/sitemap.xml"
+  ],
+  "language": "es",
+  "gsc": {
+    "property": "sc-domain:inkup.io",
+    "inspectMax": 100
+  },
+  "serp": {
+    "country": "es",
+    "language": "es"
+  },
+  "volumeMarkets": [
+    {
+      "key": "es",
+      "location": "Spain",
+      "language": "Spanish"
+    },
+    {
+      "key": "mx",
+      "location": "Mexico",
+      "language": "Spanish"
+    }
+  ],
+  "ideas": {
+    "location": "Spain",
+    "language": "Spanish",
+    "max": 100,
+    "minSearchVolume": 10
+  },
+  "thresholds": {
+    "newPage": [
+      {
+        "field": "es",
+        "min": 30
+      },
+      {
+        "field": "hisp",
+        "min": 200
+      }
+    ],
+    "weeklyLimits": {
+      "newPages": 1,
+      "optimizations": 2
+    }
+  },
+  "apify": {
+    "monthlyBudgetUsd": 6
+  },
+  "build": {
+    "command": "npm run build",
+    "outputDirs": [
+      ".next/server/app"
+    ],
+    "trailingSlash": false
+  },
+  "audit": {
+    "mainSelector": "main",
+    "minWords": 300,
+    "thinContentExclude": [
+      "politica-de-cookies",
+      "tyc",
+      "demo",
+      "partners",
+      "embajador",
+      "landing-"
+    ],
+    "orphanExclude": [
+      "politica-de-cookies",
+      "tyc"
+    ]
+  },
+  "forbiddenClaims": [
+    {
+      "pattern": "(responde|contesta|cotiza|agenda)\\s+(por ti|en tu lugar|automáticamente a tus clientes)",
+      "why": "promete que Inkup responde, cotiza o agenda por el profesional"
+    },
+    {
+      "pattern": "garant[ií]a de devoluci[oó]n|te devolvemos (el|tu) dinero|reembolso garantizado",
+      "why": "promete devolución (los Términos dicen que no hay reembolsos)"
+    },
+    {
+      "pattern": "soporte 24/7|soporte 24 horas",
+      "why": "promete soporte 24/7 (no está en la web vigente)"
+    },
+    {
+      "pattern": "plan(es)? enterprise",
+      "why": "menciona un plan Enterprise que no existe"
+    },
+    {
+      "pattern": "api oficial de whatsapp",
+      "why": "promete la API oficial de WhatsApp"
+    },
+    {
+      "pattern": "m[aá]s de 3\\.?000 (profesionales|tatuadores|artistas)",
+      "why": "cifra no autorizada (la cifra es «más de 3.300 en 15 países»)"
+    },
+    {
+      "pattern": "sin tarjeta",
+      "why": "promete prueba sin tarjeta (la prueba requiere tarjeta)"
+    },
+    {
+      "pattern": "(aumenta|multiplica|duplica) (tus )?(ventas|reservas|ingresos)",
+      "why": "promete más ventas, reservas o ingresos"
+    }
+  ],
+  "negationWords": [
+    "no",
+    "nunca",
+    "sin",
+    "tampoco",
+    "ni"
+  ],
+  "rules": {
+    "files": [
+      "seo/README.md"
+    ],
+    "skills": [
+      "inkup-producto",
+      "inkup-tono-de-marca",
+      "inkup-branding"
+    ],
+    "drive": [
+      "Claude → 00 MAPA DE PROYECTOS"
+    ]
+  },
+  "pageRecipe": "Next.js 14 (App Router). Página nueva en app/<slug>/page.tsx exportando metadata (title, description, alternates.canonical absoluto a https://inkup.io/<slug>, openGraph con imagen) y un único H1 dentro de <main>. Artículos del blog: añadir la entrada a data/posts.json (slug, title, excerpt, content, author, date) para que la pinte app/blog/[slug] con su JSON-LD BlogPosting; nunca crear posts sueltos fuera de posts.json. Comparativas: data/alternativas/<competidor>.ts con el tipo de data/alternativas/types.ts (TLDR, tabla, cuándo gana el competidor, FAQ), solo con datos de la web oficial del competidor y fecha de consulta. Toda ruta nueva se añade a staticRoutes de app/sitemap.xml/route.ts (los posts entran solos desde posts.json) y se enlaza desde 2-3 páginas relacionadas (recursos, soluciones, footer). Datos de producto, precios («+ IVA», periodicidad), cifras y testimonios solo de la skill inkup-producto; tono de inkup-tono-de-marca. CTA a https://hi.inkup.io/auth/signup. Comprobar con npm run build.",
+  "protectedPaths": [
+    "app/precios/",
+    "app/tyc/",
+    "app/politica-de-cookies/",
+    "app/embajador/",
+    "app/landing-masterclass-tattoo/",
+    "app/landing-salud/",
+    "app/landing-tattoo/",
+    "app/testimonio-nath/",
+    "app/robots.txt/",
+    "next.config.mjs",
+    "components/pricing-section.tsx",
+    "components/pricing-toggle.tsx"
+  ],
+  "pr": {
+    "base": "main",
+    "branchPrefix": "seo/"
+  }
+}

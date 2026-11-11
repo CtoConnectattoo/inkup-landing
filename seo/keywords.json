@@ -1,0 +1,442 @@
+{
+  "_doc": "Universo de keywords de inkup.io. role: primary (la página la ataca como principal; una sola URL por keyword), secondary (la misma página la cubre), backlog (demanda comprobada sin página), watch (seguir, sin acción), discard (sin demanda o fuera de producto). es = búsquedas/mes en España; mx = México; hisp = mundo en español. Público principal: tatuadores, estudios y piercers (skill inkup-producto).",
+  "source": "Mapa inicial del alta (2026-11-11) a partir de las páginas existentes. Sin volúmenes: Apify estaba en el límite mensual de la cuenta. El colector los mide en la primera ejecución con presupuesto (volumes.json) y el agente rellena es/mx/hisp/trend.",
+  "updated": "2026-11-11",
+  "keywords": [
+    {
+      "kw": "software para estudios de tatuaje",
+      "cluster": "tatuaje",
+      "url": "/soluciones/software-para-estudios-de-tatuaje",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "programa para estudio de tatuajes",
+      "cluster": "tatuaje",
+      "url": "/soluciones/software-para-estudios-de-tatuaje",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "app para tatuadores",
+      "cluster": "tatuaje",
+      "url": "/soluciones/artistas-independientes",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "El title y el H1 de la página no la mencionan: candidata a optimización cuando haya volumen."
+    },
+    {
+      "kw": "aplicacion para tatuadores",
+      "cluster": "tatuaje",
+      "url": "/soluciones/artistas-independientes",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "formulario whatsapp tatuadores",
+      "cluster": "tatuaje",
+      "url": "/soluciones/formulario-whatsapp-tatuadores",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "formulario para tatuadores",
+      "cluster": "tatuaje",
+      "url": "/soluciones/formulario-whatsapp-tatuadores",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "plantilla presupuesto tatuaje",
+      "cluster": "tatuaje",
+      "url": "/blog/plantilla-cualificacion-tatuajes",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "como dar presupuesto de un tatuaje",
+      "cluster": "tatuaje",
+      "url": "/blog/como-cualificar-consultas-en-tatuajes",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "agenda para tatuadores",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Inkup no es una agenda: solo con el ángulo «consulta completa antes de dar cita»."
+    },
+    {
+      "kw": "marketing para tatuadores",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "instagram para tatuadores",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "cuanto cuesta un tatuaje",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "discard",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Intención de cliente final, no de profesional."
+    },
+    {
+      "kw": "precio tatuaje",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "discard",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Intención de cliente final, no de profesional."
+    },
+    {
+      "kw": "software para estudios de piercing",
+      "cluster": "piercing",
+      "url": "/soluciones/estudios-piercing",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "software eliminacion de tatuajes",
+      "cluster": "eliminacion",
+      "url": "/soluciones/tattoo-removal",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "crear formulario whatsapp",
+      "cluster": "formulario-whatsapp",
+      "url": "/crear-formulario-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Riesgo de canibalización con /como-hacer-un-formulario-en-whatsapp: vigilar en GSC qué URL rankea para cada una."
+    },
+    {
+      "kw": "formulario para whatsapp",
+      "cluster": "formulario-whatsapp",
+      "url": "/crear-formulario-whatsapp",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "como hacer un formulario en whatsapp",
+      "cluster": "formulario-whatsapp",
+      "url": "/como-hacer-un-formulario-en-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "formulario de whatsapp",
+      "cluster": "formulario-whatsapp",
+      "url": "/como-hacer-un-formulario-en-whatsapp",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "asistente whatsapp",
+      "cluster": "whatsapp",
+      "url": "/asistente-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "La página dice que el asistente «responde por ti» y «responde automáticamente»: va contra las reglas de producto (Inkup no contesta por el profesional). Corregir antes de empujarla."
+    },
+    {
+      "kw": "mensaje de bienvenida whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/mensaje-bienvenida-whatsapp-que-filtra",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "mensaje de ausencia whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/plantilla-mensaje-ausencia-que-convierte",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "respuestas rapidas whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/respuestas-rapidas-whatsapp-setup",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Cerca de /blog/plantillas-respuestas-rapidas-whatsapp-business: si GSC muestra que compiten, fusionar."
+    },
+    {
+      "kw": "plantillas respuestas rapidas whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/plantillas-respuestas-rapidas-whatsapp-business",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "etiquetas whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/etiquetas-whatsapp-para-organizar",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "whatsapp business vs api",
+      "cluster": "whatsapp",
+      "url": "/blog/whatsapp-business-vs-api-cuando",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "automatizar whatsapp",
+      "cluster": "whatsapp",
+      "url": "/blog/automatizar-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Sin prometer mensajes automáticos dentro de WhatsApp ni API."
+    },
+    {
+      "kw": "automatizar whatsapp sin api",
+      "cluster": "whatsapp",
+      "url": "/blog/automatizar-whatsapp-sin-api",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "chatbot whatsapp",
+      "cluster": "whatsapp",
+      "url": null,
+      "role": "discard",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Inkup no es un bot dentro de WhatsApp (FAQ oficial)."
+    },
+    {
+      "kw": "alternativa a linktree",
+      "cluster": "link-en-bio",
+      "url": "/blog/linktree-vs-link-para-filtrar-consultas",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "linktree",
+      "cluster": "link-en-bio",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Navegacional de marca."
+    },
+    {
+      "kw": "link en bio instagram",
+      "cluster": "link-en-bio",
+      "url": "/blog/link-en-bio-que-convierte-a-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "enlace whatsapp instagram",
+      "cluster": "link-en-bio",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Kalmaa la tiene en su backlog (kalmaa.io): decidir qué dominio la ataca antes de crear página."
+    },
+    {
+      "kw": "link de whatsapp",
+      "cluster": "link-en-bio",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "automatizar mensajes instagram",
+      "cluster": "instagram",
+      "url": "/blog/automatizar-mensajes-instagram-negocio",
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Núcleo de Kalmaa (respuestas automáticas en Instagram). No empujarla desde Inkup sin decidir el reparto entre dominios."
+    },
+    {
+      "kw": "alternativa a manychat",
+      "cluster": "competidores",
+      "url": "/alternativas/manychat",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Kalmaa también la ataca como principal en kalmaa.io/alternativas/manychat. Decisión de negocio pendiente: qué dominio la empuja."
+    },
+    {
+      "kw": "manychat",
+      "cluster": "competidores",
+      "url": "/alternativas/manychat",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Navegacional de marca: no se va a ganar."
+    },
+    {
+      "kw": "alternativa a landbot",
+      "cluster": "competidores",
+      "url": "/alternativas/landbot",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "landbot",
+      "cluster": "competidores",
+      "url": "/alternativas/landbot",
+      "role": "secondary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "Navegacional de marca."
+    },
+    {
+      "kw": "gestion de consultas clientes",
+      "cluster": "consultas",
+      "url": "/soluciones/gestion-consultas",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "cualificar clientes",
+      "cluster": "consultas",
+      "url": "/blog/preguntas-minimas-para-cualificar-clientes",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    },
+    {
+      "kw": "centralizar consultas instagram whatsapp",
+      "cluster": "consultas",
+      "url": "/blog/centralizar-consultas-instagram-whatsapp",
+      "role": "primary",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null
+    }
+  ]
+}
