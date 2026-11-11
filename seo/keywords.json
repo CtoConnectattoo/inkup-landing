@@ -369,23 +369,23 @@
       "kw": "alternativa a manychat",
       "cluster": "competidores",
       "url": "/alternativas/manychat",
-      "role": "primary",
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "Kalmaa también la ataca como principal en kalmaa.io/alternativas/manychat. Decisión de negocio pendiente: qué dominio la empuja."
+      "note": "De Kalmaa (kalmaa.io/alternativas/manychat), según el Drive («00 MAPA DE PROYECTOS» y brief de Kalmaa del 9 nov). inkup.io no la empuja: la página /alternativas/manychat se mantiene pero sin optimizarla para esta búsqueda."
     },
     {
       "kw": "manychat",
       "cluster": "competidores",
       "url": "/alternativas/manychat",
-      "role": "secondary",
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "Navegacional de marca: no se va a ganar."
+      "note": "Navegacional de marca; el enfoque ManyChat es de Kalmaa. Solo seguimiento."
     },
     {
       "kw": "alternativa a landbot",

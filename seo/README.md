@@ -8,7 +8,7 @@ Un agente revisa cada semana cómo posiciona inkup.io en Google y en las respues
 - Tono: skill `inkup-tono-de-marca`. Identidad visual: `inkup-branding`.
 - Público principal: tatuadores, estudios de tatuaje y piercers. Otros sectores solo hablando del mecanismo, sin casos ni cifras inventadas.
 - Nunca prometer que Inkup responde, cotiza o agenda por el profesional, ni que es un bot dentro de WhatsApp, ni API oficial de WhatsApp, ni más ventas o reservas, ni reembolsos, ni soporte 24/7, ni prueba sin tarjeta, ni planes Enterprise. La única cifra es «más de 3.300 profesionales en 15 países».
-- Nada de Kalmaa: es otra línea con otro dominio. Las keywords que comparten (alternativa a ManyChat, Instagram) llevan nota en `keywords.json` y se reparten por decisión de negocio.
+- Nada de Kalmaa: es otra línea con otro dominio. Las keywords que comparten («alternativa a manychat», «manychat», «automatizar mensajes instagram», «enlace whatsapp instagram») son de Kalmaa según el Drive y en `keywords.json` quedan como `watch`: inkup.io no las empuja.
 
 ## Piezas
 
