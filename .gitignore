@@ -25,3 +25,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Claves de cuentas de servicio (nunca al repo)
+*-service-account*.json
+*-seo-*.json
