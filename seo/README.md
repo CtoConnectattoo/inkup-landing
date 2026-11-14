@@ -9,7 +9,7 @@ Un agente revisa cada semana cómo posiciona inkup.io en Google y en las respues
 - **Voz del cliente**: [`icp.md`](icp.md) (estudio de ICP del 14 nov 2026). Vocabulario por país (presupuesto/cotización, señal/seña/anticipo), qué buscan de verdad y el criterio «encaje con el ICP». Manda en títulos, H1, descriptions y preguntas GEO.
 - Público principal: tatuadores, estudios de tatuaje y piercers. Otros sectores solo hablando del mecanismo, sin casos ni cifras inventadas.
 - Nunca prometer que Inkup responde, cotiza o agenda por el profesional, ni que es un bot dentro de WhatsApp, ni API oficial de WhatsApp, ni más ventas o reservas, ni reembolsos, ni soporte 24/7, ni prueba sin tarjeta, ni planes Enterprise. La única cifra es «más de 3.300 profesionales en 15 países».
-- Nada de Kalmaa: es otra línea con otro dominio. Las keywords que comparten («alternativa a manychat», «manychat», «automatizar mensajes instagram», «enlace whatsapp instagram») son de Kalmaa según el Drive y en `keywords.json` quedan como `watch`: inkup.io no las empuja.
+- Nada de Kalmaa: es otra línea con otro dominio. Las keywords que comparten («alternativa a manychat», «manychat», «automatizar mensajes instagram», «enlace whatsapp instagram», «link de whatsapp», «crear link de whatsapp») son de Kalmaa y en `keywords.json` quedan como `watch`: inkup.io no las empuja. Reparto del 14 nov 2026: inkup.io solo ataca la versión para tatuadores de «link de WhatsApp para Instagram» y «cómo poner WhatsApp en Instagram».
 
 ## Piezas
 
