@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { ArrowRight, Brush, Building, MessageSquare, Calendar, Users, CircleDot, Zap } from "lucide-react"
+import { ArrowRight, Brush, Building, Calendar, CircleDot, Zap } from "lucide-react"
 import { motion } from "framer-motion"
 
 const businessTypes = [
@@ -33,22 +33,10 @@ const businessTypes = [
 
 const useCases = [
   {
-    title: "Gestión de Consultas",
-    description: "Automatiza las preguntas frecuentes y monitoriza tus leads disponibles con un panel centralizado.",
-    icon: <MessageSquare className="w-6 h-6" />,
-    href: "/soluciones/gestion-consultas",
-  },
-  {
     title: "Reserva de Citas",
     description: "Facilita a tus clientes la reserva de citas y visualiza el tiempo ahorrado en tu dashboard.",
     icon: <Calendar className="w-6 h-6" />,
     href: "/soluciones/reserva-citas",
-  },
-  {
-    title: "Captación de Clientes",
-    description: "Convierte visitantes en leads cualificados y haz seguimiento de su rendimiento en tiempo real.",
-    icon: <Users className="w-6 h-6" />,
-    href: "/soluciones/captacion-clientes",
   },
 ]
 

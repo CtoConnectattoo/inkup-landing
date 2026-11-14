@@ -32,17 +32,11 @@ export async function GET() {
     "/soluciones/artistas-independientes",
     "/soluciones/estudios-piercing",
     "/soluciones/tattoo-removal",
-    "/soluciones/gestion-consultas",
-    "/soluciones/captacion-clientes",
     "/soluciones/reserva-citas",
     "/soluciones/formulario-whatsapp-tatuadores",
     "/crear-formulario-whatsapp",
     "/como-hacer-un-formulario-en-whatsapp",
-    "/asistente-whatsapp",
     "/blog",
-    "/alternativas",
-    "/alternativas/manychat",
-    "/alternativas/landbot",
   ]
 
   const blogRoutes = blogPosts.map((post) => {
@@ -95,7 +89,6 @@ export async function GET() {
           "/precios",
           "/crear-formulario-whatsapp",
           "/como-hacer-un-formulario-en-whatsapp",
-          "/asistente-whatsapp",
         ].includes(route)
       ) {
         routePriority = priority.primary

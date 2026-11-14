@@ -68,7 +68,7 @@ export default function ReservaCitasPage() {
 
   const benefits = [
     { text: "Visualiza exactamente cuántas horas ahorras mensualmente en tu dashboard" },
-    { text: "Aumenta tus ingresos al optimizar tu proceso de consultas y respuestas" },
+    { text: "Menos ida y vuelta: das precio y fecha con toda la información en un solo mensaje" },
     { text: "Mejora la experiencia del cliente con un sistema de consultas fluido en Instagram y WhatsApp" },
     { text: "Monitoriza el crecimiento de visitas a tu perfil con métricas precisas" },
     { text: "Captura consultas incluso fuera de tu horario laboral a través de TikTok y otras redes" },
