@@ -7,17 +7,18 @@ import { StudioFormSteps } from "@/components/studio-form-steps"
 import { StudioFormReviews } from "@/components/studio-form-reviews"
 import { StudioFormFAQ } from "@/components/studio-form-faq"
 import { StudioFormCTA } from "@/components/studio-form-cta"
+import { studioFaq } from "@/components/studio-faq-data"
 
 export const metadata: Metadata = {
-  title: "Software para estudios de tatuaje | Gestiona múltiples artistas | Inkup",
+  title: "Software para estudios de tatuaje: presupuestos por WhatsApp | Inkup",
   description:
-    "Software especializado para estudios de tatuaje. Gestiona múltiples artistas, centraliza consultas y optimiza la agenda del estudio con Inkup.",
+    "Programa para estudios de tatuaje: cada consulta llega por WhatsApp con estilo, zona, medidas y referencias para dar presupuesto. Varios artistas. Prueba 7 días.",
   keywords:
-    "software estudios tatuaje, gestión estudio tatuajes, automatización consultas tatuajes, software gestión tatuadores",
+    "software para estudios de tatuaje, programa para estudio de tatuajes, programa gestión estudio tatuajes, software para tatuadores, presupuesto tatuaje",
   openGraph: {
-    title: "Software para estudios de tatuaje | Gestiona múltiples artistas | Inkup",
+    title: "Software para estudios de tatuaje: presupuestos por WhatsApp | Inkup",
     description:
-      "Software especializado para estudios de tatuaje. Gestiona múltiples artistas, centraliza consultas y optimiza la agenda del estudio con Inkup.",
+    "Programa para estudios de tatuaje: cada consulta llega por WhatsApp con estilo, zona, medidas y referencias para dar presupuesto. Varios artistas. Prueba 7 días.",
     url: "https://inkup.io/soluciones/software-para-estudios-de-tatuaje",
     siteName: "Inkup",
     images: [
@@ -56,56 +57,11 @@ export default function SoftwareParaEstudiosDeTatuajePage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "FAQPage",
-            mainEntity: [
-              {
-                "@type": "Question",
-                name: "¿Puedo gestionar múltiples artistas?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "Sí, puedes añadir todos los tatuadores de tu estudio, configurar sus especialidades, horarios y precios. Cada artista tendrá su propio perfil y las consultas se dirigirán automáticamente al artista correcto.",
-                },
-              },
-              {
-                "@type": "Question",
-                name: "¿Cómo se organizan las consultas por artista?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "El sistema filtra automáticamente las consultas según el estilo solicitado y la disponibilidad de cada artista. Puedes ver todas las consultas en un panel centralizado o filtrar por artista específico.",
-                },
-              },
-              {
-                "@type": "Question",
-                name: "¿Puedo ver métricas de rendimiento del estudio?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "Absolutamente. El dashboard te muestra leads capturados por artista, tiempo ahorrado en gestión, conversiones y rendimiento general del estudio con gráficos detallados.",
-                },
-              },
-              {
-                "@type": "Question",
-                name: "¿Funciona con WhatsApp Business?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "Sí, funciona perfectamente con WhatsApp Business, WhatsApp Business API o cuentas personales. Puedes recibir todas las consultas organizadas en el número principal del estudio.",
-                },
-              },
-              {
-                "@type": "Question",
-                name: "¿Puedo personalizar el asistente para mi estudio?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "Sí, puedes personalizar completamente el asistente con los colores de tu estudio, logo, preguntas específicas y información sobre cada artista sin necesidad de programar.",
-                },
-              },
-              {
-                "@type": "Question",
-                name: "¿Qué incluye el plan para estudios?",
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: "El plan incluye gestión de múltiples artistas, dashboard avanzado con métricas, panel de consultas centralizado, personalización visual completa y soporte prioritario para estudios.",
-                },
-              },
-            ],
+            mainEntity: studioFaq.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: { "@type": "Answer", text: item.answer },
+            })),
           }),
         }}
       />

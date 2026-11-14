@@ -1,4 +1,5 @@
 import Image from "next/image"
+import { notFound } from "next/navigation"
 import Link from "next/link"
 import { ArrowRight, Clock, User, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -41,6 +42,7 @@ interface BlogPost {
   author: string
   authorSlug?: string
   publishedAt: string
+  updatedAt?: string
   readingTime: string
   content: string
   quickAnswer?: string[]
@@ -196,6 +198,8 @@ async function getPost(slug: string): Promise<BlogPost | null> {
   return post || null
 }
 
+export const dynamicParams = false
+
 export async function generateStaticParams() {
   return postsData.map((post: BlogPost) => ({
     slug: post.slug,
@@ -208,6 +212,7 @@ export async function generateMetadata({ params }: PageProps) {
 
   if (!post) {
     return {
+      robots: { index: false },
       title: "Post no encontrado - Blog Inkup",
       description:
         "El artículo que buscas no existe. Descubre más contenido en nuestro blog sobre automatización y WhatsApp Business.",
@@ -230,6 +235,7 @@ export async function generateMetadata({ params }: PageProps) {
       ],
       type: "article",
       publishedTime: post.publishedAt,
+      modifiedTime: post.updatedAt ?? post.publishedAt,
       authors: [post.author],
     },
     twitter: {
@@ -294,7 +300,7 @@ function StructuredData({ post }: { post: BlogPost }) {
       },
     },
     datePublished: post.publishedAt,
-    dateModified: post.publishedAt,
+    dateModified: post.updatedAt ?? post.publishedAt,
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `https://inkup.io/blog/${post.slug}`,
@@ -359,34 +365,7 @@ export default async function BlogPost({ params }: PageProps) {
   const authorData = post?.authorSlug ? typedAuthors.find((author) => author.slug === post.authorSlug) : null
 
   if (!post) {
-    return (
-      <>
-        <ReadingProgress />
-        <div className="min-h-screen bg-white">
-          <Header />
-          <main className="pt-16">
-            <div className="container mx-auto px-4 py-16 md:py-24">
-              <div className="max-w-4xl mx-auto text-center">
-                <h1 className="text-4xl md:text-6xl font-bold mb-6 text-black">Post no encontrado</h1>
-                <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-                  Lo sentimos, el artículo que buscas no existe o ha sido movido. Te invitamos a explorar nuestro blog
-                  con contenido actualizado sobre automatización y WhatsApp Business.
-                </p>
-                <Button
-                  asChild
-                  size="lg"
-                  className="h-14 px-8 text-lg bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white border-0 rounded-full"
-                >
-                  <Link href="/blog">
-                    Volver al blog <ArrowRight className="ml-2" />
-                  </Link>
-                </Button>
-              </div>
-            </div>
-          </main>
-        </div>
-      </>
-    )
+    notFound()
   }
 
   const { contentWithAnchors, tocItems } = buildContentWithToc(post.content)
@@ -463,8 +442,9 @@ export default async function BlogPost({ params }: PageProps) {
                   <Clock className="w-4 h-4" />
                   <span>{post.readingTime} de lectura</span>
                 </div>
-                <time dateTime={post.publishedAt} className="text-gray-500">
-                  {new Date(post.publishedAt).toLocaleDateString("es-ES", {
+                <time dateTime={post.updatedAt ?? post.publishedAt} className="text-gray-500">
+                  {post.updatedAt ? "Actualizado el " : ""}
+                  {new Date(post.updatedAt ?? post.publishedAt).toLocaleDateString("es-ES", {
                     year: "numeric",
                     month: "long",
                     day: "numeric",

@@ -13,7 +13,7 @@ export function ResourcesSection() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Recursos para crecer tu negocio</h2>
           <p className="text-xl text-muted-foreground">
-            Descubre contenido exclusivo para ayudarte a optimizar tu trabajo y aumentar tus ingresos
+            Descubre contenido exclusivo para ayudarte a optimizar tu trabajo y pasar menos tiempo contestando mensajes
           </p>
         </div>
 
@@ -125,7 +125,7 @@ export function ResourcesSection() {
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-purple-600 font-bold">✓</span>
-                      <span>Método probado con más de 3.000 profesionales</span>
+                      <span>Más de 3.300 profesionales en 15 países usan Inkup</span>
                     </li>
                   </ul>
                   <Button className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white border-0" asChild>

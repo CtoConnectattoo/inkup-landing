@@ -74,7 +74,7 @@ export function TattooFormReviews() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-black mb-4">
-            Más de 3.000 profesionales ya confían en Inkup
+            Más de 3.300 profesionales en 15 países ya usan Inkup
           </h2>
           <p className="text-xl text-gray-600">
             Descubre cómo otros profesionales han transformado su forma de gestionar consultas

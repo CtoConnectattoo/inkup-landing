@@ -62,7 +62,7 @@ export default function ArtistasIndependientesPage() {
     { text: "Filtra clientes potenciales según tus preferencias artísticas" },
     { text: "Organiza tu agenda de manera más eficiente" },
     { text: "Proyecta una imagen más profesional" },
-    { text: "Aumenta tus ingresos al poder atender más clientes" },
+    { text: "Más tiempo para tatuar: la consulta te llega completa y das precio a la primera" },
   ]
 
   return (
