@@ -1,11 +1,11 @@
 # Limpieza SEO del blog · noviembre 2026
 
-Por qué: el blog tenía 138 posts escritos para «negocios de servicios». 116 traían el 2 % de los clics en 16 meses (Search Console, 14 nov 2026) y Google ya tenía 36 «rastreados, sin indexar». Inkup es solo para tatuaje desde el 8 nov 2026. Diagnóstico completo en la base de conocimiento ().
+Por qué: el blog tenía 138 posts escritos para «negocios de servicios». 116 traían el 2 % de los clics en 16 meses (Search Console, 14 nov 2026) y Google ya tenía 36 «rastreados, sin indexar». Inkup es solo para tatuaje desde el 8 nov 2026. Diagnóstico completo en la base de conocimiento (`inkup/marketing/diagnostico-seo-geo-2026-11.md`).
 
 ## Qué se hizo
 
-- **Retirados (410)** en : 26 plantillas de otros sectores, ,  y .
-- **Fusionados (308 permanentes)** en : 90 posts genéricos y 7 URLs que se enlazaban sin existir (soft 404), hacia 7 guías pilar. También  → ,  →  y  → .
+- **Retirados (410)** en `middleware.ts`: 26 plantillas de otros sectores, `/alternativas`, `/alternativas/manychat` y `/alternativas/landbot`.
+- **Fusionados (308 permanentes)** en `next.config.mjs`: 90 posts genéricos y 7 URLs que se enlazaban sin existir (soft 404), hacia 7 guías pilar. También `/asistente-whatsapp` → `/`, `/soluciones/captacion-clientes` → `/soluciones/artistas-independientes` y `/soluciones/gestion-consultas` → `/soluciones/software-para-estudios-de-tatuaje`.
 - **Blog**: 22 posts. Los enlaces internos apuntan al destino final, sin barra final. Un post inexistente devuelve 404 real.
 
 ## Redirecciones por guía pilar
@@ -167,4 +167,4 @@ Por qué: el blog tenía 138 posts escritos para «negocios de servicios». 116 
 
 - Reescribir las 7 guías pilar para tatuadores, con lo útil de los posts que absorben (fase 2).
 - Tras el despliegue: enviar el sitemap en Search Console y validar «Rastreada, sin indexar» y «Página con redirección».
-- Actualizar las URLs de  que apuntan a páginas retiradas (cuando se fusione el PR #179, que también toca ese archivo).
+- Actualizar las URLs de `seo/keywords.json` que apuntan a páginas retiradas (cuando se fusione el PR #179, que también toca ese archivo).
