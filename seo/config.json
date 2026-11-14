@@ -31,6 +31,16 @@
       "key": "mx",
       "location": "Mexico",
       "language": "Spanish"
+    },
+    {
+      "key": "ar",
+      "location": "Argentina",
+      "language": "Spanish"
+    },
+    {
+      "key": "co",
+      "location": "Colombia",
+      "language": "Spanish"
     }
   ],
   "ideas": {
@@ -124,7 +134,8 @@
   ],
   "rules": {
     "files": [
-      "seo/README.md"
+      "seo/README.md",
+      "seo/icp.md"
     ],
     "skills": [
       "inkup-producto",
