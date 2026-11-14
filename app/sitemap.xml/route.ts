@@ -56,11 +56,12 @@ export async function GET() {
 
     const slug = route.replace("/blog/", "")
     const blogPost = blogPosts.find((post) => post.slug === slug)
-    if (!blogPost?.publishedAt) {
+    const lastDate = (blogPost as { updatedAt?: string } | undefined)?.updatedAt ?? blogPost?.publishedAt
+    if (!lastDate) {
       return fallbackLastmod
     }
 
-    const parsedDate = new Date(blogPost.publishedAt)
+    const parsedDate = new Date(lastDate)
     if (Number.isNaN(parsedDate.getTime())) {
       return fallbackLastmod
     }

@@ -42,6 +42,7 @@ interface BlogPost {
   author: string
   authorSlug?: string
   publishedAt: string
+  updatedAt?: string
   readingTime: string
   content: string
   quickAnswer?: string[]
@@ -234,6 +235,7 @@ export async function generateMetadata({ params }: PageProps) {
       ],
       type: "article",
       publishedTime: post.publishedAt,
+      modifiedTime: post.updatedAt ?? post.publishedAt,
       authors: [post.author],
     },
     twitter: {
@@ -298,7 +300,7 @@ function StructuredData({ post }: { post: BlogPost }) {
       },
     },
     datePublished: post.publishedAt,
-    dateModified: post.publishedAt,
+    dateModified: post.updatedAt ?? post.publishedAt,
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `https://inkup.io/blog/${post.slug}`,
@@ -440,8 +442,9 @@ export default async function BlogPost({ params }: PageProps) {
                   <Clock className="w-4 h-4" />
                   <span>{post.readingTime} de lectura</span>
                 </div>
-                <time dateTime={post.publishedAt} className="text-gray-500">
-                  {new Date(post.publishedAt).toLocaleDateString("es-ES", {
+                <time dateTime={post.updatedAt ?? post.publishedAt} className="text-gray-500">
+                  {post.updatedAt ? "Actualizado el " : ""}
+                  {new Date(post.updatedAt ?? post.publishedAt).toLocaleDateString("es-ES", {
                     year: "numeric",
                     month: "long",
                     day: "numeric",
