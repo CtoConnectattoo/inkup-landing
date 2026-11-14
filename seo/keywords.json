@@ -1,48 +1,55 @@
 {
   "_doc": "Universo de keywords de inkup.io. role: primary (la página la ataca como principal; una sola URL por keyword), secondary (la misma página la cubre), backlog (demanda comprobada sin página), watch (seguir, sin acción), discard (sin demanda o fuera de producto). es = búsquedas/mes en España; mx = México; hisp = mundo en español. Público principal: tatuadores, estudios y piercers (skill inkup-producto).",
-  "source": "Mapa inicial del alta (2026-11-11) a partir de las páginas existentes. Sin volúmenes: Apify estaba en el límite mensual de la cuenta. El colector los mide en la primera ejecución con presupuesto (volumes.json) y el agente rellena es/mx/hisp/trend.",
-  "updated": "2026-11-11",
+  "source": "Mapa inicial del alta (2026-11-11) a partir de las páginas existentes. Sin volúmenes: Apify estaba en el límite mensual de la cuenta. El colector los mide en la primera ejecución con presupuesto (volumes.json) y el agente rellena es/mx/hisp/trend. · Volúmenes de Google Keyword Planner del 2026-11-14 (Apify memo23/keyword-metrics) en ES, MX, AR y CO; hisp = suma de los cuatro países medidos. Encaje con el ICP: seo/icp.md.",
+  "updated": "2026-11-14",
   "keywords": [
     {
       "kw": "software para estudios de tatuaje",
       "cluster": "tatuaje",
       "url": "/soluciones/software-para-estudios-de-tatuaje",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0. Sin volumen medible: la página se mantiene para convertir y para GEO."
     },
     {
       "kw": "programa para estudio de tatuajes",
       "cluster": "tatuaje",
       "url": "/soluciones/software-para-estudios-de-tatuaje",
       "role": "secondary",
-      "es": null,
-      "hisp": null,
+      "es": 10,
+      "hisp": 10,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0."
     },
     {
       "kw": "app para tatuadores",
       "cluster": "tatuaje",
       "url": "/soluciones/artistas-independientes",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 20,
+      "hisp": 80,
       "cpc": null,
       "trend": null,
-      "note": "El title y el H1 de la página no la mencionan: candidata a optimización cuando haya volumen."
+      "note": "El title y el H1 de la página no la mencionan: candidata a optimización cuando haya volumen. AR 20 · CO 10.",
+      "mx": 30
     },
     {
       "kw": "aplicacion para tatuadores",
       "cluster": "tatuaje",
       "url": "/soluciones/artistas-independientes",
       "role": "secondary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 10,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 10 · CO 0."
     },
     {
       "kw": "formulario whatsapp tatuadores",
@@ -59,61 +66,72 @@
       "cluster": "tatuaje",
       "url": "/soluciones/formulario-whatsapp-tatuadores",
       "role": "secondary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0. Sin volumen medible: la página se mantiene para convertir y para GEO."
     },
     {
       "kw": "plantilla presupuesto tatuaje",
       "cluster": "tatuaje",
       "url": "/blog/plantilla-cualificacion-tatuajes",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0. Sin volumen medible: la página se mantiene para convertir y para GEO."
     },
     {
       "kw": "como dar presupuesto de un tatuaje",
       "cluster": "tatuaje",
       "url": "/blog/como-cualificar-consultas-en-tatuajes",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0. Sin volumen medible: la página se mantiene para convertir y para GEO."
     },
     {
       "kw": "agenda para tatuadores",
       "cluster": "tatuaje",
       "url": null,
       "role": "watch",
-      "es": null,
-      "hisp": null,
+      "es": 10,
+      "hisp": 20,
       "cpc": null,
       "trend": null,
-      "note": "Inkup no es una agenda: solo con el ángulo «consulta completa antes de dar cita»."
+      "note": "Inkup no es una agenda: solo con el ángulo «consulta completa antes de dar cita». AR 0 · CO 0.",
+      "mx": 10
     },
     {
       "kw": "marketing para tatuadores",
       "cluster": "tatuaje",
       "url": null,
       "role": "watch",
-      "es": null,
-      "hisp": null,
+      "es": 10,
+      "hisp": 40,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 10,
+      "note": "AR 10 · CO 10."
     },
     {
       "kw": "instagram para tatuadores",
       "cluster": "tatuaje",
       "url": null,
       "role": "watch",
-      "es": null,
-      "hisp": null,
+      "es": 10,
+      "hisp": 10,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0."
     },
     {
       "kw": "cuanto cuesta un tatuaje",
@@ -142,20 +160,24 @@
       "cluster": "piercing",
       "url": "/soluciones/estudios-piercing",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0."
     },
     {
       "kw": "software eliminacion de tatuajes",
       "cluster": "eliminacion",
       "url": "/soluciones/tattoo-removal",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0."
     },
     {
       "kw": "crear formulario whatsapp",
@@ -183,20 +205,24 @@
       "cluster": "formulario-whatsapp",
       "url": "/como-hacer-un-formulario-en-whatsapp",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 0,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 0,
+      "note": "AR 0 · CO 0."
     },
     {
       "kw": "formulario de whatsapp",
       "cluster": "formulario-whatsapp",
       "url": "/como-hacer-un-formulario-en-whatsapp",
       "role": "secondary",
-      "es": null,
-      "hisp": null,
+      "es": 0,
+      "hisp": 150,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 110,
+      "note": "AR 20 · CO 20."
     },
     {
       "kw": "asistente whatsapp",
@@ -214,20 +240,24 @@
       "cluster": "whatsapp",
       "url": "/blog/mensaje-bienvenida-whatsapp-que-filtra",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 30,
+      "hisp": 420,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 170,
+      "note": "AR 110 · CO 110."
     },
     {
       "kw": "mensaje de ausencia whatsapp business",
       "cluster": "whatsapp",
       "url": "/blog/plantilla-mensaje-ausencia-que-convierte",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 70,
+      "hisp": 270,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 90,
+      "note": "AR 70 · CO 40."
     },
     {
       "kw": "respuestas rapidas whatsapp business",
@@ -296,21 +326,24 @@
       "cluster": "whatsapp",
       "url": null,
       "role": "discard",
-      "es": null,
-      "hisp": null,
+      "es": 480,
+      "hisp": 2270,
       "cpc": null,
       "trend": null,
-      "note": "Inkup no es un bot dentro de WhatsApp (FAQ oficial)."
+      "note": "Inkup no es un bot dentro de WhatsApp (FAQ oficial). AR 320 · CO 590.",
+      "mx": 880
     },
     {
       "kw": "alternativa a linktree",
       "cluster": "link-en-bio",
       "url": "/blog/linktree-vs-link-para-filtrar-consultas",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 40,
+      "hisp": 90,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 30,
+      "note": "AR 20 · CO 0."
     },
     {
       "kw": "linktree",
@@ -328,31 +361,36 @@
       "cluster": "link-en-bio",
       "url": "/blog/link-en-bio-que-convierte-a-whatsapp",
       "role": "primary",
-      "es": null,
-      "hisp": null,
+      "es": 30,
+      "hisp": 80,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 20,
+      "note": "AR 20 · CO 10."
     },
     {
       "kw": "enlace whatsapp instagram",
       "cluster": "link-en-bio",
       "url": null,
       "role": "watch",
-      "es": null,
-      "hisp": null,
+      "es": 90,
+      "hisp": 120,
       "cpc": null,
       "trend": null,
-      "note": "Kalmaa la tiene en su backlog (kalmaa.io): decidir qué dominio la ataca antes de crear página."
+      "note": "Kalmaa la tiene en su backlog (kalmaa.io): decidir qué dominio la ataca antes de crear página. AR 0 · CO 10.",
+      "mx": 20
     },
     {
       "kw": "link de whatsapp",
       "cluster": "link-en-bio",
       "url": null,
       "role": "watch",
-      "es": null,
-      "hisp": null,
+      "es": 720,
+      "hisp": 60020,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "mx": 8100,
+      "note": "AR 18100 · CO 33100."
     },
     {
       "kw": "automatizar mensajes instagram",
@@ -437,6 +475,246 @@
       "hisp": null,
       "cpc": null,
       "trend": null
+    },
+    {
+      "kw": "cotizar tatuaje",
+      "cluster": "tatuaje",
+      "url": "/blog/como-cualificar-consultas-en-tatuajes",
+      "role": "secondary",
+      "es": 10,
+      "mx": 70,
+      "hisp": 110,
+      "cpc": null,
+      "trend": null,
+      "note": "Palabra de LATAM (ICP). Título doble «presupuesto o cotización». AR 10 · CO 20."
+    },
+    {
+      "kw": "como cotizar un tatuaje",
+      "cluster": "tatuaje",
+      "url": "/blog/como-cualificar-consultas-en-tatuajes",
+      "role": "secondary",
+      "es": 10,
+      "mx": 70,
+      "hisp": 100,
+      "cpc": null,
+      "trend": null,
+      "note": "Palabra de LATAM (ICP). AR 10 · CO 10."
+    },
+    {
+      "kw": "presupuesto tatuaje",
+      "cluster": "tatuaje",
+      "url": "/blog/como-cualificar-consultas-en-tatuajes",
+      "role": "secondary",
+      "es": 20,
+      "mx": 0,
+      "hisp": 20,
+      "cpc": null,
+      "trend": null,
+      "note": "Palabra de España (ICP). AR 0 · CO 0."
+    },
+    {
+      "kw": "respuesta automatica whatsapp",
+      "cluster": "whatsapp",
+      "url": "/blog/respuestas-rapidas-whatsapp-setup",
+      "role": "secondary",
+      "es": 480,
+      "mx": 260,
+      "hisp": 830,
+      "cpc": null,
+      "trend": null,
+      "note": "En subida. Ángulo tatuaje: plantillas reales anonimizadas (seo/icp.md). AR 0 · CO 90."
+    },
+    {
+      "kw": "mensaje automatico whatsapp business",
+      "cluster": "whatsapp",
+      "url": "/blog/mensaje-bienvenida-whatsapp-que-filtra",
+      "role": "secondary",
+      "es": 260,
+      "mx": 260,
+      "hisp": 1100,
+      "cpc": null,
+      "trend": null,
+      "note": "En subida en los 4 países. Ángulo tatuaje. AR 320 · CO 260."
+    },
+    {
+      "kw": "link de whatsapp para instagram",
+      "cluster": "link-en-bio",
+      "url": "/blog/link-en-bio-que-convierte-a-whatsapp",
+      "role": "secondary",
+      "es": 70,
+      "mx": 90,
+      "hisp": 960,
+      "cpc": null,
+      "trend": null,
+      "note": "Volumen en LATAM. El 28 % de tatuadores pone wa.me en la bio (ICP). Reparto con Kalmaa pendiente: solo ángulo tatuaje. AR 590 · CO 210."
+    },
+    {
+      "kw": "como poner whatsapp en instagram",
+      "cluster": "link-en-bio",
+      "url": "/blog/link-en-bio-que-convierte-a-whatsapp",
+      "role": "secondary",
+      "es": 20,
+      "mx": 30,
+      "hisp": 330,
+      "cpc": null,
+      "trend": null,
+      "note": "Volumen en AR. Reparto con Kalmaa pendiente. AR 260 · CO 20."
+    },
+    {
+      "kw": "crear link de whatsapp",
+      "cluster": "link-en-bio",
+      "url": null,
+      "role": "watch",
+      "es": 260,
+      "mx": 3600,
+      "hisp": 14860,
+      "cpc": null,
+      "trend": null,
+      "note": "Generadores genéricos (walink). Reparto con Kalmaa pendiente. AR 4400 · CO 6600."
+    },
+    {
+      "kw": "consentimiento informado tatuaje",
+      "cluster": "consentimiento",
+      "url": null,
+      "role": "backlog",
+      "es": 40,
+      "mx": 30,
+      "hisp": 80,
+      "cpc": null,
+      "trend": null,
+      "note": "En subida. SERP: PDF de plantilla, organismos e Inkoru. Esperar a que exista la función en Inkup. AR 0 · CO 10."
+    },
+    {
+      "kw": "cuanto gana un tatuador",
+      "cluster": "precio-tatuador",
+      "url": null,
+      "role": "backlog",
+      "es": 70,
+      "mx": 170,
+      "hisp": 280,
+      "cpc": null,
+      "trend": null,
+      "note": "Guía de precio del tatuador (cuánto cobrar, mínimo, regateo): dolor del ICP. AR 20 · CO 20."
+    },
+    {
+      "kw": "cuanto cobra un tatuador",
+      "cluster": "precio-tatuador",
+      "url": null,
+      "role": "backlog",
+      "es": 70,
+      "mx": 0,
+      "hisp": 70,
+      "cpc": null,
+      "trend": null,
+      "note": "Misma guía que «cuanto gana un tatuador». AR 0 · CO 0."
+    },
+    {
+      "kw": "programa para tatuadores",
+      "cluster": "tatuaje",
+      "url": "/soluciones/software-para-estudios-de-tatuaje",
+      "role": "secondary",
+      "es": 10,
+      "mx": 0,
+      "hisp": 10,
+      "cpc": null,
+      "trend": null,
+      "note": "AR 0 · CO 0."
+    },
+    {
+      "kw": "inkoru",
+      "cluster": "competidores",
+      "url": null,
+      "role": "watch",
+      "es": 590,
+      "mx": 0,
+      "hisp": 590,
+      "cpc": null,
+      "trend": null,
+      "note": "Competidor español (gestión y consentimientos). Comparativa solo si hay impresiones en GSC. AR 0 · CO 0."
+    },
+    {
+      "kw": "señal tatuaje",
+      "cluster": "señal",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "seña tatuaje",
+      "cluster": "señal",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "anticipo tatuaje",
+      "cluster": "señal",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "deposito tatuaje",
+      "cluster": "señal",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "formulario para cotizar tatuajes",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "cotizacion tatuaje",
+      "cluster": "tatuaje",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. AR 0 · CO 0."
+    },
+    {
+      "kw": "cuanto cobrar por un tatuaje",
+      "cluster": "precio-tatuador",
+      "url": null,
+      "role": "discard",
+      "es": 0,
+      "mx": 0,
+      "hisp": 0,
+      "cpc": null,
+      "trend": null,
+      "note": "0 búsquedas medibles en ES, MX, AR y CO (nov 2026). Se trabaja en producto, redes y GEO, no con páginas. La guía de precio va con «cuanto cobra un tatuador». AR 0 · CO 0."
     }
   ]
 }
