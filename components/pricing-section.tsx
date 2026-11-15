@@ -34,51 +34,33 @@ interface PricingSectionProps {
   note?: React.ReactNode
 }
 
-const pricingTiers: PricingTier[] = [
+/* Planes tal y como existen hoy en hi.inkup.io (config/plans.ts de la app y catálogo seo/producto/funcionalidades.json). */
+export const PLAN_TIERS: PricingTier[] = [
   {
-    name: "Professional",
+    name: "Profesional",
     monthlyPrice: 29,
     annualPrice: 12,
+    ctaLabel: "Empezar la prueba gratis",
     features: [
-      "100 leads/mes",
-      "Personalización visual",
-      "Dashboard de rendimiento",
-      "Panel de consultas",
-      "Garantía de devolución de dinero hasta 11 días",
-      "Soporte 24/7",
-      "Cancela en cualquier momento",
+      "100 consultas al mes",
+      "Hasta 5 asistentes",
+      "Selectores con imágenes y 5 idiomas",
+      "Panel de consultas con exportación",
+      "Cancela cuando quieras",
     ],
-    isPopular: true,
   },
   {
-    name: "Top",
+    name: "Premium",
     monthlyPrice: 49,
     annualPrice: 19,
+    isPopular: true,
+    badgeText: "Más elegido",
+    ctaLabel: "Empezar la prueba gratis",
     features: [
-      "1000 leads/mes",
-      "Personalización visual",
-      "Dashboard avanzado",
-      "Atención prioritaria",
-      "Garantía de devolución de dinero hasta 11 días",
-      "Soporte 24/7",
-      "Cancela en cualquier momento",
-    ],
-  },
-  {
-    name: "Enterprise",
-    monthlyPrice: 0,
-    annualPrice: 0,
-    isCustom: true,
-    customPriceLabel: "A medida",
-    ctaHref: "/demo",
-    ctaLabel: "Reserva tu demo",
-    features: [
-      "Volumen ilimitado de leads",
-      "App a medida",
-      "Integraciones personalizadas",
-      "SLA dedicado",
-      "Gestor de cuenta asignado",
+      "1.000 consultas al mes",
+      "Hasta 10 asistentes",
       "Soporte prioritario",
+      "Todo lo del plan Profesional",
     ],
   },
 ]
@@ -97,7 +79,7 @@ export function PricingSection({
   const isLandingTattoo = pathname === "/landing-tattoo"
   const effectivePeriod = isLandingTattoo ? false : isAnnual
 
-  const tiersToUse = customTiers || pricingTiers
+  const tiersToUse = customTiers || PLAN_TIERS
   const filteredTiers = tiersToUse.filter((tier) => !excludePlans.includes(tier.name))
 
   const getPaymentLink = (tier: string, isAnnual: boolean) => {
@@ -110,17 +92,6 @@ export function PricingSection({
       return "https://buy.stripe.com/8x29AU0gr32p0nU8n5bZe1k"
     }
 
-    if (tier === "Professional") {
-      return isAnnual
-        ? "https://buy.stripe.com/aFabJ24wHfPb8Uq0UDbZe1h" // Plan Profesional anual
-        : "https://buy.stripe.com/fZubJ27ITbyV4Ea32LbZe1f" // Plan profesional mensual
-    } else if (tier === "Top") {
-      return isAnnual
-        ? "https://buy.stripe.com/8x2aEYd3d8mJ1rYeLtbZe1i" // Plan Top anual
-        : "https://buy.stripe.com/bJe6oI9R19qN5Ie1YHbZe1g" // Plan Top mensual
-    } else if (tier === "Enterprise") {
-      return "/demo"
-    }
     // Updated signup URL to include /auth path
     return "https://hi.inkup.io/auth/signup"
   }
@@ -132,7 +103,7 @@ export function PricingSection({
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight">
             {title || "Precios simples y transparentes"}
           </h2>
-          <p className="text-xl text-muted-foreground">{subtitle || "11 de devolución garantizado | No permanencia"}</p>
+          <p className="text-xl text-muted-foreground">{subtitle || "7 días de prueba · Hoy no pagas nada · Sin permanencia"}</p>
           <PricingToggle onPeriodChange={setIsAnnual} defaultValue={isAnnual} hideAnnual={isLandingTattoo} />
         </div>
 
@@ -183,8 +154,9 @@ export function PricingSection({
                         <span className="text-5xl font-bold text-white">
                           {effectivePeriod ? tier.annualPrice : tier.monthlyPrice}
                         </span>
-                        <span className="ml-2 text-gray-300">/mes</span>
+                        <span className="ml-2 text-gray-300">/mes + IVA</span>
                       </div>
+                      {effectivePeriod && <div className="text-xs text-gray-400">con pago anual</div>}
                       {(effectivePeriod ? tier.oldAnnualPrice : tier.oldMonthlyPrice) && (
                         <div className="text-emerald-400 font-semibold text-sm">
                           Ahorras €

@@ -30,41 +30,38 @@ export const metadata: Metadata = {
 export default function TattooRemovalPage() {
   const features = [
     {
-      title: "Dashboard de rendimiento",
-      description: "Visualiza tus leads capturados, visitas al perfil y tiempo ahorrado en un panel intuitivo.",
+      title: "Preguntas adaptadas a eliminación",
+      description: "Pregunta por la zona, el tamaño y la antigüedad del tatuaje, y pide una foto para valorar.",
     },
     {
-      title: "Asistente especializado en eliminación",
-      description:
-        "Configura tu asistente con información sobre tecnologías, número de sesiones y resultados esperados.",
-    },
-    {
-      title: "Integración multicanal",
-      description: "Conecta con tus clientes a través de WhatsApp, Instagram, tu web y más, todo centralizado.",
+      title: "La consulta completa en tu WhatsApp",
+      description: "Al terminar, se abre WhatsApp con el mensaje ya escrito. Funciona con WhatsApp personal o Business, sin API ni integraciones.",
     },
     {
       title: "Panel de consultas",
-      description: "Visualiza y gestiona todas las consultas entrantes organizadas por tipo de eliminación o fecha.",
+      description: "Cada consulta queda guardada con sus datos, referencias y teléfono. Filtra por estado (pendiente, respondida, cliente), servicio y fecha.",
     },
     {
-      title: "Contador de leads disponibles",
-      description: "Monitoriza cuántos leads te quedan en tu plan actual y actualiza cuando necesites más capacidad.",
+      title: "Preguntas con botones e imágenes",
+      description: "Tu cliente elige con selectores visuales y sube sus referencias. Sin registro ni descarga, en menos de un minuto.",
     },
     {
-      title: "Análisis de rendimiento por períodos",
-      description: "Visualiza el rendimiento de tus leads y visitas con filtros por día, semana y mes.",
+      title: "5 idiomas automáticos",
+      description: "El asistente se muestra en español, inglés, francés, portugués o italiano según el móvil del cliente. A ti te llega en tu idioma.",
+    },
+    {
+      title: "Exporta tus clientes",
+      description: "Descarga la lista de consultas en CSV o Excel cuando quieras.",
     },
   ]
 
   const benefits = [
-    { text: "Reduce el tiempo dedicado a explicar el proceso de eliminación repetidamente" },
-    { text: "Mejora la experiencia del cliente con respuestas inmediatas a sus dudas" },
-    { text: "Visualiza exactamente cuántas horas ahorras mensualmente en tu dashboard" },
-    { text: "Proporciona expectativas realistas sobre resultados y número de sesiones" },
-    { text: "Elimina la pérdida de consultas por saturación o desorganización" },
-    { text: "Permite a tus especialistas enfocarse en los tratamientos" },
-    { text: "Optimiza la gestión de tu agenda y reduce los huecos" },
-    { text: "Mejora la imagen profesional de tu centro" },
+    { text: "Recibes la consulta completa con foto y das una primera valoración a la primera" },
+    { text: "Menos ida y vuelta para explicar el proceso" },
+    { text: "No se te escapa ninguna consulta: todas quedan guardadas en el panel" },
+    { text: "La valoración y la conversación las llevas tú, en tu WhatsApp" },
+    { text: "Atiendes a clientes de otros países en su idioma" },
+    { text: "Listo en 1 minuto, sin saber de tecnología" },
   ]
 
   return (

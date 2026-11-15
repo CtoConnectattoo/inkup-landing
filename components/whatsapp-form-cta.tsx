@@ -31,7 +31,7 @@ export function WhatsAppFormCTA() {
           </Button>
 
           <div className="mt-6 text-sm text-gray-400">
-            Sin tarjeta de crédito • Configuración inmediata • Soporte incluido
+            7 días de prueba • Hoy no pagas nada • Ayuda por WhatsApp
           </div>
         </motion.div>
       </div>

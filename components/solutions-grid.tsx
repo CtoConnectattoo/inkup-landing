@@ -34,7 +34,7 @@ const businessTypes = [
 const useCases = [
   {
     title: "Reserva de Citas",
-    description: "Facilita a tus clientes la reserva de citas y visualiza el tiempo ahorrado en tu dashboard.",
+    description: "Recibe la consulta completa antes de dar precio y fecha. La agenda la sigues llevando tú.",
     icon: <Calendar className="w-6 h-6" />,
     href: "/soluciones/reserva-citas",
   },

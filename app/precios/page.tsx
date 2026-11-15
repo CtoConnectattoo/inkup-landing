@@ -32,8 +32,7 @@ export default function PricingPage() {
                 <AccordionItem value="item-1">
                   <AccordionTrigger>¿Puedo probarlo antes?</AccordionTrigger>
                   <AccordionContent>
-                    Sí, puedes empezar con nuestro plan gratuito que incluye hasta 11 consultas al mes. No necesitas
-                    tarjeta de crédito y podrás probar las principales funcionalidades de la plataforma.
+                    Sí. 7 días de prueba sin límite de consultas. Añades una tarjeta al empezar, pero no se cobra nada hasta que terminan los 7 días. Sin permanencia: cancelas desde tu cuenta.
                   </AccordionContent>
                 </AccordionItem>
 

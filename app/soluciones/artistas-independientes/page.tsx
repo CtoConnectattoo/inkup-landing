@@ -29,40 +29,38 @@ export const metadata: Metadata = {
 export default function ArtistasIndependientesPage() {
   const features = [
     {
-      title: "Asistente personal IA",
-      description: "Tu propio asistente virtual que responde consultas según tus criterios y disponibilidad.",
+      title: "Tu asistente, tus preguntas",
+      description: "Preguntas adaptadas a tus estilos y servicios: estilo, zona, tamaño, referencias y cuándo.",
     },
     {
-      title: "Gestión simplificada",
-      description: "Interfaz intuitiva diseñada específicamente para artistas que trabajan solos.",
+      title: "La consulta completa en tu WhatsApp",
+      description: "Al terminar, se abre WhatsApp con el mensaje ya escrito. Funciona con WhatsApp personal o Business, sin API ni integraciones.",
     },
     {
-      title: "Integración con redes sociales",
-      description: "Conecta con Instagram, WhatsApp y otras plataformas donde tus clientes te contactan.",
+      title: "Tu enlace donde ya te escriben",
+      description: "En la bio de Instagram, la bienvenida de WhatsApp Business, Stories, TikTok, tu ficha de Google o un QR en el estudio.",
     },
     {
-      title: "Filtrado de consultas",
-      description: "Recibe solo las consultas que se ajustan a tu estilo y disponibilidad.",
+      title: "Preguntas con botones e imágenes",
+      description: "Tu cliente elige con selectores visuales y sube sus referencias. Sin registro ni descarga, en menos de un minuto.",
     },
     {
-      title: "Dashboard de rendimiento",
-      description: "Visualiza tus leads capturados, visitas al perfil y tiempo ahorrado en un panel intuitivo.",
+      title: "Panel de consultas",
+      description: "Cada consulta queda guardada con sus datos, referencias y teléfono. Filtra por estado (pendiente, respondida, cliente), servicio y fecha.",
     },
     {
-      title: "Análisis de rendimiento por períodos",
-      description: "Visualiza el rendimiento de tus leads y visitas con filtros por día, semana y mes.",
+      title: "5 idiomas automáticos",
+      description: "El asistente se muestra en español, inglés, francés, portugués o italiano según el móvil del cliente. A ti te llega en tu idioma.",
     },
   ]
 
   const benefits = [
-    { text: "Reduce el tiempo dedicado a responder mensajes repetitivos" },
-    { text: "Aumenta tu productividad artística al eliminar tareas administrativas" },
-    { text: "Mejora la experiencia de tus clientes con respuestas inmediatas" },
-    { text: "Captura consultas incluso cuando estás tatuando o fuera de horario" },
-    { text: "Filtra clientes potenciales según tus preferencias artísticas" },
-    { text: "Organiza tu agenda de manera más eficiente" },
-    { text: "Proyecta una imagen más profesional" },
     { text: "Más tiempo para tatuar: la consulta te llega completa y das precio a la primera" },
+    { text: "Menos «¿cuánto cuesta?» sin estilo, zona ni tamaño" },
+    { text: "Recoge consultas mientras tatúas o fuera de horario; contestas tú cuando puedas" },
+    { text: "No se te escapa ninguna consulta: todas quedan guardadas en el panel" },
+    { text: "Tienes tu base de datos de clientes y la exportas cuando quieras" },
+    { text: "Listo en 1 minuto, sin saber de tecnología" },
   ]
 
   return (

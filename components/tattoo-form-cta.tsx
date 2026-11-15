@@ -31,7 +31,7 @@ export function TattooFormCTA() {
           </Button>
 
           <div className="mt-6 text-sm text-gray-400">
-            Sin tarjeta de crédito • Listo para compartir al registrarte • Soporte incluido
+            7 días de prueba • Listo para compartir al registrarte • Ayuda por WhatsApp
           </div>
         </motion.div>
       </div>

@@ -18,8 +18,8 @@ export default function MatiasNobleAmbassadorPage() {
       heroDescription:
         "La herramienta que uso y usamos en Noble Art para agilizar las consultas de clientes, ahora con un beneficio exclusivo para ti.",
       tryFreeButton: "Pruébalo gratis ahora",
-      freePlan: "Plan gratuito",
-      noCreditCard: "Sin tarjeta de crédito",
+      freePlan: "Prueba gratuita",
+      noCreditCard: "Hoy no pagas nada",
       quickSetup: "Configuración en minutos",
       aboutMatias: "Sobre Matías Noble",
       aboutDescription1:
@@ -39,12 +39,12 @@ export default function MatiasNobleAmbassadorPage() {
       personalized: "Personalizado",
       immediateResponse: "Respuesta inmediata",
       immediateResponseDesc:
-        "Tu asistente de IA responde al instante en WhatsApp e Instagram, recopilando toda la información necesaria del cliente.",
+        "Tu enlace se abre al momento desde Instagram o WhatsApp y recoge toda la información necesaria del cliente.",
       timeSaving: "Ahorro de tiempo",
       timeSavingDesc:
         "Elimina las consultas repetitivas y recibe solo solicitudes organizadas con toda la información que necesitas.",
       betterExperience: "Mejor experiencia",
-      betterExperienceDesc: "Tus clientes obtienen respuestas inmediatas y tú te enfocas en crear arte.",
+      betterExperienceDesc: "Tus clientes dejan su consulta al momento y tú te enfocas en crear arte.",
       limitedOffer: "Oferta limitada",
       exclusiveBenefit: "Beneficio exclusivo para alumnos de Matías academy",
       exclusiveDescription:
@@ -85,12 +85,12 @@ export default function MatiasNobleAmbassadorPage() {
       personalized: "Personalized",
       immediateResponse: "Immediate response",
       immediateResponseDesc:
-        "Your AI assistant responds instantly on WhatsApp and Instagram, collecting all necessary client information.",
+        "Your link opens instantly from Instagram or WhatsApp and collects all the client information you need.",
       timeSaving: "Time saving",
       timeSavingDesc:
         "Eliminates repetitive consultations and receive only organized requests with all the information you need.",
       betterExperience: "Better experience",
-      betterExperienceDesc: "Your clients get immediate responses and you focus on creating exceptional art.",
+      betterExperienceDesc: "Your clients leave their request right away and you focus on creating art.",
       limitedOffer: "Limited offer",
       exclusiveBenefit: "Exclusive benefit for Matías academy students",
       exclusiveDescription:

@@ -16,7 +16,7 @@ export function WhatsAppFormSteps({ title, description }: WhatsAppFormStepsProps
       tag: "Asistente hecho por y para a ti",
       title: "Crea tu asistente en segundos y compártelo",
       benefits: [
-        "Atiende a tus clientes 24/7 mientras duermes",
+        "Recoge consultas a cualquier hora, también mientras duermes",
         "Tu asistente filtra a los curiosos",
         "Recoge la información necesaria de cada un@: Descripción, Tamaño, Urgencia, Imágenes, Zona...",
         "Recíbela en Whatsapp en un único mensaje",

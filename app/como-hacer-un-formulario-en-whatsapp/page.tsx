@@ -104,9 +104,9 @@ const FAQ_ITEMS = [
       "Funciona con cualquier cuenta de WhatsApp: personal, Business o Business API. Inkup genera un mensaje estructurado que llega a tu número, sea cual sea el tipo de cuenta. No necesitas WhatsApp Business para empezar.",
   },
   {
-    question: "¿Es realmente gratuito? ¿Qué límites tiene?",
+    question: "¿Cuánto cuesta? ¿Hay prueba gratuita?",
     answer:
-      "Sí. El plan gratuito incluye hasta 20 consultas al mes sin tarjeta de crédito. Puedes crear tu asistente, configurar las preguntas y probarlo con clientes reales. Cuando superes ese volumen o quieras personalización de marca, puedes pasarte a un plan de pago.",
+      "Hay una prueba gratuita de 7 días, sin límite de consultas: añades una tarjeta al empezar y no se cobra nada hasta que terminan. Después, Profesional (29 €/mes + IVA, o 12 €/mes + IVA con pago anual, 100 consultas al mes) o Premium (49 €/mes + IVA, o 19 €/mes + IVA con pago anual, 1.000 consultas al mes). Sin permanencia.",
   },
   {
     question: "¿El asistente se adapta al idioma de mi cliente?",
@@ -116,7 +116,7 @@ const FAQ_ITEMS = [
   {
     question: "¿Puedo personalizarlo visualmente con mis colores?",
     answer:
-      "Sí, con un plan de pago puedes adaptar la paleta de colores, imagen de fondo y otros elementos visuales para que el asistente refleje tu marca. En el plan gratuito el diseño es estándar pero funcional.",
+      "Sí. Desde el primer día personalizas la bienvenida, el logo o la foto, los colores y la tipografía. El fondo personalizado está en los planes de pago.",
   },
   {
     question: "Tengo ya un CRM o programa de gestión, ¿es compatible?",
@@ -347,7 +347,7 @@ export default function ComoHacerFormularioWhatsAppPage() {
                   <div className="my-12 not-prose">
                     <BlogCta
                       title="Pruébalo en 5 minutos"
-                      description="Crea tu asistente, añade tus preguntas y comparte el enlace. Las primeras 20 consultas son gratis, sin tarjeta."
+                      description="Crea tu asistente, añade tus preguntas y comparte el enlace. 7 días de prueba sin límite de consultas."
                       buttonLabel="Crear mi formulario gratis"
                       href="https://hi.inkup.io/auth/signup?utm_source=guia-formulario-wa&utm_medium=cta_mid"
                       demoHref={undefined}
@@ -366,7 +366,7 @@ export default function ComoHacerFormularioWhatsAppPage() {
                   <div className="my-12 not-prose">
                     <BlogCta
                       title="¿Listo para probarlo?"
-                      description="Sin código, sin web, sin tarjeta. Configura tu asistente en menos de 10 minutos y recibe las primeras 20 consultas gratis."
+                      description="Sin código ni web. Tu asistente queda listo en 1 minuto y tienes 7 días de prueba sin límite de consultas."
                       buttonLabel="Empezar gratis"
                       href="https://hi.inkup.io/auth/signup?utm_source=guia-formulario-wa&utm_medium=cta_bottom"
                       demoHref="/crear-formulario-whatsapp"

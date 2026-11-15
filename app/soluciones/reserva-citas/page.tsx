@@ -30,51 +30,45 @@ export const metadata: Metadata = {
   },
   other: {
     "image-description":
-      "Dashboard de Inkup mostrando métricas de rendimiento para gestión de citas: 21 leads capturados, 315 horas ahorradas mensualmente, gráfico de rendimiento general y análisis de visitas al perfil. Interfaz intuitiva para estudios de tatuaje y artistas independientes.",
+      "Panel de consultas de Inkup: cada consulta con sus datos, referencias y teléfono, filtrable por estado, servicio y fecha.",
   },
 }
 
 export default function ReservaCitasPage() {
   const features = [
     {
-      title: "Dashboard de rendimiento integrado",
-      description:
-        "Visualiza tus leads capturados, visitas al perfil y tiempo ahorrado en un panel de control intuitivo.",
+      title: "La consulta completa en tu WhatsApp",
+      description: "Al terminar, se abre WhatsApp con el mensaje ya escrito. Funciona con WhatsApp personal o Business, sin API ni integraciones.",
     },
     {
-      title: "Contador de leads disponibles",
-      description: "Monitoriza cuántos leads te quedan en tu plan actual y actualiza cuando necesites más capacidad.",
+      title: "Preguntas con botones e imágenes",
+      description: "Tu cliente elige con selectores visuales y sube sus referencias. Sin registro ni descarga, en menos de un minuto.",
     },
     {
-      title: "Métricas de tiempo ahorrado",
-      description:
-        "Cuantifica las horas que ahorras al automatizar las consultas para citas, con estimaciones mensuales precisas.",
+      title: "Panel de consultas",
+      description: "Cada consulta queda guardada con sus datos, referencias y teléfono. Filtra por estado (pendiente, respondida, cliente), servicio y fecha.",
     },
     {
-      title: "Análisis de rendimiento por períodos",
-      description:
-        "Visualiza el rendimiento de tus leads y visitas con filtros por día, semana y mes para identificar tendencias.",
+      title: "Tu enlace donde ya te escriben",
+      description: "En la bio de Instagram, la bienvenida de WhatsApp Business, Stories, TikTok, tu ficha de Google o un QR en el estudio.",
     },
     {
-      title: "Gestión de consultas centralizada",
-      description:
-        "Recibe todas las consultas para citas en un solo lugar, independientemente del canal por el que lleguen.",
+      title: "5 idiomas automáticos",
+      description: "El asistente se muestra en español, inglés, francés, portugués o italiano según el móvil del cliente. A ti te llega en tu idioma.",
     },
     {
-      title: "Planes escalables según necesidades",
-      description: "Actualiza fácilmente tu plan cuando necesites gestionar más leads o ampliar tu negocio.",
+      title: "Exporta tus clientes",
+      description: "Descarga la lista de consultas en CSV o Excel cuando quieras.",
     },
   ]
 
   const benefits = [
-    { text: "Visualiza exactamente cuántas horas ahorras mensualmente en tu dashboard" },
-    { text: "Menos ida y vuelta: das precio y fecha con toda la información en un solo mensaje" },
-    { text: "Mejora la experiencia del cliente con un sistema de consultas fluido en Instagram y WhatsApp" },
-    { text: "Monitoriza el crecimiento de visitas a tu perfil con métricas precisas" },
-    { text: "Captura consultas incluso fuera de tu horario laboral a través de TikTok y otras redes" },
-    { text: "Controla eficientemente tu cuota de leads disponibles según tu plan" },
-    { text: "Mejora tu visibilidad en Google My Business con respuestas automáticas" },
-    { text: "Obtén datos valiosos sobre tus patrones de consultas para tomar mejores decisiones" },
+    { text: "Recibes la consulta completa en un mensaje: das precio y propones fecha a la primera" },
+    { text: "Menos ida y vuelta antes de cerrar la cita" },
+    { text: "No se te escapa ninguna consulta: todas quedan guardadas en el panel" },
+    { text: "La fecha y la agenda las llevas tú, como siempre; Inkup te trae la consulta lista" },
+    { text: "Atiendes a clientes de otros países en su idioma" },
+    { text: "Listo en 1 minuto, sin saber de tecnología" },
   ]
 
   return (
@@ -85,7 +79,7 @@ export default function ReservaCitasPage() {
           title="Gestión de"
           subtitle="Citas"
           description="Automatiza tus consultas para citas a través de Instagram, WhatsApp, TikTok y Google My Business. Reduce el tiempo dedicado a responder mensajes y ofrece información precisa a tus clientes."
-          imageSrc="/inkup-dashboard-metrics.png"
+          imageSrc="/tattoo-studio-artists.png"
           features={features}
           benefits={benefits}
           testimonial={{

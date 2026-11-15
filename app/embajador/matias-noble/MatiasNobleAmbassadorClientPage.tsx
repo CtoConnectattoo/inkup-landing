@@ -60,7 +60,7 @@ export default function MatiasNobleAmbassadorClientPage() {
                   </div>
                   <div className="flex items-center gap-2">
                     <CheckCircle className="w-5 h-5 text-green-500" />
-                    Sin tarjeta de crédito
+                    Hoy no pagas nada
                   </div>
                   <div className="flex items-center gap-2">
                     <CheckCircle className="w-5 h-5 text-green-500" />
@@ -182,7 +182,7 @@ export default function MatiasNobleAmbassadorClientPage() {
                   </div>
                   <h3 className="text-xl font-semibold">Respuesta Inmediata</h3>
                   <p className="text-muted-foreground">
-                    Tu asistente de IA responde al instante en WhatsApp e Instagram, recopilando toda la información
+                    Tu enlace se abre al momento desde Instagram o WhatsApp y recoge toda la información
                     necesaria del cliente.
                   </p>
                 </div>
@@ -204,7 +204,7 @@ export default function MatiasNobleAmbassadorClientPage() {
                   </div>
                   <h3 className="text-xl font-semibold">Mejor Experiencia</h3>
                   <p className="text-muted-foreground">
-                    Tus clientes obtienen respuestas inmediatas y tú te enfocas en crear arte excepcional.
+                    Tus clientes dejan su consulta al momento y tú te enfocas en crear arte.
                   </p>
                 </div>
               </div>

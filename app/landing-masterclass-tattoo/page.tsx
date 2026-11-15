@@ -118,9 +118,9 @@ export default function MasterclassTattooLanding() {
                 <div className="flex items-start gap-4 bg-white p-6 rounded-xl shadow-sm">
                   <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-1" />
                   <div>
-                    <h3 className="font-semibold text-lg mb-2">Control y tranquilidad: Atención 24/7</h3>
+                    <h3 className="font-semibold text-lg mb-2">Control y tranquilidad: consultas a cualquier hora</h3>
                     <p className="text-muted-foreground">
-                      Sistema automatizado que trabaja por ti las 24 horas, incluso cuando estás tatuando o descansando.
+                      Tu enlace recoge las consultas a cualquier hora, incluso cuando estás tatuando o descansando. Contestas tú cuando puedas.
                     </p>
                   </div>
                 </div>

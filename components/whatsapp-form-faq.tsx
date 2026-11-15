@@ -61,10 +61,10 @@ export function WhatsAppFormFAQ() {
 
             <AccordionItem value="item-6">
               <AccordionTrigger className="text-left text-lg font-semibold">
-                ¿Es realmente gratuito? ¿Qué límites tiene?
+                ¿Cuánto cuesta? ¿Hay prueba gratuita?
               </AccordionTrigger>
               <AccordionContent className="text-gray-600 text-base leading-relaxed">
-                Sí. El plan gratuito incluye hasta 20 consultas al mes sin tarjeta de crédito. Puedes crear tu asistente, configurar las preguntas y probarlo con clientes reales. Cuando superes ese volumen o quieras personalización de marca, puedes pasarte a un plan de pago.
+                Hay una prueba gratuita de 7 días, sin límite de consultas: añades una tarjeta al empezar y no se cobra nada hasta que terminan. Después, Profesional (29 €/mes + IVA, o 12 €/mes + IVA con pago anual, 100 consultas al mes) o Premium (49 €/mes + IVA, o 19 €/mes + IVA con pago anual, 1.000 consultas al mes). Sin permanencia.
               </AccordionContent>
             </AccordionItem>
 
@@ -82,7 +82,7 @@ export function WhatsAppFormFAQ() {
                 ¿Puedo personalizarlo visualmente con mis colores?
               </AccordionTrigger>
               <AccordionContent className="text-gray-600 text-base leading-relaxed">
-                Sí, con un plan de pago puedes adaptar la paleta de colores, imagen de fondo y otros elementos visuales para que el asistente refleje tu marca. En el plan gratuito el diseño es estándar pero funcional.
+                Sí. Desde el primer día personalizas la bienvenida, el logo o la foto, los colores y la tipografía. El fondo personalizado está en los planes de pago.
               </AccordionContent>
             </AccordionItem>
 

@@ -144,20 +144,19 @@ export default function LandingPage() {
             defaultPeriod="annual"
             customTiers={[
               {
-                name: "Top",
+                name: "Premium",
                 monthlyPrice: 12,
                 annualPrice: 12,
                 oldMonthlyPrice: 49,
                 oldAnnualPrice: 19,
                 badgeText: "Oferta exclusiva",
                 features: [
-                  "Leads ilimitados",
-                  "Personalización visual",
-                  "Dashboard de rendimiento",
-                  "Panel de consultas",
-                  "Garantía de devolución de dinero hasta 11 días",
-                  "Soporte 24/7",
-                  "Cancela en cualquier momento",
+                  "1.000 consultas al mes",
+                  "Hasta 10 asistentes",
+                  "Selectores con imágenes y 5 idiomas",
+                  "Panel de consultas con exportación",
+                  "Soporte prioritario",
+                  "Cancela cuando quieras",
                 ],
                 isPopular: true,
               },
@@ -178,22 +177,21 @@ export default function LandingPage() {
                     {/* Badge */}
                     <div className="relative w-32 h-32 rounded-full bg-gradient-to-br from-yellow-400 to-yellow-600 flex items-center justify-center border-4 border-yellow-500">
                       <div className="text-center">
-                        <div className="text-xs text-gray-800 font-semibold mb-1">Garantía</div>
-                        <div className="text-4xl font-bold text-gray-900">11</div>
-                        <div className="text-xs text-gray-800 font-semibold">Días</div>
+                        <div className="text-xs text-gray-800 font-semibold mb-1">Sin</div>
+                        <div className="text-2xl font-bold text-gray-900">permanencia</div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <h3 className="text-2xl md:text-3xl font-bold mb-4">
                   <span className="bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                    Garantía
+                    Sin
                   </span>{" "}
-                  <span className="text-white">de devolución</span>
+                  <span className="text-white">permanencia</span>
                 </h3>
                 <p className="text-gray-300 text-base md:text-lg leading-relaxed">
-                  Estamos tan seguros que Inkup es lo que necesitas que si no es lo que esperabas te devolvemos el
-                  dinero en un plazo de 11 días
+                  Cancelas cuando quieras desde tu cuenta, sin contratos ni letra pequeña. Si te atascas, te ayudamos
+                  por WhatsApp
                 </p>
               </div>
 

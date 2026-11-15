@@ -112,7 +112,7 @@ export function TrainingSection() {
                   </Button>
 
                   <p className="text-gray-400 text-sm">
-                    11 días de garantía de devolución | Sin Permanencia | Soporte 24/7{" "}
+                    Sin permanencia | Ayuda por WhatsApp{" "}
                   </p>
                 </div>
               </div>

@@ -88,10 +88,10 @@ export default function CrearFormularioWhatsAppPage() {
               },
               {
                 "@type": "Question",
-                name: "¿Qué incluye el plan gratuito?",
+                name: "¿Cómo funciona la prueba gratuita?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Este plan incluye hasta 11 leads gratuitos, acceso al dashboard de rendimiento para monitorizar tus métricas y el panel de consultas básico, de cara a que puedas probar el valor que te aporta tu asistente.",
+                  text: "7 días de prueba sin límite de consultas. Añades una tarjeta al empezar, pero no se cobra nada hasta que terminan los 7 días. Sin permanencia: cancelas desde tu cuenta.",
                 },
               },
               {
