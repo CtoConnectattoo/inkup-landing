@@ -4,6 +4,7 @@ Un agente revisa cada semana cómo posiciona inkup.io en Google y en las respues
 
 ## Reglas de Inkup (mandan sobre el playbook del kit)
 
+- Qué hace el producto hoy (funcionalidades, estado, planes y límites): `seo/producto/funcionalidades.json`, copia del catálogo de la app (`hi.inkup`). Manda sobre la web y sobre la skill en lo que es de producto.
 - Datos de producto, precios («+ IVA», mensual o anual), cifras y testimonios: solo de la skill `inkup-producto` (fuente: la home de inkup.io). La página `/precios` está desactualizada y no es fuente.
 - Tono: skill `inkup-tono-de-marca`. Identidad visual: `inkup-branding`.
 - Público principal: tatuadores, estudios de tatuaje y piercers. Otros sectores solo hablando del mecanismo, sin casos ni cifras inventadas.
@@ -19,6 +20,7 @@ Un agente revisa cada semana cómo posiciona inkup.io en Google y en las respues
 | `geo-queries.json` | Preguntas GEO semanales. |
 | `history/AAAA-MM-DD/` | Datos brutos de cada semana (los escribe el colector). |
 | `reports/AAAA-MM-DD.md` | Informe semanal del agente. |
+| `producto/funcionalidades.json` | Copia generada del catálogo de funcionalidades de la app (no editar; ver `producto/README.md`). |
 
 ## En local
 
