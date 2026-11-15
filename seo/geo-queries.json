@@ -1,14 +1,16 @@
 {
-  "_doc": "Preguntas que el agente hace cada semana a Google (AI Overview y AI Mode), ChatGPT y Perplexity para medir si citan o recomiendan Inkup. Público principal: tatuadores, estudios de tatuaje y piercers. Máximo 8-10 por presupuesto.",
+  "_doc": "Preguntas que el agente hace cada semana a Google (AI Overview y AI Mode), ChatGPT y Perplexity para medir si citan o recomiendan Inkup. Público principal: tatuadores, estudios de tatuaje y piercers. Máximo 8-10 por presupuesto. Revisadas el 2026-11-14 con el estudio de ICP (seo/icp.md): vocabulario de España y LATAM.",
   "country": "es",
   "queries": [
-    "cómo dar presupuesto de un tatuaje por WhatsApp",
+    "mejor app para tatuadores para gestionar consultas y citas",
+    "cómo cotizar un tatuaje por WhatsApp",
+    "cómo dar presupuesto de un tatuaje sin perder tiempo en mensajes",
     "qué preguntar a un cliente antes de dar precio de un tatuaje",
-    "mejor app para tatuadores para gestionar consultas",
-    "software para estudios de tatuaje",
-    "cómo hacer un formulario en WhatsApp",
-    "cómo filtrar consultas de Instagram siendo tatuador",
+    "cómo poner el link de WhatsApp en Instagram siendo tatuador",
+    "plantilla de respuesta automática de WhatsApp para tatuadores",
+    "cómo cobrar anticipo o señal de un tatuaje",
     "alternativa a Linktree para tatuadores",
-    "mensaje de bienvenida de WhatsApp Business para un estudio de tatuajes"
+    "software para estudios de tatuaje en España",
+    "app para que los clientes coticen su tatuaje"
   ]
 }
