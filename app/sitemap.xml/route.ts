@@ -32,17 +32,11 @@ export async function GET() {
     "/soluciones/artistas-independientes",
     "/soluciones/estudios-piercing",
     "/soluciones/tattoo-removal",
-    "/soluciones/gestion-consultas",
-    "/soluciones/captacion-clientes",
     "/soluciones/reserva-citas",
     "/soluciones/formulario-whatsapp-tatuadores",
     "/crear-formulario-whatsapp",
     "/como-hacer-un-formulario-en-whatsapp",
-    "/asistente-whatsapp",
     "/blog",
-    "/alternativas",
-    "/alternativas/manychat",
-    "/alternativas/landbot",
   ]
 
   const blogRoutes = blogPosts.map((post) => {
@@ -62,11 +56,12 @@ export async function GET() {
 
     const slug = route.replace("/blog/", "")
     const blogPost = blogPosts.find((post) => post.slug === slug)
-    if (!blogPost?.publishedAt) {
+    const lastDate = (blogPost as { updatedAt?: string } | undefined)?.updatedAt ?? blogPost?.publishedAt
+    if (!lastDate) {
       return fallbackLastmod
     }
 
-    const parsedDate = new Date(blogPost.publishedAt)
+    const parsedDate = new Date(lastDate)
     if (Number.isNaN(parsedDate.getTime())) {
       return fallbackLastmod
     }
@@ -95,7 +90,6 @@ export async function GET() {
           "/precios",
           "/crear-formulario-whatsapp",
           "/como-hacer-un-formulario-en-whatsapp",
-          "/asistente-whatsapp",
         ].includes(route)
       ) {
         routePriority = priority.primary

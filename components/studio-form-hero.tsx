@@ -18,16 +18,16 @@ export function StudioFormHero() {
           >
             <div className="space-y-6">
               <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-black">
-                ¿Tienes un estudio?
+                Software para estudios de tatuaje:
                 <br />
                 <span className="bg-gradient-to-r from-[#8B5CF6] to-[#D946EF] bg-clip-text text-transparent">
-                  Gestiona tus artistas y clientes
+                  cada consulta llega completa
                 </span>{" "}
-                desde un solo lugar
+                a tu WhatsApp
               </h1>
               <h2 className="text-2xl font-semibold text-gray-700">
-                Software completo para estudios de tatuaje que centraliza consultas y gestiona múltiples artistas en
-                Whatsapp
+                Programa para estudios con varios artistas: estilo, zona, medidas y referencias en un solo mensaje para
+                dar presupuesto o cotización. Sin bot y sin cambiar de WhatsApp.
               </h2>
             </div>
 
