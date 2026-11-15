@@ -30,47 +30,45 @@ export const metadata: Metadata = {
   },
   other: {
     "image-description":
-      "Dashboard de Inkup para estudios de piercing mostrando 21 leads capturados, 315 horas de tiempo ahorrado mensual, análisis de rendimiento con gráficos detallados y seguimiento de oportunidades de negocio. Interfaz optimizada para automatizar consultas sobre piercings.",
+      "Panel de consultas de Inkup para estudios de piercing: cada consulta con sus datos, referencias y teléfono.",
   },
 }
 
 export default function EstudiosPiercingPage() {
   const features = [
     {
-      title: "Dashboard de rendimiento",
-      description: "Visualiza tus leads capturados, visitas al perfil y tiempo ahorrado en un panel intuitivo.",
+      title: "Preguntas adaptadas a piercing",
+      description: "Configura tus servicios y preguntas: zona, tipo de piercing, joya, referencias y cuándo quiere venir.",
     },
     {
-      title: "Asistente especializado en piercing",
-      description: "Configura tu asistente con información sobre tipos de piercing, joyería, precios y cuidados.",
-    },
-    {
-      title: "Integración multicanal",
-      description: "Conecta con tus clientes a través de WhatsApp, Instagram, tu web y más, todo centralizado.",
+      title: "La consulta completa en tu WhatsApp",
+      description: "Al terminar, se abre WhatsApp con el mensaje ya escrito. Funciona con WhatsApp personal o Business, sin API ni integraciones.",
     },
     {
       title: "Panel de consultas",
-      description: "Visualiza y gestiona todas las consultas entrantes organizadas por tipo de piercing o fecha.",
+      description: "Cada consulta queda guardada con sus datos, referencias y teléfono. Filtra por estado (pendiente, respondida, cliente), servicio y fecha.",
     },
     {
-      title: "Contador de leads disponibles",
-      description: "Monitoriza cuántos leads te quedan en tu plan actual y actualiza cuando necesites más capacidad.",
+      title: "Varios asistentes",
+      description: "Un estudio puede tener varios asistentes (hasta 5 en Profesional y 10 en Premium).",
     },
     {
-      title: "Análisis de rendimiento por períodos",
-      description: "Visualiza el rendimiento de tus leads y visitas con filtros por día, semana y mes.",
+      title: "5 idiomas automáticos",
+      description: "El asistente se muestra en español, inglés, francés, portugués o italiano según el móvil del cliente. A ti te llega en tu idioma.",
+    },
+    {
+      title: "Exporta tus clientes",
+      description: "Descarga la lista de consultas en CSV o Excel cuando quieras.",
     },
   ]
 
   const benefits = [
-    { text: "Reduce hasta un 70% el tiempo dedicado a responder preguntas básicas sobre piercings" },
-    { text: "Mejora la experiencia del cliente con respuestas inmediatas 24/7" },
-    { text: "Visualiza exactamente cuántas horas ahorras mensualmente en tu dashboard" },
-    { text: "Centraliza la comunicación de todo el estudio" },
-    { text: "Elimina la pérdida de consultas por saturación o desorganización" },
-    { text: "Permite a tus piercers enfocarse en lo que mejor saben hacer" },
-    { text: "Optimiza la gestión de tu agenda y reduce los huecos" },
-    { text: "Mejora la imagen profesional de tu estudio" },
+    { text: "Recibes la consulta completa en un mensaje y das precio a la primera" },
+    { text: "Menos preguntas repetidas por DM antes de cada cita" },
+    { text: "No se te escapa ninguna consulta: todas quedan guardadas en el panel" },
+    { text: "Tus piercers se centran en el estudio; la conversación sigue siendo vuestra, en vuestro WhatsApp" },
+    { text: "Atiendes a clientes de otros países en su idioma" },
+    { text: "Listo en 1 minuto, sin saber de tecnología" },
   ]
 
   return (
@@ -81,7 +79,7 @@ export default function EstudiosPiercingPage() {
           title="Inkup para"
           subtitle="Estudios de Piercing"
           description="Gestiona consultas sobre tipos de piercing, precios y cuidados. Optimiza tu agenda y ofrece información precisa a tus clientes con nuestro asistente IA especializado."
-          imageSrc="/inkup-dashboard-metrics.png"
+          imageSrc="/tattoo-studio-artists.png"
           features={features}
           benefits={benefits}
           testimonial={{

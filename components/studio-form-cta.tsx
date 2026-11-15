@@ -31,7 +31,7 @@ export function StudioFormCTA() {
           </Button>
 
           <div className="mt-6 text-sm text-gray-400">
-            Sin tarjeta de crédito • Gestiona múltiples artistas • Soporte incluido
+            7 días de prueba • Varios asistentes • Ayuda por WhatsApp
           </div>
         </motion.div>
       </div>

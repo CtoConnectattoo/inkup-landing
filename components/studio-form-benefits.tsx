@@ -13,8 +13,8 @@ export function StudioFormBenefits() {
     },
     {
       icon: <BarChart3 className="w-8 h-8 text-[#D7277D]" />,
-      title: "Dashboard con métricas del estudio",
-      description: "Visualiza leads capturados, tiempo ahorrado y rendimiento de cada artista en tiempo real.",
+      title: "Todas las consultas en un panel",
+      description: "Cada consulta del estudio queda guardada con sus datos, referencias y teléfono, con filtros por estado, servicio y fecha.",
     },
     {
       icon: <Calendar className="w-8 h-8 text-[#D7277D]" />,

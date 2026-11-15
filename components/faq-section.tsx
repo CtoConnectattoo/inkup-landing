@@ -105,8 +105,7 @@ export function FaqSection() {
                 <AccordionItem value="item-12">
                   <AccordionTrigger>¿Para quién es Inkup?</AccordionTrigger>
                   <AccordionContent>
-                    Inkup está probado con más de 3K profesionales que han usado la plataforma y han ahorrado miles de horas. Principalmente va dirigida a aquellos profesionales que reciben un alto volumen de consultas y están 24/7 pegado al teléfono.
-                    Tenemos cientos de casos de éxito de diferentes negocios.
+                    Más de 3.300 profesionales en 15 países usan Inkup. Está pensado para tatuadores, estudios de tatuaje y piercers que reciben muchas consultas y no pueden estar pegados al teléfono.
                   </AccordionContent>
                 </AccordionItem>
 

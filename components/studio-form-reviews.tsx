@@ -19,7 +19,7 @@ const reviews = [
     text: "Me ayuda muchísimo con las citas al recibir directamente en WhatsApp toda la información. No se nos escapa ninguno sin responder.",
     avatar:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/alsurtattoo.jpg-MrL6TfCLhrPHntQnIIgbBVG0GdTazx.jpeg",
-    metric: "70% menos tiempo en gestión",
+    metric: "Menos tiempo en gestión",
   },
   {
     name: "Inktenza Studio",

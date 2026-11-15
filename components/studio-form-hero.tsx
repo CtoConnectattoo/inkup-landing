@@ -40,7 +40,7 @@ export function StudioFormHero() {
             </div>
 
             <p className="text-sm text-gray-500 text-center">
-              Sin tarjeta de crédito. Gestiona múltiples artistas desde el primer día.
+              7 días de prueba. Hoy no pagas nada.
             </p>
           </motion.div>
 

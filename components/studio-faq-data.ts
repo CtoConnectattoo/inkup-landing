@@ -34,6 +34,6 @@ export const studioFaq = [
   {
     question: "¿Cuánto cuesta?",
     answer:
-      "Plan Profesional: 29 €/mes + IVA (12 €/mes + IVA con pago anual), 100 consultas al mes y hasta 5 asistentes. Plan Premium: 49 €/mes + IVA (19 €/mes + IVA con pago anual), 1.000 consultas al mes, hasta 10 asistentes, sin marca de agua y con soporte prioritario. Prueba gratuita de 7 días: se añade una tarjeta, pero no se cobra nada hasta que terminan los 7 días. Sin permanencia.",
+      "Plan Profesional: 29 €/mes + IVA (12 €/mes + IVA con pago anual), 100 consultas al mes y hasta 5 asistentes. Plan Premium: 49 €/mes + IVA (19 €/mes + IVA con pago anual), 1.000 consultas al mes, hasta 10 asistentes y soporte prioritario. Prueba gratuita de 7 días: se añade una tarjeta, pero no se cobra nada hasta que terminan los 7 días. Sin permanencia.",
   },
 ]

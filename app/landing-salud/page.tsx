@@ -27,7 +27,7 @@ export default function SaludLandingPage() {
                 </span>
               </h1>
               <p className="text-xl text-muted-foreground">
-                Inkup te ayuda a filtrar mensajes y traducirlos en reservas 24/7
+                Inkup recoge las consultas completas a cualquier hora y te las manda a tu WhatsApp
               </p>
               <div className="space-y-8">
                 <Button size="lg" className="h-14 text-lg px-6" asChild>
@@ -40,7 +40,7 @@ export default function SaludLandingPage() {
                   </a>
                 </Button>
 
-                <p className="text-sm text-muted-foreground">Sin tarjeta • Sólo un minuto</p>
+                <p className="text-sm text-muted-foreground">7 días de prueba • Listo en 1 minuto</p>
 
                 <div>
                   <div className="flex items-center gap-4">
@@ -316,7 +316,7 @@ export default function SaludLandingPage() {
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
                 <CheckCircle className="w-5 h-5 text-green-500" />
-                Sin tarjeta de crédito
+                7 días de prueba
               </div>
               <div className="flex items-center gap-2">
                 <CheckCircle className="w-5 h-5 text-green-500" />

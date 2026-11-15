@@ -11,13 +11,13 @@ export function WhatsAppFormTestimonials() {
       author: "Estudio Alsurtattoo",
       avatar:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/alsurtattoo.jpg-MrL6TfCLhrPHntQnIIgbBVG0GdTazx.jpeg",
-      metric: "70% menos tiempo en consultas",
+      metric: "Menos tiempo en consultas",
     },
     {
       quote: "Nos ha quitado el 80% de preguntas repetidas. Ahora solo respondemos a clientes realmente interesados.",
       author: "Barbarroja Tattoo",
       avatar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-pi2Q43AC5ggLhZMq6iYQCFSrw9UjVy.png",
-      metric: "80% menos preguntas repetidas",
+      metric: "Menos preguntas repetidas",
     },
   ]
 

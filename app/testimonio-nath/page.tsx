@@ -126,7 +126,7 @@ export default function TestimonioNathPage() {
               <div className="bg-white rounded-lg p-6 shadow-sm">
                 <h3 className="font-semibold text-gray-900 mb-2">Mejor Experiencia</h3>
                 <p className="text-gray-600 text-sm">
-                  Sus clientes reciben respuestas inmediatas y profesionales las 24 horas del día.
+                  Sus clientes dejan la consulta completa a cualquier hora, y ella contesta cuando puede.
                 </p>
               </div>
             </div>

@@ -21,8 +21,8 @@ export function StudioFormSteps() {
     },
     {
       number: "3",
-      title: "Monitoriza el rendimiento del estudio",
-      description: "Ve métricas de cada artista, leads capturados, conversiones y tiempo ahorrado en gestión.",
+      title: "Organiza las consultas del estudio",
+      description: "Cada consulta queda en el panel con sus datos, referencias y teléfono. Filtra por estado, servicio y fecha, y exporta la lista.",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-lUMtoWx2WIhnrWHge11uYdds7zO8tn.png",
     },
   ]

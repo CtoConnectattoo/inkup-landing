@@ -14,8 +14,8 @@ export function WhatsAppFormBenefits() {
     },
     {
       icon: <Zap className="w-8 h-8 text-[#D7277D]" />,
-      title: "Respuestas al instante",
-      description: "Tus clientes reciben respuestas inmediatas 24/7, incluso cuando estás ocupado o fuera de horario.",
+      title: "Consultas a cualquier hora",
+      description: "Tu enlace recoge las consultas a cualquier hora, incluso cuando estás ocupado o fuera de horario. Contestas tú cuando puedas.",
     },
     {
       icon: <Smartphone className="w-8 h-8 text-[#D7277D]" />,

@@ -39,7 +39,7 @@ export function TattooFormHero() {
             </div>
 
             <p className="text-sm text-gray-500 text-center">
-              Sin tarjeta de crédito. Listo para compartir al registrarte.
+              7 días de prueba. Listo para compartir al registrarte.
             </p>
           </motion.div>
 

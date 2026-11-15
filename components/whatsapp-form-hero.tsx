@@ -39,7 +39,7 @@ export function WhatsAppFormHero() {
               </Button>
             </div>
 
-            <p className="text-sm text-gray-500 text-center">Sin tarjeta de crédito. Sin código requerido.</p>
+            <p className="text-sm text-gray-500 text-center">7 días de prueba. Sin código.</p>
           </motion.div>
 
           <motion.div

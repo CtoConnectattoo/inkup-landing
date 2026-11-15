@@ -59,7 +59,7 @@ export function HowToFormGuide() {
         "Tú recibes el mensaje organizado en WhatsApp",
         "Sin email, sin pasos extra, sin pérdida de contexto",
         "Sin necesidad de web ni de programar",
-        "Empieza gratis (20 consultas/mes sin tarjeta)",
+        "Prueba 7 días sin límite de consultas",
       ],
       cons: ["Requiere unos minutos de configuración inicial"],
       fit: "Tiene sentido si recibes consultas frecuentes y quieres llegar a cada cliente ya con contexto.",
@@ -74,7 +74,7 @@ export function HowToFormGuide() {
         "Sin fricción para el cliente",
         "Conecta directo a WhatsApp",
         "Sin necesidad de web",
-        "Gratis para empezar (20 consultas/mes)",
+        "7 días de prueba gratis",
       ],
       cons: [],
       recommended: true,
@@ -295,7 +295,7 @@ export function HowToFormGuide() {
           >
             <h2 className="text-2xl md:text-3xl font-bold mb-4">¿Quieres ver cómo queda el tuyo?</h2>
             <p className="text-lg mb-6 opacity-90">
-              Crea tu asistente en menos de 5 minutos. Sin tarjeta, sin código, sin web. Las primeras 20 consultas son gratis.
+              Tu asistente queda listo en 1 minuto. Sin código ni web. 7 días de prueba: hoy no pagas nada.
             </p>
             <Link
               href="/crear-formulario-whatsapp"

@@ -11,21 +11,21 @@ const reviews = [
     username: "@nath.r.b",
     text: "Antes enviaba un mensaje automático con un formulario, muchas personas solo enviaban la foto y no decían nada. Inkup es excelente.",
     avatar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Xtg2YPTYY89CYyYBgROQsPaarN53EI.png",
-    metric: "90% menos preguntas incompletas",
+    metric: "Consultas completas desde el primer mensaje",
   },
   {
     name: "Bravo Tattoo",
     username: "@juanmarbravo",
     text: "Solíamos dedicar tiempo a recopilar todos esos datos que con la app ya me encuentro todo listo para solo dar presupuesto y cita. Es muy útil desde luego.",
     avatar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-28JHWNZfaGZplagddOcAEKHRIWoZGc.png",
-    metric: "70% menos tiempo en consultas",
+    metric: "Todo listo para dar presupuesto",
   },
   {
     name: "Picara Clavel",
     username: "@picaraclavel",
     text: "Ha sido un cambio del cielo a la tierra, siempre se me iba mucho tiempo entre el saludo del cliente y preguntas que se traducían en muchísimos mensajes. Me encanta!",
     avatar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-2XACdEuaneoY5rUNelWi9CujP7Vi1v.png",
-    metric: "80% menos mensajes repetitivos",
+    metric: "Menos mensajes repetitivos",
   },
 ]
 
