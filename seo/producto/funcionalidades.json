@@ -1,0 +1,747 @@
+{
+  "$comment": "Generado desde CtoConnectattoo/hi.inkup/producto/funcionalidades.yaml con producto/catalogo.py. No editar a mano.",
+  "producto": "inkup",
+  "actualizado": "2026-11-15",
+  "fuente": "CtoConnectattoo/hi.inkup/producto/funcionalidades.yaml",
+  "planes": [
+    {
+      "id": "prueba",
+      "nombre": "Prueba gratuita",
+      "dias": 7,
+      "requiere_tarjeta": true,
+      "consultas_mes": "ilimitadas",
+      "asistentes": 1,
+      "precio_mensual": 0,
+      "evidencia": [
+        "lib/entitlement.ts",
+        "supabase/migrations/20260930_trial_requires_card.sql",
+        "config/plans.ts"
+      ],
+      "nota": "Al vencer, el asistente sigue guardando consultas pero no abre WhatsApp y el panel las bloquea hasta pasar a pago."
+    },
+    {
+      "id": "profesional",
+      "nombre": "Profesional",
+      "precio_mensual": 29,
+      "precio_anual_mes": 12,
+      "consultas_mes": 100,
+      "asistentes": 5,
+      "evidencia": [
+        "config/plans.ts"
+      ]
+    },
+    {
+      "id": "premium",
+      "nombre": "Premium",
+      "precio_mensual": 49,
+      "precio_anual_mes": 19,
+      "consultas_mes": 1000,
+      "asistentes": 10,
+      "evidencia": [
+        "config/plans.ts"
+      ]
+    }
+  ],
+  "promesas_prohibidas": [
+    {
+      "pattern": "(soporte|atenci[oó]n)[^.]{0,20}24\\s*/\\s*7",
+      "why": "Promesa prohibida (Soporte 24/7): El soporte es por WhatsApp (respuesta en menos de 2 h, lunes a viernes) y email (24 h); ver Cuenta → Soporte"
+    },
+    {
+      "pattern": "sin tarjeta|plan gratuito|gratis para siempre|20 consultas (al mes )?gratis",
+      "why": "Promesa prohibida (Prueba sin tarjeta / plan gratuito): Desde el 30 sep 2026 la prueba de 7 días pide tarjeta; no hay plan gratuito"
+    },
+    {
+      "pattern": "garant[ií]a de devoluci[oó]n|reembolso",
+      "why": "Promesa prohibida (Garantía de devolución o reembolsos): Los términos (6 oct 2026) dicen que los pagos son finales"
+    },
+    {
+      "pattern": "planes? (top|enterprise)\\b|enterprise\\W{0,3}a medida|app a medida|integraciones personalizadas",
+      "why": "Promesa prohibida (Planes Enterprise, Top o a medida): Solo existen Prueba, Profesional y Premium (config/plans.ts)"
+    },
+    {
+      "pattern": "(responde|contesta|cotiza|agenda) por ti|\\bbot (dentro )?de whatsapp",
+      "why": "Promesa prohibida (Responde, cotiza o agenda por ti / bot dentro de WhatsApp): El asistente solo recoge la consulta; la conversación y el precio los lleva el profesional"
+    },
+    {
+      "pattern": "(leads|consultas) ilimitad|volumen ilimitado",
+      "why": "Promesa prohibida (Leads o consultas ilimitadas en un plan de pago): Profesional 100/mes, Premium 1.000/mes; solo la prueba no tiene límite"
+    }
+  ],
+  "coherencia": [
+    {
+      "que": "consultas al mes",
+      "patron": "(\\d[\\d.]*)\\s*(?:consultas|leads|solicitudes)\\s*(?:al mes|/\\s*mes|mensuales|por mes)",
+      "permitidos": [
+        "100",
+        "1000",
+        "1.000"
+      ]
+    },
+    {
+      "que": "asistentes por plan",
+      "patron": "(?:hasta|m[aá]x(?:imo)?\\.?)\\s*(\\d+)\\s*asistentes",
+      "permitidos": [
+        "1",
+        "10",
+        "5"
+      ]
+    },
+    {
+      "que": "precio al mes",
+      "patron": "(\\d+(?:[.,]\\d+)?)\\s*€\\s*(?:/|al|por)\\s*mes",
+      "permitidos": [
+        "12",
+        "19",
+        "29",
+        "49"
+      ]
+    },
+    {
+      "que": "días de prueba",
+      "patron": "(\\d+)\\s*d[ií]as de prueba",
+      "permitidos": [
+        "7"
+      ]
+    }
+  ],
+  "funcionalidades": [
+    {
+      "id": "enlace-asistente",
+      "nombre": "Tu enlace con asistente",
+      "que_hace": "Cada negocio tiene su enlace (hi.inkup.io/nombre) que abre un asistente tipo chat sin registro ni descarga.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Un asistente en la prueba; 5 en Profesional y 10 en Premium (ver varios-asistentes).",
+      "desde": "verificar",
+      "menciones": [
+        "enlace",
+        "hi\\.inkup\\.io"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Un enlace que convierte el «¿cuánto cuesta?» en una consulta completa por WhatsApp.",
+        "Tu cliente no tiene que registrarse ni descargar nada."
+      ],
+      "claims_prohibidos": [
+        "Que atiende, responde o cotiza a tus clientes."
+      ],
+      "no_hace": [
+        "No es un bot dentro de WhatsApp ni contesta por el profesional."
+      ]
+    },
+    {
+      "id": "alta-guiada",
+      "nombre": "Asistente listo en 1 minuto",
+      "que_hace": "El alta en 3 pasos crea el asistente con servicios y preguntas propuestos por IA para tu tipo de negocio.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "2026-03-22",
+      "menciones": [
+        "1 minuto",
+        "un minuto"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Listo en 1 minuto, sin saber de tecnología."
+      ],
+      "claims_prohibidos": [
+        "Que una IA atiende a tus clientes."
+      ],
+      "no_hace": [
+        "La IA solo prepara las preguntas; no habla con tus clientes."
+      ]
+    },
+    {
+      "id": "preguntas-y-selectores",
+      "nombre": "Preguntas con botones e imágenes",
+      "que_hace": "Preguntas de texto libre, de opciones o de opciones con fotos (estilo, zona, tamaño), organizadas por servicio y editables.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "selector",
+        "botones e im[aá]genes",
+        "con im[aá]genes"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Selectores visuales de estilo, zona y tamaño.",
+        "Las preguntas se adaptan a tus estilos y servicios."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "referencias-del-cliente",
+      "nombre": "Fotos de referencia",
+      "que_hace": "El cliente sube imágenes de referencia desde el móvil; se comprimen y llegan con la consulta.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "referencia"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Tu cliente sube sus referencias y te llegan con la consulta."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "idiomas",
+      "nombre": "5 idiomas automáticos",
+      "que_hace": "El asistente se muestra en español, inglés, francés, portugués o italiano según el móvil del cliente, que puede cambiarlo.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "El panel del profesional solo está en español, inglés y portugués.",
+      "desde": "verificar",
+      "menciones": [
+        "idiomas"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "5 idiomas según el móvil de tu cliente; a ti te llega en tu idioma."
+      ],
+      "claims_prohibidos": [
+        "Más de 5 idiomas."
+      ],
+      "no_hace": [
+        "El panel del profesional no está en francés ni en italiano."
+      ]
+    },
+    {
+      "id": "mensaje-whatsapp",
+      "nombre": "Consulta completa en tu WhatsApp",
+      "que_hace": "Al terminar se abre WhatsApp con el mensaje ya escrito (servicio, estilo, zona, tamaño, cuándo, imágenes y de dónde viene).",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Solo con la prueba activa o un plan de pago; sin ellos la consulta se guarda pero no abre WhatsApp.",
+      "desde": "verificar",
+      "menciones": [
+        "whatsapp"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Funciona con WhatsApp personal o Business, sin API ni integraciones."
+      ],
+      "claims_prohibidos": [
+        "Que usa la API oficial de WhatsApp."
+      ],
+      "no_hace": [
+        "No usa la API de WhatsApp ni envía mensajes automáticos dentro de WhatsApp."
+      ]
+    },
+    {
+      "id": "panel-consultas",
+      "nombre": "Panel de consultas",
+      "que_hace": "Cada consulta queda guardada con datos, referencias y teléfono; filtros por estado, prioridad, servicio y fecha, y búsqueda.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Con la prueba vencida, las consultas nuevas aparecen bloqueadas hasta pasar a pago.",
+      "desde": "verificar",
+      "menciones": [
+        "panel"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "No se te escapa ninguna consulta.",
+        "Tienes tu base de datos de clientes."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "vista-tablero",
+      "nombre": "Vista de tablero y valor de cada consulta",
+      "que_hace": "Las consultas se ven también como tablero por columnas y se puede anotar el importe de cada una (ingresos potenciales y reales).",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "kanban",
+        "tablero"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Más ingresos o ventas gracias a Inkup."
+      ],
+      "no_hace": [],
+      "verificar": "Si el tablero sigue visible en el panel rediseñado y si se quiere comunicar."
+    },
+    {
+      "id": "exportar-consultas",
+      "nombre": "Exportar clientes",
+      "que_hace": "Descarga la lista de consultas en CSV o Excel, toda o por estado.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "2026-03-18",
+      "menciones": [
+        "export"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Exporta tu lista de clientes cuando quieras."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "personalizacion",
+      "nombre": "Tu asistente con tu imagen",
+      "que_hace": "Mensaje de bienvenida, logo o foto, estilos, colores y tipografía del asistente.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "El fondo personalizado solo en planes de pago.",
+      "desde": "verificar",
+      "menciones": [
+        "personaliza",
+        "colores",
+        "logo"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Personaliza la bienvenida, el logo, los colores y la tipografía."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "sin-marca-de-agua",
+      "nombre": "Sin marca de agua de Inkup",
+      "que_hace": "Quitar el «By inkup.io» del pie del asistente.",
+      "estado": "en-desarrollo",
+      "planes": [
+        "premium"
+      ],
+      "limites": null,
+      "desde": null,
+      "menciones": [
+        "marca de agua"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Sin marca de agua (hasta que exista en el código)."
+      ],
+      "no_hace": [
+        "Hoy el pie «By inkup.io» se muestra en todos los planes (solo se oculta en la pantalla final)."
+      ],
+      "verificar": "La web y config/plans.ts lo prometen en Premium, pero components/assistant/ChatFlow.tsx pasa showWatermark={!showThankYou} sin mirar el plan. Implementarlo o quitar la promesa."
+    },
+    {
+      "id": "varios-asistentes",
+      "nombre": "Varios asistentes por cuenta",
+      "que_hace": "Un estudio puede tener varios asistentes (por artista o servicio).",
+      "estado": "activa",
+      "planes": [
+        "profesional",
+        "premium"
+      ],
+      "limites": "Hasta 5 en Profesional y 10 en Premium. La pantalla de Cuenta muestra «ilimitados» con 10 o más.",
+      "desde": "verificar",
+      "menciones": [
+        "varios asistentes",
+        "asistentes"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Un estudio puede tener varios asistentes."
+      ],
+      "claims_prohibidos": [
+        "Asistentes ilimitados."
+      ],
+      "no_hace": [],
+      "verificar": "El panel actual solo edita el asistente por defecto y no hay botón para crear otro; no se sabe cómo da de alta el cliente el segundo asistente (¿lo hace el equipo?)."
+    },
+    {
+      "id": "compartir-enlace",
+      "nombre": "Compartir tu enlace y código QR",
+      "que_hace": "Copia el enlace, descarga el QR y sigue tutoriales para ponerlo en la bio, la bienvenida de WhatsApp Business, Stories y TikTok.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "\\bqr\\b",
+        "bio"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "La app te guía para poner el enlace en la bio y en las respuestas automáticas."
+      ],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "pixel-meta",
+      "nombre": "Píxel de Meta en tu asistente",
+      "que_hace": "Añade tu píxel de Meta al asistente para medir anuncios.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "p[ií]xel"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [],
+      "no_hace": [],
+      "verificar": "Si se quiere comunicar."
+    },
+    {
+      "id": "automatizaciones-instagram",
+      "nombre": "Respuestas automáticas en Instagram",
+      "que_hace": "Cuando alguien responde a una historia o comenta un post con una palabra clave, Inkup le manda por DM tu enlace.",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "1 regla en la prueba; sin límite en planes de pago. Necesita conectar una cuenta profesional de Instagram.",
+      "desde": "2026-03-22",
+      "menciones": [
+        "responde\\w* a (tu|una) historia",
+        "comenta\\w* (en )?(tu|un) (post|publicaci[oó]n)",
+        "palabra clave"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Si alguien comenta tu post o responde a tu historia con una palabra, le llega tu enlace por DM."
+      ],
+      "claims_prohibidos": [
+        "Que contesta los DMs por ti."
+      ],
+      "no_hace": [
+        "No mantiene una conversación; manda un mensaje con el enlace."
+      ],
+      "verificar": "La web no la comunica. Decisión del 11 nov 2026 (inkup/decisiones.md) — Inkup la mantiene para tatuaje; falta decidir si se comunica en inkup.io o se deja a Kalmaa."
+    },
+    {
+      "id": "bandeja-mensajes",
+      "nombre": "Bandeja de mensajes de Instagram y WhatsApp",
+      "que_hace": "Ver y contestar los DMs de Instagram y los mensajes de WhatsApp Business desde Inkup, con etiquetas y notas.",
+      "estado": "oculta",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "bandeja (unificada|de mensajes de instagram y whatsapp)",
+        "gestiona (tus )?dms"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Gestiona tus DMs y WhatsApp desde Inkup."
+      ],
+      "no_hace": [],
+      "verificar": "/dashboard/mensajes no está en el menú; solo se llega desde la tarjeta de WhatsApp con QR (beta)."
+    },
+    {
+      "id": "whatsapp-qr",
+      "nombre": "Conectar WhatsApp Business con QR",
+      "que_hace": "Conecta tu número de WhatsApp Business escaneando un QR, sin dejar de usar la app del móvil (Coexistence).",
+      "estado": "beta",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Solo cuentas con el flag whatsapp_qr y rol en la app de Meta (acceso estándar).",
+      "desde": "2026-11-07",
+      "menciones": [
+        "coexistence",
+        "conecta\\w* (tu )?whatsapp business (a|con) inkup"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Conecta tu WhatsApp Business a Inkup."
+      ],
+      "no_hace": [
+        "No convierte el asistente en un bot de WhatsApp."
+      ]
+    },
+    {
+      "id": "conector-mcp",
+      "nombre": "Crear automatizaciones desde ChatGPT o Claude",
+      "que_hace": "Conector MCP para crear y gestionar las respuestas automáticas de Instagram desde ChatGPT o Claude.",
+      "estado": "beta",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Solo cuentas con el flag mcp_beta.",
+      "desde": "2026-11-01",
+      "menciones": [
+        "\\bmcp\\b",
+        "conector (de|para|con) (chatgpt|claude)"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Conecta Inkup con ChatGPT o Claude."
+      ],
+      "no_hace": []
+    },
+    {
+      "id": "integraciones-crm",
+      "nombre": "Enviar consultas a GoHighLevel o Brevo",
+      "que_hace": "Cada consulta nueva se envía a tu CRM (GoHighLevel, con pipelines) o a Brevo.",
+      "estado": "oculta",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "gohighlevel",
+        "\\bghl\\b",
+        "brevo"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Integraciones con GoHighLevel, Brevo u otros CRM."
+      ],
+      "no_hace": []
+    },
+    {
+      "id": "avisos-whatsapp-prueba",
+      "nombre": "Avisos de la prueba por WhatsApp",
+      "que_hace": "Inkup te escribe por WhatsApp el día 1, a mitad y el último día de la prueba, y cuando llega una consulta bloqueada.",
+      "estado": "activa",
+      "planes": [
+        "prueba"
+      ],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [],
+      "no_hace": []
+    },
+    {
+      "id": "prueba-con-tarjeta",
+      "nombre": "Prueba gratuita de 7 días",
+      "que_hace": "7 días sin límite de consultas; se añade la tarjeta al empezar y el primer cobro es al terminar.",
+      "estado": "activa",
+      "planes": [
+        "prueba"
+      ],
+      "limites": "1 asistente durante la prueba.",
+      "desde": "2026-09-30",
+      "menciones": [
+        "7 d[ií]as",
+        "prueba"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "7 días de prueba. Hoy no pagas nada."
+      ],
+      "claims_prohibidos": [
+        "Prueba sin tarjeta."
+      ],
+      "no_hace": [
+        "No hay plan gratuito ni prueba sin tarjeta."
+      ]
+    },
+    {
+      "id": "cancelar",
+      "nombre": "Cancela cuando quieras",
+      "que_hace": "Sin permanencia; se cancela desde el portal de Stripe enlazado en Cuenta.",
+      "estado": "activa",
+      "planes": [
+        "profesional",
+        "premium"
+      ],
+      "limites": "Sin reembolsos por el tiempo no usado.",
+      "desde": "verificar",
+      "menciones": [
+        "cancela"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Sin permanencia; cancelas desde tu cuenta."
+      ],
+      "claims_prohibidos": [
+        "Garantía de devolución."
+      ],
+      "no_hace": [
+        "No devuelve el dinero del periodo pagado."
+      ]
+    },
+    {
+      "id": "soporte",
+      "nombre": "Ayuda por WhatsApp y email",
+      "que_hace": "Chat por WhatsApp (respuesta en menos de 2 h, lunes a viernes) y hola@inkup.io (respuesta en 24 h).",
+      "estado": "activa",
+      "planes": [
+        "prueba",
+        "profesional",
+        "premium"
+      ],
+      "limites": "Lunes a viernes.",
+      "desde": "verificar",
+      "menciones": [
+        "soporte"
+      ],
+      "en_web": true,
+      "claims_permitidos": [
+        "Si te atascas, estamos en WhatsApp."
+      ],
+      "claims_prohibidos": [
+        "Soporte 24/7."
+      ],
+      "no_hace": [
+        "No hay soporte 24/7."
+      ],
+      "verificar": "El «soporte prioritario» de Premium no tiene diferencia en el código; confirmar que se da a mano."
+    },
+    {
+      "id": "plan-creador",
+      "nombre": "Plan de creador",
+      "que_hace": "Premium gratis mientras el usuario sea afiliado activo en FirstPromoter.",
+      "estado": "oculta",
+      "planes": [
+        "premium"
+      ],
+      "limites": "Solo afiliados activos; al dejar de serlo vuelve a la prueba vencida o pendiente de tarjeta.",
+      "desde": "2026-10-02",
+      "menciones": [
+        "plan de creador"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Inkup gratis para creadores (es por invitación)."
+      ],
+      "no_hace": [],
+      "verificar": "El menú del panel («Gana refiriendo») aún enlaza a inkup.getrewardful.com, pero los afiliados están en FirstPromoter."
+    },
+    {
+      "id": "plan-gratuito-20",
+      "nombre": "Plan gratuito de 20 consultas al mes",
+      "que_hace": "Plan gratis sin tarjeta con 20 consultas al mes.",
+      "estado": "retirada",
+      "planes": [],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "20 consultas (al mes|gratis|/ ?mes)",
+        "20 leads"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "20 consultas gratis al mes sin tarjeta."
+      ],
+      "no_hace": []
+    },
+    {
+      "id": "planes-antiguos",
+      "nombre": "Planes Professional, Top y Enterprise",
+      "que_hace": "Antiguos planes de la página de precios (Top, Enterprise a medida, garantía de 11 días, soporte 24/7).",
+      "estado": "retirada",
+      "planes": [],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "planes? (top|enterprise)\\b",
+        "devoluci[oó]n de dinero hasta 11 d[ií]as"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Planes Top o Enterprise, garantía de devolución de 11 días."
+      ],
+      "no_hace": []
+    },
+    {
+      "id": "panel-metricas-antiguo",
+      "nombre": "Panel de rendimiento con tiempo ahorrado",
+      "que_hace": "Antigua portada del panel con métricas de visitas y «tiempo ahorrado» estimado.",
+      "estado": "retirada",
+      "planes": [],
+      "limites": null,
+      "desde": "verificar",
+      "menciones": [
+        "tiempo ahorrado",
+        "dashboard de rendimiento",
+        "dashboard avanzado"
+      ],
+      "en_web": false,
+      "claims_permitidos": [],
+      "claims_prohibidos": [
+        "Horas ahorradas como métrica del producto."
+      ],
+      "no_hace": [],
+      "verificar": "/dashboard sigue existiendo pero ya no está en el menú (Consultas, Asistente, Respuestas auto)."
+    }
+  ]
+}
