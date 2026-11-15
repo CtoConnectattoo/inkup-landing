@@ -4,35 +4,43 @@ import { useState, useEffect } from "react"
 import { usePathname } from "next/navigation"
 import { X, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { getCookieConsent, setCookieConsent, OPEN_SETTINGS_EVENT } from "@/lib/cookie-consent"
 
 export function CookieConsent() {
   const [isVisible, setIsVisible] = useState(false)
   const [showDetails, setShowDetails] = useState(false)
-    const pathname = usePathname()
+  // Abierto desde "Configurar cookies" en el pie: se muestra también en el blog.
+  const [openedManually, setOpenedManually] = useState(false)
+  const pathname = usePathname()
   const isBlogPage = pathname === "/blog"
   const isBlogPostPage = pathname?.startsWith("/blog/")
-  const blockOnBlog = isBlogPage || isBlogPostPage
+  const blockOnBlog = (isBlogPage || isBlogPostPage) && !openedManually
 
+  useEffect(() => {
+    const onOpenSettings = () => {
+      setOpenedManually(true)
+      setIsVisible(true)
+    }
+    window.addEventListener(OPEN_SETTINGS_EVENT, onOpenSettings)
+    return () => window.removeEventListener(OPEN_SETTINGS_EVENT, onOpenSettings)
+  }, [])
 
-useEffect(() => {
-  if (blockOnBlog) return
+  useEffect(() => {
+    if (blockOnBlog) return
 
-  const cookieConsent = localStorage.getItem("inkup-cookie-consent")
-  if (!cookieConsent) {
-    const timer = setTimeout(() => setIsVisible(true), 1000)
-    return () => clearTimeout(timer)
-  }
-}, [blockOnBlog])
-
-
+    if (!getCookieConsent()) {
+      const timer = setTimeout(() => setIsVisible(true), 1000)
+      return () => clearTimeout(timer)
+    }
+  }, [blockOnBlog])
 
   const handleAccept = () => {
-    localStorage.setItem("inkup-cookie-consent", "accepted")
+    setCookieConsent("accepted")
     setIsVisible(false)
   }
 
   const handleReject = () => {
-    localStorage.setItem("inkup-cookie-consent", "rejected")
+    setCookieConsent("rejected")
     setIsVisible(false)
   }
 
@@ -122,7 +130,7 @@ useEffect(() => {
                 variant="outline"
                 className="w-full border-2 border-teal-500 text-teal-600 hover:bg-teal-50 font-semibold py-6 rounded-xl transition-all duration-200 bg-transparent"
               >
-                Descartar
+                Rechazar
               </Button>
             </div>
           </div>

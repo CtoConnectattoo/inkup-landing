@@ -4,6 +4,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { Instagram, Facebook, Linkedin, Youtube } from "lucide-react"
 import { usePathname } from "next/navigation"
+import { openCookieSettings } from "@/lib/cookie-consent"
 
 export function Footer() {
   const pathname = usePathname()
@@ -161,6 +162,15 @@ export function Footer() {
                 <Link href="/tyc" className="text-gray-400 hover:text-white transition-colors text-sm">
                   Términos de Uso
                 </Link>
+              </li>
+              <li>
+                <button
+                  type="button"
+                  onClick={openCookieSettings}
+                  className="text-gray-400 hover:text-white transition-colors text-sm"
+                >
+                  Configurar cookies
+                </button>
               </li>
             </ul>
           </div>
