@@ -1,0 +1,27 @@
+{
+  "project": "inkup",
+  "date": "2026-11-16",
+  "dryRun": false,
+  "sources": {
+    "gsc": "error: la credencial no se pudo interpretar como JSON (fragmento omitido a propósito)",
+    "apify": "omitido: falta APIFY_TOKEN"
+  },
+  "estimatedCostUsd": 0,
+  "notes": [
+    "gsc falló; el resto de fuentes sigue."
+  ],
+  "sitemap": {
+    "sitemaps": [],
+    "urls": 0
+  },
+  "budget": {
+    "monthlyUsd": 6,
+    "spentBeforeUsd": 0,
+    "plannedUsd": 1.719,
+    "breakdown": {
+      "serp": 0.108,
+      "geo": 0.22,
+      "volumes": 1.391
+    }
+  }
+}
