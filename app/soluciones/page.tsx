@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description:
     "Descubre soluciones personalizadas de Inkup para diferentes tipos de negocios y casos de uso específicos. Automatiza tus consultas con IA y crece más rápido.",
   keywords: "inkup soluciones, asistente IA tatuajes, automatización estudios, consultas automáticas tatuajes",
+  alternates: { canonical: "https://inkup.io/soluciones" },
   openGraph: {
     title: "Soluciones de Inkup | Automatización IA para Estudios y Artistas",
     description:

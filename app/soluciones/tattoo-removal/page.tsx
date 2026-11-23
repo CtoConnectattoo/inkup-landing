@@ -9,6 +9,7 @@ export const metadata: Metadata = {
     "Solución especializada para centros de eliminación de tatuajes. Gestiona consultas sobre el proceso, sesiones necesarias y resultados esperados con Inkup.",
   keywords:
     "inkup eliminación tatuajes, gestión centro eliminación tatuajes, automatización consultas eliminación tatuajes, software eliminación tatuajes",
+  alternates: { canonical: "https://inkup.io/soluciones/tattoo-removal" },
   openGraph: {
     title: "Inkup para Tattoo Removal | Automatiza tus Consultas sobre Eliminación de Tatuajes",
     description:
