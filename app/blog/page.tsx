@@ -11,6 +11,7 @@ export const metadata: Metadata = {
   title: "Blog de Inkup | Recursos para profesionales",
   description: "Artículos, guías y consejos para ayudarte a crecer tu negocio y optimizar tus consultas con IA.",
   keywords: "blog inkup, marketing tatuajes, automatización consultas, crecimiento negocio, IA para profesionales",
+  alternates: { canonical: "https://inkup.io/blog" },
   openGraph: {
     title: "Blog de Inkup | Recursos para profesionales",
     description: "Artículos, guías y consejos para ayudarte a crecer tu negocio y optimizar tus consultas con IA.",

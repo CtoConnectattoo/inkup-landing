@@ -1,0 +1,29 @@
+{
+  "project": "inkup",
+  "date": "2026-11-23",
+  "dryRun": false,
+  "sources": {
+    "gsc": "error: Unexpected token '�', \"���\u0011\u0006 ��!P\"... is not valid JSON",
+    "apify": "omitido: falta APIFY_TOKEN"
+  },
+  "estimatedCostUsd": 0,
+  "notes": [
+    "gsc falló; el resto de fuentes sigue."
+  ],
+  "sitemap": {
+    "sitemaps": [
+      "https://inkup.io/sitemap.xml"
+    ],
+    "urls": 39
+  },
+  "budget": {
+    "monthlyUsd": 6,
+    "spentBeforeUsd": 0,
+    "plannedUsd": 1.719,
+    "breakdown": {
+      "serp": 0.108,
+      "geo": 0.22,
+      "volumes": 1.391
+    }
+  }
+}

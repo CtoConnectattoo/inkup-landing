@@ -6,6 +6,7 @@ import { Footer } from "@/components/footer"
 export const metadata: Metadata = {
   title: "Reserva tu demo | Inkup",
   description: "Reserva una demo personalizada y descubre cómo Inkup puede ayudarte a cerrar más citas con menos ruido.",
+  alternates: { canonical: "https://inkup.io/demo" },
   openGraph: {
     title: "Reserva tu demo | Inkup",
     description: "Reserva una demo personalizada y descubre cómo Inkup puede ayudarte a cerrar más citas con menos ruido.",

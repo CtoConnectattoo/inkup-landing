@@ -1,7 +1,7 @@
 {
   "_doc": "Universo de keywords de inkup.io. role: primary (la página la ataca como principal; una sola URL por keyword), secondary (la misma página la cubre), backlog (demanda comprobada sin página), watch (seguir, sin acción), discard (sin demanda o fuera de producto). es = búsquedas/mes en España; mx = México; hisp = mundo en español. Público principal: tatuadores, estudios y piercers (skill inkup-producto).",
   "source": "Mapa inicial del alta (2026-11-11) a partir de las páginas existentes. Sin volúmenes: Apify estaba en el límite mensual de la cuenta. El colector los mide en la primera ejecución con presupuesto (volumes.json) y el agente rellena es/mx/hisp/trend.",
-  "updated": "2026-11-11",
+  "updated": "2026-11-23",
   "keywords": [
     {
       "kw": "software para estudios de tatuaje",
@@ -201,23 +201,24 @@
     {
       "kw": "asistente whatsapp",
       "cluster": "whatsapp",
-      "url": "/asistente-whatsapp",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "La página dice que el asistente «responde por ti» y «responde automáticamente»: va contra las reglas de producto (Inkup no contesta por el profesional). Corregir antes de empujarla."
+      "note": "2026-11-23: la URL /asistente-whatsapp ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "mensaje de bienvenida whatsapp business",
       "cluster": "whatsapp",
-      "url": "/blog/mensaje-bienvenida-whatsapp-que-filtra",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "note": "2026-11-23: la URL /blog/mensaje-bienvenida-whatsapp-que-filtra ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "mensaje de ausencia whatsapp business",
@@ -232,13 +233,13 @@
     {
       "kw": "respuestas rapidas whatsapp business",
       "cluster": "whatsapp",
-      "url": "/blog/respuestas-rapidas-whatsapp-setup",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "Cerca de /blog/plantillas-respuestas-rapidas-whatsapp-business: si GSC muestra que compiten, fusionar."
+      "note": "2026-11-23: la URL /blog/respuestas-rapidas-whatsapp-setup ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "plantillas respuestas rapidas whatsapp business",
@@ -263,23 +264,24 @@
     {
       "kw": "whatsapp business vs api",
       "cluster": "whatsapp",
-      "url": "/blog/whatsapp-business-vs-api-cuando",
-      "role": "primary",
-      "es": null,
-      "hisp": null,
-      "cpc": null,
-      "trend": null
-    },
-    {
-      "kw": "automatizar whatsapp",
-      "cluster": "whatsapp",
-      "url": "/blog/automatizar-whatsapp",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "Sin prometer mensajes automáticos dentro de WhatsApp ni API."
+      "note": "2026-11-23: la URL /blog/whatsapp-business-vs-api-cuando ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
+    },
+    {
+      "kw": "automatizar whatsapp",
+      "cluster": "whatsapp",
+      "url": null,
+      "role": "watch",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "2026-11-23: la URL /blog/automatizar-whatsapp ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "automatizar whatsapp sin api",
@@ -305,12 +307,13 @@
     {
       "kw": "alternativa a linktree",
       "cluster": "link-en-bio",
-      "url": "/blog/linktree-vs-link-para-filtrar-consultas",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "note": "2026-11-23: la URL /blog/linktree-vs-link-para-filtrar-consultas ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "linktree",
@@ -390,33 +393,35 @@
     {
       "kw": "alternativa a landbot",
       "cluster": "competidores",
-      "url": "/alternativas/landbot",
-      "role": "primary",
-      "es": null,
-      "hisp": null,
-      "cpc": null,
-      "trend": null
-    },
-    {
-      "kw": "landbot",
-      "cluster": "competidores",
-      "url": "/alternativas/landbot",
-      "role": "secondary",
+      "url": null,
+      "role": "discard",
       "es": null,
       "hisp": null,
       "cpc": null,
       "trend": null,
-      "note": "Navegacional de marca."
+      "note": "2026-11-23: la URL /alternativas/landbot ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
+    },
+    {
+      "kw": "landbot",
+      "cluster": "competidores",
+      "url": null,
+      "role": "discard",
+      "es": null,
+      "hisp": null,
+      "cpc": null,
+      "trend": null,
+      "note": "2026-11-23: la URL /alternativas/landbot ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "gestion de consultas clientes",
       "cluster": "consultas",
-      "url": "/soluciones/gestion-consultas",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "note": "2026-11-23: la URL /soluciones/gestion-consultas ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     },
     {
       "kw": "cualificar clientes",
@@ -431,12 +436,13 @@
     {
       "kw": "centralizar consultas instagram whatsapp",
       "cluster": "consultas",
-      "url": "/blog/centralizar-consultas-instagram-whatsapp",
-      "role": "primary",
+      "url": null,
+      "role": "watch",
       "es": null,
       "hisp": null,
       "cpc": null,
-      "trend": null
+      "trend": null,
+      "note": "2026-11-23: la URL /blog/centralizar-consultas-instagram-whatsapp ya no existe (retirada o fusionada en la limpieza de nov 2026, ver seo/limpieza-2026-11.md). Sin página asignada; reasignar cuando haya demanda medida."
     }
   ]
 }

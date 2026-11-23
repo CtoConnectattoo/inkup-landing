@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   description:
     "Solución especializada para artistas de tatuaje independientes. Automatiza tus consultas y dedica más tiempo a tu arte y menos a la administración.",
   keywords: "inkup artistas independientes, tatuador freelance, automatización consultas tatuajes, software tatuador",
+  alternates: { canonical: "https://inkup.io/soluciones/artistas-independientes" },
   openGraph: {
     title: "Inkup para Artistas Independientes | Automatiza tus Consultas",
     description:
